@@ -1,104 +1,42 @@
-# Pipeline Sebraetec - Extração de Fichas Técnicas
+# Soluções Sebraetec - Fichas Técnicas em Markdown
 
-Sistema automatizado para coleta, conversão e extração de dados estruturados das fichas técnicas Sebraetec.
+Fichas técnicas das soluções Sebraetec convertidas para o formato Markdown.
 
-## 📊 Status do Projeto
+## 📊 Sobre o Repositório
 
-- **Total de arquivos processados:** 314 fichas técnicas
-- **Taxa de sucesso:** 99,0% (311 arquivos com qualidade ≥70%)
-- **Score médio de qualidade:** 96,6%
-- **Arquivos com baixa qualidade:** 3 (1,0%)
+- **Total de soluções:** 314 fichas técnicas
+- **Formato:** Markdown (.md)
+- **Origem:** PDFs oficiais do Sebraetec datasebrae.com.br
 
-## 🗂️ Estrutura do Projeto
+## 🗂️ Estrutura
 
 ```
-MarkItDown/
-├── entrada/
-│   └── pdfs/              # PDFs originais baixados (330 arquivos)
-├── saida/
-│   ├── *.md               # Arquivos Markdown convertidos
-│   └── json/              # JSONs estruturados extraídos (314 arquivos)
-├── types/
-│   └── solution.ts        # Definição de tipos TypeScript
-├── .venv/                 # Ambiente virtual Python
-└── [scripts principais]
+Sebraetec-Solutions-MD/
+└── saida/          # Arquivos Markdown das soluções (314 arquivos)
 ```
 
-## 🛠️ Scripts Principais
+## 📝 Conteúdo das Fichas
 
-### 1. Coleta de Dados
-**`scraper_fichas_sebraetec.py`**
-- Baixa todos os PDFs do site datasebrae.com.br
-- Total coletado: 330 fichas técnicas
-- Saída: `entrada/pdfs/`
+Cada arquivo Markdown contém informações sobre uma solução Sebraetec:
+- Título e código SAS
+- Descrição da solução
+- Objetivos
+- Atividades realizadas
+- Entregas
+- Informações de preço e categoria
 
-### 2. Processamento em Lote
-**`processar_fichas_batch.py`**
-- Converte PDF → Markdown → JSON
-- Usa biblioteca markitdown
-- Pipeline automático completo
-- Saída: `saida/` e `saida/json/`
+## 💡 Como Usar
 
-### 3. Extração de Dados
-**`extrator_ficha.py`**
-- Motor principal de extração
-- Suporta 2 formatos de ficha:
-  - Formato padrão (seções numeradas)
-  - Formato alternativo (bullets • Campo: valor)
-- Normaliza quebras de linha e sujeiras
-- Remove rodapés e marcas d'água
+Estes arquivos estão prontos para:
+- Visualização direta no GitHub
+- Integração em sistemas de documentação
+- Conversão para outros formatos
+- Processamento automatizado
 
-### 4. Validação e Qualidade
-**`validador_integridade.py`**
-- Valida campos obrigatórios e importantes
-- Gera relatório de problemas
-- Saída: `relatorio_validacao.txt`
+## 🔗 Links Úteis
 
-**`analisador_qualidade.py`**
-- Sistema de scoring (0-100)
-- Identifica fichas com baixa qualidade
-- Exporta relatórios JSON e TXT
-- Saída: `relatorio_qualidade.json`, `fichas_baixa_qualidade.txt`
-
-### 5. Geração de Dados TypeScript
-**`gerar_solutions_data.py`**
-- Converte JSONs → TypeScript
-- Gera arquivo `solutions-data-novo.ts`
-- Pronto para integração frontend
-
-**`merge_solutions.py`**
-- Mescla dados novos com existentes
-- Preserva informações complementares
-
-**`validar_solutions_data.py`**
-- Valida sintaxe TypeScript
-- Verifica estrutura dos dados
-
-## 🚀 Uso Rápido
-
-### Pipeline Completo
-```bash
-# 1. Baixar PDFs (se necessário)
-python scraper_fichas_sebraetec.py
-
-# 2. Processar tudo (PDF → MD → JSON)
-python processar_fichas_batch.py
-
-# 3. Validar qualidade
-python analisador_qualidade.py 70
-
-# 4. Gerar TypeScript
-python gerar_solutions_data.py
-```
-
-### Processar Arquivo Individual
-```python
-from extrator_ficha import ExtractorFichaTecnica
-
-extrator = ExtractorFichaTecnica("saida/arquivo.md")
-dados = extrator.extrair_todos_dados()
-extrator.salvar_dados_extraidos("saida/json/arquivo.json")
-```
+- [Site oficial Sebraetec](https://datasebrae.com.br/)
+- Fichas originais: datasebrae.com.br/sebraetec
 
 ## 📋 Campos Extraídos
 
@@ -159,44 +97,3 @@ O sistema de scoring avalia:
 ### Arquivos com Baixa Qualidade (3)
 1. **Implantação Delivery** (67.2%) - Estrutura específica não padrão
 2. **Modelagem Vestuário** (67.2%) - Campos em formato tabular extenso
-3. **Turismo Aventura** (68.9%) - Múltiplas normas no título
-
-Estes arquivos requerem revisão manual ou ajuste específico no extrator.
-
-## 📝 Histórico de Melhorias
-
-### v4.0 (19/01/2026)
-- ✅ Suporte a formato alternativo (bullets)
-- ✅ Remoção de 19 arquivos duplicados (URL encoding)
-- ✅ Correção de arquivo ESG (PDF corrompido)
-- ✅ 6 arquivos recuperados de baixa qualidade
-- ✅ Score médio aumentado para 96.6%
-
-### v3.0
-- Sistema de scoring implementado
-- Analisador de qualidade criado
-- Pipeline batch otimizado
-
-### v2.0
-- Extrator robusto com normalização
-- Validador de integridade
-- Suporte a múltiplos formatos
-
-### v1.0
-- Web scraper funcional
-- Conversão PDF→MD→JSON básica
-
-## 🔗 Dependências
-
-```bash
-pip install markitdown beautifulsoup4 requests
-```
-
-## 📄 Licença
-
-Projeto interno Sebrae - Uso restrito
-
----
-
-**Última atualização:** 19/01/2026  
-**Mantenedor:** Sistema automatizado de extração Sebraetec
