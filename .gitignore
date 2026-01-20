@@ -1,53 +1,15 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
+# Ignorar tudo exceto os Markdowns
+*
 
-# Virtual Environment
-.venv/
-venv/
-ENV/
-env/
+# Permitir arquivos Markdown
+!*.md
+!saida/
+!saida/*.md
 
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Logs
-*.log
-
-# PDFs (se não quiser versionar)
-*.pdf
-
-# Arquivos temporários
-*.tmp
-*.bak
+# Ignorar arquivos do Git
+!.gitignore
+!.git/
 
 # Sistema Operacional
 .DS_Store
 Thumbs.db
-
-# Relatórios gerados (opcional)
-relatorio_*.txt
-relatorio_*.json
-fichas_baixa_qualidade.txt
