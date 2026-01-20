@@ -1,0 +1,54 @@
+{
+  "id": "13014-2",
+  "nomeSolucao": "ADEQUAÇÃO À NORMA RAINFOREST ALLIANCE PARA AGRICULTURA SUSTENTÁVEL (RAS)",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto à empresa demandante para definição das diretrizes de serviço, agendamento das consultorias e definição dos responsáveis pelo acompanhamento dos serviços por parte da empresa demandante e da prestadora de serviço.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | CONSULTORIA PARA ADEQUAÇÃO DA PROPRIEDADE E DOS PROCESSOS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Consultoria à empresa demandante para adequação da sua propriedade, instalações e processos à norma Rainforest Alliance – Norma para Agricultura Sustentável – para produção agrícola e pecuária de fazendas e grupos de produtores (julho, 2017 – versão 1.2). A consultoria dever abordar integralmente os princípios previstos nessa norma • Princípio 1. Sistema eficaz de planejamento e gestão • Princípio 2. Conservação da biodiversidade • Princípio 3. Conservação dos recursos naturais • Princípio 4. Melhores meios de vida e bem-estar humano • Princípio 5. Produção de pecuária sustentável (aplicado somente para o escopo da certificação pecuária).",
+      "entrega": "• Relatório contendo as ações implementadas para cumprir os Critérios Críticos da Norma RAS para Agricultura Sustentável 2017 - 34 para fazendas agrícolas (pequenos produtores) + 6 para fazendas pecuárias, os quais são pré-requisitos para o alcance da certificação, a depender da propriedade atendida; não estão incluídos necessariamente nessa entrega o atendimento aos critérios de melhoramento contínuo previstos na norma; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "A norma Rainforest Alliance para Agricultura Sustentável (RAS) 2017 é aplicada aos sistemas de produção agrícola e pecuária em todo mundo. Seu escopo inclui todos os produtos agrícolas e pecuários de toda a área dentro dos limites da fazenda, com ênfase naqueles que são comercializados ou pretendem ser comercializados com as declarações da Rainforest Alliance Certified. As práticas implementadas nos pequenos negócios em atendimento aos requisitos da norma Rainforest Alliance para Agricultura Sustentável contribuem para melhorar a conservação da biodiversidade; dos recursos naturais, da produtividade e da resiliência das fazendas, como também para melhorar os meios de vida dos produtores, dos trabalhadores e suas famílias.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos\n6. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas (presencial ou a distância)\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. Entregar o detalhamento de todos os dados técnicos e referências necessárias à produção do projeto.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por no mínimo 01 profissional de nível superior, com comprovada experiência na implantação da norma Rainforest Alliance para Agricultura Sustentável (RAS)",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nOs valores dos honorários apresentados pela prestadora de serviço devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nDespesas adicionais com terceiros ficam a cargo exclusivo da empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho\nÉ de responsabilidade da prestadora de serviço todo o projeto, da concepção à aprovação da empresa demandante\nA prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "22/04/2019",
+      "alteradoPor": "Agricultura-Sustentável-RAS- GQ13014-1.pdf Agricultura-Sustentável-RAS- GQ13014-2.pdf Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "15/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 17650.0,
+  "codigo": "371440100272"
+}

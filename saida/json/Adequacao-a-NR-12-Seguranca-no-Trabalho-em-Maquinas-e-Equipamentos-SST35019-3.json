@@ -1,0 +1,147 @@
+{
+  "id": "35019-3",
+  "nomeSolucao": "ADEQUAÇÃO À NR-12 - SEGURANÇA NO TRABALHO EM MÁQUINAS E EQUIPAMENTOS",
+  "tema": "Sustentabilidade",
+  "subtema": "Saúde e Segurança no Trabalho",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Indústria",
+  "descricao": "O serviço visa orientar a empresa para a adequação à Norma Regulamentadora 12 que estabelecer normas de segurança para a operação de Máquinas e Equipamentos industriais além de direcionar para sua correta importação, comercialização, exposição e cessão, garantindo a saúde e a integridade física dos trabalhadores. fabricação, ",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico. Ferramentas como entrevista com o cliente são importantes como forma de obter informações necessárias para fundamentar a entrega proposta Exposição sobre a Documentação Obrigatória Básica necessária para o processo de Adequação.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante"
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | COLETA DE DADOS E ELABORAÇÃO DOS DOCUMENTOS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Coleta de dados e elaboração dos documentos alinhados e definidos na ETAPA 01, que podem ser: laudos com análise de riscos, manuais de equipamento e procedimentos de trabalho seguro, curso de capacitação e desenhos de sistemas de proteção Para elaboração dos laudos com análise de risco verifica-se os seguintes pontos a) Avaliação dos limites da máquina b) Aplicação de check-list para identificação de todos os pontos de perigo em todo o perímetro da máquina c) Verificação das proteções aplicadas com avaliação de cumprimento de normas técnicas NBR 13852:2003, NBR NM272:2002, NBR14153:2013, entre outras d) Avaliação do nível de risco de acesso aos pontos de perigo identificados com aplicação do método Hazard Raiting Number (HRN), de acordo com os procedimentos estabelecidos pelo manual TUV SUD – Practical Guide to Machinery Safety / NBR 12100 e) Identificação da categoria de segurança de proteções móveis e sensores por equipe multidisciplinar formada por: Eng. Eletricista, Eng. de Segurança do Trabalho e Eng. de Automação, de acordo com a NBR14153:2013 f) Avaliação dos dispositivos de parada de emergência e indicação da necessidade de aplicação, quando necessária, apresentando os pontos de aplicação e o nível de categoria de segurança requerida de acordo com a NBR14153:2013 g) Avaliação dos dispositivos de comando, partida, parada, rearme, indicando as necessidades de adequação de acordo com a NR-12, NBR5410:2008 e NBR14153:2013 h) Emissão de ART – Anotação de Responsabilidade Técnica – assinada por responsável técnico sempre que for exigido pela NR-12.",
+      "entrega": "Laudo com análise de risco, contendo todos os pontos de perigo da máquina que podem gerar risco de acidente. Plano de ação com apresentação de ordem de prioridades de adequações, conforme distribuição do nível de risco de todos os pontos de perigo identificados e classificados a partir do método HRN (aplicado de acordo com o Practical Guide to Machinery Safety – TUV SUD)."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | ELABORAÇÃO DE MANUAIS E PROCEDIMENTOS DE TRABALHO",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Para elaboração de manuais e procedimentos de trabalho seguro verificam-se os seguintes pontos • O objetivo do manual de instruções é fornecer ao usuário informações de como a máquina pode ser efetivamente utilizada de maneira segura ao longo do seu ciclo de vida, considerando também os aspectos do mau uso razoavelmente previsível. Quando inexistente ou extraviado, o manual de máquinas ou equipamentos que apresentem riscos deve ser reconstituído pelo empregador ou pessoa por ele designada, sob a responsabilidade de profissional qualificado ou legalmente habilitado. Utilizar os parâmetros da ABNT NBR 16746:2019 Segurança de máquinas - Manual de instruções - Princípios gerais de elaboração • Elaboração de procedimentos de trabalho e segurança. Deverão ser elaborados procedimentos de trabalho e segurança específicos, padronizados, com descrição detalhada de cada tarefa, passo a passo, a partir da análise de risco • Manutenção, inspeção, preparação, ajuste, reparo e limpeza. As máquinas e equipamentos devem ser submetidos à manutenção preventiva e corretiva, na forma e periodicidade determinada pelo fabricante, conforme as normas técnicas oficiais nacionais vigentes e, na falta destas, as normas técnicas internacionais. As manutenções preventivas e corretivas devem ser registradas em livro próprio, ficha ou sistema informatizado, com os seguintes dados a) cronograma de manutenção b) intervenções realizadas c) data da realização de cada intervenção d) serviço realizado e) peças reparadas ou substituídas f) condições de segurança do equipamento g) indicação conclusiva quanto às condições de segurança da máquina e h) nome do responsável pela execução das intervenções.",
+      "entrega": "Manuais e ou ficha de informação, de instrução da (s) máquina (s), seus procedimentos operacionais padrão de segurança e operação da (s) mesma (s) e um modelo de ficha de apontamento, controle e gerenciamento da manutenção."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | ORIENTAÇÃO",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Orientação para a apresentação dos requisitos da NR-12, das premissas para aplicação de proteções em máquinas e equipamentos, de medidas administrativas para gestão da segurança em máquinas e requisitos a serem aplicados no arranjo físico e nas instalações das empresas",
+      "entrega": "Ata descrevendo a realização da orientação com devidas assinaturas de todos os interessados."
+    },
+    {
+      "id": "e5",
+      "titulo": "ETAPA 05 | DESENHOS DE SISTEMAS DE PROTEÇÃO",
+      "ordem": 5,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Para elaboração de desenhos de sistemas de proteção realiza-se os seguintes trabalhos • Elaboração de desenhos técnicos de acordo com as normas técnicas vigentes, os quais serão utilizados para a confecção das proteções mecânicas das máquinas e equipamentos com o objetivo de adequação das máquinas a NR-12, caso seja necessário",
+      "entrega": "Desenhos de proteções respeitando a dimensões contidas na NBR 13582, com todas as informações dimensionais, bem como sugestão de materiais a serem utilizados para construção das proteções, caso seja necessário. OBS: Se não for necessário, explicar no relatório final o motivo da falta de necessidade dessa entrega."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Número de máquinas existentes?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "As máquinas estão providas de manuais de instrução?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "A empresa possui instruções de trabalho?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "A empresa possui serviço de manutenção interna?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Número de operadores envolvidos?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "O cliente está ciente da importância da gestão da NR-12 nas atividades de realizadas pelos seus inspeção, manutenção e limpeza operação, colaboradores?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "A empresa possui diagrama elétrico das instalações?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "A empresa possui sistema de aterramento?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "A empresa possui layout das máquinas e equipamentos?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "A empresa possui o prontuário das máquinas e equipamentos?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Consultoria para assessorar a empresa na adequação aos requisitos exigidos para trabalho seguro em máquinas e equipamentos, de acordo com a NR-12, observando outras normativas vigentes.",
+  "estruturaMateriais": "",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado\n 7. Realizar as adequações, conforme sugeridas pela consultoria.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec e Edital Estadual\n6. Acompanhar a instalação dos dispositivos de proteção\n7. Arcar com Anotação de Responsabilidade Técnica do Profissional.",
+  "perfilDesejadoPrestadora": "Corpo Técnico formado por profissionais com experiência em nível superior, com atuação em Engenharia Mecânica, Engenharia Elétrica, Engenharia de Segurança e Manutenção Industrial.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico; Na impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nNão é responsabilidade do prestador de serviço: o A materialização, ou seja, fabricação e instalação do desenho técnico produzido; o Perda de garantias contratuais do fabricante ou fornecedor da máquina ou equipamento, após adequação do equipamento\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "03/10/2019",
+      "alteradoPor": "Máquinas-e-Equipamentos-SST35019- Maquinas-e-Equipamentos-SST35019- Maquinas-e-Equipamentos-SST35019-"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "22/04/2020",
+      "alteradoPor": "Danisson Reis"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "03/04/2023",
+      "alteradoPor": "Michelli Barbalho Coordenação Sebraetec Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 20000.0,
+  "codigo": "371440100511"
+}

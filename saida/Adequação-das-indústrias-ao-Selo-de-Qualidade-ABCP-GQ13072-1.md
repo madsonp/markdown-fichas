@@ -1,0 +1,395 @@
+Código da ficha técnica: 13072-1
+
+ADEQUAÇÃO  DAS
+INDÚSTRIAS  DE  ARTEFATOS  DE
+CONCRETO  AOS  CRITÉRIOS  DO  PROGRAMA  DO  SELO  DE
+QUALIDADE ABCP
+
+1.  Tema
+
+Produção e Qualidade
+
+2.  Subtema
+
+Gestão da Qualidade
+
+3.  Categoria de serviço
+
+Acesso a serviços de terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria tecnológica/Acesso a Serviços Tecnológico
+
+5.  Modalidade
+
+Presencial e/ou a distância
+
+6.  Público alvo
+
+MEI, ME e EPP
+
+7.  Setor indicado
+
+Comércio, Indústria e Serviços
+
+8.  Macrossegmento
+
+Construção Civil
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+•  Reunião  de  abertura  com  os  seguintes  objetivos:  limitação  das  do  escopo
+(explicação detalhada ao cliente), nivelamento das atividades, interlocutores
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13072-1
+
+responsáveis, pontos de medição/entrega (cronograma), agendas de reunião
+e definição dos responsáveis;
+
+•  Dar conhecimento dos detalhes dos critérios do regulamento relativo ao selo
+de  qualidade  ABCP:  requisitos  e  critérios  de  desempenho,  ,  respectivos
+métodos de avaliação, parâmetros da auditoria e oportunidades de melhoria;
+•  Levantamento de características da estrutura instalada, tais como: critérios de
+segurança  operacional,  máquinas  e  equipamentos,  equipe
+técnica,
+laboratório,  solicitação  de  ensaios,  materiais  e  agregados,  e  demais
+informações necessárias ao desenvolvimento das avaliações.
+
+ENTREGA  ETAPA  01:  Relatório  da  etapa  01,  contendo  os  responsáveis  pela
+prestação  do  serviço,  o  plano  de  ação  com  o  cronograma  de  atividades  e  outros
+aspectos acordados entre as partes.
+
+ETAPA 02 | DIAGNÓSTICO E ANÁLISE DA SITUAÇÃO ATUAL
+
+1.  Diagnóstico  da  empresa  e  dos  seus  processos,  observando  os  seguintes
+
+aspectos, quando aplicáveis:
+
+•
+
+identificação  de  saídas  e  entradas,  clientes  e  fornecedores  do
+processo;
+
+•  observação de campo;
+•  coleta e análise de documentos existentes (evidências);
+•
+•  análise dos sistemas legados; análise de padrão e ferramentas;
+
+identificação de sistemas legados;
+
+2.  Modelagem de Processos:
+
+listagem de todas as atividades que existem no processo;
+
+•
+•  ordenação  das  atividades  de  acordo  com  a  sequência  atual  do
+
+processo;
+
+•  detecção de ineficiências (retrabalhos e gargalos);
+•  detecção de atividades que utilizam sistema legado;
+•  validação da análise crítica com a Empresa demandante; aprovação
+
+da análise pela Empresa.
+
+3.  Análise dos Produtos:
+
+•
+
+listagem de todos os produtos fabricados, identificando sua respectiva
+estrutura fabril;
+
+•  verificação  dos  resultados  segundo  a  sistemática  de  controle
+tecnológico  dos  produtos  –  apontar  se  os  resultados  apresentam
+conformidade com normas técnicas aplicáveis;
+
+•  detecção de volumes de perdas médias;
+•  detecção de produtos não-conformes;
+•  validação da análise crítica com a Empresa demandante; aprovação
+
+da análise pela Empresa.
+
+ENTREGA  ETAPA  02:  Relatório  de  diagnóstico  e  análise  do  processo  no  estado
+atual.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13072-1
+
+ETAPA 03 | ADEQUAÇÃO COM BASE NOS CRITÉRIOS DO SELO ABCP
+
+1.  Adequação  com  base  nos  critérios  e  regulamentos  do  Selo  de  Qualidade
+
+ABCP, mediante evidências objetivas.
+
+•  Documentação  da  empresa:  Verificação  do  cumprimento  legal  da
+empresa  nos  aspectos  municipais,  estaduais  e  federais,  inclusive
+ambientais e trabalhistas.
+
+•  Matérias-primas:  chegada  de  matérias-primas,  granulometria  e
+qualidade do material; armazenamento de matéria prima; chegada e
+armazenamento de cimento; pigmentos;
+
+•  Manutenção: preventiva; equipamentos e peças básicas;
+•  Produção  de  artefatos:  traços;  água;  aditivos;  mistura;  estrutura  de
+
+moldagem; infraestrutura de moldagem;
+
+•  Processos pós-moldagem: cura; transporte interno; armazenamento;
+•  Controle  de  qualidade,  rastreabilidade,  ensaios  e
+
+laboratórios:
+rastreabilidade de insumos; rastreabilidade de artefatos; laboratório e
+desenvolvimento de produtos; normas; ensaios; selo ABCP (blocos e
+pisos);
+
+2.  Implantação de melhorias para adequar cada item do processo produtivo e/ou
+
+produto indicados no check-list.
+
+tarefas  executadas;
+
+ENTREGA ETAPA 03: Relatório Técnico Final contendo check-list de verificação do
+Selo  de  Qualidade  ABCP,  análise  qualitativa  e  plano  de  ação  com  vistas  ao
+atendimento  dos  critérios  do  selo  ABCP,  de  acordo  com  as  bases  e  premissas
+utilizadas;
+registros
+fotográficos,  se  necessário);  oportunidade  de  melhoria;  plano  contendo  ações  a
+serem  executadas;  recomendações,  oportunidades  de  melhoria  e  conclusões;
+Declaração,  assinada  pela  empresa  demandante,  atestando  o  recebimento  da(s)
+entrega(s)  realizadas  pelo  prestador  de  serviço  tecnológico  e  que  o  prestador  de
+serviço tecnológico explicou presencialmente ao cliente o conteúdo da(s) entrega(s)
+efetivadas.
+
+resultados  obtidos
+
+(inclusive  com
+
+10. Benefícios e resultados esperados
+
+O Selo da Qualidade ABCP é uma garantia de que os produtos oferecidos ao mercado
+atendem às normas técnicas da ABNT ou de órgão similar de normalização técnica,
+seja no Brasil, seja no exterior. Mesmo em fábricas e construtoras que não tenham a
+totalidade dos produtos normatizados pela ABCP/ABNT, os seus padrões, controles
+e  premissas  de  qualidade  são  referência  no  mercado  de  construção  civil.  A
+produtividade tende a aumentar com implementação de seus métodos e controles.
+
+1.  Menor perda de tempo com manuseio de materiais;
+2.  Treinamento e controle facilitado;
+3.  Redução de material utilizado em processo, menos desperdício;
+4.  Melhoria do fluxo interno de pessoas;
+5.  Melhor utilização do espaço disponível;
+6.  Facilidade no controle e supervisão das atividades;
+7.  Redução do tempo entre processos;
+8.  Redução da ociosidade de máquinas e funcionários.
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13072-1
+
+11. Estrutura e materiais necessários
+
+-
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+2.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+do prestador de serviço;
+
+3.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo
+
+prestador de serviço;
+
+4.  Fornecer informações técnicas sobre os processos, produtos ou serviços ao
+
+prestador de serviço para o desenvolvimento do trabalho;
+
+5.  Acompanhar o prestador de serviço em visita(s) técnicas aos espaços físicos,
+
+se previsto no escopo do trabalho;
+
+6.  Avaliar o serviço prestado.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião para alinhamento e apresentação das atividades previstas;
+2.  Analisar a demanda e as informações fornecidas pela empresa;
+3.  Elaborar  proposta,  escopo  de  trabalho,  cronograma  das  etapas  do  projeto,
+agenda  de  reuniões  e  atividades,  sendo  necessário  validar  com  a  empresa
+demandante;
+
+4.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae;
+
+5.  Cumprir com as obrigações previstas no Regulamento do Sebraetec.
+
+14. Perfil desejado da prestadora de serviço
+
+Corpo técnico formado por profissionais de nível superior com experiência em:
+
+•  Análise de processos
+•  Construção civil
+•  Selo de qualidade ABCP de artefatos de concreto
+•  Layout de fábricas de artefatos de concreto
+•  Tecnologia do concreto plástico e semisseco
+•  Eletromecânica aplicada a indústrias de artefatos e pré-moldados de cimento
+
+e concreto.
+
+•  Normas  específicas  do  setor  de  construção  civil:  NBR  12655/2015,
+NBR6118/2014,  NBR9062/2006,  NBR05712/1982,  NBR06136/2014,
+NBR07173/2009,  NBR12118/2014,  NBR  7176/1982,  NBR  9780/2010,  NBR
+9781/2013,  NBR  15900-  1/2009,  NBR  15953/2011,  NBR  16416/2015,  NBR
+12989/1993, NBR 15805/ 2015, NBR 14859-1/2016, NBR 14859-2/2016, NBR
+14859-3/2016,  NBR  14861/2011,  NBR  15522/2007,  NBR  14861/2011,  NBR
+13858-1/1997,  NBR  13858-2/2009,  NBR  8890/2008,  NBR  7481/1990,  NBR
+15645/2008,  NBR  8451/2012,  NBR  16258/201,NBR  11709/2015,  NBR
+15575:1-5/2013
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13072-1
+
+15. Pré-diagnóstico
+
+1.  Qual é a atividade ou área de atuação da empresa?
+2.  Quais  os  principais  processos  da  empresa  ou  negócio  (apresentar  um
+
+resumo)?
+
+3.  Quais  os  principais  produto/serviço(s)  da  empresa?  Listar  os  5  (cinco)
+
+primeiros.
+
+4.  Quantos  departamentos/setores/  unidades/  células  estão  envolvidos  no
+
+processo(s)?
+
+5.  Quantos funcionários aproximadamente estão envolvidos no processo(s)?
+6.  A empresa possui os seus processos mapeados e descritos sob a forma de
+documento? A empresa dispõe de Procedimentos e Rotinas escritas para os
+seus principais processos de produção?
+
+7.  A  empresa  dispõe  de  todos  os  cargos  e  funções  de  seus  colaboradores
+
+descritos?
+
+8.  A empresa utiliza indicadores para acompanhar os seus processos?
+9.  Já existe mapeamento do fluxo de produção?
+10. O produto é retrabalhado? Com que frequência?
+11. Quais os serviços desejados dentro da ótica do selo de qualidade ABCP e dos
+padrões de produção da construção civil (racionalização do trabalho, estudo
+de tempos e movimentos, melhoria do layout, programa 5S, atendimento às
+Normas Regulamentadoras etc.?)
+
+12. Qual  é  o  principal  benefício  (redução  de  custo,  qualidade,  segurança  etc.)
+
+desejado?
+
+16. Observações
+
+1.  Esta ficha técnica pode ser aplicada tanto presencialmente, quanto online. No
+momento da contratação a empresa demandante deverá ser comunicada que
+parte  do  serviço  ou  a  integralidade  dele,  quando  aplicável,  acontecerá  de
+forma remota. Além disso, o alinhamento do formato do atendimento deve ser
+feito  na  Etapa  01  entre  a  empresa  demandante  e  a  prestadora  de  serviço
+tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+4.  Despesas  adicionais  com
+
+3.  Os valores dos honorários apresentados devem incluir todas as despesas com
+impostos  e  encargos  sociais,  conforme  legislação  tributária  em  vigor,  que
+possa incidir sobre o objeto da proposta;
+terceiros
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  softwares,  equipamentos,
+sensores,  revisões  tecnológicas,  revisões,  textos,  conteúdo  dinâmico,  entre
+outros)  ficam  a  cargo  exclusivo  do  cliente  e  devem  ser  previamente
+comunicados ao cliente no plano de ação ao longo das etapas de realização
+do trabalho;
+
+(direitos  autorais,
+
+5.  É de responsabilidade do prestador de serviço todo o projeto, da concepção à
+
+aprovação do cliente;
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13072-1
+
+6.  O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pelo cliente;
+
+7.  A realização desta ficha técnica não garante a aprovação nos critérios do selo
+ABCP de blocos e pisos de concreto, assim como produtos correlatados;
+8.  Os custos decorrentes ao processo de certificação do selo de qualidade, não
+
+estão inclusos nesta ficha técnica;
+
+Indicadores de desempenho sugeridos:
+
+Índice de conformidade aos critérios do Selo de Qualidade ABCP;
+
+•
+•  Redução/eliminação de desperdício de tempo/materiais
+•  Volume de produção
+•  Redução do lead-time de entrega (tempo entre pedido e a entrega)
+•  Lucratividade do produto
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+1
+
+29/01/2021
+
+https://datasebrae.com.br/wp-
+content/uploads/2021/01/Adequação-
+das-indústrias-ao-Selo-de-Qualidade-
+ABCP-GQ13072-1.pdf
+
+Responsável
+
+Arthur Guimaraes
+Carneiro
+
+Eder Max de
+Oliveira
+
+6
+
+Ficha Técnica – Sebraetec 4.0
+

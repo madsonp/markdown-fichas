@@ -1,0 +1,54 @@
+{
+  "id": "32003-2",
+  "nomeSolucao": "DIAGNÓSTICO ENERGÉTICO DE MOTORES ELÉTRICOS",
+  "tema": "Sustentabilidade",
+  "subtema": "Eficiência Energética",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócios, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA E LEVANTAMENTO DE DADOS",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Reunião presencial de alinhamento sobre a condução do trabalho. Nesta reunião deverão ser tratados os seguintes itens • Alinhamento dos objetivos do cliente e entregas do consultor • Nivelamento do escopo do trabalho • Cronograma de visitação • Análise e consolidação dos dados • Levantamento dos dados: O levantamento dos dados é o primeiro e mais importante passo para o estudo de eficiência energética da planta tendo influência direta nos resultados do trabalho. Quanto melhor a base de dados, mais precisas serão as análises e os resultados • Levantamento da situação atual do cenário energético da empresa e dos equipamentos • Analisar possíveis propostas de melhoria.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | CONSULTORIA DE DIAGNÓSTICO ENÉRGICO DE MOTORES ELÉTRICOS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Avaliação dos motores na base instalada: Esta tem o intuito de identificar e focar o trabalho nos motores com maior potencial de ganho, possibilitando maior agilidade na execução sem comprometer os benefícios obtidos com o estudo • Medições elétricas: É uma etapa que deve ser realizada somente quando se procura maior precisão dos dados, sendo que deverá ser avaliado cada caso O software See+ (ou similar) já fornece resultados consistentes para as análises sem a necessidade de medições elétricas • Engenharia de Aplicação: Consiste em definir a melhor especificação técnica para maximizar a vida útil dos motores de acordo com as características da aplicação e do ambiente de trabalho • Avaliação Técnica e Econômica: Elaboração de relatório com as análises técnicas e econômicas dos potenciais ganhos obtidos com as soluções recomendadas, além da viabilidade técnica econômica do estudo da troca/atualização dos equipamentos • Proposição de melhoria do sistema motriz.",
+      "entrega": "• Relatório Técnico Final com detalhamento da situação do sistema motriz atual e proposto contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos), oportunidades de melhoria, lista detalhada do estudo de viabilidade de troca dos motores do projeto; gestão de boas práticas dos equipamentos e energia; plano contendo ações a serem executadas, recomendações e conclusões; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "A consultoria de Diagnóstico Energético em Motores Elétricos tem como objetivo avaliar o funcionamento dos motores elétricos e indicar oportunidades de melhorias para a redução de custos com energia elétrica, alguns motivos que a fazem necessária são: • A forma motriz é a maior consumidora de energia elétrica na indústria (68%) e, portanto, possui as melhores oportunidades de redução do consumo; • Segundo dados da Eletrobrás, a indústria consome 42% da energia elétrica no Brasil e os motores elétricos correspondem a 70% da energia consumida na indústria. • O mercado está cada vez mais exigente: é necessário produzir com qualidade e sustentabilidade para se tornar competitivo e ter bons resultados; • Vista como um investimento, a Eficiência Energética possui indicadores de Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL) extremamente atrativos; • Existem diversos equipamentos com motores elétricos que podem operar com eficiência energética. Alguns deles são: bombas, compressores, ventiladores, exaustores e correias transportadoras; • A modernização de equipamentos é uma ótima opção para redução ou eliminação de desperdícios no consumo de energia durante as atividades; • Motores antigos geram alto custo de manutenção, quando comparado ao investimento para aquisição de um novo. Dentre os potenciais benefícios da Consultoria, tem-se: • Maior eficiência no uso da energia elétrica • Poupar recursos naturais gastos na produção de energia • Redução de custos com relacionados à energia; • Cliente orientado nos conceitos e práticas necessárias ao uso eficiente de energia e sustentabilidade no sistema motriz. • Otimização de custos com energia; • Consumo sustentável de energia; • Maior produtividade; • Retorno sobre o investimento; • Redução de gastos com manutenção. A energia move a sua empresa. Economizar é preciso. Produzir, também.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n 4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com formação acadêmica na área Elétrica, em nível técnico, graduação, mestrado ou doutorado e registro no órgão Conselho Regional de Engenharia.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo Despesas adicionais com (direitos autorais, dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "02/01/2019",
+      "alteradoPor": "Energético-de-Motores-Elétricos- EE32003-1.pdf Energético-de-Motores-Elétricos- EE32003-2.pdf Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ]
+}

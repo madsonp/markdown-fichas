@@ -1,0 +1,112 @@
+{
+  "id": "14053-3",
+  "nomeSolucao": "MELHORIA DO PROCESSO PRODUTIVO SUINÍCOLA",
+  "tema": "Produção e Qualidade",
+  "subtema": "Mapeamento e melhoria de Processos",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA E DIAGNÓSTICO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões, definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico e das entregas/resultados a serem alcançados. Ferramentas como entrevista com o cliente são importantes como forma de obter informações necessárias para fundamentara entrega proposta.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | APERFEIÇOAMENTO DAS BOAS PRÁTICAS NA SUINOCULTURA",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Os itens abaixo e suas respectivas entregas serão realizados de acordo com a necessidade da empresa contratante e definidos na etapa 01 1) Orientações, quando necessário, sobre a adequação da infraestrutura de produção e de tratamento de resíduos (dejetos e animais mortos) 2) Orientações sobre o manejo alimentar e nutricional dos animais em cada fase de desenvolvimento na granja. Orientar sobre a escolha do melhor tipo de dieta (granulométrica, quantidade e qualidade de ingredientes usados, água, dentre outros) 3) Orientação e acompanhamento das práticas que compõem o manejo reprodutivo nas granjas observando: raças e linhagem adequada para cada sistema de criação, formulação de dietas adequadas para leitoas e machos em cada fase de desenvolvimento 4) Orientar sobre a correta detecção do cio, acompanhar a cobrição (monta natural ou inseminação artificial) 5) Orientar sobre o acompanhamento no período de gestação observando aspectos: limpeza do ambiente que as leitoas vão ficar, evitar estresse nesse ambiente e alimentação nessa fase de vida 6) Orientar sobre os cuidados com os leitões: mamar o colostro, vacinação e corte do cordão umbilical 7) Orientações sobre o manejo sanitário dos animais: a adoção de um calendário de vacina, implantação correta do vazio sanitário, correta higienização dos utensílios usados e o controle rigoroso dos vetores de doenças 8) Orientar sobre a elaboração ficha de controle econômico e zootécnico;",
+      "entrega": "• Relatório com informações contendo o processo de produção da propriedade incluindo alimentação, sanidade, manejo geral e reprodução; • Calendário de vacinação que acompanhe todas as fases de vida dos animais da granja; • Ficha para acompanhamento os resultados econômicos e zootécnicos da produção."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | ENCERRAMENTO DA CONSULTORIA",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Encaminhamento de relatórios individualizados por aviário e visita técnica referente a realização das consultorias.",
+      "entrega": "Relatório de Visitas Técnicas Presenciais à Granja. O Relatório deve conter o seguinte conteúdo mínimo: Capa; Situação verificada na Granja; Objetivo(s) da Consultoria; Metodologia; Resultado(s) Esperado(s) e/ou Alcançado(s) pela Consultoria; Plano de Ação e Cronograma Proposto; Registros Fotográficos. O Relatório deve conter a assinatura do Consultor e do Produtor."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual o tamanho da granja?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Qual a quantidade de insumos necessários para a produção?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Qual a quantidade de matrizes?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Qual a localização da granja?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Já se realiza algum controle sanitário na propriedade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Existe algum controle sobre dados e acompanhamento dos animais nas suas diversas fases?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "As instalações são adequadas?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "1. Melhor desempenho e produtividade da granja; 2. Adequara propriedade ao manejo alimentar, sanitário e reprodutivos correto; 3. Melhorar os processos de gestão do empreendimento; 4. Redução dos custos; 5. Redução do aparecimento de doenças; 6. Melhor controle a respeito dos animais da propriedade; 7. Melhorar resultados técnicos e econômicos do produto final.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho do prestador de serviço\n3. Proceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade e que estão no objeto deste Termo de Adesão\n4. Empenhar-se para viabilizar a execução das ações planejadas e promover a participação e o envolvimento de sua equipe de colaboradores\n5. Informar, fornecer e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n6. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n7. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n8. Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n9. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Cumprir todas as etapas previstas no plano inicial do projeto, garantindo que todas as etapas serão sucedidas por suas respectivas entregas\n3. Realizar todas as etapas sem custo adicional\n4. Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n5. Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n6. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n 7. Cumprir o prazo estabelecido com o produtor para realização de todas as etapas do projeto.",
+  "perfilDesejadoPrestadora": "Corpo Técnico composto por Técnico Agrícola, Zootecnista, Veterinário ou Engenheiro Agrônomo.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo\nOs Produtores Rurais que desejarem realizar esta consultoria devem ter DAP e/ou NIRF\nAs visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários propostos pela consultoria\nCaso o produtor opte por realizar qualquer procedimento não condizente com o prescrito pelo consultor, o mesmo deverá declarar a intenção no relatório técnico e isentar o prestador do serviço e o SEBRAE de qualquer responsabilidade\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; Custos de trabalhos não especificados na proposta poderão ser assumidos posteriormente mediante Termo Aditivo ao contrato do Sebrae, desde que aprovados por ambas as partes\nDespesas adicionais com fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho; (direitos autorais, terceiros É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "22/10/2019",
+      "alteradoPor": "MMP14053-1.pdf MMP14053-2.pdf MMP14053-3.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/04/2020",
+      "alteradoPor": "Victor Rodrigues Ferreira Coordenação Sebraetec"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "31/08/2020",
+      "alteradoPor": "Claudia Alves do"
+    }
+  ],
+  "valorTeto": 8640.0,
+  "codigo": "371440100517"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "45004-2",
+  "nomeSolucao": "REGISTRO DE DESENHO INDUSTRIAL",
+  "tema": "Desenvolvimento Tecnológico",
+  "subtema": "Propriedade Intelectual",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócio, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA E ANÁLISE DE VIABILIDADE",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Reunião para alinhamento da demanda, objetivos, premissas e restrições do serviço • Busca prévia e análise de viabilidade do registo de desenho industrial com base no disposto na Lei 9.279/96, considerando os requisitos de proteção novidade, originalidade e fabricação industrial",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço; o escopo do serviço; o plano de ação com o cronograma das atividades; quaisquer outros aspectos acordados entre as partes, o relatório de viabilidade do registro de desenho industrial junto ao Instituto Nacional da Propriedade Industrial (INPI), contendo o resultado da busca prévia; assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 0 | 2 INDUSTRIAL",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "| PROTOCOLO DO PEDIDO DE REGISTRO DE DESENHO • Organizar a documentação e os dados necessários para o registro • Realizar cadastro no e-INPI • Emitir Guia de Recolhimento da União (GRU) e verificar se o empresário realizou o pagamento • Preencher e enviar o formulário eletrônico de Pedido de Registro de Desenho Industrial, por meio do e-Desenho Industrial.",
+      "entrega": ""
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "O registro de Desenho Industrial protege a configuração externa de um objeto tridimensional ou um padrão ornamental (bidimensional) que possa ser aplicado a uma superfície ou a um objeto, como exemplos o design de móveis (objetos tridimensionais) ou a estampa de tecidos (padrão bidimensional), o que proporciona um resultado visual novo e original na sua configuração externa com aplicação industrial. A proteção intelectual por registro de Desenho Industrial é circunscrita ao território nacional. Uma vez concedido pelo Estado, por meio do Instituto Nacional da Propriedade Industrial (INPI), o registro de desenho industrial é válido em território nacional e dá ao titular o direito, durante o prazo de vigência, de excluir terceiros de fabricar, comercializar, importar, usar ou vender a matéria protegida sem sua prévia autorização.",
+  "estruturaMateriais": "É indispensável que o solicitante possua Certificado Digital.",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n 3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os produtos à prestadora de serviço para o desenvolvimento do trabalho\n5. Acompanhar a prestadora de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado\n7. Realizar o pagamento da GRU em tempo hábil\n8. Fornecer os desenhos ou fotografias do objeto a ser protegido conforme exigências do INPI.",
+  "responsabilidadePrestadora": "1. Orientar o a empresa demandante quanto a cobrança indevida por terceiros, referente ao processo no INPI\n2. Esclarecer em conjunto com a empresa demandante as informações sobre o desenho industrial a ser protegido\n3. Elaborar Termo de Confidencialidade e Sigilo com a empresa demandante\n4. Realizar reunião para alinhamento e apresentação das atividades previstas\n5. Analisar a demanda e as informações fornecidas pela empresa\n6. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\n7. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n8. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com experiência e conhecimento na proteção de direitos de propriedade industrial junto ao Instituto Nacional de Propriedade Industrial – INPI.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico; Na impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAtendimento realizado em duas etapas, sendo que o serviço pode ser concluído ao final da primeira etapa, caso seja constatado o não atendimento às condições para registro do desenho industrial conforme disposto na Lei 9.279/96\nEm caso de inviabilidade do registro de Desenho Industrial no INPI constatada por meio do relatório da busca prévia, ao final da Etapa 1, a prestadora de serviço receberá 40 % do valor total do serviço\nO cadastro realizado no e-INPI poderá ser em nome da empresa demandante/empresário ou em nome da prestadora de serviço, como sua procuradora\nO pagamento da GRU referente ao pedido de registro de desenho industrial é de responsabilidade da empresa solicitante e seu valor não está incluso na consultoria\nÉ vedado no Sebraetec o serviço de acompanhamento continuado do processo junto ao INPI\nÉ importante entregar à empresa demandante cartilha sobre Desenho Industrial elaborada pelo Sebrae/INPI\nRecomenda-se utilizar como referência na prestação desse serviço o Manual de Desenhos Industriais instituído pela Resolução INPI/PR no. 232/2019, em 08/01/2019. Empresas cadastradas no INPI como Microempreendedor Individual, Microempresa e Empresa de Pequeno Porte têm desconto automático nas taxas do INPI\nDespesas adicionais com Os valores dos honorários apresentados pela prestadora de serviços devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta. terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo a empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho. (direitos autorais, É de responsabilidade da prestadora de serviço todo o serviço, da concepção à aprovação do cliente\nA prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante\nO pedido de registro de desenho industrial terá que se referir a um único objeto, permitida uma pluralidade de variações, desde que se destinem ao mesmo propósito e guardem entre si a mesma característica distintiva preponderante, limitado cada pedido ao máximo de 20 (vinte) variações. ",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "22/02/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "08/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "12033-2",
+  "nomeSolucao": "CERTIFICAÇÃO CONFORME NORMA FSC PARA MANEJO FLORESTAL DE FLORESTAS NATIVAS E PLANTADAS",
+  "tema": "Produção e Qualidade",
+  "subtema": "Certificação e inspeção",
+  "tipoServico": "Avaliação da Conformidade",
+  "modalidade": "Presencial",
+  "publicoAlvo": [],
+  "setor": "Indústria, Comércio, Agronegócio",
+  "descricao": "O serviço prestado compreende o apoio técnico e de avaliação na auditoria inicial para obtenção da certificação FSC e na auditoria de renovação após o período de validade de 5 anos. As auditorias anuais intermediárias de manutenção, quando houver, são de responsabilidade exclusiva da empresa demandante, que deverá executá-las conforme os requisitos da certificação. A reaplicação do serviço Sebraetec para auditorias posteriores poderá ocorrer somente após o período de 5 certificado. anos renovação para do a",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Ficha Técnica – Sebraetec 4.0 Código da ficha técnica: 12033-2 Realizar reunião de alinhamento junto à empresa demandante para definição das diretrizes de serviço, agendamento das atividades de avaliação da conformidade e definição dos responsáveis pelo acompanhamento dos serviços por parte da empresa demandante e da prestadora de serviço",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | AUDITORIA E EMISSÃO DE CERTIFICADO Realização de auditoria, para avaliação da conformidade a requisitos estabelecidos na norma FSC para Manejo Florestal de florestas nativas ou plantadas ou Cadeia de Custódia (FSC-STD-40.004) e nas normas acessórias a depender do escopo definido na etapa 01.",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "",
+      "entrega": "• Auditoria documental e no local, que contempla em sua totalidade a área geográfica dentro dos limites da área de manejo e todos os recursos naturais, humanos e econômicos, e infraestrutura, assim como a informação administrativa e de gestão pertinente e que fazem parte do escopo definido em conjunto com a certificadora na etapa 1, nos casos de certificação FSC para manejo florestal. • Relatório de auditoria final com indicação e considerações sobre pontos de conformidade/não-conformidade, conforme parâmetros previstos na certificação pretendida, assinado pela empresa demandante; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço e que o prestador de serviço explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual o segmento do empreendimento? O que vocês vendem/oferecem ao mercado? 2.Nos últimos 05 anos a organização teve certificado válido em algum sistema de certificação? 3.Qual(is) o(s) tipo(s) de produto(s)? 4.Qual o volume total da produção? 5.Qual o faturamento anual da empresa (em reais e sem impostos e sem serviços)? (considerar faturamento dos produtos de origem florestal, independente se os produtos são ou não certificados) 6.No produto certificado haverá mistura com insumos não certificados (como material controlado* e/ou material recuperado**)? 7.Você pretende certificar mais de um local/unidade? Se sim, pedimos que indique a localização e atividade de cada local (processador ou distribuidor). 8.Alguma etapa do processo de produção certificados será realizada por empresa terceirizada, fora de sua Organização (Ex: envio do material certificado para acabamento em empresa terceira)? 9.Seu empreendimento está pronto para receber a auditoria? *Material controlado: Insumo fornecido sem declaração FSC que tenha sido avaliado como estando em conformidade com os requisitos do padrão FSC-STD-40-005 Requisitos para Consumo de Madeira Controlada. **Material recuperado: Material que comprovadamente teria sido descartado como resíduo, mas ao invés disso foi recolhido e recuperado como insumo, usado no lugar de material virgem, para reutilização, reciclagem ou re-moagem num processo de fabricação ou outra aplicação comercial. Insumos das seguintes categorias de material são classificados como material recuperado: FSC Reciclado, recuperado pós-consumo e recuperado pré-consumo. Esta categoria exclui a reutilização de resíduos florestais virgens, como madeira recuperada e outros materiais orgânicos produzidos fora de uma matriz florestal (por exemplo, resíduos agrícolas).",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Para Manejos Florestais: A certificação FSC para Manejo Florestal apoia o pequeno produtor e comunidades na melhoria contínua da gestão da floresta, cumprimento da legislação ambiental e trabalhista, conservação dos recursos naturais e na garantia de direitos e bem-estar aos trabalhadores e comunidades que vivem entorno das florestas. Além de agregar valor social e ambiental e contribuir com a diversificação dos meios de vida, os produtores e empresas certificadas têm o direito ao uso do selo FSC em seus produtos e materiais promocionais, o que possibilita uma diferenciação e acesso a novos mercados de exportação e no mercado nacional. Dentre os ganhos para o produtor podemos citar: • Agregação de valor aos seus produtos ao estar em conformidade com um referencial reconhecido internacionalmente; • Melhores condições para os trabalhadores e no relacionamento com as comunidades locais; • Risco operacional e de reputação reduzido. Para Cadeia de Custódia: A certificação FSC de tais sistemas de gestão é projetada para fornecer uma garantia crível de que os produtos vendidos com declaração FSC são originários de florestas bem manejadas, fontes controladas, materiais recuperados, ou a mistura destes. A certificação FSC CoC, portanto, facilita o fluxo transparente de produtos fabricados a partir de tais materiais através da cadeia de abastecimento. A certificação é aplicada em empresas de todos os tamanhos e localizações, sejam individuais, multi-site ou em grupo. Com a avaliação da empresa, o sistema de Cadeia de Custódia do FSC permite certificar diversos produtos de origem florestal em todos os elos de sua cadeia produtiva. As empresas certificadas têm o direito ao uso do selo FSC em seus produtos e materiais promocionais, o que possibilita uma diferenciação e acesso a novos mercados de exportação e no mercado nacional. Dentre os ganhos podemos citar: • Agregação de valor aos seus produtos ao estar em conformidade com um referencial reconhecido internacionalmente; • Acesso a mercados com exigência de garantias ambientais; • Conformidade com políticas de compra dos setores públicos; • Melhores condições para os trabalhadores; • Risco operacional e de reputação reduzido.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado\n7. Adequar previamente seus espaços, instalações e processos aos requisitos da certificação pretendida, sendo a obtenção da certificação pretendida não garantida pelo Sebrae nem pela prestadora de serviço\n8. Declarar a veracidade de informações, de maneira responsável e transparente.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas (presencial ou a distância)\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. Proporcionar o(s) devido(s) esclarecimento do(s) processo(s) de auditoria junto à empresa demandante\n7. Entregar o detalhamento dos resultados finais obtidos através da auditoria.",
+  "perfilDesejadoPrestadora": "A prestadora de serviços deve ser uma certificadora acreditada pela Assurance Services International (empresa que realiza a auditoria e a acreditação das certificadoras em nome do FSC) para o escopo específico apresentado pela empresa demandante.",
+  "observacoesGerais": "Os serviços contemplados nesta Ficha Técnica compreendem a certificação com período de validade do certificado de 05 anos e só contempla a primeira auditoria de certificação (avaliação). Considerando a necessidade de realizar uma nova avaliação pra a recertificação, após os 05 anos de certificação, essa demanda deve se configurar como um novo serviço, com base no escopo desta Ficha Técnica, e deve ocorrer antes que acabe a validade da certificação\nAs auditorias intermediárias anuais, exigidas para manutenção da certificação, são de responsabilidade exclusiva da empresa demandante, que deverá providenciá-las conforme requisitos aplicáveis\nA reaplicação do serviço Sebraetec para auditorias subsequentes poderá ocorrer somente após o período de 5 anos para renovação da certificação\nA prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "21/05/2024",
+      "alteradoPor": "Conforme-Norma-FSC-para-Manejo- Florestal-e-Cadeias-de-Custodia- CI12033-1.pdf Conforme-Norma-Fsc-Para-Manejo- Florestal-De-Florestas-Nativas-E- Plantadas-CI12033-2.pdf Coordenação Sebraetec Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "09/06/2025",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ]
+}

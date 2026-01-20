@@ -1,0 +1,158 @@
+{
+  "id": "42002-3",
+  "nomeSolucao": "DESENVOLVIMENTO  DE  NEGÓCIOS VALIDAÇÃO DO NEGÓCIO INOVADORES",
+  "codigo": "372000054670",
+  "valorTeto": 0,
+  "dataAtualizacaoEscopo": "",
+  "dataAtualizacaoValor": "",
+  "tema": "Desenvolvimento Tecnológico",
+  "subtema": "Gestão da Inovação",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "setorial": [],
+  "ods": [],
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "estadosDisponiveis": [],
+  "editalPorEstado": {},
+  "objetivo": "",
+  "descricao": "Este serviço visa apoiar a estruturação e desenvolvimento de empreendimentos inovadores em estágio inicial e empreendimentos de impacto socioambiental também em estágio inicial, através de consultoria especializada para validação do negócio. Considera-se empreendimento inovador em estágio inicial as startups, empresas de base tecnológica e demais negócios inovadores que estejam na fase de validação do negócio, ou seja, cujo modelo de negócio ainda não esteja consolidado e ainda não existam clientes utilizando seu produto ou serviço. 1 Ficha Técnica – Sebraetec 4.0 O atendimento deverá ser realizado em cronograma definido na etapa 01, sendo estimada uma duração de até 10 semanas.",
+  "beneficiosResultadosEsperados": "BENEFÍCIOS:\n• Definir o modelo de negócio, alinhando proposta de valor do projeto através\nde metodologias e estratégias que auxiliam no ajuste dos produtos, serviços\ne processos aos desejos do mercado/cliente.\n• Tornar a visão de mercado mais sistêmica por meio do estudo de fatores\nexternos que podem influenciar nas ações do projeto, trazendo novas\npossibilidades ao empreendimento.\n• Ampliar a rede de relacionamento, uma vez que os mentores podem usar o\npróprio networking para conectar os empreendedores a parceiros que possam\nagregar ao negócio.\n• Contribuir no processo de sustentabilidade financeira da empresa, permitindo\ngerir melhor os ativos econômicos.\n• Contribuir na formação empreendedora para que os projetos possam se\ntransformar em empresas em condições de ter uma participação competitiva\nno mercado.\n3\nFicha Técnica – Sebraetec 4.0\n• Auxiliar no desenvolvimento do modelo de negócio, do protótipo e do discurso\nde vendas por meio de metodologias e ferramentas adequadas.\nRESULTADOS ESPERADOS:\n• Modelo de negócios desenhado / aperfeiçoado e lições aprendidas registradas\ne trabalhadas a partir da validação junto aos clientes em potencial por meio\nde metodologias, processos e ferramentas estruturadas pelos mecanismos\nem um Plano de Atendimento e aplicadas considerando as individualidades\nde cada projeto.\n• Protótipo testado e avaliado por clientes em potencial com orientação\nmetodológica dos mecanismos.\n• Discurso de venda e/ou de parcerias finalizado e registrado em plataforma de\narquivos web, fruto de dinâmicas que preparem o empreendedor para\napresentações reais.",
+  "estruturaMateriais": "Ter plataforma e\nempreendedores no ambiente virtual.\nferramentas\ntecnológicas para\ninteração e apoio aos",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento.\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas\ndo prestador de serviço.\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo\nprestador de serviço.\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao\nprestador de serviço para o desenvolvimento do trabalho.\n5. Executar as atividades propostas pela abordagem com o suporte do consultor.\n6. Avaliar o serviço prestado.\n7. Para o desenvolvimento do serviço, é necessário o engajamento dos líderes\nda empresa, a alocação de recursos e tempo de trabalho das pessoas\nenvolvidas.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas.\n2. Analisar a demanda e as informações fornecidas pela empresa.\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto,\nagenda de reuniões e atividades, sendo necessário validar com a Empresa\nDemandante.\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao\nSebrae.\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "4\nFicha Técnica – Sebraetec 4.0\nEntidades gestoras de incubadoras de empresas e aceleradoras de negócios que\natendam aos seguintes requisitos:\nEquipe\n• Corpo técnico formado por no mínimo 02 profissionais de nível superior, com\ndomínio sobre os processos de: (i) atendimento a novos negócios inovadores;\n(ii) elaboração de conceitos e modelos de negócios; (iii) apoio ao\ndesenvolvimento de protótipos; e (iv) desenvolvimento de modelos de venda\ne de parcerias.\nExperiência\n• Ter experiência em serviços de incubação de empresas ou aceleração de\nnegócios.\n• Declarações de pelo menos 3 empreendimentos graduados ou acelerados\npela prestadora, dentro dos últimos 3 anos.\nObservação\n• Entende-se por ACELERADORAS DE NEGÓCIOS: mecanismo de apoio a\nempreendimentos ou empresas nascentes que já possuem um modelo de\nnegócio consolidado e com potencial de crescimento rápido. Possuem\nconexões com empreendedores, investidores, pesquisadores, empresários,\nmentores de negócios e fundos de investimento, e oferecem benefícios que\npodem incluir mentoria, avaliação, treinamentos, crédito ou investimento por\nmeio de fundos ou de capital de risco.\n• Entende-se por INCUBADORAS DE EMPRESAS: organização ou estrutura\nque objetiva estimular ou prestar apoio logístico, gerencial e tecnológico ao\nempreendedorismo inovador e intensivo em conhecimento, com o objetivo de\nfacilitar a criação e o desenvolvimento de empresas que tenham como\ndiferencial a realização de atividades voltadas à inovação.",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto à Empresa Demandante para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte da Empresa Demandante e da Prestadora de Serviços.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | MODELO DE NEGÓCIOS DESENHADO E VALIDADO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Orientar os empreendedores no desenho e aperfeiçoamento de modelos de negócios para seus projetos inovadores bem como nos testes das hipóteses junto a clientes potenciais, registrando as lições aprendidas, insights e alterações necessárias no modelo. Não é necessário que o modelo esteja em funcionamento, mas recomenda- se que suas hipóteses tenham sido submetidas a clientes potenciais para validação ou refutação.",
+      "entrega": "Relatório de atendimento contendo o modelo de negócios desenhado, o processo de validação adotado e dados referentes ao mesmo, além das lições aprendidas a partir do processo realizado junto aos clientes em potencial. O modelo de negócios descreve a lógica de criação, entrega e captura de valor por parte de uma organização. Para ser de fácil descrição, validação e adaptação, comumente é representado por meio de quadros de uma página contendo minimamente os segmentos de clientes, a proposta de valor, a solução e o problema que ela resolve, os canais de comunicação e distribuição, as fontes de receita, a estrutura de custos e as métricas-chave."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | PROTOTIPAÇÃO  DO  PRODUTO,  SERVIÇO  OU  PROCESSO  E AVALIAÇÃO POR CLIENTES",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Orientar os empreendedores na etapa de desenvolvimento de protótipo para demonstrar a solução e proposta de valor para os clientes potenciais, registrando as lições aprendidas e insights obtidos com o experimento e as alterações necessárias no modelo de negócios\n Testar e avaliar protótipo com clientes potenciais. O protótipo em questão pode ser um protótipo não funcional, caso não seja possível testar com o protótipo funcional\n O protótipo é um modelo preliminar de um produto, serviço ou processo, que razoavelmente represente a solução real e que possa servir como uma prova de conceito para potenciais clientes, de modo que possa ajudar os clientes a visualizar a solução e validar se de fato ela irá resolver o problema deles. Um protótipo representa o mínimo da solução pretendida e visa reduzir o desperdício, além de facilitar o processo de validação do modelo de negócio pela captura da reação do potencial cliente ao ter contato com o protótipo. Protótipo pode ser um vídeo, um teaser, rascunhos das telas, mock ups de hardwares ou até mesmo a realização manual de um serviço pretendido, de modo que o experimento possa ser realizado e testado. Os feedbacks recebidos nesse contato com potenciais clientes contribuem para identificar os requisitos para o produto mínimo viável e para validar o modelo de negócio proposto.",
+      "entrega": "Relatório de atendimentos com os protótipos utilizados e as lições aprendidas a partir da validação junto aos clientes em potencial. No caso de mídias, estas devem ser mencionadas no relatório e o upload deve ser realizado em plataforma de arquivos web."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | DISCURSO  DE  VENDA  E  DE  PARCERIAS  QUE  POSSIBILITE  A DEFESA DO NEGÓCIO PRONTO",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Orientar e qualificar os empreendedores para realizar discurso de venda do seu produto ou serviço inovador e/ou de parcerias para potenciais atores ou investidores e inserir o empreendimento em evento ou ação em que se possa realizar esse discurso de venda e receber feedbacks para o seu amadurecimento\n em formulário plataforma arquivos web,",
+      "entrega": "Upload do vídeo do discurso de venda realizado juntamente em: de com https://datasebrae.com.br/sebraetec-negociosinovadores (este formulário é um dos produtos/evidências das entregas da etapa 04 e só deve ser preenchido ao final do atendimento realizado pela incubadora ou aceleradora ao pequeno negócio inovador ou projeto de impacto). O discurso de venda e/ou de parcerias é uma apresentação de curta duração que mostra os benefícios da solução a um potencial cliente ou investidor, bem como angariar parcerias com atores do mercado com o objetivo de fazê-los se interessar pela ideia, produto ou serviço. disponível"
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual é a atividade ou área de atuação da empresa?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "A empresa está formalizada e possui CNPJ? Caso não, a empresa teria interesse em cadastrar seu negócio como Empresa Simples de Inovação, no âmbito do (https://www.gov.br/empresas-e-negocios/pt- br/inova-simples)? Inova Simples",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "É um empreendimento de impacto socioambiental?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Se for um empreendimento de impacto socioambiental, por favor informe os Objetivos de Desenvolvimento Sustentável (ODS) atendidos pelo seu produto ou serviço.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Quais são os serviços e produtos ofertados?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Qual é o porte da empresa (MEI, ME, EPP)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Descreva qual a sua ideia/projeto de produto ou serviço, tendo como base algum problema ou oportunidade de mercado identificada",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "Descreva quais tecnologias estão associadas ao seu produto ou serviço.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "Descreva qual o panorama do mercado em que pretende atuar. 5 Ficha Técnica – Sebraetec 4.0",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "Descreva como pretende se inserir no mercado e diferenciar-se de outros competidores.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "11",
+      "pergunta": "Descreva qual o modelo pretendido de geração de receita e sustentabilidade do negócio.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "12",
+      "pergunta": "A empresa já captou algum recurso para desenvolvimento do produto ou serviço objeto deste trabalho.",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "observacoesGerais": "",
+  "observacoesEspecificas": "",
+  "versaoAtual": 1,
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "05/07/2022",
+      "alteradoPor": "Negócio-GI42002-1-1.pdf Negocio-GI42002-2.pdf Negocio-GI42002-3.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "31/10/2022",
+      "alteradoPor": "Guila Calheiros"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "03/04/2023",
+      "alteradoPor": "Krishna Faria"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "34009-2",
+  "nomeSolucao": "CONSULTORIA PARA IMPLANTAÇÃO DE UMA UNIDADE DE PROCESSAMENTO DE MATÉRIA ORGÂNICA - COMPOSTAGEM",
+  "tema": "Sustentabilidade",
+  "subtema": "Resíduos",
+  "tipoServico": "Acesso a Serviço Tecnológico",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócios",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 00 | ALINHAMENTO DA PROPOSTA E DIAGNÓSTICO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico. Ferramentas como entrevista com o cliente são importantes como forma de obter informações necessárias para fundamentara entrega proposta",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 01 | DIAGNÓSTICO DA ESTRUTURA DA EMPRESA",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Concepção da empresa, área a ser utilizada e localização • Descrição do Meio Físico, Biótico e Socioeconômico • Análise da Legislação, Resoluções, Normas técnicas e requisitos aplicados ao manejo de Resíduos Sólidos e Meio ambiente • Caracterizarão da matéria-prima e do material-base para compostagem a. Resíduos Agrícolas Vegetais b. Resíduos Zootécnicos c. Resíduos de Zonas urbanas d. Resíduos de Indústria Agroalimentares e. Resíduos de outras Indústrias f. Lodos de Estações de Tratamento e Águas residuais g. Resíduos Lenhosos e Celulósicos h. Biomassas aquáticas • Elaboração do Relatório Técnico contendo o Diagnóstico da estrutura da empresa e o Tipo de Sistema de Compostagem dos Resíduos Sólidos orgânicos que será projetado.",
+      "entrega": "Relatório Técnico contendo o diagnóstico da estrutura da empresa, caracterização dos resíduos gerados e o tipo de Sistema de Compostagem dos Resíduos Sólidos orgânicos que será projetado."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | – DESENVOLVIMENTO DO PROJETO TÉCNICO | RELATÓRIO DOS PROCEDIMENTOS",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Dimensionamento do Mapeamento dos equipamentos e sistemas de compostagem a serem utilizados para a atingir finalidade da compostagem definida na Etapa 01 • Dimensionamento do Sistema de Compostagem dos Resíduos Sólidos orgânicos para a produção de Composto orgânico na propriedade/empresa • Concepção do Projeto do Sistema de Compostagem dos Resíduos Sólidos orgânicos, contendo: Equipamentos, áreas, instalações, Processos/Etapas da Compostagem, Procedimentos operacionais do sistema de compostagem, Mapeamento de Saúde e Segurança na operação e Mão de obra a ser utilizada • Elaboração do Memorial Descritivo do Sistema de Compostagem dos Resíduos Sólidos orgânicos • Definição da investigação dos parâmetros da composição química dos compostos a serem produzidos a. Análise Física: Umidade, densidade real e aparente, granulometria e conteúdo total de contaminantes b. Análise Química: Micronutrientes (Zn, Cu, Fe, Mn, Mo, B e Cl), Macronutrientes (N, K, Ca, Mg, P e S) e metais pesados tóxicos (As, Cd, Cr, Hg, Pb) • Formas de monitoramento da qualidade da água e parâmetros a serem avaliados • Análise de Viabilidade Técnica e Econômica • Cronograma de implantação • Inclusão de Anotação de Responsabilidade Técnica - ART junto ao Conselho de Classe Profissional e Geração de boleto para pagamento ao pagamento pelo Cliente.",
+      "entrega": "Relatório técnico contendo o mapeamento dos equipamentos e sistemas de compostagem a serem utilizados, resultado da análise física e química; análise de viabilidade técnica e econômica e plano de ação para a implementação do projeto."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 03 | – REUNIÃO DE ENTREGA E APRESENTAÇÃO DO PROJETO",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Apresentação do Projeto do Sistema de Compostagem dos Resíduos Sólidos orgânicos e do plano de ação para a implementação do projeto.",
+      "entrega": "Relatório dos procedimentos operacionais contendo o projeto do sistema de compostagem dos resíduos sólidos orgânicos, memorial descritivo do Sistema de Compostagem dos Resíduos Sólidos orgânicos, e ART do responsável pela elaboração, mediante assinatura no Termo de Aceite da entrega."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual a disponibilidade de resíduos orgânicos na propriedade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Qual a produção desejada de composto?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Qual a área de cultivo a ser utilizado o composto?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Qual a localização da fazenda?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Produtores orientados quanto a: • Instalação de uma unidade de Processamento de Matéria Orgânica – Compostagem • Técnicas de processamento da matéria orgânica disponível e destinar resíduos orgânicos ao processo de reaproveitamento que ainda diminui a pressão sobre os aterros sanitários, visto que a solução vai ao encontro à Política Nacional de Resíduos Sólidos (PNRS). • Transformação das características do material em produtos ricos em nutrientes como o fertilizante orgânico composto.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho do prestador de serviço\n 3. Proceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade e que estão no objeto deste Termo de Adesão\n4. Empenhar-se para viabilizar a execução das ações planejadas e promover a participação e o envolvimento de sua equipe de colaboradores\n5. Informar, fornecer e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n6. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n7. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n8. Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n9. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Cumprir todas as etapas previstas no plano inicial do projeto, garantindo que todas as etapas serão sucedidas por suas respectivas entregas\n3. Realizar todas as etapas sem custo adicional\n4. Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n5. Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n6. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n7. Cumprir o prazo estabelecido com o produtor para realização de todas as etapas do projeto.",
+  "perfilDesejadoPrestadora": "Corpo Técnico formado por profissionais com formação na área de tecnologia Agrícola ou Engenheiros Agrônomos.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nProdutor Rural com DAP e/ou NIRF As consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo\nAs visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários propostos pela consultoria\nCaso o produtor opte por realizar qualquer procedimento não condizente com o prescrito pelo consultor, o mesmo deverá declarar a intenção no relatório técnico e isentar o prestador do serviço e o SEBRAE de qualquer responsabilidade\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nCustos de trabalhos não especificados na proposta poderão ser assumidos posteriormente mediante Termo Aditivo ao contrato do Sebrae, desde que aprovados por ambas as partes\nDespesas adicionais com fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho; (direitos autorais, terceiros É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "23/05/2019",
+      "alteradoPor": "Compostagem-R34009-1.pdf Compostagem-R34009-2.pdf Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "17/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 11000.0,
+  "codigo": "371440100431"
+}

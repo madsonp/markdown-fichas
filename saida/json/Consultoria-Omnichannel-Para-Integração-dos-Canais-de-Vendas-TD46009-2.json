@@ -1,0 +1,74 @@
+{
+  "id": "46009-2",
+  "nomeSolucao": "CONSULTORIA OMNICHANNEL PARA CANAIS DE VENDAS INTEGRAÇÃO DOS",
+  "tema": "Desenvolvimento Tecnológico",
+  "subtema": "Transformação Digital",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócio, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 00 | FASE INICIAL - SEBRAE E EMPRESA DEMANDANTE",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Atendimento inicial para alinhamento da descrição da demanda e avaliação do perfil do cliente • Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e • Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | SPRINT DE ALINHAMENTO (MINDSET) Reunião de alinhamento sobre a condução do trabalho. Nesta reunião deverão ser tratados os seguintes itens • Estratégias e métricas de crescimento com os sócios / investidores do negócio • Métrica de vendas dos produtos/serviços por canal • Levantamento das necessidades do negócio, a partir da imersão nos objetivos estratégicos do cliente • Recursos disponíveis para investimento no omnichannel e qualificação das pessoas envolvidas • Planejamento dos trabalhos.",
+      "entrega": "Ata da Reunião e Cronograma de execução."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | SPRINT DIAGNÓSTICO DOS CANAIS DE VENDAS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Diagnóstico da organização e do mercado alvo, incluindo aspectos como • Definição dos Canais de Tração • Mapeamento onde vem as vendas hoje • Levantamento dos 3 melhores canais da empresa • Calculo dos KPIs por canal (CAC, LTV, TX Conversão de Leads e Ticket Médio) • Elaboração do relatório.",
+      "entrega": "Relatório do Diagnóstico Inicial."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | SPRINT PESSOAS E PROCESSOS DE OMNICHANNEL",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Projeto detalhado, com planejamento dos serviços e das ações a serem implementados para tecnologias digitais. Podem estar inclusos nesta sprint os seguintes itens • Definição do cálculo de ROI do Omnichannel • Definição de verbas para mídia por canais: (Facebook Ads, AdWords, LinkedIn de Canais físicos outbound) • Configuração das ferramentas de análise: (Ex: analytics, pixel do facebook, google search console etc; WA Business) • Processo e Vendas • Como é o seu processo de vendas hoje? (Field, Inside e Self? Usa CRM?) • Existe equipe de vendas e/ou pré-vendas • É calculado o Custo de Aquisição de Cliente • Existe previsibilidade nas vendas • Quais são as metas • Qual é a taxa de fechamento de Leads em Vendas",
+      "entrega": "Framework de priorização de canais de vendas x resultados obtidos no Omnichannel."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | SPRINT FECHAMENTO E AVALIAÇÃO DE RESULTADOS",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião para validação e entrega do Relatório.",
+      "entrega": "Ata da Reunião. Os documentos a serem gerados pela prestação de serviços e que deverão ser entregues ao Sebrae estão identificados no edital vigente do Programa Sebraetec."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "Oferecer planos de ação para a divulgação e comercialização de serviços e produtos em meio online, ampliando mercados e melhorando a rede de relacionamentos das empresas.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta\n2. Participar da reunião de alinhamento do trabalho e das demais reuniões previamente marcadas, conforme cronograma aprovado\n3. Disponibilizar um responsável para fornecer as informações e fazer o acompanhamento de todo o serviço\n4. Fornecer os requisitos e demais informações necessárias à entidade executora para o desenvolvimento do trabalho\n5. Participar da reunião de entrega dos resultados\n6. Validar o Relatórios Final Nota: É obrigatório a empresa demandante responder as pesquisas do SEBRAE.",
+  "responsabilidadePrestadora": "1. Realizar reunião para colher informações e apresentar os detalhes da execução do trabalho previsto\n2. Analisar a demanda, a estratégia e o mercado alvo\n3. Fazer um diagnóstico dos recursos tecnológicos e de capacitação existentes, registrando em um relatório a situação observada\n4. Preparar um Projeto Detalhado, com orientações que levem em conta a realidade da empresa e seus objetivos\n 5. Realizar reunião presencial com a demandante para apresentar o diagnóstico e o Projeto detalhado\n6. Entregar os documentos nas versões impressa e digital ao Sebrae e a empresa cliente\n7. Cumprir todos os prazos e agendas estabelecidas",
+  "perfilDesejadoPrestadora": "Corpo Técnico formado por analistas, desenvolvedores e especialistas em marketing e mídias digitais com experiência em serviços online.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nA consultoria não inclui a produção de informações técnicas necessárias ao consumidor de modo a se atender requisitos legais\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. ",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "07/08/2019",
+      "alteradoPor": "Omnichannel-Para-Integração-dos- Canais-de-Vendas-TD46009-1.pdf Omnichannel-Para-Integração-dos- Canais-de-Vendas-TD46009-2.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "13/04/2020",
+      "alteradoPor": "Liza Myrella"
+    }
+  ],
+  "valorTeto": 5000.0,
+  "codigo": "371440100473"
+}

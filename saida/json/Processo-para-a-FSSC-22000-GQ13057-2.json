@@ -1,0 +1,106 @@
+{
+  "id": "13057-2",
+  "nomeSolucao": "PROCESSO PARA A FSSC 22000",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Acesso a Serviço Tecnológico",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Indústria, Agronegócio, Comércio e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "A FSSC 22000 é uma norma criada pela Foundation for Food Safety Certification composta pela norma ISO 22000, pelas especificações técnicas específicas do setor trabalhado (indústria de alimentos, embalagens, serviço de alimentação, produção animal, etc) e outros requisitos adicionais, como o food defense e o food froud. A FSSC 22000 foi criada para atender a Global Food Safaty Initiative (GFSI), fundação que reúne algumas das maiores empresas do setor de alimentos a. Atendimento inicial para alinhamento da descrição da demanda (Motivação para a implantação dos procedimentos especificados na FSSC 22000) e obtenção de certificado referente) e avaliação do perfil do cliente b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço Observação: É imprescindível que a empresa tenha os procedimentos de Boas Práticas e o Sistema APPCC devidamente implementados para iniciar as atividades de adequação à FSSCC 22000.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | AVALIAÇÃO INICIAL",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Reunião de alinhamento dos objetivos do cliente, serviços e entregas do consultor • Avaliação da situação da empresa no uso dos programas de pré-requisitos (Boas Práticas específicas ao setor avaliado e Sistema APPCC – é imprescindível que a empresa tenha as Boas Práticas e o Sistema APPCC implantados para o início da consultoria de implantação dos procedimentos da FSSC 22000) e procedimentos específicos da FSSC 22000, fazendo uso de uma lista de verificação ou outra metodologia. | Avaliação inicial dos procedimentos da Norma.",
+      "entrega": "Cronograma de execução e Avaliação procedimentos da Norma. Inicial dos"
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | CONSULTORIA PARA IMPLANTAÇÃO DOS PROCEDIMENTOS DA FSSC 22000",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "1) ISO 22000:2018: liderança; planejamento; apoio; operação; avaliação de desempenho; melhoria 2) Programa de pré-requisitos específico para o setor: por exemplo: TS 22002-1 (indústria de alimentos); TS 22002-2 (serviço de alimentação); TS 22002-3 (agricultura); TS 22002-4 (embalagens para alimentos); TS 22002-5 (transporte de armazenamento de alimentos); TS 22002-6 (alimentos para animais) 3) Requisitos adicionais a. Gestão de serviços b. Rotulagem do produto c. Defesa dos alimentos d. Prevenção da fraude em alimentos e. Uso do logotipo f. Gestão de alérgenos g. Monitoramento ambiental h. Formulação de produtos (apenas para alimentos para cães e gatos) i. Gestão dos recursos naturais (apenas para produção animal) 4) Elaboração e implantação dos procedimentos relacionados aos requisitos adicionais da norma 5) Entrega dos documentos da qualidade elaborados durante a consultoria. | Documentos elaborados 6) Reavaliação da situação da empresa, para caracterizar o progresso obtido no uso dos procedimentos da FSSC 22000. | Avaliação final das dos procedimentos da Norma Nota: Se combinado previamente, podem ser entregues exclusivamente em meio eletrônico.",
+      "entrega": "Documentos da qualidade elaborados e Avaliação final dos procedimentos da FSSC 22000, construídos de acordo com a norma ISO 22000, a TS específica da empresa trabalhada e os programas adicionais (descritos nos itens anteriores, 1 ao 3)."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Interesse em aperfeiçoar a gestão da empresa e inovar seus produtos, processos e serviços, inclusive certificação de processos e produtos.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Interesse em expandir seus negócios.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Alguma capacidade de investimento.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Regularização empresarial de acordo com seu enquadramento (ex. certidões e alvará em dia);",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Ter CNPJ;",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Pertencer a categoria: a. Indústrias de alimentos de qualquer origem. b. Indústrias de bebidas. ",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Designar um responsável para atender à Executora e fornecer as informações necessárias ao trabalho.",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Preparar empresas de micro e pequeno porte que trabalhem direta ou indiretamente com alimentos visando à obtenção de certificado de atendimento à FSSC ISSO 22000, gerando notoriedade e reconhecimento pelo mercado.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta\n2. Participar da reunião de alinhamento do trabalho e das demais reuniões previamente marcadas, conforme cronograma aprovado\n 3. Disponibilizar um responsável para acompanhamento de todo o serviço\n4. Fornecer as informações necessárias às executoras para o desenvolvimento do trabalho\n5. Obedecer às orientações dadas para a implantação dos procedimentos da Norma na empresa\n6. Participar da reunião de entrega dos resultados\nNota: É obrigatório a empresa demandante responder as pesquisas do SEBRAE",
+  "responsabilidadePrestadora": "1. Realizar reunião para colher informações e apresentar os detalhes da execução do trabalho previsto\n2. Executar as ações de diagnóstico, registrando em relatórios a situação observada\n3. Apresentar ao empresário a situação encontrada, incluindo as evidências e recomendações para melhoria, junto com um Plano de Ações\n4. Entregar os documentos nas versões impressa e digital à empresa cliente e digital ao SEBRAE\n5. Cumprir todos os prazos e agendas estabelecidas\nNOTA: OBRIGATORIEDADE DA ENTIDADE EXECUTORA Considerar no mínimo os aspectos e informações constantes nesta ficha técnica.",
+  "perfilDesejadoPrestadora": "Comprovar competência técnica na prestação de serviços de consultoria para implantação dos procedimentos da FSSC 22000 em indústrias de alimentos e/ou serviços de alimentação. O quadro técnico da empresa deverá comprovar a existência de profissionais na área de engenharia de alimentos, produção, química ou agronômica; nutrição; biologia; medicina veterinária ou tecnologia de alimentos.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "13/09/2019",
+      "alteradoPor": "Mayra Monteiro Viana"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "15/04/2020",
+      "alteradoPor": "Vanessa dos Santos Oliveira Coordenação Sebraaetec"
+    }
+  ],
+  "valorTeto": 8500.0,
+  "codigo": "371440100498"
+}

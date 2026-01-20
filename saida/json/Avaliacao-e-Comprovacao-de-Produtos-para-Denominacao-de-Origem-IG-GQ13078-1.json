@@ -1,0 +1,72 @@
+{
+  "id": "13078-1",
+  "nomeSolucao": "AVALIAÇÃO E COMPROVAÇÃO DE PRODUTOS PARA DENOMINAÇÃO DE ORIGEM IG",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Acesso a Serviço Tecnológico",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA E DIAGNÓSTICO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços composto do plano de trabalho e diagnóstico de problema e/ou necessidades de análise por DNA em culturas agrícolas. Definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora do serviço tecnológico O escopo do serviço pode ser direcionado para o manejo integrado de doenças ou para certificação de origem geográfica por análises de DNA.",
+      "entrega": "Plano de trabalho contendo objetivos das análises e planejamento de coleta de amostras, agenda de reuniões, definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 2 | REALIZAÇÃO DAS ANÁLISES DE DNA",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Objetivo – Identificar bactérias e fungos presentes nas amostras de solo ou de tecidos vegetais usando tecnologia de ponta de sequenciamento de DNA e análise bioinformática Metodologia: A partir do DNA, são amplificados os genes 16S rRNA (para análise de bactérias) e ITS (para análise de fungos) por meio da plataforma Illumina. As sequências genéticas obtidas são processadas e comparadas a bancos de dados de fungos e bactérias para a identificação e quantificação das espécies presentes na amostra.",
+      "entrega": "Relatório assinado pelo consultor contendo as informações técnicas, bem como as informações colhidas pelo consultor junto ao produtor no decorrer das reuniões."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 3 | APRESENTAÇÃO TÉCNICA DOS RESULTADOS",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião remota ou presencial para apresentação dos resultados das análises de DNA, focada no objetivo do cliente visando um plano de manejo integrado de doenças ou certificação de origem geográfica da cultura agrícola instalada.",
+      "entrega": "Relatório final com as ações implementadas, plano de ação de melhorias e declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual a localização das culturas. ",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Qual o objetivo/problema encontrado pelo produtor.",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "1. Consultoria tecnológica com foco na análise de doenças agrícolas por DNA entregando Plano de manejo integrado de doenças 2. Consultoria tecnológica com foco na certificação de origem geográfica da cultura agrícola instalada por análise de DNA.",
+  "estruturaMateriais": "Visita e/ou deslocamento para coleta de amostras, tubos de amostragem e espátulas coletora\n",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho do prestador de serviço\n3. Proceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade\n4. Empenhar-se para viabilizar a execução das ações planejadas e promover a participação e o envolvimento de sua equipe de colaboradores\n5. Informar, colaborar e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n6. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n7. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n8. Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n9. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Cumprir todas as etapas previstas no plano de trabalho inicial do projeto, garantindo que todas as etapas serão sucedidas por suas respectivas entregas\n3. Realizar todas as etapas estabelecidas no plano de trabalho\n4. Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n5. Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n6. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n7. Cumprir o prazo estabelecido com o produtor para realização de todas as etapas do projeto.",
+  "perfilDesejadoPrestadora": "Quadro profissional composto por Biológos, Biotecnologos, Bioinformatas e Engenheiros Agrônomos ou áreas afins.",
+  "observacoesGerais": "",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "08/08/2024",
+      "alteradoPor": "Denominacao-de-Origem-IG- GQ13078-1.pdf"
+    }
+  ],
+  "valorTeto": 1180.0,
+  "codigo": "372000096913"
+}

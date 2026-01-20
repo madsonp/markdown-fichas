@@ -1,0 +1,37 @@
+{
+  "id": "45006-2",
+  "nomeSolucao": "REQUERIMENTO DE PROTEÇÃO - CULTIVARES",
+  "tema": "Desenvolvimento Tecnológico",
+  "subtema": "Propriedade Intelectual",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócio, Comércio, Indústria e Serviços",
+  "descricao": "ETAPA ÚNICA | ALINHAMENTO DA PROPOSTA E EXECUÇÃO DO SERVIÇO • Realizar reunião para alinhamento da demanda, objetivos, premissas e restrições do serviço. • Realizar cadastro no CultivarWeb. • Emitir Guia de Recolhimento da União (GRU) e verificar se a empresa demandante realizou o pagamento. • Preencher o Requerimento de proteção, que abrange os documentos: a) Formulário de relatório técnico; b) Formulário de descritores mínimos; c) Instrumento de procuração; d) Fotografias da cultivar. ENTREGAS: 1. Documento contendo os responsáveis pela prestação do serviço; o escopo do serviço e outros aspectos acordados entre as partes; cópia dos documentos em meio digital e cópia do protocolo; assinado pela empresa demandante. 2. Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas.",
+  "etapas": [],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "Cultivar é a variedade de qualquer gênero ou espécie vegetal superior que seja claramente distinguível de outras cultivares conhecidas por margem mínima de descritores, por sua denominação própria, que seja homogênea e estável quanto aos descritores através de gerações sucessivas e seja de espécie passível de uso pelo complexo agroflorestal, descrita em publicação especializada disponível e acessível ao público, bem como a linhagem componente de híbridos. O Registro Nacional de Cultivares (RNC) é realizado junto ao Ministério da Agricultura, Pecuária e Abastecimento (Mapa). O RNC tem por finalidade habilitar previamente cultivares e espécies para a produção e a comercialização de sementes e mudas no País. Pré-requisitos para a Empresa Demandante: É preciso que o produtor Homogeneidade e Estabilidade (DHE). tenha realizado os testes de Distinguibilidade,",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Possuir Assinatura Eletrônica\n2. Aprovar a proposta do Sebrae, valores e condições de pagamento\n3. Conhecer e validar a proposta de trabalho e as entregas da prestadora de serviço\n4. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n5. Fornecer informações técnicas sobre os produtos à prestadora de serviço para o desenvolvimento do trabalho\n6. Acompanhar a prestadora de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n7. Realizar o pagamento da GRU em tempo hábil\n8. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Elaborar Termo de Confidencialidade e Sigilo com a empresa demandante\n2. Realizar reunião para alinhamento e apresentação das atividades previstas\n3. Analisar a demanda e as informações fornecidas pela empresa demandante\n4. Elaborar proposta, escopo de trabalho, cronograma das entregas, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\n5. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n6. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n7. Orientar o empresário quanto ao processo de acompanhamento do pedido após depósito.",
+  "perfilDesejadoPrestadora": "- -",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nO pagamento da taxa é de responsabilidade d empresa demandante e seu valor não está incluso na consultoria\nÉ vedado o serviço de acompanhamento continuado do processo junto ao SNPC/Ministério da Agricultura\nOs valores dos honorários apresentados pela prestadora de serviço devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nDespesas adicionais com fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo da empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho. (direitos autorais, terceiros É de responsabilidade da prestadora de serviço todo o trabalho, da concepção à aprovação da empresa demandante\nA prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "22/02/2019",
+      "alteradoPor": "Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "13/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 3888.0,
+  "codigo": "371440100479"
+}

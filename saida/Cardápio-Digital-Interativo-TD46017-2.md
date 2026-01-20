@@ -1,0 +1,293 @@
+Código da ficha técnica: 46017-2
+
+CARDÁPIO DIGITAL INTERATIVO
+
+1.  Tema
+
+Desenvolvimento Tecnológico.
+
+2.  Subtema
+
+Transformação Digital.
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros.
+
+4.  Tipo de serviço / Instrumento
+
+Consultoria Tecnológica / Acesso a Serviços Tecnológicos.
+
+5.  Modalidade
+
+A distância
+
+6.  Público alvo
+
+MEI, ME e EPP
+
+7.  Setor indicado
+
+Comércio e Serviço
+
+8.  Macrossegmento
+
+Alimentação fora do lar, bares e restaurantes
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+Briefing  com  o  cliente,  para  nivelamento  do  escopo  do  trabalho,  contendo
+necessidades, requisitos e restrições; e validação do planejamento de execução dos
+serviços; composto de cronograma resumido com agendas de reuniões e definição
+dos  responsáveis  pelo  acompanhamento  dos  serviços  por  parte  do  cliente  e  da
+prestadora de serviço tecnológico.
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46017-2
+
+As seguintes informações são coletadas nesta Etapa 01:
+
+Informações sobre a empresa;
+Informações sobre o mercado da empresa;
+Informações sobre os produtos/serviços da empresa;
+Informações sobre os clientes;
+
+•
+•
+•
+•
+•  Expectativas do cliente assessorado.
+
+ENTREGA DA ETAPA 01: Briefing.
+
+ETAPA 02 | DESENVOLVIMENTO DO CARDÁPIO DIGITAL QUE UTILIZA COMO
+BASE UM SISTEMA DE GESTÃO DE CONTEÚDO
+
+Realizar  consultoria  para  desenvolvimento  do  Cardápio  Digital  com  Sistema  de
+Gestão de Conteúdo.
+
+Os profissionais utilizarão as informações do briefing para a sua criação.
+
+Características do Sistema de Gestão de Conteúdo, quando aplicáveis:
+
+•  Seleção da plataforma que será utilizada;
+•  O  Sistema  deve  apresentar  a  possibilidade  de  alteração  para  três  tipos  de
+moedas e/ou tradução instantânea em 3 idiomas via API do Google Tradutor:
+Português - Inglês - Espanhol.
+
+•  Deve  permitir  edição  dos  dados  da  empresa:  Logomarca,  Nome  do
+Restaurante,  Release  sobre  o  Restaurante,  Site,  Endereço,  Facebook,
+Instagram, WhatsApp;
+
+•  Deve dispor de no mínimo 05 (cinco) opções de cores;
+•  Deve permitir a inserção, edição ou exclusão de produtos com foto;
+•  Deve permitir a inserção ou exclusão de categorias dos pratos;
+•  Deve  permitir  a  inserção,  edição  ou  exclusão  de  usuários  com  acesso  ao
+
+Gestor do sistema;
+
+•  Deve contemplar formulário de avaliação, sugestão ou críticas em plataformas
+
+online; (inserir a link para envio via WhatsApp);
+
+•  Deve contemplar sistema de delivery com carrinho de compras integrado ao
+
+WhatsApp;
+
+•  Deve  permitir  integração  de  forma  de  pagamentos  link  das  plataformas
+
+(mercado pago e/ou pague seguro e/ou pic pay);
+
+•  Delivery pode ser ativado/desativado via gestor de acordo com a necessidade
+
+do Cliente.
+
+A  empresa  Prestadora  de  Serviço  Tecnológico  também  deve  fornecer  a  arte  dos
+adesivos  para  mesas  com  o  QR  Code  personalizado  no  formato  PDF  pronto  para
+impressão.
+
+ENTREGAS DA ETAPA 02:
+
+•
+
+Imagens  do  Cardápio  Digital  com  Sistema  de  Gestão  de  Conteúdo  em
+funcionamento, com link para acesso;
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46017-2
+
+•  Arte dos adesivos para mesas com o QR Code personalizado no formato PDF
+
+pronto para impressão.
+
+ETAPA 03 | TREINAMENTO PARA USO DO CARDÁPIO DIGITAL COM SISTEMA
+DE GESTÃO DE CONTEÚDO
+
+Realizar treinamento junto ao Cliente para utilização do Cardápio Digital com Sistema
+de Gestão de Conteúdo, com entrega de Manual do Usuário.
+
+ENTREGA DA ETAPA 03: Manual do Usuário.
+
+10. Benefícios e resultados esperados
+
+A utilização do Cardápio Digital com Sistema de Gestão de Conteúdo pode levar a
+empresa a obter uma significativa ampliação de mercado.
+
+11. Estrutura e materiais necessários
+
+O  atendimento  das  empresas  se  dá  em  aplicativos  de  comunicação  instantânea  e
+ambientes de videoconferência.
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+2.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+da prestadora de serviço;
+
+3.  Disponibilizar agenda prévia para realização das reuniões virtuais e aplicação
+
+das ferramentas, práticas sugeridas.
+
+4.  Fornecer informações técnicas sobre os seus processos, produtos ou serviços
+
+à prestadora de serviço para o desenvolvimento do trabalho;
+
+5.  Avaliar o serviço prestado;
+6.  O Cliente deverá enviar as fotografias dos produtos e pratos.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Analisar  as
+
+informações
+
+fornecidas  pelas  empresas  demandantes
+
+previamente ao início do atendimento;
+
+2.  Elaborar proposta, escopo de trabalho, cronograma das etapas do trabalho,
+agenda  de  reuniões  virtuais  e  atividades,  sendo  necessário  validar  com  o
+Sebrae;
+
+3.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae;
+
+4.  Cumprir com as obrigações previstas no Regulamento do Sebraetec;
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46017-2
+
+14. Perfil desejado da prestadora de serviço
+
+É  recomendável  que  a  empresa  Prestadora  de  Serviço  Tecnológico  disponha  de
+profissionais  com  competência  em  programação  e  marketing  digital,  com
+habilidade na realização de consultoria à distância.
+
+15. Pré-diagnóstico
+
+•  Em que setor(es) a empresa melhor se enquadra?
+•  Em que segmento(s) a empresa melhor se enquadra?
+•  Qual a quantidade aproximada de pratos e/ou produtos servidos?
+
+16. Observações
+
+1.  As reuniões virtuais devem acontecer em ambientes de videoconferência, tais
+como  as  seguintes  ferramentas  de  mercado:  Teams,  Zoom,  Meet  Google,
+Whereby.  Utilizar  o  ambiente  no  qual  foi  adquirida  a  licença  e  que  está  em
+conformidade com as políticas de segurança da informação;
+
+2.  As  interações  das  empresas  devem  acontecer  em  aplicativos  de  trocas
+
+instantâneas, assim como WhatsApp e Telegram;
+
+3.  Na  impossibilidade  de  os  atendimentos  serem  contratados  e  assinados
+fisicamente pela empresa demandante, os mesmos poderão ser via assinatura
+digital,  aceite  eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá
+manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e
+esta deverá incluir o comprovante de validação da empresa demandante nas
+entregas para o registro do atendimento;
+
+5.  Despesas  adicionais  com
+
+4.  Os  valores  dos  honorários  apresentados  pela  prestadora  de  serviço  devem
+incluir  todas  as  despesas  com  impostos  e  encargos  sociais,  conforme
+legislação tributária em vigor, que possa incidir sobre o objeto da proposta;
+terceiros
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico,  entre  outros)  ficam  a  cargo  exclusivo  da  empresa  demandante  e
+devem ser previamente autorizadas por ela durante a validação da proposta
+de trabalho;
+
+(direitos  autorais,
+
+6.  É de responsabilidade da prestadora de serviço todo o trabalho, da concepção
+
+à aprovação da empresa demandante.
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46017-2
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+1
+
+25/09/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2021/03/Cardápio-
+Digital-Interativo-TD46017-1.pdf
+
+2
+
+31/03/2021
+
+https://datasebrae.com.br/wp-
+content/uploads/2021/03/Cardápio-
+Digital-Interativo-TD46017-2.pdf
+
+Responsável
+
+Liza Myrella
+Cavalcante Melo
+Bádue
+
+Wagner Cezar
+Ayres Carvalho
+Glauco Nunes
+Rafero Barboza
+
+Liza Myrella
+Cavalcante Melo
+Bádue
+
+Wagner Cezar
+Ayres Carvalho
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+

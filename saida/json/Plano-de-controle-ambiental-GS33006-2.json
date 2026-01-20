@@ -1,0 +1,110 @@
+{
+  "id": "33006-2",
+  "nomeSolucao": "PLANO DE CONTROLE AMBIENTAL",
+  "tema": "Sustentabilidade",
+  "subtema": "Gestão da Sustentabilidade",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | REUNIÃO DE ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Alinhamento dos objetivos do Cliente e entregas do Consultor mediante análise do Termo de Referência emitido pelo órgão licenciador competente • Definição do escopo de atendimento tendo como base o Termo de Referência (TR) emitido para o empreendimento pelo órgão licenciador • Conferência e recebimento da documentação da empresa (ver nos Pré- requisitos da Ficha Técnica) e Projeto básico de concepção do empreendimento, contendo Informações técnicas sobre a localização e espaço utilizado, projetos arquitetônicos e georreferenciamento, memoriais descritivos, informações técnicas de equipamentos e tecnologia empregada, mão-de-obra nas fases do projeto, avaliação de público mercado e dados de produção esperada • A descrição do projeto e suas alternativas tecnológicas e locacionais, especificando para cada um deles, nas fases de construção e operação a área de influência, as matérias primas, e mão-de-obra, as fontes de energia, os processos e técnicas operacionais, os prováveis efluentes, emissões, resíduos e perdas de energia, os empregos diretos e indiretos a serem gerados • Encaminhamentos de ações e prazos do Cliente e do Consultor • Elucidar questões referentes a quitação de taxas e emolumentos referente ao processo de licenciamento (taxas de licenças ambientais, Anotação de Responsabilidade Técnica, taxa de publicações em periódicos, análises laboratoriais, laudos técnicos e impressões dos Volumes e documentos da entrega).",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | ELABORAÇÃO DO PLANO DE CONTROLE AMBIENTAL – PCA",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "O PCA deverá conter seguir o seguinte sumário de apresentação Identificar o Empreendedor • Apresentar a Empresa Consultora e Equipe Técnica responsável pela elaboração do PCA • Caracterizar o Empreendimento ✓ Informações gerais, projetos, dados técnicos, etc\n• Diagnóstico Ambiental ✓ Características gerais do local do empreendimento ✓ Recursos ambientais existentes (vegetação, recursos hídricos, condição do terreno, etc.) • Prognóstico Ambiental ✓ Identificar nas fases, etapas e ações do empreendimento (causas), aquilo que possa causar impacto ambiental (efeito) • Medidas Mitigadoras e de Controle ✓ Relacionar as ações que serão adotadas para evitar, minimizar ou compensar os impactos anteriormente relatados • Cronograma Físico de implantação do empreendimento ✓ Especificar fases, etapas e prazos previstos para cada qual) • Conclusão ✓ Manifestação fundamentada do empreendedor/consultoria sobre a viabilidade do empreendimento, considerando a legislação vigente e o projeto em questão • Referências Bibliográficas • Anexos ✓ Plantas, mapas, anotação de responsabilidade técnica, etc.",
+      "entrega": "• Relatório Técnico Final contendo o Plano de Controle Ambiental, bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos), oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões; • Anotação de Responsabilidade Técnica – ART do Responsável pela elaboração; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Quantos funcionários aproximadamente a empresa possui?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "A empresa já dispõe de Manual de Gestão Ambiental?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "A empresa dispõe de um representante da direção responsável pela Gestão Ambiental?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "A empresa possui uma Política Ambiental conhecida pelos seus colaboradores e público?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "A empresa já dispõe de PPRA?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Qual é a área total construída do seu empreendimento em metros quadrados?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Qual a área total do terreno, em metros quadrados?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "O cliente possui licença ambiental?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "O cliente atende a legislação ambiental?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Identificar os aspectos e impactos ambientais gerados pela atividade; • Diminuir/controlar os impactos ambientais decorrentes da instalação e da operação do empreendimento Pré-requisitos para a empresa demandante: Empresas: • Cópia atualizada da Matrícula do Imóvel. • Cópia autenticada* do Contrato de Aluguel. • Cópia autenticada* do Alvará de Funcionamento (empreendimentos que já estão em operação). • Certidão de Uso e Ocupação do Solo. • Cópia do CNPJ e Inscrição Estadual. • Cópia autenticada* de documentos pessoais (RG e CPF) do Representante legal. • Cópia autenticada* do Contrato Social ou Certidão Simplificada emitida pela Junta Comercial, e no caso de empresas por cotas limitadas (LTDA) ou cópia da Ata da última assembleia onde se definiu a Diretoria, no caso das Sociedades Anônimas. • Demais documentos que o órgão licenciador julgar necessário, conforme Termo de Referência expedido. • Responsabilidade pela quitação de taxas e emolumentos referente ao processo de licenciamento (taxas de licenças ambientais, Anotação de Responsabilidade Técnica, taxa de publicações em periódicos, análises laboratoriais, laudos técnicos, inspeções de campo, acompanhamento e monitoramento dos impactos). • Responsabilidade pela contratação de serviços fora do escopo de atendimento da solução e requeridos pelo órgão licenciador. • Responsabilidade de promover a realização de audiência pública para informação sobre o projeto e seus impactos ambientais, caso do órgão licenciador julgue necessário.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho do prestador de serviço\n3. Validar o escopo das etapas do diagnóstico e/ou da consultoria\n4. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n5. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n6. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos\n7. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta de trabalho, validar com a Empresa Demandante e encaminhar para o Sebrae\n4. Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n5. Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n6. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissional individual ou em equipe multidisciplinar com, recomendavelmente, formação acadêmica nas áreas de Meio ambiente e/ou Sustentabilidade, como as Engenharias ambiental, Agronômica, Agrícola, Química, Sanitária e Florestal; Ciências Biológicas, Ecologia, Geografia, Antropologia, Sociologia e áreas afins, com Registro do profissional no Conselho de Classe\nDeve-se comprovar experiência com elaboração de Plano de Controle Ambiental – PCA, através de atestado de capacidade técnica ou por outro material informado pelo Sebrae.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento; O pagamento da ART é de responsabilidade da empresa prestadora do serviço\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "21/02/2019",
+      "alteradoPor": "Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "17/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 4788.0,
+  "codigo": "371440100425"
+}

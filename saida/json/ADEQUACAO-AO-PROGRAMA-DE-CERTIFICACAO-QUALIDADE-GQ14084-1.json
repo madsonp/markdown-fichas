@@ -1,0 +1,51 @@
+{
+  "id": "14084-1",
+  "nomeSolucao": "ADEQUAÇÃO AO PROGRAMA DE CERTIFICAÇÃO QUALIDADE ABSOLAR",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Conduzir uma reunião inicial com a empresa solicitante para definir o escopo do trabalho. Nessa reunião, o prestador de serviço deverá confirmar a categoria e escopo para qual a empresa está se candidatando à certificação, além de estabelecer o plano de execução dos serviços conforme as demandas específicas, elaborando cronograma com as principais atividades, agendas de reunião e marcos de entrega A utilização de instrumentos pré-diagnóstico durante o encontro com o cliente é fundamental para obter as informações necessárias para embasar a proposta de entrega.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, categoria e escopo do serviço, plano de ação com cronograma das atividades e outros aspectos acordados entre as partes, assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO E PLANO DE AÇÃO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar diagnóstico da empresa no âmbito da certificação, levando em conta as particularidades pertinentes a cada categoria e nível • análise documental da empresa demandante • análise documental e verificação da qualificação dos profissionais e equipe técnica • avaliação do sistema de gestão da qualidade, se existente • avaliação das atividades e processos de operação da empresa • verificação de procedimentos e registros de controle • verificação dos processos de avaliação de desempenho e ações de melhoria contínua Elaborar relatório com a devolutiva do diagnóstico e plano de ação com cronograma para tratar as principais lacunas.",
+      "entrega": "Relatório do diagnóstico, com o plano de ação e cronograma do desenvolvimento das ações."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | CONSULTORIA DE ADEQUAÇÃO",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Com base no diagnóstico e plano de ação elaborado na etapa anterior, deve-se orientar a empresa para o processo de implantação dos requisitos do Programa de Qualidade ABSOLAR conforme categoria e nível. As atividades essenciais nesta etapa são • orientar e acompanhar o cumprimento do plano de trabalho, bem como auxíliar na análise e tratamento das não conformidades idenificadas • apoiar na elaboração da documentação necessária • dar suporte para definição dos processos, procedimentos e registros essenciais • orientar a implementação dos requisitos aplicáveis • orientar o tratamento das não-conformidades no processo e processo de melhoria contínua • Realizar simulação de auditoria • Analisar resultados • Orientar as adequações finais • Dar suporte à empresa demandante no cadastramento da solicitação de adesão ao Programa de Certificação Qualidade ABSOLAR",
+      "entrega": "Relatório técnico final contendo a descrição das atividades realizadas, procedimentos e documentos elaborados, resultados obtidos (podendo incluir registros fotográficos), recomendações de próximos passos para a empresa, conclusões e, se necessário, detalhamento das pendências que ficaram a cargo do empresário. O documento final deve conter uma declaração, assinada pela empresa contratante, atestando o recebimento das entregas efetuadas pelo prestador de serviço."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "A consultoria visa auxiliar as empresas na adequação de suas práticas aos requisitos estabelecidos pelo Programa de Certificação Qualidade gerido pela ABSOLAR (Associação Brasileira de Energia Solar Fotovoltaica), disponível em https://www.certificacaoabsolar.org.br/certificacao/. O programa cria um diferencial para as empresas do setor, proporcionando mais segurança aos atores e consumidores, ao verificar e atestar que uma empresa específica possui capacidade para realizar apropriadamente a operação de energia solar fotovoltaica. A certificação estabelece exigências particulares aos distribuidores, importadores, instaladores, integradores, operadores, fabricantes, gestores de energia compartilhada e empresas de treinamento. As empresas certificadas têm como benefícios o reconhecimento de suas competências pelo mercado, o que gera uma vantagem competitiva, ampliando as oportunidades de negócios. Gera também aumento da credibilidade e confiança por parte de potenciais investidores. Além de impactar na redução de custos, pois ao atender aos requisitos a empresa oferta serviços executados por profissionais qualificados, de forma mais eficiente, com menor risco falhas técnicas, o que leva a menores custos operacionais.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "• Aprovar a proposta do Sebrae, valores e condições de pagamento\n• Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n• Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n• Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n• Apresentar toda a documentação necessária para participação no programa\n• Acompanhar a prestadora de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n• Avaliar o serviço prestado\n",
+  "responsabilidadePrestadora": "• Realizar reunião para alinhamento e apresentação das atividades previstas\n• Analisar a demanda e as informações fornecidas pela empresa\n• Elaborar proposta, escopo de trabalho, cronograma das etapas do trabalho, agenda de reuniões e atividades\n• Fornecer todas as entregas previstas nesta ficha, validadas pela empresa demandante, ao Sebrae\n• Cumprir com as obrigações previstas no Regulamento do Sebraetec e contratação.",
+  "perfilDesejadoPrestadora": "É necessário que o profissional conheça o Programa Certificação Qualidade ABSOLAR, tenha experiência na implantação dos requisitos da certificação e tenha formação em áreas correlatas ao tema. Técnico e/ou superior completo, preferencialmente Engenharia; Curso auditor líder e registro (IRCA/RAC ou outro)\nCursos na área fotovoltaica; desejável 2 anos em auditoria de produto (ISO/IEC 17065) ou SGQ (ISO 17021) em escopo afim.",
+  "observacoesGerais": "Preço máximo sugerido R$9.000,00",
+  "historicoAlteracoes": [],
+  "codigo": "372000113102"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "42004-3",
+  "nomeSolucao": "DESENVOLVIMENTO DE NEGÓCIOS INOVADORES – TRAÇÃO E ESCALA NO MERCADO",
+  "tema": "Desenvolvimento Tecnológico",
+  "subtema": "Gestão da Inovação",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Agronegócios, Comércio, Indústria e Serviços",
+  "descricao": "Este serviço visa apoiar empreendimentos ou empresas nascentes que já possuem um modelo de negócio maduro e com potencial de crescimento rápido através de um processo estruturado de oferta de mentoria, conexões e treinamentos e do acesso a crédito ou investimento por meio de fundos ou de capital de risco. O atendimento deve ser um processo essencialmente prático e colaborativo entre instrutores, usando metodologias, empreendedores, mentores, investidores e serviços e práticas orientadas para empreendimentos com produtos/serviços intensivos no uso de tecnologia, os quais visam preparar a empresa para executar processos efetivos de tração e escala do negócio. Para serem atendidas, as empresas precisam possuir um protótipo, produto, ou serviço ou processo inovador desenvolvido e já comercializado ou em uso por clientes. O atendimento deverá ser realizado em cronograma definido na etapa 01, sendo estimada uma duração de até 4 meses.",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto à Empresa Demandante, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte da Empresa Demandante e da Prestadora de Serviços.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO E PLANO DE AÇÃO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar um diagnóstico que avalia quatro dimensões: modelo de negócios; produtos e operações; marketing e vendas; e desenvolvimento organizacional. O diagnóstico deve identificar os principais desafios e construir um plano de ação para cada dimensão, focado em impulsionar e aumentar a maturidade do empreendimento Assim como, definir os objetivos a serem atingidos durante o atendimento, as principais métricas a serem acompanhadas e discussão sobre pontos de ajuda que o prestador pode oferecer. É com base nesse plano de ação que as atividades são realizadas durante o atendimento Ao final do atendimento um novo diagnóstico deverá ser aplicado, a fim de avaliar a evolução do negócio.",
+      "entrega": "Plano de ação do empreendimento contendo as ações a serem realizadas ao longo do processo de aceleração, assim como as métricas de evolução do projeto."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | DESENVOLVIMENTO DO NEGÓCIO INOVADOR",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Serão realizadas reuniões semanais de acompanhamento do desempenho do empreendimento e coordenação das atividades de orientação, mentoria, validação e suporte técnico e operacional. Nestas sessões de acompanhamento, devem ser identificadas as necessidades específicas de cada projeto, realizar mentorias, orientar estratégias de capacitação e questões tecnológicas que possam contribuir com o desenvolvimento acelerado do negócio, permitindo que o mesmo escale no mercado O atendimento fornecerá um suporte intelectual aos participantes, por meio de mentorias individuais para cada empreendimento, que serão programadas de forma antecipada e alinhada, em função das necessidades identificadas no plano de ação O trabalho de atendimento nesta etapa consiste no apoio e mentoria no desenvolvimento das quatro dimensões diagnosticadas ▪ Modelo de negócios: proposta de valor; clientes, canais e segmentos parcerias, atividades e recursos chave; estrutura de custos e fontes de receitas ▪ Produto e Operações: roadmap de tecnologia; processos de produção / operação; e processos de gestão ▪ Marketing e Vendas: conquista, fidelização e aumento de clientes; marketing para geração de leads; estruturação do processo de vendas; OKR, métricas & Metas ▪ Desenvolvimento Organizacional: propósito e impacto; cultura organizacional plano para crescimento e investimento.",
+      "entrega": "Relatório de atendimentos contendo o registro das atividades desenvolvidas e a evolução do negócio."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | ACESSO A CRÉDITO E INVESTIMENTOS",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Preparar os empreendedores através de qualificação e mentoria para participarem de eventos e atividades que deem visibilidade ao negócio e permitam a conexão com potenciais investidores e clientes Inserir o empreendimento em pelo menos um evento de demoday onde o empreendimento possa realizar um discurso de venda e demonstrar todo o aprendizado do atendimento e que está maduro para entregar soluções para o mercado.",
+      "entrega": "Relatório de atendimentos contendo o registro das ações de captação realizadas, o registro do evento de demoday e upload do vídeo do discurso realizado em plataforma de arquivos web, disponível em: de venda https://datasebrae.com.br/sebraetec-negociosinovadores (este formulário é um dos produtos/evidências das entregas da etapa 04 e só deve ser preenchido ao final do atendimento realizado pela incubadora ou aceleradora ao pequeno negócio inovador ou projeto de impacto)."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual é a atividade ou área de atuação da empresa?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "É um empreendimento de impacto socioambiental?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Se for um empreendimento de impacto socioambiental, por favor informe os Objetivos de Desenvolvimento Sustentável (ODS) atendidos pelo seu produto ou serviço.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Quais são os serviços e produtos ofertados?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Qual é o porte da empresa (MEI, ME, EPP)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Descreva qual a sua ideia/projeto de produto ou serviço tendo como base algum problema ou oportunidade de mercado identificada",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Descreva quais tecnologias estão associadas ao seu produto ou serviço.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "Descreva qual o panorama do mercado em que pretende atuar.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "Descreva como pretende se inserir no mercado e diferenciar-se de outros competidores.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "Descreva qual o modelo pretendido de geração de receita e sustentabilidade do negócio.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "11",
+      "pergunta": "A empresa já captou algum recurso para desenvolvimento do produto ou serviço objeto deste trabalho.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "12",
+      "pergunta": "A empresa possui produto ou serviço comercializado ou em uso por clientes? inovador desenvolvido e já",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "BENEFÍCIOS: • Consolidação do modelo de negócio, alinhando proposta de valor do empreendimento através de metodologias e estratégias que auxiliam no ajuste dos produtos, serviços e processos aos desejos do mercado/cliente. • Tornar a visão de mercado mais sistêmica por meio do estudo de fatores externos que podem influenciar nas ações do projeto, trazendo novas possibilidades ao empreendimento.",
+  "estruturaMateriais": "Ter plataforma e empreendedores no ambiente virtual\nferramentas tecnológicas para interação e apoio aos",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Executar as atividades propostas pela abordagem com o suporte do consultor\n6. Avaliar o serviço prestado\n7. Para o desenvolvimento do serviço, é necessário o engajamento dos líderes da empresa, a alocação de recursos e tempo de trabalho das pessoas envolvidas\n",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Entidades gestoras de incubadoras de empresas e aceleradoras de negócios que atendam aos seguintes requisitos\nEquipe • Corpo técnico formado por no mínimo 02 profissionais de nível superior, com domínio sobre os processos de: (i) atendimento a novos negócios inovadores\n(ii) elaboração de conceitos e modelos de negócios; (iii) realização de mentorias de desenvolvimento de negócios; (iv) desenvolvimento de modelos de venda e de parcerias; (v) apoio ao desenvolvimento de produtos e serviços\n(vi) orientação na captação de recursos; (vii) conexão entre negócios e investidores; e (viii) realização de eventos de demoday; (ix) inovação aberta\n(x) internacionalização; e (xi) venture capital\nExperiência • Ter experiência em serviços de aceleração de negócios\n• Declarações de pelo menos 10 empreendimentos graduados ou acelerados pela prestadora, dentro dos últimos 3 anos\nObservação • Entende-se por ACELERADORAS DE NEGÓCIOS: mecanismo de apoio a empreendimentos ou empresas nascentes que já possuem um modelo de negócio consolidado e com potencial de crescimento rápido. Possuem conexões com empreendedores, investidores, pesquisadores, empresários, mentores de negócios e fundos de investimento, e oferecem benefícios que podem incluir mentoria, avaliação, treinamentos, crédito ou investimento por meio de fundos ou de capital de risco\n• Entende-se por INCUBADORAS DE EMPRESAS: organização ou estrutura que objetiva estimular ou prestar apoio logístico, gerencial e tecnológico ao empreendedorismo inovador e intensivo em conhecimento, com o objetivo de facilitar a criação e o desenvolvimento de empresas que tenham como diferencial a realização de atividades voltadas à inovação.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nDespesas adicionais com terceiros (direitos autorais, fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [],
+  "valorTeto": 30000.0,
+  "codigo": "372000054672"
+}

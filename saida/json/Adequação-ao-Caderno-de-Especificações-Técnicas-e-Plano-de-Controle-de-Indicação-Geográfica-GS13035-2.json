@@ -1,0 +1,64 @@
+{
+  "id": "13035-2",
+  "nomeSolucao": "ADEQUAÇÃO AO CADERNO DE ESPECIFICAÇÕES TÉCNICAS E PLANO DE CONTROLE DE INDICAÇÃO GEOGRÁFICA",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócios, Indústria, Comércio e Serviços.",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto à empresa demandante, para nivelamento sobre o escopo do trabalho, alinhamento sobre os requisitos do Caderno de Especificações Técnicas e Plano de Controle da Indicação Geográfica a qual a empresa está vinculada, validação do planejamento e do cronograma de execução dos serviços e definição dos responsáveis pelo acompanhamento dos serviços por parte da empresa demandante O Caderno de Especificações Técnicas é o documento elaborado pelos produtores ou prestadores de serviço, estabelecidos no local ou região, que descreve as características do produto ou serviço, a forma de obtenção do produto ou da prestação de serviço e os mecanismos de controle, como condição do uso do nome geográfico reconhecido O Plano de Controle, estabelecido pelo Conselho Regulador da IG, descreve os procedimentos, incluindo os agentes e recursos, para controlar os produtores ou prestadores de serviço e produtos ou serviços, em obediência às normas contidas no Caderno de Especificações Técnicas.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Visita à demandante para avaliação das condições de produção/prestação de serviço e do produto/serviço em relação aos requisitos do Caderno de Especificações Técnicas e do Plano de Controle da Indicação Geográfica. Informações possíveis de serem levantadas na empresa demandante e analisadas, observada a especificidade de cada caso • localização geográfica da produção, conforme demarcação da área da IG • produto - características físicas, químicas, organolépticas, microbiológicas, matéria-prima utilizada e demais detalhes e informações que imprimem diferencial ao produto da IG • produção agrícola: sistema de manejo, processos específicos de plantio, condução e colheita, pós-colheita, variedade autorizadas, limites de produção por hectare, etc • produção pecuária: manejo do rebanho, alimentação, raças permitidas, forma de produção e acondicionamento, tempo de maturação, etc • artesanatos ou manufaturados, podem ser detalhados, como exemplo, a matéria-prima a ser utilizada, os modelos de produtos, etc • prestação de serviços: pode incluir as etapas do processo, do método ou do desempenho da atividade, incluindo as matérias-primas, se for o caso.",
+      "entrega": "Relatório contendo a descrição do produto e da sua forma de produção ou prestação de serviço e o resultado da análise do atendimento dessas condições aos requisitos do Caderno de Especificações Técnicas e do Plano de Controle da IG. Plano de ação e cronograma do desenvolvimento das ações necessárias para adequação do processo produtivo e do produto ou prestação de serviços ao Caderno de Especificações Técnicas e ao Plano de Controle da IG."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | CONSULTORIA",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Com base no resultado do diagnóstico (Etapa 02), realizar consultoria para fornecimento de informações técnicas à empresa demandante para adequação do seu processo produtivo ou prestação de serviços conforme Caderno de Especificações Técnicas da IG e orientação sobre implementação do Plano de Controle. Monitoramento e acompanhamento da implantação das medidas propostas no plano de ação.",
+      "entrega": "Relatório final com descrição das atividades executadas, resultados obtidos (inclusive com registros fotográficos), recomendações, conclusões e, se for o caso, as não conformidades ainda identificadas em relação ao Caderno de Especificações Técnicas e ao Plano de Controle da IG, orientando a empresa na implementação das ações necessárias, assinado pela empresa demandante."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "As indicações Geográficas e sua proteção estão previstas na Lei de Propriedade Industrial – Lei nº 9.279, de 14 de maio de 1996. As condições para o registro são estabelecidas pelo Instituto Nacional da Propriedade Industrial (INPI), por meio da Instrução Normativa INPI nº 95/2018, de 28 de dezembro. A Indicação Geográfica (IG) é um nome geográfico que identifica um produto ou serviço como originário de uma área geográfica delimitada quando determinada qualidade, reputação ou outra característica é essencialmente atribuída a essa origem geográfica. A Indicação Geográfica no Brasil se divide em duas espécies: • INDICAÇÃO DE PROCEDÊNCIA (IP) É o nome geográfico de localidade ou região que se tenha tornado conhecido como centro de extração, produção ou fabricação de determinado produto ou de prestação de determinado serviço. • DENOMINAÇÃO DE ORIGEM (DO) É o nome geográfico de país, cidade, região ou localidade de seu território, que designe produto ou serviço cujas qualidades ou características se devam exclusiva ou essencialmente ao meio geográfico, incluídos fatores naturais e humanos. • apresentar um produto/serviço diferenciado ao mercado; • melhorar a qualidade do produto/serviço da empresa; • acessar mercados de nicho; • estar inserido numa ação coletiva de preservação dos ativos intangíveis da região; • estar inserido numa ação coletiva de promoção dos produtos/serviços diferenciados da região; • estar apto a utilizar o selo da IG.",
+  "estruturaMateriais": "É necessário que a Indicação Geográfica esteja registrada no Instituto Nacional da Propriedade Industrial (INPI). Consultar Indicações Geográficas registradas em\nhttp://www.inpi.gov.br/menu-servicos/indicacao-geografica/pedidos-de-indicacao- geografica-no-brasil ",
+  "responsabilidadeEmpresaDemandante": "• Disponibilizar para a prestadora de serviço o Caderno de Especificações Técnicas e o Plano de Controle da Indicação Geográfica\n• Participar da reunião de alinhamento do trabalho e demais reuniões previamente marcadas conforme cronograma\n• Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n• Aprovar a proposta do Sebrae, valores e condições de pagamento\n• Disponibilizar agenda prévia para visitas, reuniões, capacitações e atividades propostas pela prestadora de serviço\n• Acompanhar a prestadora de serviço quando em visita aos espaços físicos da propriedade/empresa\n• 5. Disponibilizar um responsável para acompanhar a prestadora de serviço em toda a execução do trabalho previsto\n• Fornecer as informações técnicas necessárias sobre os processos, produtos ou serviços executados para o desenvolvimento do trabalho\n• Comprometer-se com a execução das orientações e melhorias propostas na consultoria\n• Avaliar o serviço prestado. Responder a pesquisa realizada pelo Sebrae • Reportar ao Sebrae qualquer problema encontrado durante o atendimento.",
+  "responsabilidadePrestadora": "1. Realizar reunião de alinhamento e apresentação das atividades previstas na proposta\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do trabalho, agendas de reuniões e demais atividades, sendo necessário validar com a empresa demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae 5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Experiência e conhecimento no segmento específico do produto/serviço da Indicação Geográfica; em gestão da qualidade e no controle e gestão de Indicações Geográficas",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nOs itens analisados no diagnóstico e as atividades de consultoria para adequação dos produtos/serviços e processos de produção são estabelecidos conforme o Caderno de Especificações Técnicas e o Plano de Controle da Indicação Geográfica. O serviço não contempla a criação, revisão ou adequação do Caderno de Especificações Técnicas e Plano de Controle da IG.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "19/07/2019",
+      "alteradoPor": "Técnicas-e-Plano-de-Controle-de- Indicação-Geográfica-GS13035-1.pdf Técnicas-e-Plano-de-Controle-de- Indicação-Geográfica-GS13035-2.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "15/04/2020",
+      "alteradoPor": "Amanda Emanuele"
+    }
+  ],
+  "codigo": "371440100277"
+}

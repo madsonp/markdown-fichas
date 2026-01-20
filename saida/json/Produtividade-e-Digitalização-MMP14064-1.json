@@ -1,0 +1,71 @@
+{
+  "id": "14064-1",
+  "nomeSolucao": "PRODUTIVIDADE E DIGITALIZAÇÃO",
+  "tema": "Produção e Qualidade.",
+  "subtema": "Mapeamento e Melhoria de Processos.",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Agronegócio, Indústria, Comércio e Serviço.",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | DIAGNÓSTICO LEAN E MENSURAÇÃO DO ESTADO PRESENTE",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar repasse técnico remoto introduzindo os princípios da manufatura enxuta e ferramentas de mensuração dos desperdícios em ambientes produtivos, abordando ferramentas de diagnóstico presentes na metodologia lean • Realizar orientação e mentoria remota à distância com os clientes, de modo a estabelecer um entendimento inicial da situação da empresa • Aplicar questionário a fim de entender a maturidade das empresas com relação às ferramentas do lean manufacturing • Mapear fluxo produtivo com o intuito de identificar as oportunidades de melhoria no processo da empresa e definir possíveis planos de ação • Apoiar a empresa na identificação dos desperdícios produtivos.",
+      "entrega": "• Questionário respondido com diagnóstico inicial da empresa; • Relatório de marco zero definindo: produto e área piloto, equipe de melhoria contínua, objetivos principais da Consultoria e restrições ou riscos identificados, mapeamento completo do processo; tempos de ciclo e divisão das atividades; planos de ação."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | PLANO DE AÇÃO - PROJETAR PROCESSOS ENXUTOS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar repasse técnico remoto com enfoque em ferramentas lean que auxiliem na implementação efetiva e eficaz das melhorias identificadas • Algumas das ferramentas a serem abordadas: Desenho de célula voltado para aumento de produtividade; Yamazumi; Diálogo de Desempenho; 5s; métricas e KPI’s • Orientar empresários e outros responsáveis da empresa na aplicação das ferramentas no setor piloto previamente escolhido • Orientar de forma eficiente a identificação da causa de um determinado problema, bem como sua mitigação a partir de planos de ação eficientes e bem estruturados • Promover meios que visem a sustentabilidade das melhorias dos projetos • Visita as instalações da empresa para acompanhamento do Plano de Ação.",
+      "entrega": "Relatório contendo: plano de ação estruturado contemplando as ferramentas a serem aplicadas pela empresa no processo piloto."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | PLANO DE AÇÃO - PROJETAR PROCESSOS DIGITALIZADOS",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar repasse técnico remoto com enfoque nos principais conceitos e tendências da indústria digital, por meio de imersão digital na Fábrica Modelo Brasil • Realizar mentoria remota, na empresa, para definição customizada da trajetória digital • Visita as instalações da empresa demandante para aplicação de metodologia de avaliação da maturidade digital da empresa com as oportunidades tecnológicas identificadas.",
+      "entrega": "• Avaliação de Maturidade da empresa; • Relatório Final da Consultoria; • Plano de Ação estruturado com Pacotes de Serviços Tecnológicos a serem percorridos pela empresa, no intuito de atingir o Estado Futuro Projetado. Os seguintes conteúdos serão abordados durante a Consultoria: • Princípios e história do Lean Manufacturing; • Ferramentas de Diagnóstico (Análise de Valor Agregado; Análise de Deslocamento; VSM; 8 Desperdícios); • Ferramentas de Alavancagem da Produtividade; • TIP (Tactical Implementation Plan); • Objetivos da Transformação Digital; • Evolução da Indústria até o 4.0; • Desafios da Era Digital; • Desperdícios Digitais; • Apresentação do Estado Digital 4.0."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Em que setor(es) a empresa melhor se enquadra?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Em que segmento(s) a empresa melhor se enquadra?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "A filosofia do lean manufacturing ou produção enxuta alinhada aos conceitos da Indústria 4.0 conduzirão os negócios para eliminação dos desperdícios nos sistemas produtivos. São potenciais benefícios da Consultoria: Identificação de desperdícios; • Disseminação de boas práticas inerentes ao lean manufacturing; • Elaboração de plano de ação com foco no aumento da produtividade; • Qualificação dos funcionários envolvidos na filosofia Lean; • Sensibilização da empresa nos conceitos da Indústria 4.0; • Aprendizagem experimental nas tecnologias e laboratórios da Instituição; • Mapeamento e priorização das atividades; • TIP (Tactical Implementation Plan) com ações que gerem ganhos para empresa.",
+  "estruturaMateriais": "• Laboratório prático-didático que possua a flexibilidade de apresentar diferentes estágios de maturidade tecnológica, possuindo uma célula produtiva para realização dos repasses técnicos remotos que contenha\nsensores de movimento que representem Poka-yokes digitais; bancadas com realidade aumentada; câmera de visão computacional para realização de testes de qualidade; procedimentos digitais; pick to light; Leitores RFID\ndashboards digitais\n• Câmeras com conexão com a internet\n• Licença de software que permita a transmissão do repasse técnico e interação entre os participantes\n• Microfones\n• Materiais digitais para acompanhamento, como apostilas e formulários.",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n 2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para os repasses técnicos, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para as orientações e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar cronograma das etapas do projeto, agenda de orientações e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "A Prestadora de Serviço deve apresentar, em seu corpo técnico, profissionais com experiência e conhecimento sobre Lean Manufacturing e Indústria 4.0. Também é requisito fundamental a existência de laboratório que possibilite a simulação de processos reais de uma indústria para fins de maior compreensão por parte dos participantes da Consultoria.",
+  "observacoesGerais": "A ficha forma técnica será aplicada de (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e- mails). No momento da contratação a empresa demandante deverá ser comunicada que o serviço acontecerá de forma remota, com duas visitas presenciais do consultor às instalações da empresa. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico; remota Na impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento; Despesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo da empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho; (direitos autorais, É de responsabilidade da prestadora de serviço todo o projeto, da concepção à aprovação da empresa demandante\nA prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante. Versão Data",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "10/09/2020",
+      "alteradoPor": "Carlos Henrique"
+    }
+  ],
+  "valorTeto": 5000.0,
+  "codigo": "372000000467"
+}

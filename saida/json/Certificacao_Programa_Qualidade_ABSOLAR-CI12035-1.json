@@ -1,0 +1,49 @@
+{
+  "id": "12035-1",
+  "nomeSolucao": "CERTIFICAÇÃO CONFORME PROGRAMA QUALIDADE ABSOLAR",
+  "tema": "Produção e Qualidade",
+  "subtema": "Certificação/Inspeção",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Conduzir uma reunião inicial com a empresa contratante para estabelecer o escopo do serviço, marcar a data da auditoria e estabelecer quem será o responsável pelo acompanhamento, tanto por parte da empresa contratante quanto pela prestadora de serviço Confidencial Código da ficha técnica: 12035-1 Nesta etapa, é essencial definir junto a empresa demandante: a categoria e o nível que a empresa busca certificação, as instalações que farão parte do escopo e o número de colaboradores É necessário, neste momento, verificar se a empresa requerente está ciente do possibilidade de não obter o certificado, caso não atenda aos requisitos da norma.",
+      "entrega": "O prestador de serviço deve formalizar para a contratante as datas acordadas, incluindo os prazos para o envio de documentos, os prazos para a análise documental, as datas das visitas de auditoria, o nome do responsável pela execução da auditoria, o escopo do serviço, o cronograma das atividades, além de outros pontos acordados entre as partes. O organizsmo certificação deverá encaminhar ao solicitante o plano de auditoria, sendo necessária a aprovação do mesmo, com pelo menos 2 dias de antecedência da data da auditoria."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | AUDITORIAS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Executar a auditoria de verificação de conformidade com os requisitos do Programa Qualidade ABSOLAR, de acordo com a categoria aplicável, com o objetivo de obter a certificação ou a manutenção.",
+      "entrega": "• Relatório final de auditoria, apresentando e ponderando as conformidades e não conformidades identificadas, devidamente assinado pela empresa solicitante. • Declaração de Conformidade emitida pelo Programa de Certificação Qualidade ABSOLAR, nos casos em que an empresa atendeu aos requisitos. • Declaração emitida pela empresa solicitante confirmando o recebimento da entrega prevista pela empresa certificadora."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "A certificação no programa cria um diferencial para as empresas do setor, proporcionando mais segurança aos atores e consumidores, ao verificar e atestar que uma empresa específica possui capacidade para realizar apropriadamente a operação de energia solar fotovoltaica. A certificação estabelece exigências particulares aos distribuidores, importadores, instaladores, integradores, operadores, fabricantes, gestores de energia compartilhada e empresas de treinamento. As empresas ceritficadas têm como benefícios o reconhecimento de suas competências pelo mercado, o que gera uma vantagem competitiva, ampliando as oportunidades de negócios. Gera também aumento da credibilidade e confiança por parte de potenciais investidores. Além de impactar na redução de custos, pois ao atender aos requisitos a empresa oferta serviços executados por profissionais qualificados, de foma mais eficiente, com menor risco falhas técnicas, o que leva a menores custos operacionais.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n5. Apresentar toda a documentação exigida\n6. Acompanhar a prestadora de serviço durante a visita de auditoria, dando acesso aos espaços físicos, documentos e equipe, se previsto no escopo do trabalho\n7. Ter realizado previamente a adequação aos requisitos da certificação requerida, sendo a obtenção da certificação pretendida não garantida pelo Sebrae nem pela prestadora de serviço\n8. Declarar a veracidade de informações, de maneira responsável e transparente\n9. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar as informações fornecidas pela empresa\n3. Elaborar documento com as datas e prazos acordados com a empresa demandante\n4. Proporcionar os devidos esclarecimento dos processos de auditoria junto à empresa demandante, bem como: realizar o agendamento; realizar a prestação do serviço; comunicar o resultado; e emitir e entregar o certificado (em caso de atendimento aos requisitos)\n5. Fornecer todas as entregas previstas nesta ficha, validadas pela empresa demandante, ao Sebrae\n6. Cumprir com as obrigações previstas no Regulamento do Sebraetec e contratação.",
+  "perfilDesejadoPrestadora": "Os processos do programa de Certificação Voluntária Qualidade ABSOLAR são conduzidos por organismos de certificação tradicionais da avaliação de conformidade, que atendem a critérios de designação estabelecidos pela ABSOLAR. Podem ser consultados na página: https://www.certificacaoabsolar.org.br/organismos-designados/",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados pela prestadora de serviço devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta. terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo da empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho. (direitos autorais, É de responsabilidade da prestadora de serviço todo o trabalho descrito nesta ficha\nA prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante\nEsse serviço não contempla as consultorias para a adequação do sistema de gestão da qualidade da empresa demandante\nO período de validade do certificado é de 03 (três) anos\nA auditoria de manutenção deve ocorrer anualmente para que a empresa mantenha sua certificação\nOs valores dos honorários apresentados pela prestadora de serviço devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária vigente, que possa incidir sobre o objeto da proposta\nApós o prazo de 28/02/2026 não serão admitidas novas adesões para processos de certificação para o nível A e AA. Confidencial",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "18/07/2025",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 9000.0,
+  "codigo": "372000113097"
+}

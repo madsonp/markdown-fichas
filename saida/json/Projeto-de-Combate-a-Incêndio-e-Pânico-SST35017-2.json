@@ -1,0 +1,143 @@
+{
+  "id": "35017-2",
+  "nomeSolucao": "PROJETO DE COMBATE A INCÊNDIO E PÂNICO",
+  "tema": "Sustentabilidade",
+  "subtema": "Saúde e Segurança no Trabalho",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio, Comércio e Indústria",
+  "descricao": "Consultoria para auxiliar a empresa no requerimento dos atos administrativos necessários para obtenção do Alvará de prevenção de combate a incêndio e pânico, compreendendo os documentos e possíveis estudos e projetos complementares. ",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente para nivelamento do escopo do trabalho apresentando todas as demais etapas a serem desenvolvidas e os prazos para realização de cada etapa • Definição da pessoa responsável pela disponibilização das informações necessárias e acompanhamento dos trabalhos por parte do cliente e da prestadora de serviço tecnológico • Caracterização do empreendimento de acordo com a sua atividade • Determinação da carga de incêndio • Análise do empreendimento e do enquadramento desse junto à legislação vigente, bem como a definição dos documentos a serem necessários para adequação Identificação do tipo de projeto de segurança a ser empregado na empresa, conforme LEI FEDERAL Nº 13.425, DE 30 DE MARÇO DE 2017 e Leis estaduais e municipais de combate a incêndio e pânico",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço e o cronograma de atividades, assinados pela empresa e pelo contratado."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | COLETA DE DADOS NA EMPRESA",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realização de coleta de dados junto a empresa para posterior elaboração de projeto de incêndio e pânico conforme legislações (federais, estaduais e municipais) e orientações do Corpo de Bombeiros Militar, onde as mais relevantes estão descritas abaixo • Coleta de informações do cartão CNPJ da empresa • Dimensões físicas da empresa • Número de funcionários • Valor da edificação • Valor do conteúdo da edificação • Esboço da alocação dos preventivos de incêndio • Identificação de possíveis materiais combustíveis armazenados na empresa",
+      "entrega": "Entrega das Taxas a serem pagas (TASEG)."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | ELABORAÇÃO DO PROJETO PSCIP",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Elaboração de documentos necessários para solicitação de avaliação de projeto de incêndio e pânico junto ao corpo de bombeiros • Elaboração de Folhas de desenhos conforme exigências das legislações e do Corpo de Bombeiros Militar, podendo abranger por exemplo o Detalhes dos preventivos; situação, locação (implantação), cobertura, separação entre edificações, acesso de viatura, controle de materiais de acabamento, revestimento; saídas de emergência, extintores, sinalização de emergência, iluminação de emergência, hidrantes e incêndio mangotinhos, alarme de incêndio; detecção de compartimentação horizontal, compartimentação vertical e chuveiros automáticos; demais sistemas; entre outros aspectos necessários.",
+      "entrega": "Os documentos elaborados serão impressos e disponibilizados ao corpo de bombeiros para análise do projeto sendo emitido com isso um protocolo que irá ser enviado ao cliente via digital."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | ACOMPANHAMENTO DO PROJETO",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Uma vez o projeto protocolado as atividades subsequentes estão voltadas para o acompanhamento do processo junto ao corpo de bombeiros para sanar as possíveis solicitações de ajustes pelo órgão competente.",
+      "entrega": "Nessa etapa não existem entregas físicas, apenas a prestação de possíveis esclarecimentos referente as dúvidas existentes pelo cliente."
+    },
+    {
+      "id": "e5",
+      "titulo": "ETAPA 05 | ENTREGA DO PROJETO APROVADO",
+      "ordem": 5,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Sanadas todas os ajustes solicitados (Caso ocorrerem) os projetos são impressos e disponibilizado ao cliente em formato digital (PDF) e uma via física, todos devidamente assinados juntamente com o certificado de aprovação do projeto emitido pelo corpo de bombeiros.",
+      "entrega": "Entrega física e digital de todos os documentos emitidos e devidamente assinados: • Folhas de desenhos necessárias; • ART devidamente assinada pelo responsável técnico; • Certificado de aprovação do projeto devidamente assinado e carimbado pelo corpo de bombeiros, ou quando da demora da aprovação por parte do corpo de bombeiros será necessário a comprovação da entrega do protocolo de solicitação ao Corpo de Bombeiros. Assim como o compromisso, por escrito, da Empresa Prestadora de Serviço de atuar em possíveis alterações que o Corpo de Bombeiros solicite de acordo com a etapa 04; • Quando aplicável a entrega do Alvará devidamente assinado e carimbado pelo corpo de bombeiros."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual a área construída total da empresa em metros quadrados?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "A empresa possui projeto arquitetônico completo em formato DWG ou PDF com sua respectiva ART assinada pelo profissional habilitado que realizou o desenvolvimento d projeto?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Qual a o número do CNPJ e o CNAE da empresa?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "A empresa possui algum material combustível como Gasolina com estoque superior a 250 Litros, GLP, ou gás de cozinha com uma quantidade maior que 90 kg?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "A empresa possui projeto de SPDA completo em formato DWG ou PDF com sua respectiva ART assinada pelo profissional habilitado que realizou o desenvolvimento d projeto?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "O cliente está ciente que o pagamento da taxa TASEG junto ao corpo de bombeiros é de sua responsabilidade? Obs.: A taxa depende da ocupação e da área construída.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "O cliente está ciente que o pagamento da taxa da ART junto ao CREA MT é de sua responsabilidade? Obs.: A taxa depende da ocupação e da área construída.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "O cliente está ciente que a consultoria se finda com a entrega do certificado de aprovação do projeto?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "O cliente está ciente que a execução do projeto bem como a instalação dos preventivos de incêndio é de responsabilidade do cliente?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "O cliente está ciente que após a execução do projeto a solicitação de vistoria, bem como a coleta do alvará de incêndio é de responsabilidade do cliente.",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "• Consultorias para auxiliar a empresa no requerimento dos atos administrativos necessários para obtenção do Alvará de prevenção de combate a incêndio e pânico, compreendendo os documentos e possíveis estudos e projetos complementares. • Promover a segurança da edificação e dos habitantes dessa contra possíveis sinistros envolvendo incêndios; • A regularidade da empresa segundo a legislação vigente; • Redução dos riscos de sanções penais e interdições por não conformidades, assegurando a produtividade; • Habilitar a empresa a ser fornecedor de grandes empresas;",
+  "estruturaMateriais": "Acesso a informações, documentos e áreas da empresa.",
+  "responsabilidadeEmpresaDemandante": "1. Fixar cronograma de datas e horários das atividades, em comum acordo entre as partes, no início do projeto\n2. Designar um responsável, com autoridade, para coordenação das atividades relacionadas ao projeto\n3. Identificar e designar os profissionais mais indicados a participarem das atividades previstas, conforme a sua atuação/responsabilidade dentro da organização\n4. Pagamento de taxas do CBM (TASEG e outras pertinentes)\n5. Execução do projeto de combate a incêndio\n6. Correção, caso existir, na instalação elétrica por meio das orientações\n7. Disponibilizar as informações necessárias para a evolução da consultoria, tais como preenchimento das planilhas de coletas de dados\n8. Projeto do sistema da Central de GLP contendo todos os detalhes e materiais utilizados e ART de instalação. (Caso existir central de GLP)\n9. ART de execução do grupo gerador (Caso existir GERADOR)\n10. Laudo de inspeção dos vasos de pressão e suas respectivas ART´S (Caso existir)\n11. Disponibilizar projeto arquitetônico completo em formato PDF Ou DWG, (Caso aplicável).",
+  "responsabilidadePrestadora": "1. Fixar cronograma de datas e horários das atividades, em comum acordo entre as partes, no início do projeto\n2. Elaborar relatórios das consultorias realizadas\n3. Manter sigilo sobre as informações confidenciais da organização\n4. Elaborar e dimensionar corretamente o projeto de combate a incêndio e pânico\n5. Elaborar relatórios das consultorias realizadas e disponibilizar os documentos descritos em ‘Entregáveis’\n6. Acompanhar o processo até a sua aprovação\n7. Pagamento de taxas do conselho de classe CREA (ART)\n",
+  "perfilDesejadoPrestadora": "Profissional legalmente habilitado nos seus respectivos concelhos de classe com preferência em profissional formado em ensino superior em Engenheiro de Segurança do Trabalho.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento; Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possam incidir sobre o objeto da proposta\nDespesas adicionais com terceiros (direitos autorais, fotografia, hospedagem, imagens, registro de domínio, revisões, textos conteúdos dinâmicos, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizados por ele mediante apresentação de orçamento na apresentação da proposta de trabalho\nO prestador de serviços não pode ser responsabilizado por erros de terceiros contratados pelo cliente\nConforme o tamanho da empresa, o risco e a classificação os documentos a serem solicitados podem mudar e com isso as taxas também sofrem mudança, bem como a exigências na instalação dos preventivos de incêndio\nQuando existir a necessidade da disponibilização do projeto arquitetônico completo deve ser de ciência do cliente que o projeto de incêndio não pode ser iniciado sem a apresentação desse.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "31/07/2019",
+      "alteradoPor": "Combate-a-Incêndio-e-Pânico- SST35017-1.pdf Combate-a-Incêndio-e-Pânico- SST35017-2.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "06/04/2020",
+      "alteradoPor": "Michelli Trigueiro"
+    }
+  ],
+  "valorTeto": 5000.0,
+  "codigo": "371440100472"
+}

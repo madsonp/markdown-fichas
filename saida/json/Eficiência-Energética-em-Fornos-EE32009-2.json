@@ -1,0 +1,99 @@
+{
+  "id": "32009-2",
+  "nomeSolucao": "EFICIÊNCIA ENERGÉTICA EM FORNOS",
+  "tema": "Sustentabilidade",
+  "subtema": "Eficiência Energética",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócios, Comércio e Indústria",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar reunião com o cliente, para nivelamento do escopo do trabalho, alinhamento dos objetivos do cliente e validação do planejamento de execução dos serviços, composto de cronograma e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico • O cliente deve disponibilizar o histórico de produção do forno e o consumo de combustíveis dos últimos seis meses para a prestadora de serviço. No caso de empresa nova, deverá informar a produção desejada.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | LEVANTAMENTO DA CAPACIDADE INSTALADA DA EMPRESA",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Fase 1 – Coleta de dados: Consiste em reuniões com o empresário e equipe para levantamento de dados de todas as etapas do processo, desde a extração da matéria-prima passando pelo beneficiamento, preparação, conformação, secagem e queima, até chegar ao produto final. Na etapa de queima, deve-se especificar os atuais tipos de fornos, qual a produtividade, qual o consumo de combustíveis, custos de operação, quais as vantagens e desvantagens desses fornos pré-existentes • Fase 2 - Inspeção: Consiste na realização de inspeção detalhada na área de produção para identificação de oportunidades efetivas e otimização do processo produtivo com a implantação de um novo forno de alta eficiência energética e consequentemente redução do consumo de combustíveis (lenha, gás natural, pó de serragem, bucha de coco, etc). Nessa fase, deve ser observada a eficiência energética dos atuais fornos, qual a capacidade de cada forno, tempo de aquecimento e queima, tempo de resfriamento, temperaturas de queima/sinterização, tempo para enforno e desenforno, como se dá a gestão dos energéticos/combustíveis, tais como a análise dos principais fornecedores (lenha, gás natural, outros), o valor desses combustíveis, etc. Com base na metodologia ISSO 50001:2018 Essa etapa será dispensada no caso de empresa ainda em instalação, sendo substituída por informações como o dimensionamento do forno que poderão compor o plano de negócio.",
+      "entrega": "Relatório contendo os dados da empresa demandante, localização, data de início e término das atividades, bem como: • Fluxograma do processo produtivo da empresa; • Relação dos atuais fornos e seus respectivos consumo de combustíveis; • Eficiência Energética dos fornos pré-existentes e a potência térmica nominal desses fornos e do empreendimento; • Fotografias, desenhos esquemáticos, croquis e outros; • Aumento da eficiência energética com a otimização dos parâmetros de processo, como operações de enforno/desenforno, eliminação de desperdícios, manutenções periódicas, conscientização da equipe de operação/manutenção, tudo isso sem investimento; • Outras informações relevantes."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 3 | PROJETO DE ENGENHARIA E ESTUDO DE VIABILIDADE (PAYBACK)",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "O Projeto de Engenharia do novo forno será elaborado com base nas informações colhidas na Etapa 2 (Capacidade instalada da empresa) e contendo propostas viáveis do ponto de vista técnico e econômico e deverá atender aos parâmetros de emissões de acordo com as normas CONAMA e as diretrizes gerais do Órgão ambiental. O novo forno deverá apresentar melhorias em eficiência energética melhor custo- benefício em relação aos fornos existentes na empresa, devendo ser apresentado as justificativas técnicas e os cálculos evidenciando os ganhos com eficiência energética O projeto do novo forno deverá contemplar • Desenho com todos os parâmetros técnicos, dimensionado para a produção da empresa, cliente • Potência Térmica Nominal do forno em MWh e outros parâmetros de eficiência energética, como por exemplo Kcal do combustível / Kg de matéria-prima processada • Memorial descritivo e especificações técnicas de materiais e equipamentos • Descrição detalhada (planilha) com todos os valores a ser investido no forno inovador • Memória de cálculo, evidenciando os ganhos energéticos com a implantação do novo forno em relação em relação a fornos pré-existentes. Medição do desempenho energético utilizando linhas de base energética • Definição de Indicadores de desempenho energético apropriados para monitoramento e medição do desempenho energético. Por exemplo, Kcal do combustível / Kg de produto queimado • Prática de processos térmicos, sistema de combustão, com oportunidade de economia de combustíveis • Dimensionamento do tempo de recuperação do investimento (payback simples) no novo forno • Estimativa da lucratividade para um período de três anos",
+      "entrega": "Relatório contendo Projeto executivo, Projetos/Desenhos arquitetônicos, Análise financeira-EVTE e Recomendações de boas práticas, conforme detalhamento abaixo: técnico"
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Quantos funcionários trabalham na empresa?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "O empreendimento está situado em zona urbana ou rural?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Quantos fornos existem na empresa?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Qual o tipo de forno existente?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Qual o tipo de combustível utilizado (lenha, pó de serragem, óleo BPF, etc)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "O cliente considera alto o consumo de combustível dos fornos atuais?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Com a implantação do forno apresentado pela consultoria, a empresa demandante otimizará o processo térmico em sua empresa, com consequente melhoria do",
+  "estruturaMateriais": "• Câmera Fotográfica Digital\n• Sistema computacional: Notebook ou outro equipamento com software para desenhos, projetos de engenharia (AutoCAD, Solidworks, etc)\n• Câmera Termográfica Digital: instrumento que identifica o espectro de temperatura da superfície de instalações e equipamentos com capacidade de armazenamento e transferência de fotos\n• Trena e/ou fitas métricas: instrumento utilizado para medidas de comprimento em campo\n• GPS: instrumento utilizado para obter localização geográfica. Localização do empreendimento e do forno\n• Planilha com estrutura objetiva de viabilidade técnica, econômica, ambiental e retorno sobre o investimento (payback simples).",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n 3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado\n7. Fornecer o histórico do uso de combustíveis (lenha, pó de serra, carvão, gás, óleos, etc), se possível, dos últimos seis meses.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do SEBRAETEC\n6. Considerar requisitos legais e outros requisitos, oportunidades para mudança de matriz energética, utilização de fontes alternativas de combustíveis disponível na região (pó de serra, bagaço de cana, óleos, gás, etc).",
+  "perfilDesejadoPrestadora": "Profissionais com formação acadêmica na área de Engenharia Química e/ou Engenharia Mecânica e/ou Engenharia Elétrica em nível de: graduação, mestrado ou doutorado.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço a execução do trabalho de (direitos autorais, acordo com a proposta validada pelo cliente (cronograma e entregas)\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente\nNão estão contemplados na consultoria: treinamentos, Laudos, execução de instalações elétricas, civis ou mecânica e acompanhamento de obras.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "26/09/2019",
+      "alteradoPor": "Energética-em-Fornos-EE32009.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/04/2020",
+      "alteradoPor": "Michelli Trigueiro"
+    }
+  ]
+}

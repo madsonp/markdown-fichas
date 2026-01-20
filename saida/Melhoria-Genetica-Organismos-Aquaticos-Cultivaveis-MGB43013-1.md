@@ -1,0 +1,335 @@
+Código da ficha técnica: 43013-1
+
+MELHORIA GENÉTICA – ORGANISMOS AQUÁTICOS CULTIVÁVEIS
+
+1.  Tema
+
+Desenvolvimento Tecnológico
+
+2.  Subtema
+
+Melhoria Genética e Biotecnologia
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria tecnológica / Acesso a serviços tecnológicos
+
+5.  Modalidade
+
+Presencial
+
+6.  Público alvo
+
+ME, EPP e Produtor Rural
+
+7.  Setor indicado
+
+Agronegócio
+
+8.  Macrossegmento
+
+Camarão, Peixe (Corte e Ornamental), Ostras, Algas Marinhas, Artêmia e outros
+organismos aquáticos.
+
+9.  Descrição
+
+A Consultoria objetiva:
+
+1.  Diagnosticar as condições econômicas, hídricas e edafoclimáticas para
+
+produção aquícolana propriedade;
+
+2.  Orientar o melhor material genético para as condições da região, da
+
+propriedade e para o mercado;
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43013-1
+
+3.  Orientar quanto a implantação do melhor, e mais adequado sistema de cultivo,
+considerando, disponibilidade do material genético, o perfil/especialização  do
+produtor e da propriedade, e o laboratório de origem a ser escolhido.
+
+São etapas da Consultoria:
+
+ETAPA 01 I ALINHAMENTO DA DEMANDA
+
+Visita presencial na propriedade (in loco) com o cliente para:
+
+•  Alinhamento das expectativas e objetivos do cliente, dos serviços contratados
+
+e entregas do consultor, detalhadas por etapa;
+
+•  Elucidação das responsabilidades, agenda de visitas, ações e prazos do
+
+cliente e do consultor; Diagnóstico da propriedade, com vistas a condições de
+água, solo, sanidade, quantidade do material genético (milheiros) a ser
+adquirido pelo produtor e capacidade produtiva economicamente viável;
+
+ENTREGA DA ETAPA 01: Relatório de reunião de alinhamento, contendo:
+a)  Expectativas  e  objetivos  do  cliente,  os  serviços  contratados  e  as  entregas  do
+consultor, detalhadas por etapa; b) Elucidação das responsabilidades, ações e prazos
+do  cliente  e  do  consultor;  c)  Diagnóstico  Sintético  da  Unidade  Produtiva  Aquícola,
+com vistas a condições da água, solo e estruturas de cultivo, sanidade e quantidade
+do material genético (milheiros) a ser adquirido pelo produtor conforme capacidade
+produtiva economicamente viável.
+
+ETAPA  02  I  APERFEIÇOAMENTO  DO  PROCESSO  DE  IMPLANTAÇÃO  DO
+MATERIAL GENÉTICO
+
+Aperfeiçoamento  do  processo  de  implantação  do  material  genético  (pós-larvas,
+alevinos, sementes ou clones). Devem ser aplicados instrumentos e atividades para
+definir a melhor estratégia para implantação ou mudanças no sistema de produção:
+
+•  Definição de variedade;
+•  Definição de espaço necessário;
+•  Definição do sistema de produção (densidade de estocagem);
+•  Orientação para implantação, preparo de solo e fertilização em viveiros;
+•  Orientação para povoamento em estruturas de cultivo de organismos
+aquáticos (camarão, peixes, ostras, algas marinhas e etc), contento a
+limpeza e manutenção das estruturas.
+
+•  Plano de Melhorias para o alcance dos resultados.
+
+ENTREGA  DA  ETAPA  02:  Relatório  Sintético  de  Atividades  contendo  Plano  de
+Melhorias  com  definições  dos  laboratórios  a  serem  adquiridas,  densidades  de
+estocagem  (viveiros,  tanques,  mesas,  balsas  e  etc.),  sistema  de  cultivo  a  ser
+trabalhado e orientação sobre o manejo.
+
+ETAPA 03 I APERFEIÇOAMENTO DO PROCESSO DE COMPRA DO MATERIAL
+GENÉTICO (pós larvas, alevinos, sementes ou clones.) E PREPARAÇÃO DE
+RECEBIMENTO OU SELEÇÃO DOS REPRODUTORES E MATRIZES
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43013-1
+
+Aperfeiçoamento  do  processo  de  compra  do  material  genético  e  preparação  de
+recebimento.  Devem  ser  aplicados  instrumentos  e  atividades  para  definir  a  melhor
+estratégia para implantação do sistema de produção, executando, quando aplicáveis:
+
+•  Orientação de compra das pós-larvas, ou alevinos, ou sementes, ou clones;
+•  Orientação para o recebimento e aclimatação das pós-larvas, ou alevinos, ou
+
+sementes, ou clones;
+
+•  Orientação sobre manejo sanitário e alimentar até a fase adulta;
+•  Orientação sobre oprotocolo de arraçoamento
+•  Realização do controle zootécnico;
+•  Realização da identificação dos indivíduos com os melhores desempenhos e
+
+realização da identificação individual com microchip (se aplicável);
+
+•  Coleta de material genético, seguindo recomendações técnicas;
+•  Realizar análise de pureza e distanciamento genético, quando possível.
+•  Plano de Melhorias para o alcance dos resultados.
+
+Seleção das matrizes (se aplicável):
+
+•  Avaliação das matrizes aptas a reprodução;
+•  Protocolo de reprodução das matrizes selecionadas
+•  Orientação sobre o manejo alimentar das matrizes ;
+•  Orientação sobre a aplicação do protocolo hormonal, quando for o caso;
+•  Obtenção  de  biópsia ovariana  e avaliação de  ovócitos  em  líquido  de  Serra,
+
+quando for o caso.
+
+Seleção dos reprodutores (se aplicável):
+
+•  Avaliação dos reprodutores aptos à reprodução;
+•  Protocolo de reprodução dos reprodutores selecionados;
+•  Orientação sobre manejo alimentar dos reprodutores;
+•  Orientação sobre a aplicação do protocolo hormonal, quando for o caso;
+•  Avaliação da qualidade do sêmen, quando for o caso.
+
+Reprodução e seleção da genética (se aplicável):
+
+Indução à reprodução (protocolo de reprodução artificial);
+
+•  Direcionamento dos acasalamentos;
+•
+•  Coleta de ovócitos das matrizes ou embriões (à depender da espécie);
+•  Coleta de sêmen (se for o caso);
+•  Realização da fertilização no laboratório;
+•  Desenvolvimento dos embriões (Cultivo in vitro);
+•  Orientar sobre a importância de seguir o direcionamento dos acasalamentos,
+
+para acelerar o ganho  genético;
+
+ENTREGA  DA  ETAPA  03:  Relatório  Sintético  de  Atividades  contendo  Plano  de
+Melhorias  com  definições  dos  laboratórios  a  serem  adquiridas,  densidades  de
+estocagem  (viveiros,  tanques,  mesas,  balsas  e  etc.),  sistema  de  cultivo  a  ser
+trabalhado e orientação sobre o manejo.
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43013-1
+
+ETAPA 04 I POVOAMENTO DAS PÓS-LARVAS/ALEVINOS OU SEMEADURA DAS
+SEMENTES OU CLONES
+
+Aperfeiçoamento do processo de implantação para a produção. Devem ser aplicados
+instrumentos  e  atividades  para  definir  a  melhor  estratégia  para  implantação  ou
+mudanças no sistema de produção:
+
+•  Povoamento e/ou semeadura dos organismos aquáticos cultiváveis.
+
+ENTREGA DA ETAPA 04: Relatório Sintético de Atividades de acompanhamento da
+implantação das das pós-larvas, ou alevinos, ou sementes, ou clones com fotos.
+
+10. Benefícios e resultados esperados
+
+Aumento da produtividade da cultura, através da implantação ou aperfeiçoamento de
+tecnologias de produção.
+
+11. Estrutura e materiais necessários
+
+Fica sobe responsabilidade da contratante do serviço a disponibilização de todos
+os  equipamentos e materiais necessários para realização do povoamento (pós-larvas
+e alevinos) ou semeadura (sementes ou clones).
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+2.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+do prestador de serviço;
+
+3.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo
+
+prestador de serviço.
+
+4.  Fornecer informações técnicas sobre os processos, produtos ou serviços ao
+
+prestador de serviço para o desenvolvimento do trabalho;
+
+5.  Aquisição das pós-larvas, alevinos, sementes e clones em laboratórios
+
+registrados pelo Ministério da Pesca e Aquiculrura - MPA (RGP)
+
+6.  Acompanhar  o  prestador  de  serviço  em  visita(s)  técnica(s)  aos  espaços
+
+físicos, se previsto no escopo do trabalho;
+
+7.  Avaliar o serviço prestado.
+
+13. Responsabilidade da prestadora de serviço
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43013-1
+
+1.  Realizar reunião para alinhamento e apresentação das atividades previstas;
+2.  Analisar a demanda e as informações fornecidas pela empresa demandante;
+3.  Elaborar  proposta,  escopo  de  trabalho,  cronograma  das  etapas  do  projeto,
+agenda  de  reuniões  e atividades,  sendo  necessário  validar  com  a Empresa
+Demandante;
+
+4.  Disponibilizar material genético melhorado necessário para a execução inicial;
+5.  Fornecer as entregas previstas, validadas pela empresa demandante, ao
+
+Sebrae;
+
+6.  Verificar a origem do material genético (pós-larvas, ou alevinos, ou
+
+sementes, ou clones) e se foi adquirido em laboratório de multiplicação
+credenciado no Ministério da Pesca e Aquiculrura - MPA (RGP)
+7.  Cumprir com as obrigações previstas no Regulamento do Sebraetec.
+
+14. Perfil desejado da prestadora de serviço
+
+Corpo
+profissionais com experiência no melhoramento genético da cultura.
+
+formado  por  Engenheiro  (a)  de  aquicultura  ou  pesca  e/ou
+
+técnico
+
+15. Pré-diagnóstico
+
+1.  Qual a área e estrutura para implantação da nova genética?
+2.  Qual é o sistema produtivo adotado ?
+3.  O cliente deseja contratar o serviço de consultoria de melhoramento genético
+
+da cultura?
+
+4.  O produtor investirá recurso na aquisição das formas jovens do laboratório?
+5.  O  produtor  investirá  recurso  para  criar  uma  estrutura  para
+
+recebimento/aclimatação das formas jovens até seu povoamento/semeadura?
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+01 entre a empresa demandante e a prestadora de serviço tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+3.  Os valores dos honorários apresentados devem incluir todas as despesas com
+impostos  e  encargos  sociais,  conforme  legislação  tributária  em  vigor,  que
+possa incidir sobre o objeto da proposta;
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43013-1
+
+4. Despesas adicionais com terceiros (direitos autorais, fotografias, hospedagem,
+imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros)
+ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele
+durante a validação da proposta de trabalho;
+4.  É de responsabilidade do prestador de serviço todo o projeto, da concepção à
+aprovação do cliente;
+5.  O  prestador  de  serviço não  pode  ser responsabilizado  por  erros  de terceiros
+contratados pelo cliente.
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+Responsável
+
+1
+
+11/08/2023
+
+https://datasebrae.com.br/wp-
+content/uploads/2023/08/Melhoria-
+Genetica-Organismos-Aquaticos-
+Cultivaveis-MGB43013-1.pdf
+
+Coordenação
+Sebretec
+
+6
+
+Ficha Técnica – Sebraetec 4.0
+

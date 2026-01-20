@@ -1,0 +1,69 @@
+{
+  "id": "22005-5",
+  "nomeSolucao": "COMUNICAÇÃO VISUAL",
+  "tema": "Design",
+  "subtema": "Design de comunicação",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócio, Comércio, Indústria, Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA/DEMANDA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião com o cliente, para nivelamento do escopo do trabalho, contendo necessidades, requisitos e restrições; e validação do planejamento de execução dos serviços; composto de cronograma resumido com agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico Uso Interno Código da ficha técnica: 22005-5",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DESENVOLVIMENTO DO PROJETO GRÁFICO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Projeto de soluções de comunicação visual (Criação ou Redesign da marca e suas aplicações em diversos suportes, folhetos, design editorial, infográficos, ilustrações, portfólio/folder institucional, catálogos, padrão gráfico para facebook e Instragram, etc) por meio da organização de elementos visuais e textos observando os seguintes aspectos • Conceituação do Projeto Gráfico • Desenvolvimento (Formato, Cor; Imagens e Textos) • Apresentação do projeto para o cliente utilizando montagens digitais das propostas/soluções • Definições e ajustes – Se necessário • Validação pelo Cliente • Refinamento do projeto aprovado pelo cliente com especificações técnicas dos elementos do projeto (diagramação, especificações mínimas de material, cor, escala, dimensões e cotas - quando aplicável) Itens de comunicação visual que podem ser desenvolvidos de acordo com a necessidade do cliente [ ] Criação da marca [ ] Redesign da marca [ ] Manual de Identidade Visual [ ] Papelaria (Papel Timbrado, cartão, envelope, pasta de propostas) [ ] Adesivo para Frota [ ] Uniformes [ ] Folhetos [ ] Portfólio/folder institucional [ ] Catálogos [ ] Padrão gráfico para facebook e Instragram [ ] Outros (Citar):",
+      "entrega": "Projeto Gráfico aprovado em mídia digital, contendo o (s) arquivo (s) vetorial e imagem, bem como, documento de aceite de finalização pelo entrega(s). cliente, recebimento atestando da(s) o"
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 3 | (opcional) | ADEQUAÇÃO DE COMUNICAÇÃO PARA MERCADO INTERNACIONAL",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Adequar os textos e o padrão visual a idiomas estrangeiros, caso o foco da empresa demandante seja acessar algum mercado internacional, limitado em dois idiomas estrangeiros, realizando quando aplicável • Tradução dos textos para língua estrangeira • Ajustes do design gráfico para contemplar a visualização adequada em língua estrangeira Uso Interno Código da ficha técnica: 22005-5",
+      "entrega": "Projeto Gráfico aprovado em Mídia digital, contendo o(s) arquivo(s) vetorial e imagem, bem como, documento de aceite de finalização pelo cliente, atestando o recebimento da(s) entrega(s)."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "Uma boa comunicação visual é responsável por unir elementos visuais que expressam todas as qualidades do seu negócio. Quando uma empresa investe em comunicação visual, ela passa a ter acesso a vários elementos que vão caracterizar a marca e consolidá-la como única no mercado. Projeto alinhado ao posicionamento, propósito e valores da marca.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Fornecimento, produção ou tratamento de textos, fotos ou vídeos e demais itens a serem utilizados durante o processo\n2. Todos os custos para a confecção dos produtos resultantes da aplicação do projeto\n3. Aprovar a proposta do Sebrae, valores e condições de pagamento\n4. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n5. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n6. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n7. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n8. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec e Edital Estadual\n 6. Pesquisa prévia no INPI para verificar se o naming já é utilizado por outra empresa o que pode inviabilizar o investimento com o projeto gráfico, caso seja solicitado pelo cliente.",
+  "perfilDesejadoPrestadora": "Corpo Técnico formado por profissionais com experiência e conhecimento sobre técnicas e ferramentas de design gráfico e sua aplicabilidade.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nO trabalho de Comunicação Visual pode ou não vir acompanhado do serviço de Naming respeitando o valor máximo permitido para esta ficha. Imagem digital da marca (para registro O projeto de criação ou redesign da marca, deve contemplar, a critério da UF, INPI) contida, a obrigatoriamente, em uma moldura de 8.0 cm x 8.0 cm, no formato.jpg conforme orientações contidas no site; junto ao É fundamental que o projeto de comunicação visual esteja alinhado ao posicionamento, propósito e valores da marca\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. É VEDADO produção de conteúdo (textos, fotos e vídeos) para os canais digitais\nOs materiais entregáveis serão apenas em formato digital.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "09/08/2019",
+      "alteradoPor": "Visual-DC22005-1.pdf Visual-DC22005-2.pdf Visual-DC22005-3.pdf Visual-DC22005-4.pdf Visual-DC22005-5.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "03/04/2020",
+      "alteradoPor": "Marijara Leal"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "01/01/2021",
+      "alteradoPor": "Nilo Vasconcelos Coordenação Sebraetec"
+    }
+  ],
+  "codigo": "371440100395"
+}

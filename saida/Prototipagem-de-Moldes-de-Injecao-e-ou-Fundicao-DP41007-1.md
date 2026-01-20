@@ -1,0 +1,247 @@
+Código da ficha técnica: 41007-1
+
+PROTOTIPAGEM DE MOLDES DE INJEÇÃO E/OU FUNDIÇÃO
+
+1.  Tema
+
+Desenvolvimento Tecnológico
+
+2.  Subtema
+
+Desenvolvimento de produto
+
+3.  Categoria de serviço
+
+Acesso a Serviço de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Prototipagem / Acesso a Serviço Tecnológico
+
+5.  Modalidade
+
+Presencial e/ou a distância
+
+6.  Público alvo
+
+ME e EPP
+
+7.  Setor indicado
+
+Indústria e Serviços
+
+8.  Macrossegmento
+
+-
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho
+e  validação  do  planejamento  de  execução  dos  serviços,  composto  de  cronograma
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 41007-1
+
+resumido  com  os  principais  eventos,  agendas  de  reuniões  e  definição  dos
+responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora
+de serviço tecnológico. Ferramentas como entrevista com o cliente são importantes
+como forma de obter informações necessárias para fundamentar a entrega proposta.
+
+ENTREGAS DA ETAPA 01: Termo de abertura do projeto. Ata da reunião contendo
+as informações listadas assinada pelo cliente.
+
+ETAPA 02 | VALIDAÇÃO DO ESCOPO, REQUISITOS E DESENVOLVIMENTO DO
+PROTÓTIPO
+
+Realizar  a  análise  da  demanda  e  o  protótipo  piloto  do(s)  molde(s),  sejam  eles  de
+injeção  ou  fundição  (molde  permanente),  devendo  observar  os  seguintes  itens
+quando aplicáveis:
+
+•  Revisão dos requisitos;
+•  Validação do escopo;
+•  Desenho do protótipo;
+•  Validação do desenho do protótipo;
+•  Desenvolvimento do protótipo;
+•  Validação final e Ajustes.
+
+ENTREGAS DA ETAPA 02:
+
+•  Protótipo  piloto,  contendo,  quando  aplicável,  modelo  digital  do  molde  e,
+obrigatoriamente,  descrição  de  características  e  evidencias  que  validam  ou
+impedem  a  continuidade  do  desenvolvimento  alinhadas  aos  requisitos
+estabelecidos;
+
+•  Relatório  parcial  contendo  o  aceite  do  cliente  para  sequenciamento  das
+
+atividades.
+
+ETAPA 03 | ENCERRAMENTO
+
+Testar a aplicação do protótipo piloto na produção e executar eventuais revisões na
+concepção do projeto após o teste, permitindo dessa forma a validação e entrega do
+molde final.
+
+ENTREGAS DA ETAPA 03:
+
+•  Protótipo final contendo evidências, quando aplicável, de registros fotográficos
+
+e/ou relatório;
+
+•  Memorial descritivo do processo contendo o histórico de desenvolvimento e
+
+eventos relevantes no processo de prototipagem;
+
+•  Relatório final;
+•  Declaração de conclusão do serviço assinado pelo cliente.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 41007-1
+
+10. Benefícios e resultados esperados
+
+•  Baixa  demanda  de  tempo  para  desenvolvimento  e  consequentemente,
+
+baixo custo;
+
+•  Facilita a visualização do produto para o cliente desde a fase inicial;
+•  Possibilita receber o feedback do cliente em tempo ágil;
+•  Facilita o levantamento de requisitos e funcionalidades;
+•  Possibilita  estimar  de  forma  mais  precisa  a  complexidade  e  tempo  de
+
+desenvolvimento;
+
+•  Possibilita a realização testes de interações;
+•  Reduz os esforços de desenvolvimento
+
+11. Estrutura e materiais necessários
+
+-
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+2.  Conhecer  e  validar  a  proposta  de  trabalho,  o  escopo  das  etapas  e  as
+
+entregas do prestador de serviço;
+
+3.  Disponibilizar  agenda  prévia  para  visitas,  reuniões  e  atividades  propostas
+
+pelo prestador de serviço.
+
+4.  Fornecer informações técnicas sobre os processos, produtos ou serviços ao
+
+prestador de serviço para o desenvolvimento do trabalho;
+
+5.  Acompanhar  o  prestador  de  serviço  em  visita(s)  técnica(s)  aos  espaços
+
+físicos, se previsto no escopo do trabalho;
+
+6.  Avaliar o serviço prestado.
+7.  Permitir a execução do teste do protótipo piloto na produção para que seja
+
+validada junto ao PST.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião para alinhamento e apresentação das atividades previstas;
+2.  Analisar a demanda e as informações fornecidas pela empresa;
+3.  Elaborar  proposta,  escopo  de  trabalho,  sendo  necessário  validar  com  a
+
+Empresa Demandante;
+
+4.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae;
+
+5.  Cumprir com as obrigações previstas no Regulamento do Sebraetec;
+6.  Os custos relacionados à implantação das ações são de responsabilidade do
+
+cliente.
+
+7.  Disponibilizar  os  insumos  necessários  para  produzir  o  protótipo  piloto  e  o
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 41007-1
+
+molde final.
+
+14. Perfil desejado da prestadora de serviço
+
+Corpo  técnico  formado  por  profissional(is)  com  experiência  em  processamento  de
+materiais plásticos e caracterização de materiais.
+
+15. Pré-diagnóstico
+1.  Em qual segmento de transformação de plástico a empresa se enquadra?
+2.  A empresa possui linha própria de produtos?
+3.  O cliente está ciente de que a consultoria pode contemplar a realização de até
+
+somente 1 (uma) visita presencial?
+
+4.  O  cliente  sabe  descrever  a  sua  ideia?  Descreve  esta  ideia  no  campo
+Objetivo/Resultados Esperados no momento do lançamento da demanda.
+
+5.  A ideia já se encontra amadurecida?
+6.  A empresa já iniciou validação com os possíveis cliente?
+
+16. Observações
+•  Os valores dos honorários apresentados devem incluir todas as despesas com
+impostos  e  encargos  sociais,  conforme  legislação  tributária  em  vigor,  que
+possa incluir sobre o objeto da proposta;
+terceiros
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico  etc.)  ficam  a  cargo  exclusivo  do  cliente  e  devem  ser  previamente
+autorizados por ele durante a validação da proposta de trabalho;
+
+•  Despesas  adicionais  com
+
+(direitos  autorais,
+
+•  É de responsabilidade do prestador de serviço todo o projeto, da concepção à
+
+aprovação do cliente;
+
+•  O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pelo cliente.
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+1
+
+28/11/2022
+
+https://datasebrae.com.br/wp-
+content/uploads/2022/11/Prototipagem-
+de-Moldes-de-Injecao-e-ou-Fundicao-
+DP41007-1.pdf
+
+Responsável
+
+Madson Lima
+Pinto
+Wagner Cezar
+Ayres
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+

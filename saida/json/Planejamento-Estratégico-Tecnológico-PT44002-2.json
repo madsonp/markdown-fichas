@@ -1,0 +1,129 @@
+{
+  "id": "44002-2",
+  "nomeSolucao": "PLANEJAMENTO ESTRATÉGICO TECNOLÓGICO",
+  "tema": "Desenvolvimento tecnológico",
+  "subtema": "Planejamento tecnológico",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócios, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto à Empresa Demandante, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte da Empresa Demandante e da Prestadora de Serviços",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | PLANEJAMENTO TECNOLÓGICO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Estabelecer o planejamento tecnológico da empresa, a partir da análise dos ambientes interno (processos, produtos, mercados atendidos, etc.) e externo (tendências, tecnologias disponíveis, etc.), desenvolvendo as seguintes ações, quando aplicáveis • Technology Roadmapping • Mapeamento e prospecção de tecnologias • Modernização tecnológica • Definição de tecnologias oportunas para a empresa • Orientação sobre a implementação de tecnologias digitais adequadas aos • objetivos da empresa Identificação de padrões, recursos, funcionalidades e tendências de mercado no projeto para o posicionamento digital Caso oportuno, pode ser instituído um Comitê de Planejamento Tecnológico na Empresa Demandante, para facilitar a operacionalização do Planejamento fornecido.",
+      "entrega": "Relatório Técnico Final, incluindo documento com as análises dos ambientes interno e externo e o Planejamento Tecnológico da empresa. Anexar Declaração, assinada pelo representante da Empresa Demandante, atestando o recebimento da entrega e que o Prestador de Serviços explicou o conteúdo da entrega."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual é a atividade ou área de atuação da empresa?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Quais são os serviços e produtos ofertados?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Qual é o porte da empresa (micro, pequena, etc.)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Você sabe dizer quais são os pontos fortes e fracos da sua empresa?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Qual a demanda? Qual a dor que ela quer resolver? Ou existe algum problema tecnológico específico?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Já implantou ferramentas de planejamento estratégico?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Tem equipe própria para o desenvolvimento e melhoria do processo de planejamento?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "Como a empresa reage às modificações do mercado? Existem estratégias definidas de como se comportar nas mudanças?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "A empresa analisa o mercado para desenhar as suas estratégias?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "A empresa já faz algum acompanhamento de tecnologia e inovação do que existe ou ainda está por surgir? Como? É sistematizado? Pontual? Quais as principais fontes de inspiração?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "11",
+      "pergunta": "Como a empresa converte estas informações de tendências em produtos e serviços? Desenvolvimento de novos produtos? Melhoria de processos? Redução de custos e desperdício?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "12",
+      "pergunta": "Por que preciso fazer um planejamento tecnológico? Qual a motivação para iniciar o planejamento, quais os benefícios e resultados esperados?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "• Melhores decisões relacionadas aos investimentos em P&D; • Orientação estratégica para o mercado e necessidades dos clientes; • Menor tempo de resposta às oportunidades de mercado; • Engajamento dos colaboradores na atualização tecnológica; • Redução de custos com tecnologias; • Melhoria em processos produtivos, administrativos, produtos e serviços; • Ganho de competitividade.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Ter consciência que a consultoria objetiva a implementação ou revisão do Planejamento Tecnológico por meio de diretrizes que deverão ser observadas visando uma mudança na organização\n2. Aprovar a proposta do Sebrae, valores e condições de pagamento\n 3. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n4. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n5. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n6. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n7. Avaliar o serviço prestado\n8. Para implantar o Planejamento Tecnológico, é necessário o engajamento dos líderes da empresa, a alocação de recursos e tempo de trabalho das pessoas envolvidas.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. O Planejamento Tecnológico revisado deverá estar suficientemente estruturado e documentado para que a empresa possa executá-lo sem necessidade do apoio de terceiros\nimplantado ou",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por no mínimo 01 profissional de nível superior, sendo especialista com domínio sobre os processos de planejamento tecnológico em empresas de pequeno porte, incluindo ações de diagnóstico, sensibilização, acesso a tecnologias e definição de estratégias para promover a participação e contribuição dos envolvidos na execução do planejamento tecnológico, analise e aprofundamento de mercado e tendências setoriais demandadas, considerando as mudanças tecnológicas e digitais\nExperiência\n• Em consultoria tecnológica\nConhecimentos\n• Dos conteúdos desta ficha técnica\n• Da realidade das micro e pequenas empresa\nHabilidades\n• Planejamento, objetividade e gestão do tempo\n• Comunicação e Fluência verbal\n• Conhecimento prático e teórico\n",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. ",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "10/04/2019",
+      "alteradoPor": "Estratégico-Tecnológico-PT44002-1.pdf Estratégico-Tecnológico-PT44002-2.pdf Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "08/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 25000.0,
+  "codigo": "371440100434"
+}

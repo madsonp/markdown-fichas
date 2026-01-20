@@ -1,0 +1,156 @@
+{
+  "id": "14025-3",
+  "nomeSolucao": "IMPLANTAÇÃO DE LAVOURA DE PALMA ADENSADA",
+  "tema": "Produção e Qualidade",
+  "subtema": "Mapeamento e melhoria de Processos",
+  "tipoServico": "Acesso a Serviço Tecnológico",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 00 | ALINHAMENTO DA PROPOSTA E DIAGNÓSTICO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico. Ferramentas como entrevista com o cliente são importantes como forma de obter informações necessárias para fundamentara entrega proposta",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante. Confidencial"
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 01 | AVALIAR E SELECIONAR O CAMPO E ORIENTAR SOBRE SUBSOLAGEM E GRADAGEM",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Avaliar a propriedade do cliente e selecionar a área adequada a implantação da lavoura de palma.Após isso, realizar a coleta do solo para análise e interpretação bem como orientar sobre o uso da mecanização, para ser realizada subsolagem ou gradagem do solo, como primeira atividade de pré-plantio.",
+      "entrega": "Relatório contendo dados que interpretem a análise do solo e os tipos de mecanização antes do plantio, visando a correta aplicação da atividade na propriedade."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | ANÁLISE DA ÁREA PARA PLANTIO",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar a medição e o estudo da topografia da área para o cálculo da declividade • Calcular do número de patamares de plantio e marcação das linhas de nível, bem como a marcação das linhas de plantio para abertura dos sulcos na área; e • Orientar sobre o uso de equipamentos de irrigação e manejo da água, caso seja necessário.",
+      "entrega": "Relatório contendo dados que orientem o produtor na implantação dos sulcos, curvas de níveis e número de linhas para plantio e dimensionamento da irrigação com a apresentação de um projeto, visando a correta aplicação da atividade na propriedade."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 03 | SELEÇÃO E PREPARAÇÃO DAS SEMENTES",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Selecionar a variedade da palma forrageira, cuja espécie seja: resistente a cochonilha do carmin, não tenha pragas e doenças e com o tamanho ideal para corte. Os cortes devem ser adquados para não prejudicar a planta mãe e as mudas, além disso orientar sobre o armazenamento adequado até o plantio Preparar as sementes de palma forrageira, com aplicação preventiva de fungicida e aplicação do repouso para a cicatrização dos cortes, respeitando o tempo necessário antes do plantio.",
+      "entrega": "Relatório com memorial gráfico, contendo dados que orientem o produtor no preparo das sementes de palma antes do plantio, visando a correta aplicação da atividade na propriedade."
+    },
+    {
+      "id": "e5",
+      "titulo": "ETAPA 4 | ADUBAÇÃO PARA PLANTIO E DE COBERTURA",
+      "ordem": 5,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Orientação sobre técnicas para a adubação de fundação, sendo previamente realizado uma análise de solo, cálculo da adubação de fundação, seleção e cálculo da calagem In Informar, quando aplicável, a quantidade de cada fertilizante para aplicação de adubação de fundação e plantio Confidencial Código da ficha técnica: 14025-3 Orientação sobre técnicas para a adubação de cobertura, sua importância na garantia da boa produtividade da cultura, diferenciando os tipos de adubação existente, mineral e orgânica, e qual a ideal para o cultivo.",
+      "entrega": "Relatório contendo dados que orientem o produtor no preparo do solo com a calagem, a adubação de fundação e a quantidade correta de cada a fertilizante a ser adicionado ao solo, sobre o plantio da palma e sobre o preparo da adubação de cobertura atentando a qual ser utilizada, mineral ou orgânica, visando a correta aplicação da atividade na propriedade."
+    },
+    {
+      "id": "e6",
+      "titulo": "ETAPA 05 | MANEJO DE PRAGAS",
+      "ordem": 6,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Orientação sobre o manejo de pragas, doenças e erva daninhas, com prescrição de cada defensivo com receituário agronômico, orientação das técnicas de aplicação dos defensivos químicos e/ou alternativos e para utilização do EPI.",
+      "entrega": "Relatório contendo dados que orientem o produtor no controle de pragas, doenças e plantas invasoras, visando a correta aplicação da atividade na propriedade Relatório final contendo bases e premissas utilizadas; tarefas executadas; avaliação dos resultados obtidos (inclusive com registros fotográficos); oportunidades de melhoria; plano contendo ações a serem executadas; recomendações e conclusões Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual a localização da propriedade (município, nome da propriedade e georreferenciamento)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Qual a área da propriedade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Qual a área a ser cultivada?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Já foi plantada alguma cultura anteriormente?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Qual o tipo de solo?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Existe disponibilidade de água?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Qual a fonte da água? Confidencial",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "Qual a finalidade do plantio. Produção de mudas ou reserva estratégica de alimento para o rebanho no período seco?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "Qual a variedade que será utilizada?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "Será utilizada irrigação? Qual tipo de sistema?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Consultoria tecnológica com foco na implantação de uma lavoura de palma adensada que promova a maior produtividade da área, aumento da renda do produtor, ampliação do suporte alimentar, redução do uso de água, redução de custos.",
+  "estruturaMateriais": "",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho do prestador de serviço\n3. Proceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade e que estão no objeto deste Termo de Adesão\n4. Empenhar-se para viabilizar a execução das ações planejadas e promover a participação e o envolvimento de sua equipe de colaboradores\n5. Informar, fornecer e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n6. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n7. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n8. Providenciar os equipamentos de plantio e irrigação, caso não tenha na propriedade, além dos insumos e sementes para plantio 9. Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n10. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Cumprir todas as etapas previstas no plano inicial do projeto, garantindo que todas as etapas serão sucedidas por suas respectivas entregas\n3. Realizar todas as etapas sem custo adicional\n4. Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n5. Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n6. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n7. Cumprir o prazo estabelecido com o produtor para realização de todas as etapas do projeto.",
+  "perfilDesejadoPrestadora": "Quadro profissional composto por Técnico Agrícola, Tecnólogo, Engenheiro Agrônomo ou Zootecnista.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo\nAs visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários propostos pela consultoria\nCaso o produtor opte por realizar qualquer procedimento não condizente com o prescrito pelo consultor, o mesmo deverá declarar a intenção no relatório técnico e isentar o prestador do serviço e o SEBRAE de qualquer responsabilidade\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nCustos de trabalhos não especificados na proposta poderão ser assumidos posteriormente mediante Termo Aditivo ao contrato do Sebrae, desde que aprovados por ambas as partes\nDespesas adicionais com terceiros (direitos autorais, fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. Confidencial",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "10/07/2019",
+      "alteradoPor": "MMP14025-1.pdf MMP14025-2.pdf MMP14025-3.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/04/2020",
+      "alteradoPor": "Victor Rodrigues Ferreira Coordenação Sebraetec Coordenação Sebraetec"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "20/05/2024",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "codigo": "371440100308"
+}

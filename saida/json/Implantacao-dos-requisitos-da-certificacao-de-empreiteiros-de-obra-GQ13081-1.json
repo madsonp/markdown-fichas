@@ -1,0 +1,58 @@
+{
+  "id": "13081-1",
+  "nomeSolucao": "IMPLANTAÇÃO DOS REQUISITOS DE CONFORMIDADE DA CERTIFICAÇÃO DE EMPREITEIROS DE OBRA (PE-492)",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Serviços",
+  "descricao": "A certificação de empreiteiros de obra, oferecida pela ABNT, estabelece padrões rigorosos para a qualidade dos serviços na construção civil, incluindo conformidade com normas ambientais, de segurança e trabalhistas. Este processo inclui avaliação da infraestrutura, organização e gestão financeira das empresas, assegurando a aderência Confidencial a práticas éticas e de qualidade, essenciais para a obtenção e manutenção da licença da Marca de Qualidade ABNT.",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | DIAGNÓSTICO INICIAL Avaliar a situação atual da empresa em relação aos requisitos da certificação PE-",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "492.03 • Realização de uma auditoria diagnóstica para identificar as áreas que já atendem aos critérios de certificação e aquelas que precisam de melhorias • Elaboração de matriz impacto dos Stakeholder’s presentes na empresa, assegurando o crescimento saudável do negócio • Avaliação das políticas de qualidade dos contratantes: Comparar as práticas vigentes da empresa com as melhores práticas da indústria a fim de identificar novas oportunidades de aprimoramento • Entrevistas com a equipe de liderança e análise dos processos e documentos existentes.",
+      "entrega": "Relatório de diagnóstico destacando conformidades, não conformidades e recomendações para melhorias."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | PLANO DE AÇÃO PARA CONFORMIDADE Desenvolver e implementar as ações necessárias para alcançar a conformidade com os critérios da certificação devendo, quando aplicáveis, realizar:",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Criação de um plano de ação detalhado com base nas áreas de melhoria identificadas e correções necessárias no diagnóstico • Realização de Orientação para aumentar a conscientização entre os colaboradores sobre a importância da certificação e os benefícios esperados • Orientação da equipe em relação às melhores práticas do setor Implementação e criação de trilha de orientação profissional • Revisão e atualização dos processos, políticas e documentações conforme os padrões exigidos.",
+      "entrega": "Plano de ação proposto; e Documentação revisada e aprovada."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | IMPLEMENTAÇÃO E MONITORAMENTO Implementar as mudanças necessárias e monitorar a eficácia das ações, realizando:",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Implementação das ações conforme o plano estabelecido • Monitoramento contínuo e avaliação da implementação para garantir a eficácia e realizar ajustes conforme necessário • Condução de auditorias internas para preparar a equipe e os processos para a auditoria de certificação.",
+      "entrega": "Confidencial • Relatório Técnico Final contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos) contendo descrição de sistemas e processos, oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou presencialmente ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "A implantação dos requisitos de conformidade para empreiteiros de obra, conforme descrita no documento PE-492.03, traz uma série de benefícios e resultados esperados para as empresas do setor de construção civil:",
+  "estruturaMateriais": "•",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer acesso a todos os documentos bem como informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado\n7. Garantir a participação de funcionários nas orientações sobre os novos processos.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Empresa com equipe técnica com conhecimento dos requisitos do PE-492.03 e das normas relevantes, em gestão de qualidade e experiência comprovada em processos de auditoria na construção civil.",
+  "observacoesGerais": "",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "13/12/2024",
+      "alteradoPor": "Coordenação"
+    }
+  ],
+  "valorTeto": 20600.0,
+  "codigo": "372000104262"
+}

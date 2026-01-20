@@ -1,0 +1,138 @@
+{
+  "id": "21005-5",
+  "nomeSolucao": "DESIGN DE AMBIENTES",
+  "tema": "Design",
+  "subtema": "Design de Ambiente",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócios, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | DIAGNÓSTICO DA EMPRESA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar reunião de abertura junto ao cliente para nivelamento do escopo do trabalho • Briefing com o cliente para levantamento de dados, requisitos e informações que nortearão o desenvolvimento do projeto • Elaboração da lista de necessidades, do cronograma de atividades com as datas de cada etapa do projeto • Realização de diagnóstico da empresa e de seu segmento observando os seguintes aspectos, quando aplicáveis o Caracterização do público-alvo o Levantamento do estilo da loja o Caracterização do produto ou serviço da empresa o Pontos de acessibilidade o Sensorialidade da loja • Realização de diagnóstico do espaço físico conforme Decreto 9.405/2018, Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13146/2015), bem como as demais legislações federais, estaduais e municipais pertinentes e suas alterações. No diagnóstico, incluir a avaliação dos seguintes itens, quando aplicáveis: escolha correta de revestimentos, iluminação adequada, escolha personalizada de layout, adequação nas dimensões e formas de abertura das portas e janelas, instalação de rampas e entre outras questões que podem variar de acordo com o tipo de projeto. Presta-se atenção especial em projetos de banheiros e cozinhas acessíveis de forma a sempre visar a segurança, conforto e possibilidade do uso autônomo dos espaços. Outro ponto importante que precisa constar no relatório trata da sinalização dos locais acessíveis que deve ser feita por meio do Símbolo Internacional de Acesso.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, relatório do(s) diagnóstico(s), o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | CONSULTORIA EM DESIGN DE AMBIENTES",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar consultoria em design de ambientes observando os seguintes aspectos, quando aplicáveis • Conceituação do Projeto • Apresentação do leque de soluções para os problemas diagnosticados • Adequação de espaços físicos para acessibilidade e inclusão de pessoas • com deficiência Indicação das ações a serem implementadas, incluindo indicação do grau de complexidade da intervenção • Desenvolvimento de maquete(s) eletrônica(s) • Reuniões com o cliente para apresentação de propostas e definições do projeto • Elaboração do projeto executivo com memorial descritivo das soluções de design utilizadas, especificações técnicas dos elementos do projeto e desenho(s) técnico(s) com especificações de materiais/mobiliário, das soluções de adequação do espaço, em escala adequada e devidamente cotados (os desenhos técnicos compreendem: plantas-baixa em escala adequada, elevações, vistas, cortes, piso, luminotécnico, layout, detalhamento de materiais, informações de medidas, maquete eletrônica final, passeio virtual) • Elaboração de plano de ação para cada componente a ser trabalhado contendo, de acordo com a necessidade do projeto o Diretrizes quanto as regras de distanciamento social internamente, acompanhando os decretos* e normativas vigentes no período da prestação do serviço o As mais de 20 sensações fisiológicas relacionadas pela ciência e que influenciam o ambiente e o bem estar do usuário (tato, olfato, paladar, visão, audição, sinestésico, tempo/espaço, dor, fome, fadiga, háptico, história do usuário, psicológico/biológico, opiáceos, entre outros) que deverão ser avaliados através de percepções combinadas e sugeridas ao ambiente em busca de resultados para a macrosensação solicitada pelo cliente o Planilha Orçamentária, inserido todas as especificidades que serão orientadas na NBR 9050/2020, como escadas, rampas, sanitários e entre outros *O Prestador de Serviço Tecnológico deve informar à Empresa Demandante quais decretos e normativas está utilizando como referência para propor as adequações no ambiente.",
+      "entrega": "Projeto em arquivos digitais e Relatório Técnico Final contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos do ambiente atual comparando-o com a imagem gráfica do ambiente proposto), oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões. Anexar também Declaração assinada pelo empresário atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Objetivo do Projeto Quais tipos de projeto você deseja realizar com este serviço? ☐ Design de Interiores ☐ Design de Fachada ☐ Design Sensorial ☐ Projeto de Acessibilidade",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Localização do Projeto  Qual é o endereço do imóvel onde será realizado o projeto?  O imóvel é próprio, alugado ou se trata de uma loja de shopping?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Contexto do Projeto  O que está sendo planejado com este projeto?  Qual é a metragem e as dimensões do imóvel?  Para quais ambientes o projeto será destinado?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Documentação Prévia  Existe um projeto anterior ou levantamento cadastral? (Caso sim, enviar como anexo)  O imóvel já existe ou ainda será construído?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Condições do Imóvel  Qual é a situação atual do imóvel? ☐ Terreno vazio ☐ Imóvel antigo ☐ Imóvel novo ☐ Já está pronto e em uso",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Reformas e Modificações  O projeto inclui reformas significativas, ampliação do espaço ou mudanças estruturais?  Em caso de reforma, qual das opções melhor representa seu objetivo? ☐ Reforma completa ☐ Reforma parcial, aproveitando alguns itens ☐ Apenas melhorias com mobiliário, pintura e marcenaria, sem reformas estruturais",
+      "tipo": "multipla_escolha",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Intervenções Específicas  Nos ambientes que pretende reformar, quais elementos deseja incluir ou modificar? ☐ Substituição de piso ☐ Bancadas ☐ Forro de gesso ☐ Iluminação ☐ Marcenaria ☐ Revestimentos ☐ Pintura ☐ Demolição de alvenaria ☐ Adequação de pontos de tomada ☐ Mobiliário, iluminação e forro/gesso ",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "Aprovações Necessárias  Este projeto está vinculado à aprovação de algum órgão regulador?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "Natureza do Projeto  Qual é o caráter principal do projeto? (Descrever brevemente o propósito)",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "Referências Visuais • Você pode fornecer ao menos três fotos de cada ambiente/área que será projetado?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "11",
+      "pergunta": "Especificidades para Fachada (se aplicável) • O projeto de fachada se refere à estrutura/arquitetura ou envolve também a aplicação de marca e comunicação visual?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "12",
+      "pergunta": "Simulações e Recursos Visuais • Existe interesse em solicitar um passeio virtual ou imagens 3D do projeto?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "13",
+      "pergunta": "Esclarecimentos sobre Acompanhamento • O cliente está ciente de que o serviço não inclui acompanhamento ou gerenciamento da obra, nem cobre custos de execução?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "• Um bom design de interiores promove maior competitividade à empresa, tornando seu ambiente interno mais funcional, sensorial, seguro, planejado e estimulante ao uso e acesso pela maior quantidade de consumidores. • Adequa quanto as regras vigentes de mercado e cumprimento da obrigatoriedade legal de acessibilidade, de acordo com o Decreto 9.405/2018 e com a Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13146/2015), além da NBR 9050/2020; • Permitir o acesso de maneira autônoma, independente e segura do ambiente por qualquer pessoa; • Pode contribuir na produtividade da empresa e reduzir os custos; • Atrair e fidelizar o público-alvo da empresa solicitante, garantindo melhor experiência do ambiente; • Vínculo emocional e afetivo dos clientes com a marca: associações sensoriais positivas;",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": " 1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Enviar para a prestadora de serviços fotos/vídeos e dimensões gerais do espaço físico que sofrerá a intervenção (quando aplicável)\n6. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho (quando aplicável)\n7. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. Entregar o detalhamento de todos os dados técnicos e referências necessárias à produção do projeto\n7. Preparar os documentos a serem entregues (projeto, impressões, encadernações e organização da pasta com material digital)\n8. Todos arquivos (maquete eletrônica e plantas) devem ser entregues impressos (quando o cliente assim desejar) e em mídia digital com o(s) arquivo(s) aberto (CAD, DWG ou similar) e arquivo(s) do tipo imagem ou pdf, com boa resolução ao Sebrae e à empresa demandante\n9. Buscar toda a legislação e regras locais aplicadas ao projeto e seguir as orientações necessárias\n10. Sempre que possível, a prestadora deve atender a norma técnica, a ABNT NBR 15.575, que estabelece parâmetros mínimos de desempenho térmico e acústico, aumentando a eficiência energética das construções e reduzindo os impactos ambientais\n11. Possuir registro no CAU e retirar RRT – Registro de Responsabilidade Técnica - do trabalho, quando necessário.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais de Design de Interiores, Arquitetura ou Engenharia Civil e com experiência comprovada no escopo do serviço desta ficha\nObservação: Somente profissionais com registro nos conselhos CREA e/ou CAU poderão propor alteração em estrutura física.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nO serviço contempla os seguintes projetos, de acordo com a necessidade a empresa demandante: o Design de interiores; o Design de fachada; o Design sensorial; o Projeto de acessibilidade\nPodem ser atendidos desde ambientes como postos e estações de trabalho, chão de fábrica, ponto de venda, recepção e áreas de circulação\nSomente podem ser atendidos espaços com destinação comercial junto aos órgãos competentes\nO serviço não contempla acompanhamento da execução do projeto\nApenas profissionais com registro nos conselhos CREA e/ou CAU poderão propor alteração em estrutura física\nO designer de interiores não pode realizar ou assinar projetos que envolvam obras estruturais, somente profissionais de arquitetura. Por este motivo, não se recomenda a contratação desta consultoria para ambientes em estágio de construção (obra); Não podem ser contratados projetos com foco em paisagismo\nOs projetos de design de interiores e design de fachada podem conter projeto luminotécnico, mas o projeto luminotécnico não pode ser contratado sozinho sem que haja um projeto de interior envolvido\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nDespesas adicionais com terceiros (impressões, direitos autorais, fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo da empresa demandante, não fazendo parte da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. Hyrla Marianna O. S. Silva Maira Fontenele Santana Hyrla Marianna O. S. Silva Louise Nogueira",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "16/04/2019",
+      "alteradoPor": "Interiores-e-Fachada-DA21005-1.pdf Ambientes-DA21005-2.pdf Ambientes-DA21005-3.pdf Ambientes-DA21005-4.pdf Ambientes-DA21005-5.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "08/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "01/01/2021",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ]
+}

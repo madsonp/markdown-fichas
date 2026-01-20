@@ -1,0 +1,89 @@
+{
+  "id": "13073-2",
+  "nomeSolucao": "ADEQUAÇÃO À NORMA ABNT NBR ISO 31000:2018  - GESTÃO DE RISCOS",
+  "codigo": "372000017889",
+  "valorTeto": 12000.0,
+  "dataAtualizacaoEscopo": "",
+  "dataAtualizacaoValor": "",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "setorial": [],
+  "ods": [],
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "estadosDisponiveis": [],
+  "editalPorEstado": {},
+  "objetivo": "",
+  "descricao": "A consultoria objetiva: Execução de serviço de consultoria visando adequação dos processos e protocolos organizacionais para a Gestão de Riscos, considerando as exigências da Norma ABNT NBR ISO 31000:2018. 1 Ficha Técnica – Sebraetec 4.0",
+  "beneficiosResultadosEsperados": "• Entendimento do contexto interno e externo para a gestão de riscos\norganizacionais;\n• Fortalecimento organizacional com o gerenciamento dos riscos do negócio;\n• Otimização dos processos organizacionais para redução de custos e melhoria\nda qualidade.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento;\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas\ndo prestador de serviço;\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo\nprestador de serviço;\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao\nprestador de serviço para o desenvolvimento do trabalho;\n5. Acompanhar o prestador de serviço em visitas técnicas aos espaços físicos,\nse previsto no escopo do trabalho;\n6. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas;\n2. Analisar a demanda e as informações fornecidas pela empresa;\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto,\nagenda de reuniões e atividades, sendo necessário validar com a Empresa\nDemandante;\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao\nSebrae;\n5. Cumprir com as obrigações previstas no Regulamento do Sebrae.\n3\nFicha Técnica – Sebraetec 4.0",
+  "perfilDesejadoPrestadora": "A Prestadora de Serviço deve apresentar em seu corpo técnico: profissional com\nexperiência na adequação à norma ABNT NBR ISSO 31000:2018 e conhecimento\nsobre mapeamento de processos, elaboração de protocolos e implantação de\nsistemas de gestão da qualidade.",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | DIAGNÓSTICO ORGANIZACIONAL",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realização de diagnóstico da situação atual da empresa\n• Pesquisa diagnóstica através de formulário e reuniões\n• Levantamento do nível de documentação dos protocolos atuais para a gestão de riscos\n• Nivelamento do escopo do trabalho e planejamento das atividades que serão realizadas.",
+      "entrega": "• Relatório do diagnóstico realizado; • Documento contendo cronograma de atividades, apontamento de não conformidades e sugestão de ajustes, responsáveis pela execução do serviço na prestadora e na empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | MAPEAMENTO DE PROCESSOS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Levantamento do contexto organizacional, identificação de partes interessadas\n• Definição da metodologia para e mapeamento dos riscos do negócio\n• Mapeamento dos processos e elaboração dos protocolos organizacionais identificados no resultado da análise e avaliação dos riscos organizacionais\nIdentificação dos mapeados\nIndicadores de riscos relacionados aos processos",
+      "entrega": "• Relatório contendo o resultado da análise de contexto organizacional, requisitos de partes interessadas e levantamento e análise de riscos do negócio; • Documentação com processos mapeados e protocolos elaborados; • Documento com indicadores de risco identificados, objetivos e metas estabelecidos."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | IMPLEMENTAÇÃO DAS NOVAS PRÁTICAS",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Reuniões com as equipes para orientações e implantação dos procedimentos e protocolos para tratamento dos riscos organizacionais.",
+      "entrega": "Relatório contendo o resultado das atividades de implantação dos procedimentos e protocolos elaborados."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | MONITORAMENTO DOS RESULTADOS",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Definição de controles e processo de auditoria para acompanhar a adequação\n• das atividades\nImplementação das medições dos indicadores e sistemática de apresentação de resultados",
+      "entrega": "Documento contendo a metodologia para monitoramento e auditoria."
+    },
+    {
+      "id": "e5",
+      "titulo": "ETAPA 05 | AUDITORIA INTERNA",
+      "ordem": 5,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realização de auditoria interna na empresa.",
+      "entrega": "Documento contendo o resultado da auditoria interna."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico;\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento;\nDespesas adicionais com\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho;\nÉ de responsabilidade do prestador de serviço a execução do trabalho de (direitos autorais, acordo com a proposta validada pelo cliente (cronograma e entregas);\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. 4 Ficha Técnica – Sebraetec 4.0",
+  "observacoesEspecificas": "",
+  "versaoAtual": 1,
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "14/04/2021",
+      "alteradoPor": "Gestão-de-Riscos-Organizacionais- Gestão-de-Riscos-GQ13073-2.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "29/04/2022",
+      "alteradoPor": "Arthur Guimaraes Carneiro"
+    }
+  ]
+}

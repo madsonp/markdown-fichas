@@ -1,0 +1,136 @@
+{
+  "id": "14026-3",
+  "nomeSolucao": "IMPLANTAÇÃO DE SILO PARA ALIMENTAÇÃO ANIMAL",
+  "tema": "Produção e Qualidade",
+  "subtema": "Mapeamento e melhoria de Processos",
+  "tipoServico": "Acesso a Serviço Tecnológico",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 00 | ALINHAMENTO DA PROPOSTA E DIAGNÓSTICO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com as principais atividades, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico. Ferramentas como entrevista com o cliente são importantes como forma de obter informações necessárias para fundamentar a entrega proposta Confidencial Código da ficha técnica: 14026-3",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 01 | PREPARAÇÃO E ORIENTAÇÃO PARA CONFECÇÃO DO SILO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Organização Antecipada de Equipamentos • Orientar o produtor sobre a importância de organizar os equipamentos e materiais necessários com antecedência • Verificar e preparar ensiladeiras, carretas e ferramentas utilizadas no processo • Realizar a limpeza da área onde será feito o silo • Verificar o estado das facas das ensiladeiras e realizar a manutenção, se necessário • Garantir a disponibilidade de lonas para o fechamento adequado do silo Orientação sobre Mão de Obra e Período de Trabalho • Realizar um diagnóstico da área para determinar a quantidade ideal de mão de obra necessária • Orientar o produtor sobre a forma correta de confeccionar o silo, incluindo técnicas e procedimentos adequados • Recomendar o período mais propício para a realização do trabalho, considerando fatores como temperatura e umidade.",
+      "entrega": "Relatório detalhado contendo: • Descrição da organização antecipada de equipamentos, incluindo fotos que • identifiquem as ações realizadas; Instruções claras sobre a mão de obra necessária, quantidade de trabalhadores e período ideal para a realização das atividades; • Dados e orientações completas para garantir a correta aplicação das atividades na propriedade."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | CÁLCULO E ESCOLHA DO SILO PARA PRODUÇÃO DE SILAGEM",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Cálculo da Quantidade de Silagem • Realizar o cálculo da produção de silagem necessária com base na demanda dos animais e no período máximo em que precisarão desse alimento • Dimensionar o tamanho do silo de acordo com a quantidade estimada de forragem a ser utilizada na ensilagem • Calcular o período de suporte forrageiro que o silo será capaz de manter o rebanho do produtor, evitando períodos críticos de escassez Confidencial Código da ficha técnica: 14026-3 Escolha do Tipo de Silo Orientar o produtor sobre o tipo de silo mais adequado às necessidades da propriedade, levando em consideração a • Estrutura da propriedade e disponibilidade de espaço • Ponto de corte da cultura para ensilagem • Necessidades de transporte e compactação da silagem.",
+      "entrega": "Relatório contendo: • Cálculo detalhado da quantidade de silagem a ser produzida para atender às demandas dos animais durante o período crítico. • Recomendação clara sobre o tipo de silo mais adequado, considerando os aspectos estruturais da propriedade e logística de manejo da silagem."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 03 | ORIENTAÇÃO SOBRE PONTO DE CORTE DA PLANTA E DO PERÍODO",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Orientar sobre o ponto de corte na cultura utilizada para realizar a silagem, considerando o período, a realização do corte, o transporte, a compactação e a picagem do material.",
+      "entrega": "Relatório contendo dados que orientem sobre o ponto de corte da planta e o acondicionamento no silo, visando a correta aplicação da atividade na propriedade."
+    },
+    {
+      "id": "e5",
+      "titulo": "ETAPA 04 | ORIENTAÇÃO SOBRE ABERTURA E FECHAMENTO DO SILO",
+      "ordem": 5,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Orientar o produtor sobre a importância da cobertura no processo de ensilagem, garantindo que o mesmo não tenha nenhuma abertura. Repasse de técnicas de isolamento com controle de umidade, compactação e luminosidade, garantindo que não ocorra influência externa Orientar o produtor sobre o ponto e a época ideal para abertura do silo e seu uso na alimentação dos animais.",
+      "entrega": "Relatório contendo dados que orientem sobre a cobertura bem como sobre a abertura do silo. Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas. Confidencial"
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual a localização da propriedade (município, nome da propriedade e georreferenciamento)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Qual a área da propriedade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Qual a área da cultura a ser ensilada?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Qual a cultura a ser ensilada?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Qual o período de implantação da cultura e o estágio para o corte?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Qual a área disponível para realizar o silo?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Quais a espécies e a finalidade da atividade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "Qual a quantidade do rebanho na propriedade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Consultorias que orientem os produtores rurais sobre o processo de ensilagem para uso na alimentação animal incluindo a escolha da área e orientações gerais sobre o processo de silagem (milho, sorgo, capim elefante, capim normal e parte aérea da mandioca). Confirmação dos objetivos a serem alcançados:",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1\n2\n3\n4\nAprovar a proposta do Sebrae, valores e condições de pagamento\nConhecer e validar a proposta de trabalho do prestador de serviço\nProceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade e que estão no objeto deste Termo de Adesão\nIndicar a localização da área para realizar a silagem, como também disponibilizar os equipamentos necessários\n5. Empenhar-se para viabilizar a execução das ações planejadas e promover a 6\nparticipação e o envolvimento de sua equipe de colaboradores\nInformar, fornecer e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n7. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n8. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n9. Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n10. Avaliar o serviço prestado\n Confidencial",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Cumprir todas as etapas previstas no plano inicial do projeto, garantindo que todas as etapas serão sucedidas por suas respectivas entregas\n3. Realizar todas as etapas sem custo adicional\n4. Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n5. Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n6. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n7. Cumprir o prazo estabelecido com o produtor para realização de todas as etapas do projeto.",
+  "perfilDesejadoPrestadora": "Quadro profissional composto por Técnico Agrícola, Engenheiros Agrônomos ou Zootecnista.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite Confidencial Na impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo\nAs visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários propostos pela consultoria\nCaso o produtor opte por realizar qualquer procedimento em animais ou no pasto não condizente com o prescrito pelo consultor, o mesmo deverá declarar a intenção no relatório técnico e isentar o prestador do serviço e o SEBRAE de qualquer responsabilidade\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nCustos de trabalhos não especificados na proposta poderão ser assumidos posteriormente mediante Termo Aditivo ao contrato do Sebrae, desde que aprovados por ambas as partes\nDespesas adicionais com terceiros (direitos autorais, fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "10/07/2019",
+      "alteradoPor": "MMP14026-1.pdf MMP14026-2.pdf MMP14026-3.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/04/2020",
+      "alteradoPor": "Victor Rodrigues Ferreira Coordenação Sebraetec Coordenação Sebraetec"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "20/05/2024",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 1920.0,
+  "codigo": "371440100312"
+}

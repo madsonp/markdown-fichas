@@ -1,0 +1,102 @@
+{
+  "id": "12034-1",
+  "nomeSolucao": "CERTIFICAÇÃO VACAS A2A2 – FAZENDAS E INDÚSTRIAS LÁCTEAS",
+  "tema": "Produção e Qualidade",
+  "subtema": "Certificação/Inspeção",
+  "tipoServico": "Avaliação da Conformidade",
+  "modalidade": "Presencial",
+  "publicoAlvo": [],
+  "setor": "Agronegócio e Indústria",
+  "descricao": "A Certificação A2A2 surge como uma resposta à crescente demanda por produtos lácteos de alta qualidade e com garantias específicas sobre sua origem e composição, sendo destinado tanto para produtores rurais quanto para indústrias de laticínios. Este processo é viabilizado por uma parceria entre a Confederação da Agricultura e Pecuária do Brasil (CNA) e a organização Fairfood, e adota um método de Certificação de Terceira Parte. A validade e a legitimidade do processo são garantidas por auditorias conduzidas por entidades certificadoras credenciadas pelo International Accreditation Forum (IAF). A Certificação A2A2 tem como objetivo garantir que propriedades e indústrias estejam aptas a produzir e comercializar leite ou derivados provenientes de vacas com o genótipo A2A2, destinado à produção de beta-caseína. O leite A2A2 é especialmente valorizado por não conter beta-caseína A1, associada a desconfortos intestinais e outras reações adversas. Estudos sugerem que a beta-caseína A1 pode produzir o peptídeo BCM-7, que pode provocar inflamações e problemas digestivos. A genotipagem A2A2 do rebanho não envolve engenharia genética, mas sim a seleção genética natural por meio de marcadores moleculares. No momento da contratação, o Cliente deve informar o escopo1 da certificação A2A2 desejada: a) Certificação do Rebanho: Para venda de leite cru a laticínios com exigência de leite A2A2 certificado. b) Certificação do Processo: Para empresas que já possuem leite A2A2 certificado. c) Certificação Completa: Abrange tanto o rebanho quanto o processo.",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | PLANEJAMENTO DA AUDITORIA PRINCIPAL",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Planejar a auditoria externa para fins de certificação.",
+      "entrega": "Plano de Auditoria, detalhando o escopo da auditoria."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | EXECUÇÃO DA AUDITORIA PRINCIPAL",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Conduzir a auditoria externa conforme o plano estabelecido.",
+      "entrega": "Relatório de Auditoria: Documento com achados, eventuais não conformidades e a assinatura do empresário. Programa de Certificação VACAS A2A2 O Programa de Certificação VACAS A2A2 é estruturado para assegurar a conformidade com os requisitos necessários para a concessão do selo A2A2. As etapas do programa incluem:"
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Ter interesse em certificar processos e produtos.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Ter interesse em expandir seus negócios.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Ter regularização empresarial de acordo com seu enquadramento (ex. certidões e alvará em dia);",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Ter CNPJ, DAP, NIRF, registro de produtor rural válidos",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Designar um responsável para atender à Certificadora e fornecer as informações necessárias ao trabalho. Algumas perguntas - exemplo a serem respondidas:",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "A empresa já possui a(s) Certificação(ções) e deseja apenas renová-la(s)?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "Qual escopo de certificação está sendo solicitado (rebanho e/ou processo)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "Qual o mercado que pretende atender (município, estado ou federação)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "Possui licença da Secretaria ou do Ministério da Agricultura, de acordo com seu tamanho ou comercialização (SIM, SIP, SISBI/SUASA, SIF)?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "• Abertura de mercado para a venda do leite para grandes produtores de leite e derivados de A2A2 ou para a venda de marca própria de produtos com maior valor agregado; • Atendimento de nicho de mercado que busca alimentos mais saudáveis; • Direcionamento da produção leiteira para uma tendência de mercado Mundial. Outros resultados esperados: A certificação - VACAS A2A2 visa promover a melhoria do gerenciamento de dados e registros, a rastreabilidade dos produtos, o treinamento dos recursos humanos nas suas áreas de atuação e no controle e solução de inconformidades. Além disso, possibilita que seja oferecido, ao mercado consumidor, um produto diferenciado, de origem comprovadamente certificada",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta fornecida pelo Sebrae, incluindo os valores e as condições de pagamento para o processo de certificação A2A2\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviços, assegurando que estão alinhados com as necessidades e expectativas da empresa\n3. Disponibilizar uma agenda prévia para as visitas, reuniões e atividades propostas pelo prestador de serviços, garantindo a presença da equipe da empresa em todos os momentos necessários\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviços para o desenvolvimento do trabalho de certificação, garantindo a precisão e a completude das informações fornecidas\n5. Acompanhar o prestador de serviços durante as visitas técnicas aos espaços físicos da empresa, garantindo o acesso às áreas necessárias e a disponibilidade de informações e documentos\n6. Identificar a equipe que executará as atividades de preparação e participação no processo de auditoria. Garantir que a equipe esteja disponível para receber orientações da prestadora de serviços e que tenha ciência de que poderá acioná-la em caso de dúvidas\n7. Cumprir, durante a vigência do termo de certificação, as condições do protocolo do PROGRAMA, conforme descrito no Manual e Regulamento disponibilizados pela prestadora de serviços\n8. Realizar todos os procedimentos preparatórios necessários para a auditoria, garantindo que todas as etapas de preparação estejam completas e adequadas para a realização da auditoria\n9. Designar uma equipe para acompanhar presencialmente o processo de auditoria, que será responsável por apresentar a documentação solicitada e responder aos questionamentos do responsável pela auditoria\n10. Permitir acesso, sempre que solicitado pela prestadora de serviços, a informações, documentos e processos pertinentes ao protocolo do PROGRAMA, visando garantir a procedência das informações e a conformidade com os requisitos do programa\n11. Utilizar o Selo A2A2 conforme as orientações da prestadora de serviços, em plataformas de comunicação, sejam elas digitais ou físicas, e, no caso de unidades de beneficiamento, em rótulos de produtos envasados\n12. Em caso de cancelamento de uma auditoria previamente agendada, arcar com quaisquer custos provenientes do processo de cancelamento, conforme estabelecido pelos termos do contrato.",
+  "responsabilidadePrestadora": "1. Realizar uma reunião inicial com a empresa demandante para alinhar e apresentar as atividades previstas no processo de certificação, incluindo as etapas do protocolo, cronograma e responsabilidades\n2. Analisar a demanda da empresa demandante e as informações técnicas fornecidas por ela, assegurando que todos os dados necessários para o desenvolvimento do trabalho estejam completos e corretos\n3. Elaborar a proposta detalhada para a certificação, incluindo o escopo de trabalho, cronograma das etapas da auditoria, agenda de reuniões e atividades. Validar a proposta com a empresa demandante antes de sua finalização\n4. Fornecer todas as entregas previstas na proposta de trabalho e validadas pela empresa demandante ao Sebrae, conforme as diretrizes estabelecidas no Manual e Regulamento do PROGRAMA\n5. Cumprir todas as obrigações previstas no Regulamento do Sebraetec, garantindo que todas as práticas e procedimentos estejam de acordo com as normas e regulamentos estabelecidos\n6. Zelar pela credibilidade do selo do PROGRAMA, assegurando que todas as ações e práticas respeitem os padrões de qualidade e integridade exigidos\n7. Garantir a consistência técnica e a exequibilidade do protocolo constante no Manual e Regulamento do PROGRAMA, assegurando que todas as etapas do processo de certificação sejam realizadas com precisão e conforme as normas estabelecidas\n8. Manter a empresa demandante atualizada em relação à última versão do Manual e Regulamento do PROGRAMA, assegurando que todas as partes envolvidas estejam cientes de quaisquer atualizações ou mudanças\n9. Dar apoio técnico à empresa demandante por meio de orientações e esclarecimentos de dúvidas referentes ao conteúdo técnico do PROGRAMA, utilizando os canais de atendimento disponibilizados pela prestadora de serviços\n10. Proceder com o agendamento da auditoria de terceira parte somente após acordo prévio com a empresa demandante sobre a data de realização, garantindo que a data seja conveniente para ambas as partes\n11. Zelar pelo sigilo de quaisquer informações a que a equipe da prestadora de serviços e a equipe da certificadora de terceira parte tenham acesso durante o processo de certificação\n12. Arcar com o custo dos serviços e logística da certificadora para a realização de 1 (uma) auditoria presencial por ciclo anual, conforme estabelecido nos termos do contrato.",
+  "perfilDesejadoPrestadora": "Possuir protocolo devidamente aprovado pelas entidades controladoras, ser detentora do selo de certificação e disponibilizar, através de organismos de certificação de produtos com acreditação internacional, a realização de auditorias independentes. Ser uma empresa auditada e conduzidas por entidades certificadoras credenciadas pelo International Accreditation Forum (IAF)",
+  "observacoesGerais": "Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nDespesas adicionais com terceiros (direitos autorais, fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. Versão Data",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "08/08/2024",
+      "alteradoPor": "Vacas-A2A2-Fazendas-e-Industricas- Lacteas-CI12034-1.pdf"
+    }
+  ],
+  "valorTeto": 29000.0,
+  "codigo": "372000096915"
+}

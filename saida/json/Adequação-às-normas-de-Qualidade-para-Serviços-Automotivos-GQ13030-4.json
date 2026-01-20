@@ -1,0 +1,129 @@
+{
+  "id": "13030-4",
+  "nomeSolucao": "ADEQUAÇÃO ÀS NORMAS DE QUALIDADE PARA SERVIÇOS AUTOMOTIVOS",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Comércio e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO E PLANEJAMENTO DA CONSULTORIA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto à empresa demandante para definição das diretrizes de serviço, objetivos, premissas, restrições do serviço, agendamento das consultorias e definição dos responsáveis pelo acompanhamento dos serviços por parte da empresa demandante e da prestadora de serviço",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DIAGNÓTICO TECNOLÓGICO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Levantamento e avaliação situacional dos processos produtivos ou condições de reparação/manutenção, com base nas normas ABNT relacionadas para Certificação de Centro de Reparação dos seguintes escopos: Freios – NBR 14778, Suspensão – NBR 14780, Escapamento – NBR 14781, Direção – NBR 14779, Diagnostico Motor – NBR 14481, Transmissão – NBR 15760, Elétrica Automotiva – NBR 15745, Ar Condicionado – NBR 15629, Funilaria & Pintura – NBR 14284. Retifica de Motores – NBR 13032. Varejo de Autopeças – NBR 15842 Observação: O diagnóstico só se aplica a empresas estabelecidas e em pleno funcionamento.",
+      "entrega": "Relatório de Diagnóstico com aceite da empresa demandante, contendo o seguinte conteúdo mínimo: Capa; Situação verificada na Empresa; Objetivo(s) da Consultoria; levantamento de dados do(s) processo(s) e serviço(s) avaliados(s); análise circunstancial do momento (check-list); Plano de Ação e Cronograma Proposto; Registros Fotográficos. Observação: Caso o Cliente não permita a realização de registros fotográficos, esta observação deve constar registrada na Evidência."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | ADEQUAÇÃO ÀS NORMAS EM SERVIÇOS AUTOMOTIVOS",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Consultoria para adequação às normas para Certificação de Centro de Reparação com orientações específicas a serem adotadas para a empresa buscar a certificação • Orientações sobre o processo de produção para deixar a empresa demandante preparada para buscar a Certificação de Centro de Reparação pertinente para seu segmento de atuação, com orientações sobre as normas ABNT aplicáveis o Freios – NBR 14778, Suspensão – NBR 14780, Escapamento – NBR 14781, Direção – NBR 14779, Diagnostico Motor – NBR 14481, Transmissão – NBR 15760, Elétrica Automotiva – NBR 15745, Ar Condicionado – NBR 15629, Funilaria & Pintura – NBR 14284. Retifica de Motores – NBR 13032. Varejo de Autopeças – NBR 15842 • Orientações sobre os pontos que são verificados nas certificações para os Centros de Reparação, buscando adequação da empresa demandante aos seguintes instalações critérios, quando pertinentes: organização equipamentos; armazenagem; processos de trabalho; atendimento ao cliente responsabilidade ambiental; entre outros.",
+      "entrega": "• Relatório técnico final contendo bases e premissas utilizadas, tarefas fotográficos), executadas, resultados obtidos (inclusive com registros oportunidades de melhoria a partir da avaliação e intervenção, recomendações, conclusões e, se for o caso, as não conformidades identificadas, orientando a empresa na implementação das ações corretivas necessárias. • Declaração, com aceite da empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "O cliente possui controles dos indicadores (KPI)?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "O estabelecimento possui alvará de funcionamento?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "O cliente possui Alvará do Bombeiro?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "A empresa dispõe de estrutura de descarte de materiais?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "A empresa possui o Sistema de 5 S implementado?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "A empresa possui acesso as Normas ABNT?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "A empresa possui um Planejamento Estratégico?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "O cliente possui controle dos processos?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "O cliente utiliza softwares de gestão em sua empresa?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "A empresa está estabelecida e em pleno funcionamento?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "1. Contribuir para a melhoria do desempenho da produção por meio de ajustes na disposição de equipamentos e pessoas, distribuição de espaço, desenvolvimento de controles e adequação de fluxos, entre outros. 2. Tornar a empresa mais eficiente, criar melhores controles com foco em resultados, obtendo uma melhor imagem junto ao público e consumidor; 3. Qualificação inicial da empresa, com vistas a adequação às normas ABNT relacionadas para Certificação de Centro de Reparação – Escopos: Freios – NBR 14778, Suspensão – NBR 14780, Escapamento – NBR 14781, Direção – NBR 14779, Diagnostico Motor – NBR 14481, Transmissão – NBR 15760, Elétrica Automotiva – NBR 15745, Ar Condicionado – NBR 15629, Funilaria & Pintura – NBR 14284. Retifica de Motores – NBR 13032.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n 4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com experiência em Qualidade destinada ao segmento de reparação/manutenção automotiva.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados pela prestadora de serviço devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo da empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho. (direitos autorais, É de responsabilidade da prestadora de serviço todo o trabalho, da concepção à aprovação da empresa demandante; A prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante cliente\nO diagnóstico só se aplica a empresas estabelecidas e em pleno funcionamento.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "02/07/2019",
+      "alteradoPor": "GQ13030-1.pdf Serviços-Automotivos-GQ13030-2.pdf Ambientais-para-Serviços- Automotivos-GQ13030-3.pdf Serviços-Automotivos-GQ13030-4.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "15/04/2020",
+      "alteradoPor": "Arthur Guimaraes Carneiro"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "01/01/2021",
+      "alteradoPor": "Hulda Oliveira Giesbrecht Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 4800.0,
+  "codigo": "371440100285"
+}

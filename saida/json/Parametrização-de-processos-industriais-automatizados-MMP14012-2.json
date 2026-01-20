@@ -1,0 +1,54 @@
+{
+  "id": "14012-2",
+  "nomeSolucao": "PARAMETRIZAÇÃO AUTOMATIZADOS DE PROCESSOS INDUSTRIAIS",
+  "tema": "Produção e qualidade",
+  "subtema": "Mapeamento e melhoria de processos",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Indústria",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico • Levantamento dos processos industriais e das técnicas de controle automatizado • Parametrização de Controlador Lógico Programável (CLP), programação dos algoritmos de controle.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante. Programa do CLP em extensão do próprio software do CLP e em PDF."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DESENVOLVIMENTO E VERIFICAÇÃO DO SISTEMA",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Configuração, desenho e programação de sistema supervisório e ou Interação Homem-Máquina (IHM) • Descrever diagramas de circuitos automatizados, assim como os cuidados e intervenções a serem realizadas pelos operadores do sistema • Descrever manutenção preventiva em painéis elétricos • Aplicar a prática dos sistemas automatizados da planta resultados obtidos tarefas executadas,",
+      "entrega": "Relatório Técnico Final contendo bases e premissas utilizadas, registros fotográficos), oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões; Relatório da execução do sistema supervisório ou IHM com descrição do procedimento de verificar, testar e inspecionar os componentes físicos do processo modernizado; Dados e códigos da programação. Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas. (inclusive com"
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "Os recursos digitais dominam todos os cenários em especial da indústria, por esse motivo, a automatização de processos industriais é indispensável à conquista da liderança no mercado. A realização de programação de dispositivos físicos anexados às máquinas presentes nos processos industriais, visa otimizar e controlar a produtividade de acordo com a necessidade da empresa, entre outros benefícios, como: • Gestão eficiente de processos produtivos; • Conhecimentos técnicos para dar suporte aos processos produtivos; • Competitividade da empresa; • Aumenta o desempenho de um sistema; • Contribui para o aumento da produtividade; • Redução de custos; • Maior segurança de operação, mantendo a fabricação mais previsível; • Mantém a qualidade do processo estável.",
+  "estruturaMateriais": "Por parte da prestadora de serviço\n• Software de programação de sistemas e dispositivos de automação industrial\n• Ferramentas manuais\n• Instrumentos de medições elétricas.",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por engenheiros e técnicos, para programação e/ou parametrização de componentes e sistemas de automação industrial.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. Versão Data",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "02/01/2019",
+      "alteradoPor": "MMP14012-1.pdf MMP14012-2.pdf Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "08/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 24840.0,
+  "codigo": "371440100331"
+}

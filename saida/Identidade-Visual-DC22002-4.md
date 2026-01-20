@@ -1,0 +1,318 @@
+Código da ficha técnica: 22002-4
+
+IDENTIDADE VISUAL
+
+1.  Tema
+
+Design
+
+2.  Subtema
+
+Design de Comunicação
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria Tecnológica / Acesso a Serviço Tecnológico
+
+5.  Modalidade
+
+Presencial e/ou a distância
+
+6.  Público alvo
+
+MEI, ME, EPP, Produtor Rural e Artesão
+
+7.  Setor indicado
+
+Agronegócios, Comércio, Indústria e Serviços
+
+8.  Macrossegmento
+
+-
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+Briefing  com  o  cliente,  para  nivelamento  do  escopo  do  trabalho,  contendo
+necessidades, requisitos e restrições; e validação do planejamento de execução dos
+serviços; composto de cronograma resumido com agendas de reuniões e definição
+dos  responsáveis  pelo  acompanhamento  dos  serviços  por  parte  do  cliente  e  da
+prestadora de serviço tecnológico.
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 22002-4
+
+ENTREGA  ETAPA  01:  Documento  contendo  os  responsáveis  pela  prestação  do
+serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e
+outros aspectos acordados entre as partes, assinado pela Empresa Demandante.
+
+ETAPA 02 | DESENVOLVIMENTO DO PROJETO
+
+Desenvolvimento  dos  seguintes  aspectos  dentro  do  projeto  de  identidade  visual,
+observando os seguintes aspectos, quando aplicáveis:
+
+•  Conceituação do projeto;
+•  Malha Construtiva da Marca;
+•  Uso de Padrões Cromáticos (em escala RGB, CMYK, Pantone);
+•  Apresentação  da  marca  aprovada  nas  versões  horizontais  e/ou  verticais
+com suas reduções mínimas e com seus arquivos vetoriais e imagens;
+
+•  Definição de Área de não interferência da marca aprovada;
+•  Controle  de  Fundo  e  Restrições  e/ou  aplicações  em  fundos  coloridos  ou
+
+texturizados;
+
+•  Usos proibitivos ou incorretos da marca;
+família
+•  Definição  de
+
+tipográfica  utilizada  no  projeto,  assim  como
+
+disponibilização da fonte em sua versão digital;
+
+•  Imagem  digital  da  marca  (para  registro
+
+INPI)  contida,
+obrigatoriamente,  em  uma  moldura  de  8.0  cm  x  8.0  cm,  no  formato.jpg
+conforme orientações contidas no site;
+
+junto  ao
+
+•  Arquivos  vetoriais  e  imagens  de  todas  as  aplicações  definidas  com  as
+
+informações técnicas necessárias para confecção/produção;
+
+•  Desenvolvimento  dos  itens  de  aplicação  da  marca,  de  acordo  com  a
+
+necessidade do cliente:
+
+[  ] Naming
+[  ] Criação da marca
+[  ] Redesign da marca
+[  ] Manual de Identidade Visual
+[  ] Papelaria (Papel Timbrado, cartão, envelope, pasta de propostas)
+[  ] Adesivo para Frota
+[  ] Uniformes
+[  ] Outros (Citar):
+
+ENTREGA  ETAPA  02: Projeto Gráfico  aprovado  em Mídia  digital,  contendo  o(s)
+arquivo(s) vetorial e imagem, bem como, documento de aceite de finalização pelo
+cliente, atestando o recebimento da(s) entrega(s).
+
+10. Benefícios e resultados esperados
+
+Uma  boa  identidade  visual  gera  comprometimento,  credibilidade  ao  perfil  da
+empresa, determina o que a empresa representa, e qual imagem ela quer transmitir
+para  o  seu  público-alvo.  Além  disso,  destaca  a  empresa  dos  seus  concorrentes,
+gerando  reconhecimento  e  estabelecendo  vínculo  de  aproximação  com  seu
+consumidor final;
+Com  a  aplicação  dos  conceitos de  Identidade  Visual  será  possível representar  a
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 22002-4
+
+empresa com seus elementos, essenciais e visuais que a compõem;
+Reforça o posicionamento e diferencial da empresa no mercado, transmitindo de
+forma coerente seus valores para seu público-alvo, através da criação da marca e
+desenvolvimento de elementos visuais que comporão a identidade da empresa.
+
+11. Estrutura e materiais necessários
+
+-
+
+12. Responsabilidade da empresa demandante
+
+1.  Fornecimento, produção ou tratamento de textos, fotos ou vídeos e demais
+
+itens a serem utilizados durante o processo;
+
+2.  Custos  para  a  confecção  dos  produtos  resultantes  da  aplicação  da
+
+Identidade Visual;
+
+3.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+4.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+do prestador de serviço;
+
+5.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo
+
+prestador de serviço.
+
+6.  Fornecer informações técnicas sobre os processos, produtos ou serviços ao
+
+prestador de serviço para o desenvolvimento do trabalho;
+
+7.  Acompanhar  o  prestador  de  serviço  em  visita(s)  técnica(s)  aos  espaços
+
+físicos, se previsto no escopo do trabalho;
+
+8.  Avaliar o serviço prestado.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião para alinhamento e apresentação das atividades previstas;
+2.  Analisar a demanda e as informações fornecidas pela empresa;
+3.  Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto,
+agenda de reuniões e atividades, sendo necessário validar com a Empresa
+Demandante;
+
+4.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae;
+
+5.  Cumprir com as obrigações previstas no Regulamento do Sebraetec e Editais
+
+Estaduais;
+
+14. Perfil desejado da prestadora de serviço
+
+A  Prestadora  de  Serviço  deve  apresentar  em  seu  corpo  técnico,  profissional  com
+experiência e conhecimento sobre técnicas e ferramentas de  design gráfico e sua
+aplicabilidade.
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 22002-4
+
+15. Pré-diagnóstico
+
+À critério de cada UF.
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento
+da contratação a empresa demandante deverá ser comunicada que parte
+do serviço ou a integralidade dele, quando aplicável, acontecerá de forma
+remota. Além disso, o alinhamento do formato do atendimento deve ser feito
+na  Etapa  01  entre  a  empresa  demandante  e  a  prestadora  de  serviço
+tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+3.  Cada Sebrae/UF poderá definir se esse produto será aplicado na modalidade
+presencial, a distância ou presencial e a distância. No caso de ser aplicada
+integralmente a distância, pode-se recorrer a um perfil adequado de prestador
+de serviço, podendo ser o mesmo ou diferente do perfil para o atendimento
+presencial;
+
+4.  O trabalho de Identidade Visual pode ou não vir acompanhado do serviço
+
+de Sinalização;
+
+5.  Ao final, é importante que o cliente registre a marca desenvolvida no projeto.
+O  registro  é  concedido  pelo  órgão  governamental  Instituto  Nacional  da
+Propriedade Industrial (INPI). O pedido de registro de marca deve ser feito pelo
+cliente por meio de formulário próprio (obtido no site do INPI), anexando-se
+as especificações da marca;
+
+6.  É fundamental que o conjunto de ações da empresa estejam alinhadas ao
+
+posicionamento, propósito e valores da marca;
+
+7.  Os  valores  dos  honorários  apresentados  devem  incluir  todas  as  despesas
+com  impostos  e  encargos  sociais,  conforme  legislação  tributária  em  vigor,
+que possa incidir sobre o objeto da proposta;
+
+8.  Despesas  adicionais  com
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico,  entre  outros)  ficam  a  cargo  exclusivo  do  cliente  e  devem  ser
+previamente autorizadas por ele durante a validação da proposta de trabalho;
+9.  É de responsabilidade do prestador de serviço todo o projeto, da concepção
+
+(direitos  autorais,
+
+terceiros
+
+à aprovação do cliente;
+
+10. O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pelo cliente.
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 22002-4
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+Responsável
+
+1
+
+2
+
+3
+
+4
+
+10/04/19
+
+10/05/19
+
+16/09/19
+
+13/04/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/04/Identidade-
+Visual-DC22002-1.pdf
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/07/Identidade-
+Visual-DC22002-2.pdf
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/03/Identidade-
+Visual-DC22002-3.pdf
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/04/Identidade-
+Visual-DC22002-4.pdf
+
+Marijara Leal
+
+Nilo Vasconcelos
+de Oliveira
+Marijara Leal
+
+Nilo Vasconcelos
+de Oliveira
+
+Coordenação
+Sebraetec
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+

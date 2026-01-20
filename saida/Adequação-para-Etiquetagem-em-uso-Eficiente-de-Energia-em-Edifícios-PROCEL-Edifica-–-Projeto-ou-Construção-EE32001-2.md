@@ -1,0 +1,433 @@
+Código da ficha técnica: 32001-2
+
+ADEQUAÇÃO  PARA  ETIQUETAGEM  EM  USO  EFICIENTE  DE
+ENERGIA  EM  EDIFÍCIOS  (PROCEL  EDIFICA)  –  PROJETO  OU
+CONSTRUÇÃO
+
+1.  Tema
+
+Sustentabilidade
+
+2.  Subtema
+
+Eficiência Energética
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria tecnológica / Acesso a Serviço Tecnológico
+
+5.  Modalidade
+
+Presencial
+
+6.  Público alvo
+
+MEI, ME, EPP, Produtor Rural e Artesão
+
+7.  Setor indicado
+
+Agronegócios, Comércio, Indústria e Serviços
+
+8.  Macrossegmento
+
+-
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho
+e  validação  do  planejamento  de  execução  dos  serviços,  composto  de  cronograma
+resumido  com  os  principais  eventos,  agendas  de  reuniões  e  definição  dos
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 32001-2
+
+responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora
+de serviço tecnológico.
+
+ENTREGA  ETAPA  01:  Documento  contendo  os  responsáveis  pela  prestação  do
+serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e
+outros aspectos acordados entre as partes, assinado pela Empresa Demandante
+
+ETAPA 02 | DIAGNÓSTICO E LEVANTAMENTO DE DADOS
+
+Diagnóstico  da  empresa  e  de  projeto  e/ou  edificação  construída,  observando  os
+seguintes aspectos, quando aplicáveis:
+
+•
+
+•  Verificação  do  atendimento  aos  pré-requisitos  gerais  e  específicos  exigidos
+pelo RTQ-C (Regulamento Técnico da Qualidade para o Nível de Eficiência
+Energética de Edifícios Comerciais, de Serviços e Públicos).
+Identificação do nível de classificação obtido pela envoltória (ENCE - Etiqueta
+Nacional de Conservação de Energia).
+Identificação do nível de classificação obtido pela iluminação (ENCE Parcial).
+Identificação  do  nível  de  classificação  obtido  pelo  sistema  de  climatização
+(ENCE Parcial).
+
+•
+•
+
+•  Apresentação do nível de classificação geral da edificação (ENCE geral).
+•  Apresentação  de  sugestões  e  soluções  para  melhoria  do  nível  de
+
+desempenho.
+
+Levantamento  de  material  através  de  visita  in  loco,  levantamento  de  dados,  de
+projetos  e/  ou  elaboração  de  projetos  no  estado  atual,  observando  as  seguintes
+situações:
+
+Situação  1  –  Empresa  com  edificação  construída  e  projetos  no  estado  atual
+disponíveis:
+
+•  Visita e inspeção in loco na instalação da empresa;
+•  Fornecimento  pelo  cliente  dos  projetos  no  estado  atual  de  arquitetura,  de
+instalações  elétricas,  iluminação,  climatização  e  de  aquecimento  de  água
+(quando aplicável);
+
+•  Complementação  das  informações  apresentadas  nos  projetos,  conforme
+
+exigências do RTQ-C.
+
+Situação  2  –  Empresa  com  edificação  construída,  porém  sem  projetos  “no  estado
+atual” disponíveis:
+
+•  Visita e inspeção in loco na instalação da empresa;
+•  Elaboração de projeto “no estado atual” de arquitetura, instalações elétricas,
+iluminação,  ar  condicionado  e  sistema  de  aquecimento  de  água  (quando
+aplicável). Os projetos deverão apresentar as informações exigidas pelo RTQ-
+C.
+
+Situação 3 – Empresa com edificação não existente. Ainda em fase de projeto:
+
+•  Fornecimento pelo cliente dos projetos de arquitetura, de instalações elétricas,
+iluminação, climatização e de aquecimento de água (quando aplicável).
+•  Complementação  das  informações  apresentadas  nos  projetos,  conforme
+
+exigências do RTQ-C.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 32001-2
+
+ENTREGAS ETAPA 02:
+
+•  Relatório  do  diagnóstico  da  empresa,  contendo:  resultados  do  diagnóstico;
+situação verificada na empresa (com registros fotográficos, caso necessário);
+e  soluções  propostas  (com  plano  de  ação  e  cronograma);  assinado  pela
+empresa demandante.
+
+•  Relatório sobre levantamento de dados e informações;
+
+o  Situação  1  -  Relatório  com  registro  fotográfico  e  check  list  com  os
+
+projetos no estado atual disponibilizados;
+
+o  Situação  2  -  Relatório  com  registro  fotográfico  e  projetos  no  estado
+
+atual elaborados;
+
+o  Situação 3 - Relatório com os projetos no estado atual disponibilizados.
+
+ETAPA  03  –  PROPOSTAS  DE  ADEQUAÇÃO  DE  PROJETO  E/OU  EDIFICAÇÃO
+CONSTRUÍDA
+
+•  Apresentação  de  soluções  e  alterações  de  projeto/construção  para
+atendimento ao nível A de classificação e/ou para melhorar o desempenho da
+edificação no que se refere ao consumo de energia.
+
+•  Apresentação  do  nível  de  classificação  a  ser  obtido  pela  envoltória,  pela
+iluminação, pelo sistema de climatização e do nível geral da edificação após
+adoção das soluções e das propostas de adequação.
+
+•  Reunião para validação das propostas de adequação e de definição do nível
+
+de classificação a ser pleiteado pelo projeto e/ou construção.
+
+•  Apresentação  do  nível  de  classificação  a  ser  obtido  pela  envoltória,  pela
+iluminação, pelo sistema de climatização e do nível geral da edificação após
+adoção das soluções e das alterações propostas.
+
+•  Reunião  final  para  validação  do  nível  de  classificação  a  ser  pleiteado  pelo
+
+projeto e/ou construção.
+
+•  Elaboração  da  documentação  necessária  para  a  obtenção  da  Etiqueta  de
+Projeto e /ou de Construção, conforme exigências do laboratório acreditado e
+do RAC- C; (documentos solicitados no Anexo III da Portaria no 122, que se
+referem a assuntos específicos da consultoria).
+
+ENTREGAS  ETAPAS  03:  Relatório  Técnico  com  Diagnóstico  e  Propostas  de
+adequação.
+
+ETAPA  04  |  ELABORAÇÃO  DE  DOCUMENTAÇÃO  PARA  OBTENÇÃO  DA
+ETIQUETA DE PROJETO OU EDIFICAÇÃO CONSTRUÍDA
+
+•  Elaboração  da  documentação  necessária  para  a  obtenção  da  Etiqueta  de
+Projeto e /ou de Construção, conforme exigências do laboratório acreditado e
+do RAC- C; (documentos solicitados no Anexo III da Portaria no 122, que se
+referem a assuntos específicos da consultoria).
+
+•  Relatório Final e RRT ou ART:
+•  O  relatório  final  deverá  contemplar  todos  os  relatórios  e  documentos
+entregues  nas  etapas  anteriores,  validados  pelo  cliente,  como:  Projetos  “no
+estado  atual”,  se  for  o  caso,  Relatórios,  Formulários,  Atas  de  Reunião,
+Orçamentos e via Termo de Aceite da entrega do projeto. Pagamento da ART
+junto ao CREA ou RRT no CAU.
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 32001-2
+
+ENTREGAS ETAPA 04:
+
+•  Relatório  Técnico  Final  contendo  bases  e  premissas  utilizadas,  tarefas
+fotográficos),
+executadas,  resultados  obtidos  (inclusive  com  registros
+oportunidades  de  melhoria,  plano  contendo  ações  a  serem  executadas,
+recomendações e conclusões;
+
+•  Emissão de RRT ou ART;
+•  Declaração,  assinada  pela  empresa  demandante,  atestando  o  recebimento
+da(s)  entrega(s)  realizadas  pelo  prestador  de  serviço  tecnológico  e  que  o
+prestador  de  serviço  tecnológico  explicou  ao  cliente  o  conteúdo  da(s)
+entrega(s) efetivadas.
+
+10. Benefícios e resultados esperados
+
+•  Adequar  o  projeto  de  uma  edificação  comercial,  de  serviços  e  públicas,
+
+visando à redução do consumo de energia elétrica.
+
+•  O  serviço  auxilia  na  implantação  dos  critérios  do  Regulamento  Técnico  da
+Qualidade para o Nível de Eficiência Energética de  Edificações Comerciais,
+de Serviços e Públicas (RTQ-C), que especifica requisitos técnicos, bem como
+os  métodos  para  classificação  de  desempenho  de  projetos  ou  edificação
+construída no que se refere à conservação de energia.
+
+•  Melhores  classificações  de  eficiência  energética  em  uma  dada  categoria,
+motiva o mercado consumidor a adquirir e utilizar imóveis mais eficientes.
+
+PRÉ-REQUISITOS
+A empresa deverá definir se vai optar pela etiquetagem de projeto ou de edificação
+construída, pois a etiqueta é concedida em dois momentos: na fase de projeto e após
+a construção do edifício. Um projeto pode ser avaliado pelo método prescritivo ou pelo
+método  da  simulação,  enquanto  o  edifício construído  deve  ser  avaliado através  de
+inspeção in loco.
+
+11. Estrutura e materiais necessários
+
+-
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+2.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+do prestador de serviço;
+
+3.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo
+
+prestador de serviço.
+
+4.  Fornecer informações técnicas sobre os processos, produtos ou serviços ao
+
+prestador de serviço para o desenvolvimento do trabalho;
+
+5.  Acompanhar  o  prestador  de  serviço  em  visita(s)  técnica(s)  aos  espaços
+
+físicos, se previsto no escopo do trabalho;
+
+6.  Avaliar o serviço prestado.
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 32001-2
+
+7.  Cabe à empresa demandante (e não à entidade executora) dar andamento ao
+processo de etiquetagem junto ao Organismo de Inspeção Acreditado (OIA)
+de sua escolha.
+
+8.  Disponibilizar  todos  os  projetos  de  arquitetura,  instalações  elétricas,  de
+climatização, do sistema de aquecimento de água e demais informações que
+se  fizerem  necessárias para o  cálculo e  análise  do  consumo  de  energia  da
+edificação e/ou auxiliar a entidade executoras na obtenção das informações e
+dados necessários.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião para alinhamento e apresentação das atividades previstas;
+2.  Analisar a demanda e as informações fornecidas pela empresa;
+3.  Elaborar  proposta,  escopo  de  trabalho,  cronograma  das  etapas  do  projeto,
+agenda  de reuniões  e  atividades,  sendo  necessário  validar  com  a  Empresa
+Demandante;
+
+4.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae.
+
+5.  Cumprir com as obrigações previstas no Regulamento do Sebraetec.
+6.  Considerar requisitos legais e outros requisitos, usos significativos de energia
+
+e oportunidades de melhoria do desempenho energético.
+
+7.  Pagamento  da  RRT  –  Registro  de  Responsabilidade  Técnica  ou  da  ART  –
+
+Anotação de Responsabilidade Técnica.
+
+8.  Os projetos ou construções submetidas ao RTQ-C deverão atender às normas
+
+da Associação Brasileira de Normas Técnicas (ABNT) vigentes e aplicáveis;
+
+9.  Desenvolver  os  diagnósticos,  análises  e  cálculos  de  acordo  com  o
+Regulamento Técnico mais atual, bem como com os padrões estabelecidos
+por Norma. O diagnóstico, relatórios e demais etapas aqui descritas deverão
+ser baseadas no RTQ-C - Regulamento Técnico da Qualidade para o Nível de
+Eficiência  Energética  de  Edifícios  Comerciais,  de  Serviços  e  Públicos  e  no
+RAC  -  Requisito  de  Avaliação  da  Conformidade  para  Edificações  e  suas
+Portarias  Complementares,  bem  como  nos  manuais  do  RTQ-C  e  do  RAC,
+além de manuais com diretrizes para a obtenção de edificações nível A por
+zona bioclimática;
+
+10. Deverá  ainda  apresentar  os  níveis  de  classificação  das  etiquetas  parciais
+
+(envoltória, iluminação e climatização) e da etiqueta geral;
+
+14. Perfil desejado da prestadora de serviço
+
+Corpo  técnico  formado  por  profissionais  com  formação  acadêmica  na  área  de
+Arquitetura  e  Urbanismo,  Engenharia  elétrica  ou  Engenharia  Civil,  seja  a  nível  de:
+graduação, mestrado ou doutorado, com experiência em consultoria e conhecimento
+prévio  do  RTQ-C  -  Regulamento  Técnico  da  Qualidade  para  o  Nível  de  Eficiência
+Energética de Edifícios Comerciais, de Serviços e Públicos (Etiqueta Procel Edifica).
+Deve-se possuir registro no CAU e/ou CREA e retirar RRT e/ou ART do trabalho.
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 32001-2
+
+15. Pré-diagnóstico
+
+-
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+01 entre a empresa demandante e a prestadora de serviço tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+4.  Despesas  adicionais  com
+
+3.  Os valores dos honorários apresentados devem incluir todas as despesas com
+impostos  e  encargos  sociais,  conforme  legislação  tributária  em  vigor,  que
+possa incidir sobre o objeto da proposta;
+terceiros
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico,  entre  outros)  ficam  a  cargo  exclusivo  do  cliente  e  devem  ser
+previamente autorizadas por ele durante a validação da proposta de trabalho;
+5.  É de responsabilidade do prestador de serviço todo o projeto, da concepção à
+
+(direitos  autorais,
+
+aprovação do cliente;
+
+6.  O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pelo cliente;
+
+7.  O Sebrae não se responsabiliza pelo nível de classificação da Etiqueta Procel
+
+Edifica obtido, emitida pelo OIA após auditoria;
+
+8.  Etiqueta Nacional de Conservação de Energia (ENCE) Geral inclui todos os
+sistemas possíveis de avaliação (envoltória, iluminação e condicionamento de
+ar). Pode ser fornecida para o edifício completo, para blocos de edifícios, para
+pavimentos ou conjuntos de salas;
+
+9.  ENCE parcial da envoltória. Deve ser obtida para a envoltória completa, e é
+obrigatória  para  a  obtenção  de  qualquer  outra ENCE  parcial.  A  envoltória é
+composta pelas fachadas e cobertura, incluindo as aberturas envidraçadas e
+vãos;
+
+10. ENCE parcial da envoltória e do sistema de iluminação. Pode ser fornecida
+para  o  edifício  completo,  para  blocos  de  edifícios,  para  pavimentos  ou
+conjuntos de salas;
+
+11. ENCE parcial da envoltória e do sistema de condicionamento de ar. Pode ser
+fornecida para o edifício completo, para blocos de edifícios, para pavimentos
+ou conjuntos de salas.
+
+6
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 32001-2
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+Responsável
+
+1
+
+02/01/2019
+
+2
+
+16/04/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/04/Adequação-
+para-Etiquetagem-em-uso-Eficiente-
+de-Energia-em-Edifícios-PROCEL-
+Edifica-–-Projeto-ou-Construção-
+EE32001-1.pdf
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/04/Adequação-
+para-Etiquetagem-em-uso-Eficiente-
+de-Energia-em-Edifícios-PROCEL-
+Edifica-–-Projeto-ou-Construção-
+EE32001-2.pdf
+
+Coordenação
+Sebraetec
+
+7
+
+Ficha Técnica – Sebraetec 4.0
+

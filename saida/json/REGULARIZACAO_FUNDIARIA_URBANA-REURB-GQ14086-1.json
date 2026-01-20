@@ -1,0 +1,59 @@
+{
+  "id": "14086-1",
+  "nomeSolucao": "",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócios, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA E DIAGNÓSTICO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico. Ferramentas como entrevista com o cliente são Confidencial Código da ficha técnica: 14086-1 importantes como forma de obter informações necessárias para fundamentar a entrega proposta.",
+      "entrega": "Relatório contendo o levantamento de informações e documentos do cliente, contendo a identificação da documentação mínima obrigatória para o requerimento formal do interessado."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | REQUERIMENTO INICIAL Coleta dos documentos necessários para protocolar o requerimento do REURB, tais como:",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• CNPJ atualizado (emitido no site da Receita Federal) • Contrato Social ou Estatuto vigente • Documentos pessoais do representante legal (RG e CPF) • Comprovantes de ocupação mansa e pacífica (mínimo 5 anos) • Contas de água, luz, telefone fixo • Guias de IPTU • Alvarás de funcionamento • Contratos ou recibos de compra e venda (se houver) • Declaração dos confrontantes (vizinhos laterais e de fundo) • Planta de situação ou planta georreferenciada do imóvel • Memorial descritivo da área ocupada • ART (CREA) ou RRT (CAU) do responsável técnico • Certidão de existência ou inexistência de matrícula (cartório de registro de imóveis competente) • Certidão Conjunta da Receita Federal • Certidão Negativa de Débitos Trabalhistas (CNDT) • Certidão de Regularidade do FGTS (CRF/FGTS) • Certidão Estadual (ICMS, se aplicável) A solicitação do REURB-E pelo Sebraetec deve obrigatoriamente ser feito em nome da jurídica (ex.: MEI, ME, EPP) estabelecida no local, acompanhado de documentação mínima obrigatória. Esse processo deve ser protocolado junto ao órgão municipal competente, geralmente a Secretaria de Planejamento, Regularização Fundiária ou afim.",
+      "entrega": "Protocolamento do requerimento formal do interessado, acompanhado da documentação mínima obrigatória, no órgão municipal competente."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | ACOMPANHAMENTO E ORIENTAÇÕES ADICIONAIS Após protocolado, o processo segue para análise técnica e jurídica pelo município, O acompanhamento do processo ocorrerá durante todo o processo, até o registro imobiliário pelo município e cartório competente.",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "",
+      "entrega": "Acompanhamento durante as etapas sob a responsabilidade de terceiros: município e cartório, e orientações adicionais até a finalização do processo com a regularização imobiliária do empreendimento urbano."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "A ausência de matrícula imobiliária regular impede pequenos negócios de obterem: • Financiamentos e créditos bancários; • Participarem de programas públicos de incentivo; • Valorização dos imóveis A REURB-E representa, portanto, uma ponte entre a formalização fundiária e a inclusão econômica dos pequenos negócios.",
+  "estruturaMateriais": "Espaço físico adequado para a realização de reunião, execução de atividade de planejamento, elaborações de relatórios e documentos, etc.",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer as informações e documentos solicitados\n5. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas nesta ficha técnica, e devidamente validadas pela empresa demandante\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais experientes, com atuação comprovada na área de regularização fundiária.",
+  "observacoesGerais": "Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nÉ de responsabilidade do prestador de serviço todas as entregas descritas nesta ficha técnica\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "18/08/2025",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "codigo": "372000113238"
+}

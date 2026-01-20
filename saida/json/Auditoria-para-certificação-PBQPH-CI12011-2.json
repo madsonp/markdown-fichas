@@ -1,0 +1,187 @@
+{
+  "id": "12011-2",
+  "nomeSolucao": "AUDITORIA PARA CERTIFICAÇÃO PBQP-H",
+  "tema": "Produção e Qualidade",
+  "subtema": "Certificação / Inspeção",
+  "tipoServico": "Avaliação da Conformidade",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Serviços",
+  "descricao": "O PBQP-H, Programa Brasileiro da Qualidade e Produtividade do Habitat, é um instrumento do Governo Federal para cumprimento dos compromissos firmados pelo Brasil, que tem como sua meta organizar o setor da construção civil em torno de duas questões principais: a melhoria da qualidade do habitat e a modernização produtiva. ",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto à empresa demandante para definição das diretrizes de serviço, agendamento da auditoria e definição dos responsáveis pelo acompanhamento dos serviços por parte da empresa demandante e da prestadora de serviço.",
+      "entrega": "Documento contendo os prazos para recebimento dos documentos da empresa demandante, prazos para a análise documental, datas das visitas de auditoria, os responsáveis pela prestação do serviço, o escopo do serviço, o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | AUDITORIAS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "A certificação inicial de uma empresa construtora é feita em duas fases, seguindo a norma ABNT NBR ISO/IEC 17021-1, o Programa Brasileiro da Qualidade e Produtividade do Habitat - PBQP-H Sistema de Avaliação da Conformidade de Empresas de Serviços e Obras da Construção Civil - SiAC REGIMENTO ESPECÍFICO DA ESPECIALIDADE TÉCNICA EXECUÇÃO DE OBRAS • Fase 1: Com os objetivos de avaliar a adequação do sistema de gestão da qualidade planejado às exigências normativas aplicáveis, conhecer as particularidades da empresa, avaliar o seu nível de prontidão para a Fase 2 e estabelecer um programa efetivo para a auditoria de Fase 2 • Fase 2: Com os objetivos de avaliar a conformidade das práticas estabelecidas e implementadas às exigências normativas aplicáveis, bem como a adequação do sistema de gestão da qualidade planejado e previamente avaliado na Fase 1 A auditoria da Fase 1 deve ser conduzida de modo a I II III IV V VI VII auditar a documentação do sistema de gestão da qualidade da empresa avaliar o escritório da empresa e as condições específicas do local, e discutir com o pessoal da empresa o seu grau de preparação para a auditoria Fase 2 analisar a situação e a compreensão da empresa quanto aos requisitos do Referencial Normativo aplicável, em especial com relação à identificação de aspectos-chave ou significativos de desempenho, de processos, de objetivos e da operação do sistema de gestão da qualidade coletar informações necessárias em relação ao escopo do sistema de gestão da qualidade, processos e instalações da empresa, aspectos estatutários e regulamentares relacionados e o respectivo cumprimento (por exemplo, aspectos de qualidade, ambientais e legais da operação da empresa, riscos associados, etc.) analisar a alocação de recursos para a Fase 2 e acordar com a empresa os detalhes da auditoria Fase 2 permitir o planejamento da auditoria Fase 2, obtendo um entendimento suficiente do sistema de gestão da qualidade da empresa e do seu funcionamento, com destaque para seus aspectos significativos avaliar, quando aplicável, se as auditorias internas e a análise crítica pela direção estão sendo planejadas e realizadas, e se o nível de implementação do sistema de gestão da qualidade comprova que a empresa está pronta para a auditoria Fase 2 Auditoria Fase 2 tem por objetivo I. avaliar a implementação, incluindo eficácia, do sistema de gestão implementado II. a fase 2 deve ocorrer nos locais do cliente. Incluindo no mínimo o seguinte a. informações e evidências sobre conformidade com todos os requisitos da norma aplicável de sistema de gestão ou outro documento normativo b. monitoramento, medições, comunicação e análise crítica do desempenho em relação aos principais objetivos e metas de desempenho (coerente com as expectativas na norma aplicável de sistema de gestão ou em outro dão documento normativo) c. a capacidade e o desempenho do sistema de gestão do cliente em relação ao atendimento dos requisitos estatutários, regulatórios e contratuais d. controle operacional dos processos do cliente e. auditoria interna e análise crítica pela direção f responsabilidade da direção pelas políticas do cliente.",
+      "entrega": "• Relatório de auditoria final com indicação e considerações sobre pontos de conformidade/não-conformidade previstos na certificação pretendida, assinado pela empresa demandante; • Certificado de Conformidade, após a realização de Auditoria de Certificação, indicando que o seu sistema de gestão da qualidade está em conformidade com um dos Referenciais Normativos do SiAC, nos casos em que não houver não conformidades identificadas. Não havendo a recomendação, a entrega será uma Carta informando que a Empresa não foi recomendada; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou presencialmente à empresa demandante o conteúdo da(s) entrega(s) efetivadas. ETAPA POSTERIOR | MANUTENÇÃO DA CERTIFICAÇÃO • Para a manutenção da certificação, são desenvolvidas atividades de supervisão, a fim de que áreas e funções representativas cobertas pelo escopo do sistema de gestão sejam monitoradas regularmente e levem em consideração as mudanças em seus clientes certificados e em seus sistemas de gestão; • As atividades de supervisão devem incluir auditorias no local para avaliar se o sistema de gestão da organização certificada continua a atender aos requisitos especificados em relação à norma na qual a certificação foi concedida; • As auditorias de supervisão devem ser realizadas no mínimo uma vez por ano, sendo que a data da primeira auditoria de supervisão não deve ultrapassar 12 meses a partir da data da decisão da certificação, conforme previsto no regimento específico do SiAC."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual o escopo de certificação desejado (atividades abrangidas pelo sistema)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Existe algum requisito excluso no Sistema de Gestão? Se sim, aquele determinado item não passará pelo processo de auditoria?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Qual a quantidade de funcionários envolvidos no escopo da Certificação?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "O número de funcionários deve ser segmentado identificando quantos são administrativos e quantos são operacionais (atividades simples, de baixa qualificação).",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "O cliente está ciente da possibilidade de realização de evento adicional não contemplados pelo Programa SEBRAETEC no caso de haver a necessidade de uma auditoria especial ou follow-up em caso de não conformidades identificadas? Tais custos são de responsabilidade do Cliente e devem ser contratadas diretamente com a Certificadora.",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "Quantos departamentos/ setores/ unidades/ células estão envolvidos no(s) processo(s)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "A empresa já dispõe de Manual da Qualidade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "A empresa dispõe de Procedimentos e Rotinas escritas para os seus principais processos?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "A empresa dispõe de um representante da direção responsável pela Qualidade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "10",
+      "pergunta": "A empresa possui os seus processos mapeados e descritos sob a forma de documento?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "11",
+      "pergunta": "A empresa dispõe de todos os cargos e funções de seus colaboradores descritos?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "12",
+      "pergunta": "A empresa utiliza indicadores para acompanhar os seus processos?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "13",
+      "pergunta": "A empresa possui uma Política de Qualidade conhecida pelos seus colaboradores e público?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "14",
+      "pergunta": "Possui clientes que exijam o Certificado de Qualidade como requisito para atendimento?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "15",
+      "pergunta": "Quantos processos de sua empresa o cliente deseja certificar?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "16",
+      "pergunta": "A empresa já foi atendida pela consultoria de preparação para certificação?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "17",
+      "pergunta": "Para qual nível a Empresa deseja se certificar?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "18",
+      "pergunta": "Quantas obras a empresa possui em andamento?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "19",
+      "pergunta": "As Não Conformidades verificadas já foram adequadamente tratadas?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "20",
+      "pergunta": "O cliente está ciente que são contempladas apenas a auditoria inicial e principal?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "21",
+      "pergunta": "O cliente está ciente de que o certificado, se concedido, terá validade de 01 (um) ano? ",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "22",
+      "pergunta": "O cliente está ciente que pode NÃO receber o certificado por NÃO atendimento aos requisitos?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "A Certificação no PBQP-H é pré-requisito para as empresas construtoras aprovarem projetos junto à Caixa Econômica Federal (CEF) para participarem do programa Minha Casa, Minha Vida (MCMV), e necessário também para diversas linhas de financiamentos junto à Caixa Econômica Federal e outras instituições de crédito privadas. Para obter tais benefícios a Empresa precisa estar certificada em um dos níveis definidos no Programa PBQPH (Nível de Adesão, Nível B e Nível A). Além disso, a certificação permite: • Avaliar a conformidade de sistemas de gestão da qualidade de empresas do setor de serviços e obras atuantes na construção civil visando a contribuir para a evolução da qualidade, produtividade e sustentabilidade no setor da construção civil. • Obter o Certificado de Conformidade emitido pelo Organismo Certificador, após a realização de Auditoria de Certificação, indicando que o seu sistema de gestão da qualidade está em conformidade com um dos Referenciais Normativos do SiAC.",
+  "estruturaMateriais": "A Certificação do SGQ só pode ser requerida se a Empresa requerente tiver pelo menos 1 (uma) obra em andamento e após os requisitos normativos do nível desejado (Nível B ou Nível A) se encontrarem implantados e consolidados, orientado primordialmente pelos requisitos da Norma ISO 9001: 2008 e diretrizes do PBQP-H\nOs requisitos normativos mencionados estão definidos no Programa PBQP-H e no Regimento Específico do (SiAC) para os diversos Níveis estabelecidos no Programa\nOs Organismos de avaliação da conformidade devem obrigatoriamente trabalhar com auditores e especialistas cujo perfil atenda às exigências de educação comprovada, experiência profissional comprovada e treinamento comprovado\nOs auditores e auditores líderes devem ser registrados como auditores PBQP-H em uma entidade específica de registro de profissionais e em um OAC acreditados pela CGCRE\nA equipe auditora para atuar em auditorias do SiAC deve ser formada, no mínimo, por um auditor líder e por um especialista que atendam aos critérios definidos no Regimento Específico da especialidade técnica envolvida. Um auditor ou um auditor líder pode acumular a função de especialista caso atenda aos critérios nele estabelecidos\nPara proceder à correta avaliação de seu sistema de gestão da qualidade, o OAC deve solicitar à empresa construtora, além das definidas no Art. 18 do Regimento Geral, as seguintes informações\nI. quantidade de funcionários próprios e terceirizados, incluindo temporários, trabalhando no escritório, em atividades nele desenvolvidas com impacto no sistema de gestão da qualidade, e endereço\nII. idem, para depósito central\nIII. idem, para central de serviços, tal como de pré-fabricação ou pré-montagem\nIV. idem, para central de manutenção\n V. características de todas as obras em andamento no escopo pretendido, incluindo daquelas em que atue na forma de consórcio, Sociedade de Propósito Específico (SPE) ou Sociedade em Conta de Participação (SCP), desde que o sistema de gestão da qualidade da empresa esteja implantado, independentemente da porcentagem que possua e independentemente de seu estágio de execução, incluindo nome da obra, endereço, responsável técnico, tipo da obra, características de seu porte (área construída, número de unidades, extensão, superfície, volume de concretagem, etc.), observações e particularidades, datas de início e de previsão de término, serviços em realizados por execução subempreiteiros e quantidade de funcionários próprios e terceirizados, incluindo temporários\nrealizados com mão de obra própria e VI. Anotações de Responsabilidades Técnicas (ART) no CREA ou Registros de",
+  "responsabilidadeEmpresaDemandante": "1. A empresa deve se comprometer a fornecer as informações e documentos requeridos para a solicitação da certificação e realização das auditorias no processo de certificação\n2. Prover evidencias do atendimento aos requisitos estabelecidos nas normas de referência e demais requisitos legais durante a vigência do Certificado\n3. Prover recursos necessários para permitir a condução de auditorias solicitadas, assegurando a eficiência e eficácia dos processos\n4. Acordar com o Organismo Certificador o escopo abrangido pela certificação e os objetivos e critérios das auditorias\n5. Permitir a equipe de auditores acesso aos documentos, dados, assim como às instalações onde se realizam as operações estabelecidas no escopo objeto da certificação\n6. Cumprir com os prazos acordados nas auditorias, nas ações corretivas e sanções acordadas\n7. Cumprir com os termos estabelecidos no contrato de certificação, comunicar as informações relacionadas com o uso de consultoria relativa ao sistema de gestão\n8. Manter registros de todas as reclamações, comentários e demandas das partes interessadas envolvidas no escopo da certificação, bem como as ações corretivas tomadas e disponibilizá-las sempre que solicitado\n9. Avaliar, manter e melhorar o sistema de gestão implementado, bem como assegurar a conformidade legal e a conformidade com os requisitos da norma aplicável\n10. Comunicar qualquer alteração relevante no sistema de gestão e atividades implementadas\n11. Permitir a presença do organismo acreditador quando solicitado por este, na realização de auditorias testemunha na organização\n12. Aprovar a proposta do Sebrae, valores e condições de pagamento.",
+  "responsabilidadePrestadora": "1. Possuir autorização da Comissão Nacional para atuar no SiAC, obtida a seu pedido\n2. Ter declarado formalmente à Comissão Nacional sua anuência a todas normas e documentos normativos de referência do SiAC previstos neste Regimento\n3. Em relação às empresas clientes, manter atualizada a base de dados que alimenta a página do PBQP-H na internet a cada emissão, suspensão ou cancelamento de certificado de conformidade\n4. Enviar semestralmente à Comissão Nacional quadro estatístico da incidência de não conformidades e respectivos requisitos do Referencial Normativo aplicável, detectadas nas auditorias e agrupadas por especialidade técnica, subsetor, escopo e nível ou estágio de certificação\n5. Informar à Comissão Nacional por carta registrada ou devidamente protocolada no destinatário nomes de auditores e especialistas que venham a ser impedidos de fazer parte de equipe auditora que atua no SiAC, conforme Art. 25 deste Regimento d SiAC\n6. Atender a todas as decisões e solicitações da Comissão Nacional dentro dos prazos por esta estipulados\n7. Quando solicitado, enviar à Comissão Nacional registros do processo de certificação\n8. Prever mecanismos de transição devido às mudanças regimentais trazidas pela implementação do presente Regimento do SiAC\n9. Realizar reunião para alinhamento e apresentação das atividades previstas\n10. Analisar a demanda e as informações fornecidas pela empresa\n11. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\n12. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n13. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "O processo de avaliação da conformidade e certificação deve ser conduzido por uma entidade que seja “Organismo de Avaliação da Conformidade – OAC” acreditado pela Geral do SiA, Regimento Específico para a Especialidade Técnica e nos demais documentos normativos de referência e na ABNT NBR ISO/IEC 17021-1 - Avaliação da conformidade — Requisitos para organismos que fornecem auditoria e certificação de sistemas de gestão.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nEsse serviço não contempla as consultorias para a adequação do sistema de gestão da qualidade da empresa demandante. Código da ficha técnica: 13006- x - ADEQUAÇÃO AO PROGRAMA BRASILEIRO DA QUALIDADE E PRODUTIVIDADE DO HABITAT (PBQP-H) Para as empresas que já possuem certificado de avaliação da conformidade, a demanda de serviço deve se configurar como avaliação da conformidade para manutenção da certificação\nDespesas adicionais com Os valores dos honorários apresentados pela prestadora de serviço devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo da empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho. (direitos autorais, É de responsabilidade da prestadora de serviço todo o trabalho, da concepção à aprovação da empresa demandante\nA prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante cliente. Versão Data",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "19/07/2019",
+      "alteradoPor": "Amanda Oliveira"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "14/04/2020",
+      "alteradoPor": "Arthur Carneiro"
+    }
+  ],
+  "valorTeto": 15000.0,
+  "codigo": "371440100344"
+}

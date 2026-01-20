@@ -1,0 +1,96 @@
+{
+  "id": "43002-9",
+  "nomeSolucao": "INSEMINAÇÃO ARTIFICIAL POR TEMPO FIXO – REBANHO IATF –",
+  "tema": "Desenvolvimento Tecnológico",
+  "subtema": "Melhoria Genética e Biotecnologia",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócios e Indústrias",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": " Reunião de alinhamento para definição da estratégia de acordo com a estrutura da propriedade e objetivo do produtor  Orienta sobre perfil ideal de reprodutores para a propriedade",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | SELEÇÃO DAS MATRIZES",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": " Reunião de alinhamento  Avaliação do Rebanho o Avaliar a estrutura de contenção dos animais e demais instalações adequadas para a realização dos serviços o Realizar pré-diagnóstico com auxílio do ultrassom para avaliação ginecológica, analisando o trato reprodutivo das matrizes e de novas fêmas que serão incorporadas no processo e diagnóstico de gestação daquelas que possivelmente participarão do processo de IATF, considerando ainda idade, peso, escore corporal e condição do úbere  Avaliar o perfil fenotípico do rebanho para que, junto ao produtor, possa definir um acasalamento dirigido  Orientar o planejamento e distribuição sincronizada da produção através da utilização de protocolos de biotecnologia de reprodução do tipo IATF – Inseminação Artificial em Tempo Fixo  Protocolar as matrizes vazias e aptas a receberem a IATF – Inseminação Artificial em Tempo Fixo  Orientar sobre a mineralização, manejo alimentar e sanitário das matrizes, a partir do seu escore corporal, adotando postura preventiva quanto a abortos e doenças  Orientar sobre a aplicação do protocolo hormonal;",
+      "entrega": "Relatório com o respectivo comprovante de visita, contendo informações sobre a realização da seleção das matrizes, manejo reprodutivo, nutricional, sanitário, avaliação fenotípica, acasalamento dirigido, boas práticas para reprodução, orientações e acompanhamento do uso do protocolo hormonal e diagnóstico gestacional validado pela empresa demandante."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | INSEMINAÇÃO",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar as Inseminações Artificiais em Tempo Fixo, conforme pacote contratado (número de prenhez ou número de tentativas) adquirido pelo produtor.",
+      "entrega": "Relatório contendo informações sobre a descrição das inseminações e o comprovante (por meio da Nota Fiscal) de que o sêmen é de fornecedores credenciados pelo MAPA (Ministério da Agricultura Pecuária e Abastecimento) validado pela empresa demandante, caso seja adquirido pela prestadora de serviço."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | AVALIAÇÃO",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Diagnóstico gestacional, podendo haver, quando aplicável  Protocolo de matrizes que deram negativo no exame gestacional  Avaliação final do rebanho, além de orientações relacionadas a animais para descarte;  Avaliação de Escore Corporal e Sanidade com Ultrassom;  Monitoramento de Indicadores de Qualidade do leite para otimizar o processo de ordenha e condições sanitárias com apoio de automóvel para os deslocamentos;  Coleta de amostra de solo e análise em laboratório;  Consultoria de manejo, nutrição, reprodução animal e manejo de ordenha;  Calendário sanitário e orientação sobre vacinação e vermifugação;  Avaliação de índices zootécnicos para melhora o planejamento produtivo para aumenta a rentabilidade da atividade, com sustentabilidade.",
+      "entrega": "Relatório(s) Final(ais) com o respectivo comprovante(s) de visita(s), registros fotográficos e os resultados efetivamente obtidos, além do relato das intervenções realizadas e o diagnóstico gestacional, validado pela empresa demandante."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "O produtor tem conhecimento do sêmen, de acordo com o acasalamento dirigido, que será utilizado no processo de IATF?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Possui instalações adequadas e matrizes com requisito mínimo (escore de condição corporal adequado, idade, dentre outras características) para serem inseminadas?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Todas as matrizes são vacinadas contra brucelose, conforme exigência do MAPA (Ministério de Agricultura, Pecuária e Abastecimento)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": " Viabilizar o melhoramento genético de forma mais rápida;  Gerar lucros no mercado competitivo atual;  Eficiência reprodutiva do rebanho otimizada;  Aumentar a proporção de animais em lactação, além do número de crias produzidos por ano;  Eliminar a necessidade de observação de cios nas fêmeas sincronizadas;  As fêmeas são inseminadas em horários pré-fixados, evitando-se as falhas de detecção;  Programar as inseminações, os nascimentos e, consequentemente, a produção, conforme a necessidade;  Diminuição de custos de manutenção, pela redução do período ocioso das fêmeas do rebanho;  Promover o melhoramento genético do rebanho;  Reduzir o intervalo entre partos do rebanho.",
+  "estruturaMateriais": " O laboratório responsável pela produção dos embriões deverá ser credenciado no MAPA com as devidas atualizações e documentações comprobatórias. As orientações para as respectivas adequações à Legislação vigente podem ser encontradas em\no Tipos de estabelecimentos produtores de sêmen e embriões\nhttps://www.gov.br/agricultura/pt-br/assuntos/insumos- agropecuarios/insumos-pecuarios/material- genetico/estabelecimentos/produtor/produtor-de-semen-e-embrioes o Sobre o CPIVE - Centro de Produção In Vitro de Embriões\nhttps://www.gov.br/agricultura/pt-br/assuntos/insumos- agropecuarios/insumos-pecuarios/material-genetico/cpive",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho do prestador de serviço\n3. Proceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade e que estão no objeto deste Termo de Adesão\n4. Fornecer matriz que tenham perfil (escore de condição corporal, idade, sanidade e etc.) para receber a dose de sêmen\n5. Disponibilizar condições de infraestrutura, mão-de-obra, contenção dos técnicos, animais e segurança para a responsabilizando-se por qualquer ocorrência que possa surgir pela falta desses itens\nrealização dos trabalhos 6. Acatar as orientações dos técnicos relativas aos procedimentos de nutrição, sanidade dos animais, readequação estrutural, bem como aos cuidados dos animais gestantes\n7. Empenhar-se para viabilizar a execução das ações planejadas e promover a 8\nparticipação e o envolvimento de sua equipe de colaboradores\nInformar, fornecer e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n9. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n10. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n11. Avaliar o serviço prestado",
+  "responsabilidadePrestadora": "",
+  "perfilDesejadoPrestadora": "",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo\nO número e o tempo das visitas, por laboratório móvel, e a quantidade de inseminações artificiais, ocorrerão na propriedade de acordo com o pacote tecnológico adquirido pelo produtor\nAs visitas serão agendadas e organizadas, previamente, de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários com uma antecedência de pelo menos 08 (oito) dias\nNas visitas que não tiverem matrizes protocoladas o produtor fica ciente que receberá o próximo atendimento 10 dias depois, conforme preconiza a metodologia de trabalho, mesmo não havendo matrizes para serem inseminadas\nO sêmen utilizado poderá ser: convencional, sexado de macho ou sexado de fêmea, conforme escolha do produtor e de acordo com o catálogo disponibilizado pela empresa executora. A prestadora de serviços só poderá adquirir o sêmen de fornecedores credenciados pelo MAPA (Ministério da Agricultura Pecuária e Abastecimento)\nO produtor terá direto de escolher doses de sêmen de 2 reprodutores para até 20 inseminações contratadas, limitado ao máximo 3 reprodutores diferentes, para pacotes com mais de 30 inseminações\nNão poderá haver troca do sêmen selecionado no decorrer da execução dos trabalhos contratados. Ficando a empresa credenciada com a responsabilidade de, nos dias das inseminações, dispor do material genético\nOs animais que irão participar do processo, deverão obrigatoriamente estar identificados seja por meio de brincos numéricos, brincos nomeados, bottons ou marcação numérica a ferro candente, providenciados pela empresa demandante\nO número máximo de animais que serão avaliados para procedimento de inseminação será sempre correspondente ao dobro dos animais que serão inseminados a cada serviço ou até quando o técnico avaliar necessário, tendo como limite máximo estabelecido no contrato por atendimento para realização da atividade proposta\nA prestadora de serviço deve inseminar os animais até o limite contratado e prenhez confirmadas, obedecendo o percentual mínimo de sucesso contratado, caso seja feito por tentativa. Chegando ao último atendimento para inseminação, o produtor que não atingir o seu número de matrizes inseminadas, conforme pacote contratado, receberá suas respectivas doses de sêmen. Essas doses deverão ser utilizadas no próprio rebanho do produtor não podendo ser comercializadas\nCaso o pagamento seja feito por tentativa, as taxas de sucesso/concepção esperadas são de no mínimo de 20% a 30% (vinte a trinta por cento), desde que as condições apropriadas para a concepção estejam atendidas, tais como: escore corporal acima de 3.0, mineralização adequada em quantidade e qualidade, condições uterina e ovariana adequadas\nO produtor que não disponibilizar de um botijão com nitrogênio líquido na fazenda para entrega das doses de sêmen remanescentes, no último atendimento de inseminação, e considerando que o sêmen faz parte dos insumos do projeto, a empresa contratada não se responsabilizará pelo saldo de sêmen do produtor\nO resultado da Inseminação Artificial em Tempo Fixo (IATF) é finalizado e consolidado no dia do diagnóstico de gestação. A responsabilidade pela gestação passa a ser do produtor, que recebe as orientações sobre os cuidados até o parto. Caso percentual mínimo de prenhez não tenha sido atingido, conforme item 11, será obrigatória a ressincronização das fêmeas e repetição de todo o procedimento para alcance da meta estabelecida\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nCustos de trabalhos não especificados na proposta poderão ser assumidos posteriormente mediante Termo Aditivo ao contrato do Sebrae, desde que aprovados por ambas as partes\nDespesas adicionais com fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho; (direitos autorais, terceiros É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. Versão Data Responsáveis",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "10/04/2020",
+      "alteradoPor": "IATF-Rebanho-MGB43002-1.pdf Artificial-por-Tempo-Fixo-IATF-Rebanho- MGB43002-2.pdf Artificial-por-Tempo-Fixo-IATF-Rebanho- MGB43002-3.pdf Artificial-por-Tempo-Fixo-IATF-Rebanho- MGB43002-4.pdf Artificial-por-Tempo-Fixo-IATF-Rebanho- MGB43002-5.pdf Artificial-por-Tempo-Fixo-IATF-Rebanho- MGB43002-6.pdf Artificial-por-Tempo-Fixo-IATF- Rebanho-MGB43002-7.pdf Artificial-por-Tempo-Fixo-IATF- Rebanho-MGB43002-8.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "15/05/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "14/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "codigo": "371440100446"
+}

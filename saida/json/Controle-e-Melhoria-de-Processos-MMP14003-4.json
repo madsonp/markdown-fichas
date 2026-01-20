@@ -1,0 +1,89 @@
+{
+  "id": "14003-4",
+  "nomeSolucao": "CONTROLE E MELHORIA DE PROCESSOS",
+  "tema": "Produção e qualidade",
+  "subtema": "Mapeamento e melhoria de processos",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócio, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião para definições sobre • Nivelamento do escopo do trabalho • Planejamento de execução dos serviços • Cronograma • Responsáveis pelo serviço (ambas as partes) ENTREGA 01: Documento assinado pela empresa demandante contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes ETAPA 02 | DESENVOLVIMENTO Diagnóstico e análise da situação atual Diagnóstico da empresa e dos seus processos, observando os seguintes aspectos, quando aplicáveis Identificação de saídas, entradas, clientes e fornecedores do processo • Observação de campo • Coleta e análise de documentos existentes (evidências) • Análise dos sistemas legados • Definição da notação, padrão e ferramenta de modelagem Identificação de sistemas legados Modelagem de Processos (Mapa do Estado Atual – “As Is”) • Listagem de todas as atividades que existem no processo • Ordenação das atividades de acordo com a sequência atual do processo • Execução do desenho dos Diagramas de Processo do modelo do “As Is” • Validação do modelo • Apresentação do modelo Análise dos Processos Modelados (“As Is”) • Análise do modelo do processo elaborado na etapa anterior • Detecção de ineficiências (retrabalhos e gargalos) • Detecção de atividades que utilizam sistema legado • Validação da análise crítica com a Empresa demandante • Aprovação da análise pela Empresa Consultoria tecnológica ENTREGAS 02: Relatório de diagnóstico e análise contendo registros mínimos por sistema e análise crítica; e mapa de modelagem de processos do estado atual assinado pela empresa demandante Proposição de melhorias nos processos Com base no(s) diagnóstico(s) e análise(s) realizada(s) na etapa anterior deve-se organizar as informações e orientar a empresa para o processo de melhoria, como recomendado Redesenho de Processos (Mapa do Estado Futuro – “To Be”) • Desenho dos Diagramas de Processo do modelo do “To Be” • Validação do modelo com a Empresa demandante • Aprovação do modelo pela Empresa Planejamento e implementação do novo modelo • Realização do planejamento da implementação • Estabelecimento de objetivos e metas Implementação do modelo de “To Be” • Coleta de dados para verificação de melhorias • Realização de treinamentos (se necessário) Avaliação da implementação do novo modelo • Análise dos dados coletados na etapa anterior • Avaliação dos custos de produção identificando margem de lucro dos produtos através da utilização de planilhas e ferramentas que possibilitem o cálculo, quando aplicável • Comparação de resultados alcançados Encerramento • Caso a meta tenha sido alcançada, adoção do novo modelo como padrão • Caso a meta não tenha sido alcançada, identificação de causas do não atingimento da meta • Definição do ciclo de melhoria contínua ENTREGAS 03 • Relatório Técnico Final contendo bases e premissas utilizadas; tarefas executadas; mapas “as is” e “to be”; resultados obtidos (inclusive com registros fotográficos, se necessário); oportunidade de melhoria; plano contendo ações a serem executadas; recomendações e conclusões • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou presencialmente ao cliente o conteúdo da(s) entrega(s) efetivadas Consultoria tecnológica 7. Estrutura e materiais necessários – 8. Responsabilidades da empresa demandante 1. Aprovar a proposta do SEBRAE, valores e condições de pagamento 2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço 3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço 4. Fornecer informações técnicas sobre os processos, produtos ou serviços 5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho 6. Avaliar o serviço prestado 9. Responsabilidades da prestadora de serviço 1. Realizar reunião para alinhamento e apresentação das atividades previstas 2. Analisar a demanda e as informações fornecidas pela empresa 3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante 4. Fornecer as entregas previstas, validadas pela empresa demandante, ao SEBRAE 5. Cumprir com as obrigações previstas no Regulamento do SEBRAETEC 10. Perfil desejado da prestadora de serviço Corpo Técnico formado por profissionais com experiência em análise de processos com domínio de ferramentas de modelagem e poder de análise crítica de processos para promover melhoria contínua; de preferência Engenheiro de Produção 11. Vedações 1. A manutenção contínua do serviço não pode ser subsidiada pelo SEBRAETEC 12. Observações Consultoria tecnológica 1. Despesas adicionais com terceiros ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho 2. O prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente HISTÓRICO DE ALTERAÇÕES Versão Data Link Responsável 1 2 3 4 02/01/2019 03/04/2020 29/04/2022 23/09/2022 https://datasebrae.com.br/wp- content/uploads/2019/04/Controle-e- Melhoria-de-Processos-MMP14003- 1.pdf https://datasebrae.com.br/wp- content/uploads/2022/04/Controle-e- Melhoria-de-Processos-MMP14003- 2.pdf https://datasebrae.com.br/wp- content/uploads/2022/09/Controle-e- Melhoria-de-Processos-MMP14003- 3.pdf https://datasebrae.com.br/wp- content/uploads/2022/09/Controle-e- Melhoria-de-Processos-MMP14003- 4.pdf Coordenação Sebraetec Coordenação Sebraetec",
+      "entrega": ""
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "SERVIÇO ........................................................................................................ 3",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "ESTRUTURA E MATERIAIS NECESSÁRIOS .............................................. 5",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "RESPONSABILIDADES DA EMPRESA DEMANDANTE............................ 5",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "RESPONSABILIDADES DA PRESTADORA DE SERVIÇO ....................... 5",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "PERFIL DESEJADO DA PRESTADORA DE SERVIÇO ............................ 5",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "VEDAÇÕES ................................................................................................... 5",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "5. PRÉ-DIAGNÓSTICO ...................................................................................... 2 6. SERVIÇO ........................................................................................................ 3 7. ESTRUTURA E MATERIAIS NECESSÁRIOS .............................................. 5 8. RESPONSABILIDADES DA EMPRESA DEMANDANTE............................ 5 9. RESPONSABILIDADES DA PRESTADORA DE SERVIÇO ....................... 5 10. PERFIL DESEJADO DA PRESTADORA DE SERVIÇO ............................ 5 11. VEDAÇÕES ................................................................................................... 5 12. OBSERVAÇÕES ........................................................................................... 5 Consultoria tecnológica 1. Resumo Auxiliar a empresa na identificação de questões a serem corrigidas, visando melhorar seu processo produtivo, reduzindo custos e padronizando as atividades do negócio. 2. Palavras-chaves clientes, fornecedores, sistemas legados, ferramenta de modelagem, diagramas de processo, processos, eficiência 3. Informações Técnicas • Tema: Produção e qualidade • Subtema: Mapeamento e melhoria de processos • Modalidade: Presencial e/ou a distância • Público-alvo: ME, MEI, EPP, Produtor Rural e Artesão • Setor indicado: Agronegócio, Comércio, Indústria e Serviços • Melhoria da eficiência dos processos da empresa; • Maior controle e monitoramento do processo produtivo; • Maior produtividade; • Redução de custos; • Padronização das atividades do negócio. 5. Pré-diagnóstico 1. Quantos funcionários aproximadamente estão envolvidos no processo(s)? 2. Quantos dpt/setores/ unidades/ células estão envolvidos no processo(s)? 3. Quantos processos o cliente deseja mapear em sua empresa? 4. O cliente deseja contratar o serviço de consultoria? 5. A empresa dispõe de Procedimentos e Rotinas escritas para os seus principais processos? 6. A empresa possui os seus processos mapeados e descritos sob a forma de documento? 7. A empresa dispõe de todos os cargos e funções de seus colaboradores descritos? 8. A empresa utiliza indicadores para acompanhar os seus processos? 9. O produto é retrabalhado às vezes porque acharam que ele era de uma forma diferente? 10. Cada operador sabe quais tarefas realizar e a meta horária e diária do grupo? 11. A empresa possui atrasos nas entregas? Consultoria tecnológica 12. Deseja elaborar os Procedimentos Operacionais Padrão? 6. Serviço",
+  "estruturaMateriais": "",
+  "responsabilidadeEmpresaDemandante": "",
+  "responsabilidadePrestadora": "",
+  "perfilDesejadoPrestadora": "",
+  "observacoesGerais": "Resumo Auxiliar a empresa na identificação de questões a serem corrigidas, visando melhorar seu processo produtivo, reduzindo custos e padronizando as atividades do negócio\nPalavras-chaves clientes, fornecedores, sistemas legados, ferramenta de modelagem, diagramas de processo, processos, eficiência Informações Técnicas • Tema: Produção e qualidade • Subtema: Mapeamento e melhoria de processos • Modalidade: Presencial e/ou a distância • Público-alvo: ME, MEI, EPP, Produtor Rural e Artesão • Setor indicado: Agronegócio, Comércio, Indústria e Serviços Benefícios e resultados esperados • Melhoria da eficiência dos processos da empresa; • Maior controle e monitoramento do processo produtivo; • Maior produtividade; • Redução de custos; • Padronização das atividades do negócio\nPré-diagnóstico Quantos funcionários aproximadamente estão envolvidos no processo(s)\nQuantos dpt/setores/ unidades/ células estão envolvidos no processo(s)\nQuantos processos o cliente deseja mapear em sua empresa\nO cliente deseja contratar o serviço de consultoria\nA empresa dispõe de Procedimentos e Rotinas escritas para os seus principais processos\nA empresa possui os seus processos mapeados e descritos sob a forma de documento\nA empresa dispõe de todos os cargos e funções de seus colaboradores descritos\nA empresa utiliza indicadores para acompanhar os seus processos\nO produto é retrabalhado às vezes porque acharam que ele era de uma forma diferente\nCada operador sabe quais tarefas realizar e a meta horária e diária do grupo\nA empresa possui atrasos nas entregas? Consultoria tecnológica Deseja elaborar os Procedimentos Operacionais Padrão\nServiço ETAPA 01 | ALINHAMENTO DA PROPOSTA Reunião para definições sobre: • Nivelamento do escopo do trabalho; • Planejamento de execução dos serviços; • Cronograma; • Responsáveis pelo serviço (ambas as partes). ENTREGA 01: Documento assinado pela empresa demandante contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes. ETAPA 02 | DESENVOLVIMENTO Diagnóstico e análise da situação atual Diagnóstico da empresa e dos seus processos, observando os seguintes aspectos, quando aplicáveis: Identificação de saídas, entradas, clientes e fornecedores do processo; • Observação de campo; • Coleta e análise de documentos existentes (evidências); • Análise dos sistemas legados; • Definição da notação, padrão e ferramenta de modelagem. Identificação de sistemas legados; Modelagem de Processos (Mapa do Estado Atual – “As Is”): • Listagem de todas as atividades que existem no processo; • Ordenação das atividades de acordo com a sequência atual do processo; • Execução do desenho dos Diagramas de Processo do modelo do “As Is”; • Validação do modelo; • Apresentação do modelo. Análise dos Processos Modelados (“As Is”): • Análise do modelo do processo elaborado na etapa anterior; • Detecção de ineficiências (retrabalhos e gargalos); • Detecção de atividades que utilizam sistema legado; • Validação da análise crítica com a Empresa demandante; • Aprovação da análise pela Empresa. Consultoria tecnológica ENTREGAS 02: Relatório de diagnóstico e análise contendo registros mínimos por sistema e análise crítica; e mapa de modelagem de processos do estado atual; assinado pela empresa demandante. Proposição de melhorias nos processos Com base no(s) diagnóstico(s) e análise(s) realizada(s) na etapa anterior deve-se organizar as informações e orientar a empresa para o processo de melhoria, como recomendado: Redesenho de Processos (Mapa do Estado Futuro – “To Be”): • Desenho dos Diagramas de Processo do modelo do “To Be”; • Validação do modelo com a Empresa demandante; • Aprovação do modelo pela Empresa. Planejamento e implementação do novo modelo: • Realização do planejamento da implementação; • Estabelecimento de objetivos e metas; Implementação do modelo de “To Be”; • Coleta de dados para verificação de melhorias; • Realização de treinamentos (se necessário). Avaliação da implementação do novo modelo: • Análise dos dados coletados na etapa anterior; • Avaliação dos custos de produção identificando margem de lucro dos produtos através da utilização de planilhas e ferramentas que possibilitem o cálculo, quando aplicável; • Comparação de resultados alcançados. Encerramento • Caso a meta tenha sido alcançada, adoção do novo modelo como padrão; • Caso a meta não tenha sido alcançada, identificação de causas do não atingimento da meta; • Definição do ciclo de melhoria contínua. ENTREGAS 03: • Relatório Técnico Final contendo bases e premissas utilizadas; tarefas executadas; mapas “as is” e “to be”; resultados obtidos (inclusive com registros fotográficos, se necessário); oportunidade de melhoria; plano contendo ações a serem executadas; recomendações e conclusões; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou presencialmente ao cliente o conteúdo da(s) entrega(s) efetivadas. Consultoria tecnológica Estrutura e materiais necessários – Responsabilidades da empresa demandante Aprovar a proposta do SEBRAE, valores e condições de pagamento\nConhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\nDisponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\nFornecer informações técnicas sobre os processos, produtos ou serviços\nAcompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\nAvaliar o serviço prestado\nResponsabilidades da prestadora de serviço Realizar reunião para alinhamento e apresentação das atividades previstas\nAnalisar a demanda e as informações fornecidas pela empresa\nElaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\nFornecer as entregas previstas, validadas pela empresa demandante, ao SEBRAE\nCumprir com as obrigações previstas no Regulamento do SEBRAETEC\nPerfil desejado da prestadora de serviço Corpo Técnico formado por profissionais com experiência em análise de processos; com domínio de ferramentas de modelagem e poder de análise crítica de processos para promover melhoria contínua; de preferência Engenheiro de Produção\nVedações A manutenção contínua do serviço não pode ser subsidiada pelo SEBRAETEC\nObservações Consultoria tecnológica Despesas adicionais com terceiros ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "02/01/2019",
+      "alteradoPor": "Melhoria-de-Processos-MMP14003- Melhoria-de-Processos-MMP14003- Melhoria-de-Processos-MMP14003- Melhoria-de-Processos-MMP14003- Coordenação Sebraetec Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "03/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "29/04/2022",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "valorTeto": 24000.0,
+  "codigo": "371440100293"
+}

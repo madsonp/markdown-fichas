@@ -1,0 +1,417 @@
+Código da ficha técnica: 46004-6
+
+Interno
+
+DESENVOLVIMENTO DE APLICATIVO
+
+1.  Tema
+
+Desenvolvimento Tecnológico
+
+2.  Subtema
+
+Transformação Digital
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria tecnológica / Acesso a serviços tecnológicos
+
+5.  Modalidade
+
+Presencial e/ou à distância
+
+6.  Público-alvo
+
+MEI, ME, EPP, Produtor Rural e Artesão
+
+7.  Setor indicado
+
+Agronegócios, Comércio, Indústria e Serviços
+
+8.  Macrossegmento
+
+-
+
+9.  Descrição
+
+ETAPA 00 | FASE INICIAL - SEBRAE E EMPRESA DEMANDANTE
+
+a)  Atendimento inicial para alinhamento da descrição da demanda e avaliação
+
+do perfil do cliente.
+
+b)  Construção da descrição da demanda (objeto/escopo de contratação,
+
+responsabilidades, lista de requisitos, cronograma, publicação do aplicativo
+em plataformas) e;
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46004-6
+
+Interno
+
+c)  Validação da descrição da demanda e da proposta final pelo cliente e
+
+contratação do serviço.
+
+ETAPA 01 | ALINHAMENTO
+
+Reunião de alinhamento sobre a condução do trabalho e entrega dos documentos
+solicitados  pela  entidade  executora.  Nessa  reunião  deverão  ser  tratados  os
+seguintes  itens:  objetivo  e  escopo  do  aplicativo,  se  será  publicado  em  lojas  de
+aplicativos,  características  e  requisitos  desejados  para  o  aplicativo,  sistemas
+operacionais (Android, IOs, etc.), recursos (geolocalização, criptografia de dados,
+uso  de  sistema  de  pagamento,  integração  com  outros  sistemas,  espaços  para
+anúncios, etc.), número de telas, tipo de cliente e de uso.
+
+ENTREGAS ETAPA 01: Documento contendo os responsáveis pela prestação do
+serviço,  Escopo,  Lista  de  Requisitos,  Fluxo  do  Aplicativo,  Respectivas
+Funcionalidades  a  serem  atendidas,  Limites  de  alterações  e  Cronograma  de
+execução.
+
+ETAPA 02 | APLICATIVO
+
+•  Desenvolvimento  do  protótipo  do aplicativo,  contendo,  quando aplicáveis:
+
+telas, fluxos, processos, forma de armazenamento dos dados, etc.;
+
+•  Apresentação para o cliente solicitar ajustes e correções iniciais;
+•  Correções  e  ajustes  para  solução  dos  problemas  identificados  e  dos
+
+requisitos alterados;
+
+•  Desenvolvimento da versão inicial do aplicativo.
+•  Disponibilizar orientação de Uso do Aplicativo.
+
+ENTREGAS  ETAPA  02:  Entrega  da  versão  inicial  do  aplicativo  e  área
+administrativa;  Manual  Provisório  de  Uso  do  Aplicativo;  Habilitar  conta  de
+hospedagem  e  publicação  do  aplicativo  em  nome  da  empresa  demandante  nos
+ambientes acordados em contrato.
+
+ETAPA 03 | TESTES/HOMOLOGAÇÃO E CORREÇÕES
+
+•  Testes  para  homologação  do  aplicativo  e  área  administrativa
+
+•
+
+(desenvolvedor, clientes, usuários).
+Identificação dos problemas,  oportunidades de melhorias e necessidades
+de ajustes, correções e alterações de requisitos.
+
+•  Ajustes e correções para solução dos pontos levantados.
+•  Realização de novos testes e outros ajustes, quando necessários.
+•  Atendimento  aos  requisitos  técnicos  exigidos  pelas  lojas  e  sistemas
+
+operacionais demandados pelo cliente.
+
+ENTREGAS ETAPA 03: Relatório com problemas identificados; aceite do Relatório
+com os problemas identificados; Entrega da versão ajustada do aplicativo e área
+administrativa.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46004-6
+
+Interno
+
+ETAPA 04 | HOMOLOGAÇÃO E ENTREGA DA VERSÃO FINAL
+
+Reunião para homologação e entrega da versão final do software aplicativo, área
+administrativa e Manual de Uso do Aplicativo.
+
+ENTREGAS ETAPA 04:
+
+•  Versão final do software aplicativo (e da área administrativa) com o Código
+Fonte; Relatório Final com o link do aplicativo na (s) loja (s) Google Play
+Store e AppStore, ou, o cronograma de lançamento nessas lojas caso ainda
+não  esteja  disponível,  bem  como  aspectos  técnicos  da  ferramenta
+desenvolvida (oportunidades de melhoria, plano contendo ações a serem
+executadas, recomendações e conclusões); e Manual de Uso do Aplicativo
+(versão final).
+
+•  Declaração  atestando o  recebimento  da  (s)  entrega  (s) realizada  (s)  pelo
+prestador de serviço tecnológico e que o prestador de serviço tecnológico
+explicou ao cliente o conteúdo da (s) entrega (s) efetivadas; assinada pela
+empresa demandante.
+
+10. Benefícios e resultados esperados
+
+Oferecer os benefícios e funcionalidades do ambiente mobile aos negócios, trazendo
+modernidade, eficácia e facilidades operacionais e comerciais.
+
+•  Aplicativo
+
+funcional  que  atenda  aos
+
+requisitos  estabelecidos  pela
+
+demandante.
+
+•  Código  fonte,  quando  aplicável,  documentado  que  permita  o  uso  e
+aprimoramento contínuo do software aplicativo após a conclusão e entrega.
+
+11. Estrutura e materiais necessários
+
+PARA A EMPRESA EXECUTORA:
+
+•  Equipamentos compatíveis com a versão de aplicativo que for desenvolver,
+
+seja Google (android) e/ou Apple (IOs);
+
+•  Contas de desenvolvedor ativa nos respectivos ambientes que for desenvolver
+para publicação, lojas Google Play Store e AppStore, quando necessário.
+
+PARA A EMPRESA DEMANDANTE:
+
+•  Caso  solicite  aplicativo  em  ambiente  IOs  a  empresa  demandante  deverá
+
+possuir equipamento da marca Apple com sistema operacional IOs;
+
+•  Contas de publicação nas lojas requeridas (Google Play Store e AppStore).
+•  Disponibilizar  as
+
+informações  e  uma  opção  de  pagamento  para  o
+
+cadastramento da conta ou contas de publicação do aplicativo.
+
+12. Responsabilidade da empresa demandante
+
+1.  Informar  para  o  Gestor  do  SEBRAE  o  objetivo  principal  do  aplicativo,  as
+necessidades  que  irá atender  com  o  desenvolvimento  e  quais  os requisitos
+(funções) que deseja o aplicativo tenha para o funcionamento do mesmo.
+
+2.  Aprovar a proposta;
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46004-6
+
+Interno
+
+3.  Participar  da  reunião  de  alinhamento  do  trabalho  e  das  demais  reuniões
+
+previamente marcadas, conforme cronograma aprovado;
+
+4.  Fornecer  a  marca  (em  fundo  transparente),  padrão  de  cores  e  o  conteúdo
+inicial com as informações (textos e imagens) que constarão no aplicativo;
+
+5.  Validar todas as etapas de análise dos Relatórios Parcial e Final;
+6.  Disponibilizar um responsável para acompanhamento de toda a execução do
+
+serviço;
+
+7.  Fornecer os requisitos e demais informações necessárias para que a entidade
+
+executora desenvolva o serviço;
+
+8.  Repassar  as  informações  necessárias  para  a  empresa  executora  para  o
+desenvolvimento do trabalho dentro do cronograma acordado entre as partes.
+9.  Testar a versão ou versões do aplicativo para fins de homologação, prestando
+
+o devido feedback à entidade executora.
+
+10. Despesas  com  os  custos  das  plataformas
+
+IOS  e  Android  após  o
+
+desenvolvimento do aplicativo;
+
+11. Gerir  os  ambientes  de  publicação  do  software  aplicativo  mobile  e
+responsabilizar-se pela manutenção/atualização do APP após o encerramento
+da consultoria.
+
+12. Responder as pesquisas de Satisfação do Sebrae.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião presencial para coleta dos requisitos e demais informações
+
+necessárias à especificação técnica detalhada do aplicativo.
+
+2.  Efetuar a programação visual do aplicativo e a programação do software.
+3.  Orientar  o  cliente  na  abertura  das  contas  de  publicação  nas  lojas  de
+hospedagem do aplicativo nos ambientes solicitados Google Play Store e/ou
+AppStore  para  a  empresa  demandante,  disponibilizando  os  respectivos
+acessos.
+
+4.  Submeter  uma  versão  inicial  do  software  para  testes  de  homologação  pela
+
+empresa demandante, junto com o Manual de Uso do software.
+
+5.  Fazer  as  correções  identificadas  pela  empresa  cliente  durante os  testes de
+
+homologação.
+
+6.  Alinhar  e detalhar  com  a  empresa demandante o escopo,  os requisitos  e o
+
+limite de alterações do aplicativo em cada etapa.
+
+7.  Quando  definido  no  escopo  do  projeto,  efetuar  a  publicação  definitiva  do
+aplicativo mobile nos ambientes acordados com a empresa demandante na
+contratação do serviço.
+
+8.  Entregar  a  versão  final  do  aplicativo  à  empresa  cliente,  quando  aplicável
+também  deve  ser  entregue  o  Código  Fonte,  junto  com  o  Manual  de  Uso
+revisado.
+
+9.  Entregar os documentos ao Sebrae e à empresa cliente;
+10. Cumprir todos os prazos e agendas estabelecidas.
+
+14. Perfil desejado da prestadora de serviço
+
+Corpo Técnico formado por analistas, desenvolvedores e designers com experiência
+em plataforma android e IOS, back-and e na programação e publicação de soluções
+mobile.
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46004-6
+
+Interno
+
+15. Pré-diagnóstico
+
+1.  O empresário estudou a viabilidade do aplicativo para o negócio e conhece os
+
+custos para sua manutenção?
+
+2.  Tem recursos financeiros para a operação do negócio com o aplicativo?
+3.  Possui responsável com conhecimento mínimo em tecnológicas mobiles?
+4.  A  empresa  demandante  conhece  o  escopo  e  os  requisitos  iniciais  de
+
+funcionalidade do aplicativo desejado, razoavelmente detalhados?
+
+16. Observações
+
+1.  A  empresa  demandante  deverá  informar  na  Etapa  00  a  necessidade  de
+
+publicação do aplicativo nas lojas de aplicativos;
+
+2.  A execução do Pré-diagnóstico é de caráter obrigatório e deve ser aplicado
+
+pelo gestor do Sebrae;
+
+4.  Despesas  adicionais  com
+
+3.  Os valores dos honorários apresentados devem incluir todas as despesas com
+impostos  e  encargos  sociais,  conforme  legislação  tributária  em  vigor,  que
+possa incidir sobre o objeto da proposta;
+terceiros
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico,  entre  outros)  ficam  a  cargo  exclusivo  do  cliente  e  devem  ser
+previamente autorizadas por ele durante a validação da proposta de trabalho;
+5.  É de responsabilidade do prestador de serviço todo o projeto, da concepção à
+
+(direitos  autorais,
+
+aprovação do cliente;
+
+6.  O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pelo cliente.
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46004-6
+
+Interno
+
+Versão
+
+Data
+
+Link
+
+Responsável
+
+HISTÓRICO DE ALTERAÇÕES
+
+1
+
+10/04/2019
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/04/Consultoria-para-
+desenvolvimento-de-aplicativos-TD46004-
+1.pdf
+
+2
+
+3
+
+4
+
+15/05/2019
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/05/Desenvolvimento-
+de-aplicativos-TD46004-2.pdf
+
+16/09/2019
+
+08/04/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/09/Desenvolvimento-
+de-aplicativos-TD46004-3.pdf
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/04/Desenvolvimento-
+de-aplicativos-TD46004-4.pdf
+
+5
+
+31/08/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2022/09/Desenvolvimento-
+de-aplicativos-TD46004-5.pdf
+
+6
+
+23/09/2022
+
+https://datasebrae.com.br/wp-
+content/uploads/2022/09/Desenvolvimento-
+de-aplicativos-TD46004-6.pdf
+
+Arthur Carneiro
+
+Arthur Carneiro
+
+Marijara Leal
+
+Coordenação
+Sebraetec
+
+Liza Myrella
+Bádue
+
+Sérgio Pereira
+
+Wagner Carvalho
+
+Coordenação
+Sebraetec
+
+6
+
+Ficha Técnica – Sebraetec 4.0
+

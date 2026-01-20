@@ -1,0 +1,86 @@
+{
+  "id": "46025-1",
+  "nomeSolucao": "PROCEDIMENTO ESTRUTURADO PARA APLICAÇÕES COM INTELIGÊNCIA ARTIFICIAL (PE-AIA)",
+  "tema": "Desenvolvimento Tecnológico",
+  "subtema": "Transformação Digital",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [],
+  "setor": "Indústria, Comércio, Serviços",
+  "descricao": "A Consultoria objetiva: identificação, estruturação e aplicação de Apoiar pequenos negócios na procedimentos que podem ser automatizados com inteligência artificial (IA), especialmente com uso de agentes inteligentes (como GPTs, chatbots, automações via API ou RPA com IA). Este serviço compreende o diagnóstico, um procedimento estruturado e recomendações de aprimoramento, sem incluir a implementação prática, integração real ou desenvolvimento de soluções. O escopo é limitado à orientação estratégica, sem entrega de execução técnica.",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA DEMANDA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião inicial com o cliente, para nivelamento do escopo do trabalho e planejamento de execução dos serviços, levantamento dos fluxos operacionais e gargalos, identificação preliminar de áreas com potencial de aplicação da IA e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico.",
+      "entrega": "Documento contendo os responsáveis pelo acompanhamento do projeto por parte da prestadora e do cliente, o escopo do serviço, o plano de ação, o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO E MAPEAMENTO ESTRUTURADO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Detalhar os processos e identificar tarefas passíveis de automação com apoio de IA - Análise técnica dos fluxos de trabalho - Identificação de tarefas repetitivas e padronizáveis - Definição de entradas e saídas dos processos: Determinação dos dados necessários para agentes autônomos - Levantamento de dados disponíveis e riscos operacionais, identificação de problemas que podem ser solucionados com IA.",
+      "entrega": "Relatório com o diagnóstico dos processos da empresa, indicando os gargalos ou processos que poderiam ser aperfeiçoados com o uso da IA."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | DESENVOLVIMENTO DO PROCEDIMENTO ESTRUTURADO (PE- AIA)",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Criar um procedimento formal compatível com aplicações de IA generativa ou IA tradicional - Redação de instruções em linguagem natural e técnica - Definição clara de entradas, saídas, gatilhos e exceções - Criação de estrutura narrativa padronizada para IAs - Preparação de documento compatível com formatos estruturados (JSON, TXT ou DOCX) - Sugestão de ferramentas compatíveis (ChatGPT, RPA, APIs, etc.).",
+      "entrega": "Relatório técnico final e declaração assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas além de: - Documento de escopo e planejamento; - Diagnóstico detalhado com mapeamento técnico; - Procedimento técnico (PE-AIA); - Arquivo estruturado compatível com IA; - Recomendações de aplicação prática e ferramentas. Orientar a empresa demandante sobre os riscos e oportunidades que o uso de IA pode gerar ao negócio e aos seus clientes, bem como sobre questões envolvidas na divulgação e direitos autorais de conteúdo produzido por IA."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Quais são os principais processos operacionais realizados atualmente na sua empresa que envolvem tarefas manuais e repetitivas?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "A sua empresa já utiliza alguma tecnologia ou ferramenta automatizada (como chatbot, sistema ERP, automações com planilhas, RPA, etc.) no dia a dia?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Quais áreas do seu negócio apresentam mais gargalos ou retrabalho (ex: atendimento ao cliente, vendas, financeiro, produção)?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "A empresa possui dados organizados (em planilhas, sistemas, formulários, etc.) que possam ser utilizados em soluções com IA?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Quem serão os responsáveis internos pelo acompanhamento do projeto e pela validação das soluções propostas?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Procedimentos estruturados em linguagem natural e técnica, prontos para serem integrados a ferramentas de IA. Isso inclui recomendações de uso e entregas digitais que poderão ser usadas para automação de tarefas, melhoria de produtividade e operacional. ganho escala de Os principais impactos desta consultoria incluem: • Melhora significativa da produtividade; • Redução do tempo necessário para operações internas; • Identificação de oportunidades concretas de automação e otimização de processos; • Aumento da eficiência operacional Esses resultados agregam valor ao negócio de forma estratégica, sendo ajustados para o contexto do cliente.",
+  "estruturaMateriais": "Assinaturas dos sistemas/ferramentas de Inteligência Artificial necessários",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Realizar a aquisição de hardwares, softwares e serviços de instalação e configuração dos mesmos realizados por terceiros, especificados pelo consultor, em tempo hábil, conforme cronograma de implementação, para integração do processo produtivo\n7. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\nLimita-se a elaboração do diagnóstico, do procedimento estruturado e da recomendação, sem execução de integração ou desenvolvimento de soluções tecnológicas.",
+  "perfilDesejadoPrestadora": "Especialista em Inteligência Artificial aplicada aos negócios, mapeamento de processos, conhecimento técnico em IA generativa e ferramentas de automação\nDesejável conhecimento em APIs, RPA e plataformas como GPTs.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nO pagamento das taxas administrativas para registro do estabelecimento e dos produtos nos órgãos de inspeção e da anotação de Responsabilidade Técnica-ART junto ao respectivo Conselho de Classe não estão incluídos neste serviço\nDespesas adicionais com Os valores dos honorários apresentados pela prestadora de serviço devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo da empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho; (direitos autorais, É de responsabilidade da prestadora de serviço todo o trabalho, da concepção à aprovação da empresa demandante, nos serviços de inspeção e/ou no órgão ambiental, tanto para os casos de agroindústrias que processam produtos de origem de animal ou vegetal\nA prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante; Existem oficinas, cursos e conteúdos gratuitos que abordam etapas semelhantes ao diagnóstico e à estruturação de procedimentos. Esta consultoria, entretanto, diferencia-se pelo diagnóstico individualizado e direcionado à realidade do cliente. Atenção: Ressalta-se que a entrega deste serviço sem implementação pode diminuir seu valor agregado com o tempo, pois manuais e diagnósticos podem se tornar rapidamente obsoletos frente à evolução tecnológica. Recomendamos que o cliente avalie futuramente a contratação da implementação junto aos serviços diagnósticos recomendados. Versão Data",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "18/07/2025",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "codigo": "372000113103"
+}

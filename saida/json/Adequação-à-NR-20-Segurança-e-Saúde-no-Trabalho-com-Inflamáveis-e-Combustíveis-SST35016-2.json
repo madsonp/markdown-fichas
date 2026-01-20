@@ -1,0 +1,76 @@
+{
+  "id": "35016-2",
+  "nomeSolucao": "ADEQUAÇÃO À NR 20 - SEGURANÇA E SAÚDE NO TRABALHO COM INFLAMÁVEIS E COMBUSTÍVEIS",
+  "tema": "Sustentabilidade",
+  "subtema": "Saúde e Segurança no Trabalho",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Serviços, Comércio e Indústria",
+  "descricao": "A consultoria tem como principais objetivos adequar a atividade que precisa atender a NR 20 as instruções e obrigatoriedades da norma, para: prevenção de multas e cumprimento da legislação em vigor. Aumentar a satisfação do cliente por meio do cumprimento adequado da norma regulamentada, garantindo a conformidade com os requisitos estatutários e regulamentares aplicáveis, maximizando a segurança das atividades e manutenção da saúde e integridade física dos colaboradores e clientes, ainda que em potencial.",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico. Ferramentas como entrevista com o cliente são importantes como forma de obter informações necessárias para fundamentar a entrega proposta Exposição sobre a Documentação Obrigatória Básica necessária para o processo de Adequação.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Diagnóstico inicial sobre a documentação básica necessária para o processo de adequação e/ ou certificação.",
+      "entrega": "• Relatório do diagnóstico inicial sobre a documentação básica da empresa necessária para a adequação, com o plano de ação e cronograma do desenvolvimento das ações. • Relatório de Auditoria Completa com todos os requisitos da NR 20 com o plano de ação e cronograma do desenvolvimento das ações."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | CONSULTORIA E AUDITORIA",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Com base no(s) diagnóstico(s) realizado(s) na etapa anterior, deve-se organizar as informações e orientar a empresa para o processo de adequação a Norma Regulamentadora, incluindo • Realização de Auditoria de Verificação de Adequação com base nos requisitos da NR 20 e demais pertinentes • Geração de Relatório com Pendências e Ações que devem ser tomadas para regularização • Confecção e/ou Atualização de Análises Preliminar de Riscos para Adequação • Confecção e/ou Atualização do Plano de Atendimento a Emergências • Criação e/ou atualização de procedimentos/ instruções operacionais • Realização de inspeção das instalações • Capacitação dos colaboradores em conjunto com os demais trabalhos realizados; e • Geração do Laudo Elétrico das Instalações, quando necessário",
+      "entrega": "• Manual Completo com os Documentos para atendimento aos requisitos da NR 20, contendo: Análises Preliminares de Risco, Plano de Atendimento a Emergências, procedimentos e instruções operacionais, relatório de inspeção das instalações, certificado de capacitação dos colaboradores e laudo elétrico das instalações, quando necessário. • Relatório Técnico Final contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos, oportunidades de melhoria, pontos auditados, recomendações, conclusões; e • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "A empresa dispõe de um colaborador para ser o responsável pelo projeto de adequação a NR 20?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "A empresa tem a documentação obrigatória de constituição para a adequação a NR 20?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "a. Adequar a atividade que precisa atender a NR 20 as instruções e obrigatoriedades da norma, para: b. Prevenção de multas e cumprimento da legislação em vigor; c. Aumentar a satisfação do cliente por meio do cumprimento adequado da norma regulamentada, garantindo a conformidade com os requisitos estatutários e regulamentares aplicáveis, maximizando a segurança das atividades e manutenção da saúde e integridade física dos colaboradores e clientes, ainda que em potencial. Com o atendimento adequado da NR 20 é possível obter:",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado\n",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico com experiência comprovada na adequação de empresas a Norma Regulamenta 20. O serviço deve ser realizado por profissional legalmente habilitado, tendo registro no conselho profissional de classe, conforme estabelece a NR 20.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; Despesas adicionais com fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, terceiros aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "31/07/2019",
+      "alteradoPor": "Trabalho-com-Inflamáveis-e- Combustíveis-SST35016.pdf Trabalho-com-Inflamáveis-e- Combustíveis-SST35016-2.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "22/04/2020",
+      "alteradoPor": "Michelli Trigueiro"
+    }
+  ],
+  "valorTeto": 10000.0,
+  "codigo": "371440100447"
+}

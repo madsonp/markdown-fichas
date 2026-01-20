@@ -1,0 +1,252 @@
+Código da ficha técnica: 13079-1
+
+ADEQUAÇÃO  À  NORMA  ABNT  NBR
+COMPONENTES CERÂMICOS: BLOCOS E TIJOLOS PARA
+ALVENARIA
+
+15270:2023
+
+–
+
+1.  Tema
+
+Produção e Qualidade
+
+2.  Subtema
+
+Gestão da Qualidade
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria Tecnológica / Acesso a Serviço Tecnológico
+
+5.  Modalidade
+
+Presencial e/ou a distância
+
+6.  Público alvo
+
+MEI, ME e EPP
+
+7.  Setor indicado
+
+Indústria
+
+8.  Macrossegmento
+
+Construção Civil
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+•  Realizar  reunião  de  abertura  junto  à  empesa  demandante,  para  nivelar  o
+escopo  do  trabalho  e  validar  o  planejamento  de  execução  dos  serviços,
+composto  de  cronograma  resumido  com  os principais eventos, agendas de
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13079-1
+
+reuniões e definição dos responsáveis pelo acompanhamento dos serviços por
+parte da empresa demandante e da prestadora de serviço.
+
+•  Dar conhecimento à empresa demandante sobre o conteúdo das normas de
+Alvenaria  Estrutural  –  ABNT  NBR  15270:2023  –  Partes  1  a  2  (requisitos,
+métodos de ensaio). Esse nivelamento deve incluir abordagem sobre critérios
+para  verificação  e  aceitação  dos  blocos  e  tijolos  cerâmicos,  com  ou  sem
+função estrutural, executados de forma racionalizada ou não.
+
+•  Definição de cronograma resumido com os principais eventos, elencando os
+principais  responsáveis  pelo  acompanhamento  das  atividades  por  parte  da
+empresa demandante e da prestadora de serviço.
+
+ENTREGA  ETAPA  01:  Documento  contendo  os  responsáveis  pela  prestação  do
+serviço,  o  escopo  do  serviço,  o  cronograma  das  atividades  e  outros  aspectos
+acordados entre as partes, assinado pela empresa demandante. Ata de reunião, com
+assinatura  dos  participantes  da  empresa  demandante,  para  apresentação  pela
+prestadora de serviço das normas técnicas – ABNT NBR 15270:2023 – Partes 1 a 2.
+
+ETAPA 02 | CONSULTORIA
+
+•  Análise  dos  fatores  intervenientes  relacionados  aos  sistemas,  métodos  e
+tecnologia utilizados pela empresa em comparação aos requisitos e critérios
+das normas.
+
+•  Elaboração  de  um  plano  de  ação,  junto  com  a  empresa,  a  partir  do
+
+levantamento anterior, para atender aos requisitos das normas.
+
+•  Acompanhamento e orientação quanto à implementação do plano de ação.
+
+ENTREGA  ETAPA  02:  Relatório  contendo  a  análise  das  práticas  e  sistemas  da
+empresa  frente  aos  critérios  e  requisitos  das  normas.  Plano  de  Ação  detalhado  e
+relatório com evidências da sua implantação. Declaração assinada pelo empresário
+atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que
+a prestadora de serviço explicou à empresa demandante o conteúdo da(s) entrega(s)
+efetivadas.
+
+10. Benefícios e resultados esperados
+
+Orientação à empresa sobre a implementação das normas sobre desempenho das
+edificações habitacionais, a saber:
+
+•  ABNT NBR 15.270-1 - Parte 1: Projeto;
+•  ABNT NBR 15.270-2 - Parte 2: Execução e controle de obras;
+•  Garantir à empresa demandante o conhecimento dos requisitos dimensionais
+e  as  propriedades  físicas  e  mecânicas  dos  blocos  e  tijolos  que  devem  ser
+utilizados  em  obras  de  alvenaria  que  devem  se  adequar  aos  critérios  de
+fabricação presentes na ABNT NBR 15.270:2023.
+
+•  Os possíveis ganhos de uma empresa de cerâmica com a implementação da
+
+norma são:
+• aperfeiçoamento da qualidade dos tijolos e blocos cerâmicos;
+• conquista de mais clientes;
+• fabricação dos blocos e tijolos com mais critério e controle;
+• aumento da competitividade da empresa;
+• redução de perdas e custos no processo produtivo.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13079-1
+
+11. Estrutura e materiais necessários
+
+-
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento.
+2.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+da prestadora de serviço.
+
+3.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela
+
+prestadora de serviço.
+
+4.  Fornecer informações técnicas sobre os processos, produtos ou serviços à
+
+prestadora de serviço para o desenvolvimento do trabalho.
+
+5.  Acompanhar  a  prestadora  de  serviço  em  visita(s)  técnica(s)  aos  espaços
+
+físicos, se previsto no escopo do trabalho.
+
+6.  Avaliar o serviço prestado.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião para alinhamento e apresentação das atividades previstas.
+2.  Analisar  a  demanda  e  as  informações  de  caráter  técnico  necessárias  ao
+
+trabalho, fornecidas pela empresa.
+
+3.  Elaborar proposta, escopo de trabalho, cronograma das etapas do trabalho,
+agenda  de reuniões  e  atividades,  sendo  necessário  validar  com  a  empresa
+demandante;
+
+4.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae.
+
+5.  Cumprir com as obrigações previstas no Regulamento do Sebraetec.
+
+14. Perfil desejado da prestadora de serviço
+
+Corpo
+profissionais com vasta experiência na fabricação de blocos e tijolos cerâmicos.
+
+formado  por  engenheiro  civil,  engenheiro  de  materiais  e/ou
+
+técnico
+
+15. Pré-diagnóstico
+
+-
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13079-1
+
+01 entre a empresa demandante e a prestadora de serviço tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+3.  A certificação NÃO é objeto desta Ficha Técnica;
+4.  Os  valores  dos  honorários  apresentados  pela  prestadora  de  serviço  devem
+incluir  todas  as  despesas  com  impostos  e  encargos  sociais,  conforme
+legislação tributária em vigor, que possa incidir sobre o objeto da proposta;
+5.  Despesas  adicionais  com  terceiros  (ensaios,  direitos  autorais,  fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico,  entre  outros)  ficam  a  cargo  exclusivo  da  empresa  demandante  e
+devem ser previamente autorizadas por ela durante a validação da proposta
+de trabalho;
+
+6.  É de responsabilidade da prestadora de serviço todo o trabalho, da concepção
+
+à aprovação da empresa demandante;
+
+7.  O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pela empresa demandante.
+
+Versão
+
+Data
+
+Link
+
+Responsável
+
+HISTÓRICO DE ALTERAÇÕES
+
+1
+
+08/08/2024
+
+http://datasebrae.com.br/wp-
+content/uploads/2024/08/Adequacao-
+a-Norma-ABNT-NBR-15270-2023-
+Componentes-Ceramicos-Blocos-e-
+Tijolos-para-Alvenaria-GQ13079-
+1.pdfhttp://datasebrae.com.br/wp-
+content/uploads/2024/08/Adequacao-
+a-Norma-ABNT-NBR-15270-2023-
+Componentes-Ceramicos-Blocos-e-
+Tijolos-para-Alvenaria-GQ13079-
+1.pdf
+
+Emanuele
+Delmondes
+Martins de Lima
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+

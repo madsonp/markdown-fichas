@@ -1,0 +1,293 @@
+Código da ficha técnica: 46008-2
+
+PLANEJAMENTO PARA BUSCA ORGÂNICA – SEO
+
+1.  Tema
+
+Desenvolvimento Tecnológico
+
+2.  Subtema
+
+Transformação Digital
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria tecnológica / Acesso a serviços tecnológicos
+
+5.  Modalidade
+
+Presencial e/ou a distância
+
+6.  Público alvo
+
+ME, MEI, EPP e Produtor Rural
+
+7.  Setor indicado
+
+Comércio, Indústria e Serviços
+
+8.  Macrossegmento
+
+-
+
+9.  Descrição
+
+A  Consultoria  objetiva  orientar  o  desenvolvimento  de  um  modelo  de  comércio  que
+utilize como base plataformas eletrônicas como: computadores, smartphones, tablets,
+entre  outras,  para  operações  de  compra  e/ou  venda  de  produtos  e/ou  serviços,
+realizadas por meio de ambiente virtual (Internet).
+
+São Objetivos Específicos:
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46008-2
+
+1.  Desenvolver estratégias para conseguir maior audiência para o site ou projeto
+
+digital;
+
+2.  Permitir  a  otimização  do  site  para  que  os  usuários  realizem  com  mais
+
+assertividade pesquisas de termos e palavras-chave na web;
+
+3.  Aumentar  a  visibilidade  de  um  website  nas  listagens  de  resultados  de
+
+pesquisas;
+
+4.  Melhorar  o  ranqueamento  do  site  em  motores  de  busca  (exemplo:  Google,
+
+Bing).
+
+São Etapas da Consultoria:
+
+ETAPA 01 | PLANEJAMENTO TÉCNICO
+
+•  Elaborar  relatório  de  pesquisa  e  estudo  de  posicionamento  (lista  de
+
+benchmarking e oportunidades);
+
+•  Definir as melhores palavras-chaves a serem otimizadas no site;
+•  Desenvolver a pauta de cronograma de postagens (se houver SEO off-pages).
+
+ETAPA 02 | SEO ON-PAGE
+
+•  Revisar todas as marcações do código do site (SEO on-page);
+•  Definir os títulos e descrições de todas as páginas;
+•  Modificar  o  formato  das  imagens  (compactar,  atribuir  marcações,  inserir
+
+infográficos, adicionar vídeos);
+
+•  Configurar o servidor para um melhor tempo de resposta no carregamento;
+•  Acompanhar a troca do servidor, caso seja necessário;
+•  Realizar link building para aumentar a relevância do site;
+•  Definir o formato para utilização dos guest posts.
+
+ETAPA 03 | MONITORAMENTO
+
+•  Avaliar o processo de indexação do site;
+•  Revisão do planejamento para os próximos 02 (dois) meses;
+•  Criação de estratégia para monitoramento dos próximos 02 (dois) meses;
+•  Orientar a respeito do monitoramento de rankings no Google;
+•  Orientação a respeito de ferramentas técnicas para análise e performance do
+
+site.
+
+ENTREGA ETAPAS 01, 02 E 03:
+
+1.  Relatório  de  análise  competitiva  dos  concorrentes  e  do  posicionamento  do
+
+site;
+
+2.  Relatório de palavras-chaves;
+3.  Relatório para análise de performance de indicadores (K.P.I);
+4.  Estratégias de conteúdo para melhorar a performance do site;
+5.  Posts publicados para SEO off-page.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46008-2
+
+10. Benefícios e resultados esperados
+
+São potenciais benefícios da Consultoria:
+
+1.  Melhorar o posicionamento em sites de busca através de palavras-chaves
+
+relevantes;
+
+2.  Aumentar o tráfego de visitas no site;
+3.  Melhorar a conversão de tráfego de busca orgânica;
+4.  Otimizar o carregamento do site;
+5.  Atingir novos consumidores;
+6.  Melhor posicionamento da marca do produto/serviço e sua reputação online.
+
+11. Estrutura e materiais necessários
+
+-
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+2.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+do prestador de serviço;
+
+3.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo
+
+prestador de serviço.
+
+4.  Fornecer informações técnicas sobre os processos, produtos ou serviços ao
+
+prestador de serviço para o desenvolvimento do trabalho;
+
+5.  Acompanhar  o  prestador  de  serviço  em  visita(s)  técnica(s)  aos  espaços
+
+físicos, se previsto no escopo do trabalho;
+
+6.  Avaliar o serviço prestado.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião para alinhamento e apresentação das atividades previstas;
+2.  Analisar a demanda e as informações fornecidas pela empresa;
+3.  Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto,
+agenda de reuniões e atividades, sendo necessário validar com a Empresa
+Demandante;
+
+4.  Fornecer as entregas previstas, validadas pela empresa demandante, ao
+
+Sebrae;
+
+5.  Cumprir com as obrigações previstas no Regulamento do Sebraetec.
+
+14. Perfil desejado da prestadora de serviço
+
+ Corpo técnico formado por profissionais com experiência em Busca Orgânica.
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46008-2
+
+15. Pré-diagnóstico
+
+1.  Sua empresa tem praticado o marketing de conteúdo?
+2.  Sua empresa tem um site, blog, e-commerce?
+3.  Há propagação em redes sociais com criação de fluxo e engajamento para o
+
+seu projeto web?
+
+4.  Como você realiza a inserção de matérias e notícias no seu site?
+5.  Você utiliza algum estudo de palavras-chaves?
+6.  Seu site foi desenvolvido utilizando palavras-chaves?
+7.  Você monitora o ranqueamento do seu site em motores de busca (google ou
+
+bing)?
+
+8.  Você possui o google anaytics no seu site?
+9.  Você tem monitorado o crescimento de acessos do seu site?
+10. Tem utilizado algum indicador de performance (K.P.I) para medir o trafego do
+
+seu site?
+
+11. Em que setor(es) a empresa melhor se enquadra?
+12. Em que segmento(s) a empresa melhor se enquadra?
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+01 entre a empresa demandante e a prestadora de serviço tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+3.  Solução recomendada para o desenvolvimento de ação de promoção da MPE
+em datas comemorativas, como Páscoa, dia das Mães, dia dos Namorados,
+dia dos Pais, dias das Crianças, Natal, Black Friday.
+
+5.  Despesas  adicionais  com
+
+4.  Os valores dos honorários apresentados devem incluir todas as despesas com
+impostos  e  encargos  sociais,  conforme  legislação  tributária  em  vigor,  que
+possa incidir sobre o objeto da proposta;
+terceiros
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico,  entre  outros)  ficam  a  cargo  exclusivo  do  cliente  e  devem  ser
+previamente autorizadas por ele durante a validação da proposta de trabalho;
+6.  É de responsabilidade do prestador de serviço todo o projeto, da concepção à
+
+(direitos  autorais,
+
+aprovação do cliente;
+
+7.  O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pelo cliente.
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 46008-2
+
+Versão
+
+Data
+
+Link
+
+HISTÓRICO DE ALTERAÇÕES
+
+1
+
+17/06/2019
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/06/Planejamento-
+para-Busca-Orgânica-SEO-TD46008-1.pdf
+
+2
+
+03/04/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/06/Planejamento-
+para-Busca-Orgânica-SEO-TD46008-2.pdf
+
+Responsável
+
+Eduardo Cardoso
+Garrido
+
+Liza Myrella
+Cavalcante Melo
+Bádue
+
+Coordenação
+Sebraetec
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+

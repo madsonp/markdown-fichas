@@ -1,0 +1,78 @@
+{
+  "id": "46002-9",
+  "nomeSolucao": "IMPLANTAÇÃO DE LOJA VIRTUAL",
+  "tema": "Desenvolvimento Tecnológico",
+  "subtema": "Transformação Digital",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócios, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA/DEMANDA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico Uso Interno Código da ficha técnica: 46002-9 OBS: O atendimento será realizado somente para novas lojas. Não cabe nesta consultoria aperfeiçoamento de plataformas existentes.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 0 | 2 IMPLANTAÇÃO DE LOJA VIRTUAL",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "| DIAGNÓSTICO TECNOLÓGICO DE AVALIAÇÃO PARA Diagnóstico da empresa e de sua maturidade e viabilidade para atuação na loja virtual, com orientações específicas a serem adotadas. Caso se confirme a viabilidade, deve-se detalhar a estratégia da loja virtual mais adequada à empresa.",
+      "entrega": ""
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | DESENVOLVIMENTO DA FERRAMENTA DE COMÉRCIO QUE UTILIZA COMO BASE PLATAFORMAS ELETRÔNICAS",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar consultoria para desenvolvimento da loja virtual utilizando • Programação visual da loja virtual (layout da plataforma) com a marca e padrão de cores fornecidos pela empresa cliente • Layout Responsivo (ou PWA) Também devem ser observados os seguintes aspectos, quando aplicáveis Plataforma • Sistema responsivo • Analisar os recursos da plataforma com base na expectativa do cliente • Plataforma a ser adotada com base na análise de mercado, ou plataforma SaaS • Utilizar servidor próprio com a preparação para as tecnologias definidas • Critérios de SEO Canais digitais • Quais canais utilizados na plataforma Uso Interno Código da ficha técnica: 46002-9 • Formas de integração Operação e logística • Avaliar a integração no sistema de atendimento (ERP) e sistema de venda • Definição dos meios de entrega e sistema de frete • Processo do pedido/processamento/confirmação do pedido/entrega • Gerenciamento do estoque Pagamento e segurança • Definição dos meios para gerenciar os pagamentos • Método de segurança Implantar gateway de pagamento à realidade do cliente Usabilidade e interface • Definição das funcionalidades /fluxo de navegação • Controle dos conteúdos gerados para o site – produtos, blogs, imagens • Quais as páginas (cronogramas) que o site/plataforma conterá • Definir Personas • Criar categorias com base no briefing e tipo de negócio • Layout (exposição da página, produtos, links etc.) / Design Atendimento • Definição dos Canais de comunicação diretos entre o consumidor e a empresa (como e-mail, chats, perguntas frequentes, telefone) Equipe • Equipe necessária para gestão da loja virtual Monitoramento • Definir como será o Suporte ao cliente Orientação • Orientação presencial, empresário e equipe, quanto ao uso do sistema de gerenciamento e realizar os testes da operação.",
+      "entrega": "de inserir instruções • Tutorial (digital) com passo a passo para uso e gestão do sistema da loja virtual, contendo: Instruções para a correta operacionalização de toda a loja virtual, incluindo a utilização dos meios eletrônicos de pagamento, modo de dos como embalagem, produtos/serviços, conteúdo e descrição dos produtos/serviços, bem como as formas de divulgar e realizar promoções através da loja virtual. Incluir informações pertinentes às integrações (correios, ERP entre outros), manual de implantação do sistema (se houver) e como são gerenciadas, controle de estoques, logística, fornecer as senhas, canais de comunicação como o cliente entre outros pontos para funcionamento da loja virtual; • Relatório Final com os aspectos técnicos da ferramenta desenvolvida (oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões); códigos-fonte desenvolvidos scripts ou estrutura de base de dados (se houver). fotografias as • Evidências da loja virtual em funcionamento com produtos cadastrados (até 10 produtos cadastrados, os demais deverão ser cadastrados pela empresa demandante); • Termo de cessão de direitos autorais para a empresa demandante e/ou outro documento correlato. • Declaração atestando o recebimento da (s) entrega (s) realizada (s) pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou presencialmente ao cliente o conteúdo da (s) entrega (s) efetivadas; assinada pela empresa demandante."
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 4 | (opcional) | ADEQUAÇÃO DE COMUNICAÇÃO PARA MERCADO INTERNACIONAL",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Adequar os textos e o padrão visual a idiomas estrangeiros, caso o foco da empresa demandante seja acessar algum mercado internacional, limitado em dois idiomas estrangeiros, realizando quando aplicável • Tradução dos textos para língua estrangeira • Ajustes do design gráfico para contemplar a visualização adequada em língua estrangeira.",
+      "entrega": "Evidência do website da versão em língua estrangeira em funcionamento (inclusive com o link), bem como, documento de aceite de finalização pelo cliente, atestando o recebimento da(s) entrega(s)."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "A loja virtual é um modelo de comércio que utiliza como base plataformas eletrônicas, como computadores, smartphones, tablets, entre outras, para operações de compra e/ou venda de produtos e/ou serviços, realizados por meio de ambiente digital (internet). Dessa forma, este serviço visa desenvolver a ferramenta de comércio que utiliza como base plataformas eletrônicas. A utilização da loja virtual pode levar a empresa a obter uma significativa ampliação de mercado.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": " 1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com experiência em desenvolvimento de programação, web design e operacionalização de plataformas de comércio eletrônico.",
+  "observacoesGerais": "Em virtude da crise gerada pela pandemia COVID-19, por determinação do Sebrae/UF, é permitido ao Prestador de Serviço Tecnológico, sob suas expensas, disponibilizar o domínio e a hospedagem gratuitamente, durante um determinado período, DESDE QUE REGISTRADOS EM NOME DO EMPRESÁRIO, de modo a facilitar orientações quanto a usabilidade ao Cliente. Após encerrado este período, a definição do domínio e hospedagem, bem como os seus custos, passam a ser de responsabilidade do Cliente. Este critério pode ser definido para entregas específicas ou para a sua totalidade, conforme definição estadual\nNa impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nCabe a cada SEBRAE/UF determinar como obrigatório o diagnóstico para análise de viabilidade\nO SEBRAE/UF deve informar a empresa demandante no início da contratação que a consultoria pode ser encerrada após o diagnóstico de implantação e qual será o valor da consultoria nestes casos; A consultoria não inclui a produção de informações técnicas necessárias ao consumidor de modo a se atender requisitos legais\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente. O mesmo se responsabiliza pelas informações e aquisição de serviços para que a consultoria seja implementada conforme cronograma definido na proposta de trabalho. (direitos autorais, É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente\nDesejável que a empresa possua a Marca depositada ou registrada no Instituto Nacional da Propriedade Industrial (INPI)\nAo optar por uma plataforma da loja virtual, o empresário estará definindo a “base” do seu negócio, desta forma a plataforma escolhida deve ser compatível com a empresa, sendo capaz de permitir que as vendas sejam feitas da melhor maneira possível e o contato e relacionamento com o cliente seja eficiente. VEDAÇÕES Caso o cliente possua comércio eletrônico, é vedado a realização do atendimento para loja/plataforma de comércio eletrônico existente\nCompra de mídias digitais de qualquer formato ou para qualquer canal existente (Adwords, Facebook Ads, etc)\nCompra de ferramentas, plataformas, registros e anuidades\nA consultoria é para serviços que irão resultar na implementação e operação de uma loja virtual e não na venda de uma plataforma tecnológica\nDesenvolvimento dos processos de pagamento e implantação junto às instituições financeiras: a. A maioria das plataformas de loja virtual já trazem integração com ambientes de pagamento. Serviços que exijam continuidade de pagamento, como mensalidades ou manutenções, serão custeados pelo cliente, e não subsidiados pelo Sebrae\nAvaliação e implantação dos sistemas de segurança e monitoramento de fraudes; a. O certificado Secure Socket Layer (SSL) é um serviço de pagamento contínuo e deve ser assumido pelo cliente beneficiado; b. Investimentos em sistemas de antifraude também são vedados\nPlanejamento e implantação do processo de logística para lojas on-line: a. Integração com Correios e importação da tabela de preços de uma transportadora podem ser incluídas na consultoria, desde que não exijam continuidade de pagamento ou manutenção\nPagamento de registro de empresas, aquisição de material promocional, direitos autorais, aquisição de softwares, serviços de servidor e hospedagem de plataformas/sites, domínio web, registro e anuidades de domínio, licenças de software, licenças de uso Android/iOS, licenças de framework para desenvolvimento de sistemas, mídia publicitária (Ads) e e- mail marketing. Versão Data",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "10/04/2019",
+      "alteradoPor": "Liza Bádue"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "15/05/2019",
+      "alteradoPor": "Wagner Carvalho Coordenação Sebraetec"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "01/08/2019",
+      "alteradoPor": "Arthur Carneiro Coordenação Sebraetec"
+    }
+  ],
+  "codigo": "371440100483"
+}

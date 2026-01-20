@@ -1,0 +1,59 @@
+{
+  "id": "13031-3",
+  "nomeSolucao": "RASTREABILIDADE DE VEGETAIS FRESCOS INSTRUÇÃO NORMATIVA CONJUNTA 02/2018 (MAPA)",
+  "tema": "Produção e Qualidade",
+  "subtema": "Gestão da Qualidade",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócios, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | DIAGNÓSTICO DA PROPRIEDADE RURAL",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realização de um diagnóstico de verificação na propriedade rural, observando os seguintes aspectos, quando aplicáveis 1. Realização do reconhecimento da área (croqui) 2. Levantamento produtivo (culturas trabalhadas considerando variedade ou cultivar) 3. Identificação de aspectos ambientais, sociais e econômicos da propriedade 4. Identificação dos principais canais de comercialização utilizados e seus respectivos volumes anuais estimados • Realização de registros fotográficos • Identificação das culturas a serem rastreadas.",
+      "entrega": "Relatório do diagnóstico de verificação da propriedade rural, contendo: resultados do diagnóstico; situação verificada das áreas para realização da rastreabilidade vegetal (com registros fotográficos, caso necessário); e soluções propostas (com plano de ação e cronograma); assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | ELABORAÇÃO DO CADERNO DE CAMPO SIMPLIFICADO DA PROPRIEDADE RURAL E ROTULAGEM DE PRODUTOS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Seguindo integralmente as determinações contidas na Instrução Normativa Conjunta 02/2018 (MAPA), orientado o cliente sobre as seguintes ações • Orientação ao cliente sobre a implementação das medidas contidas na IN 02/2018 • Detalhamento das técnicas e ações a serem adotadas para a implementação da rastreabilidade na propriedade • Elaboração de caderno de campo simplificado contendo os seguintes dados o Ficha de identificação do produtor e da propriedade, capa do caderno de campo contendo as informações básicas da propriedade rural o Croqui indicando os principais pontos do imóvel rural, apresentando as áreas de cultivo o Planilha para registro da aplicação de insumos de acordo com o receituário agronômico estabelecido para a cultura o Planilha para registro da colheita contendo informações do lote, data da colheita, unidade de medida adotada e observações necessárias Implantação do processo de rotulagem o o Ficha para coleta de dados do comprador/cliente, conforme exigência da IN, contendo os dados cadastrais do comprador • Realização da rotulagem para sistematização da rastreabilidade na propriedade rural A utilização de aplicativos, como o Agritrace Vegetal, para realização desta atividade pode ser um facilitador, apesar de não obrigatória Passo a passo para elaboração do caderno de campo (Abaixo seguem sugestões do passo a passo de instrumentos que podem ser utilizados para operacionalização da consultoria em campo conforme IN 02/2018 do MAPA) a) Implantar Croqui de campo O primeiro passo é dividir a propriedade em glebas homogêneas, conforme exemplo abaixo e desenhar/fotografar a área gerando um croqui b) Implantar ficha de cadastro de produtor e propriedade Elaborar uma ficha conforme modelo abaixo para identificação do produtor e da propriedade com os seguintes dados Nome do produtor / Data de nascimento / CPF / CCIR / Inscrição de Produtor / faturamento / CNPJ / Nome da propriedade / DAP/NIRF / coordenadas geográficas / Endereço da propriedade / Bairro / Município / Estado / CEP / telefone / e-mail c) Implantar planilha para anotação da aplicação de insumos Elaborar uma ficha conforme modelo abaixo para registro da aplicação de insumos, contendo os seguintes dados Cultura/ variedade- cultivar/ quadra, parcela, talhão, data da aplicação, nome comercial do produto, período de carência em dias (quando couber) / dose aplicada Importante fazer um esclarecimento/explanação sobre lote d) Implantar Planilha de registro das colheitas Elaborar uma ficha conforme modelo abaixo para registro das colheitas, contendo os seguintes dados Cultura/ variedade- cultivar/ quadra, parcela, talhão, lote, data do embalamento, unidade comercializada, observações e) Implantar ficha do comprador/cliente Elaborar uma ficha conforme modelo abaixo para registro dos compradores/ clientes, contendo os seguintes dados Nome/ razão social / CNPJ/ Inscrição Estadual/ Endereço/ Telefone/ e-mail/ data / nota fiscal/ produto/ lote/ quantidade Passo a passo do processo de rotulagem O processo de rotulagem é de extrema importância para o funcionamento do processo de rastreabilidade, sendo que podemos afirmar que não existe processo de rastreabilidade sem o processo de rotulagem A rotulagem busca identificar informações sobre produto, produtor e propriedade Implantar o processo de rotulagem, contendo as informações básicas para preenchimento, conforme os exemplos abaixo",
+      "entrega": "• Caderno de Campo Simplificado para controle da rastreabilidade na propriedade rural; • Elaboração de modelo impresso de rotulagem (atendendo a legislação de rotulagem da categoria); • Relatório Final com as adequações realizadas (registro fotográfico, rastreabilidade implementadas e plano de ação para melhoria contínua); • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "Elaborar Plano de Ação para adequação da propriedade rural a IN 02/2018 com o objetivo de implantar a rastreabilidade vegetal na propriedade cadastrada, garantindo a regularização do imóvel rural segundo a legislação vigente. A consultoria visa: Implantação da rastreabilidade; • Sustentabilidade da cadeia trabalhada; • Adequação à legislação vigente; • Boas práticas de gestão; • Redução de impactos sociais e econômicos; • Atender às demandas de mercado por produtos rastreados; • Proteção à imagem da empresa.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Arcar com o pagamento de eventuais taxas cobradas pelos órgãos responsáveis para fins de cadastro (exceto ART, que é de responsabilidade da PST)\n2. Aprovar a proposta do Sebrae, valores e condições de pagamento\n3. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n4. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n5. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n6. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n7. Avaliar o serviço prestado;",
+  "responsabilidadePrestadora": "1. A Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. O pagamento da ART bem como a elaboração do projeto geográfico (caso o cliente não possua);",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com formação em técnico agrícola, engenharia agronômica ou engenharia de agrimensura.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nA rotulagem elaborada deve atender a legislação de rotulagem da categoria\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nDespesas adicionais com terceiros (direitos autorais, fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. Versão Data",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "02/07/2019",
+      "alteradoPor": "Conjunta-02-2018-MAPA-GQ13031-1.pdf Conjunta-02-2018-MAPA-GQ13031-2.pdf Conjunta-02-2018-MAPA-GQ13031-3.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/09/2019",
+      "alteradoPor": "Arthur Guimaraes Carneiro"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "15/04/2020",
+      "alteradoPor": "Victor Rodrigues Ferreira"
+    }
+  ],
+  "codigo": "371440100368"
+}

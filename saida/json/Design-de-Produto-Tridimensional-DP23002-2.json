@@ -1,0 +1,55 @@
+{
+  "id": "23002-2",
+  "nomeSolucao": "DESIGN DE PRODUTO TRIDIMENSIONAL",
+  "tema": "Design",
+  "subtema": "Design de Produto",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural",
+    "Artesão"
+  ],
+  "setor": "Agronegócio, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar reunião de abertura, para o desenvolvimento do briefing com o cliente, para obter informações detalhadas sobre o produto, as características do mercado e do serviço a ser fornecido e para nivelamento do escopo, demandas e resultados esperados do trabalho • Validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico • Levantamento de dados já produzidos informações a respeito da matéria prima utilizada, recursos e principais diferenciais das peças já produzidas levantamento dos produtos",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço; o escopo do serviço; o plano de ação com o cronograma das atividades; dados e materiais levantados; resultados da pesquisa; e outros aspectos acordados entre as partes, assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DESENVOLVIMENTO DO DESIGN DO PRODUTO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Detalhamento técnico do produto • Apresentação da representação bi e tridimensional das alternativas propostas • Apresentação das alternativas propostas ao cliente para ajustes e escolha do produto final a ser desenvolvido • Validação do produto desenhado e do processo de produção, incluindo as especificações técnicas (dimensões, materiais, cores etc.).",
+      "entrega": "Relatório descritivo contendo imagens 3D, vistas e cortes do projeto demandado, impresso e mídia digital com o arquivo 3D aberto e em arquivo do tipo imagem (PDF). Relatório final apresentando o desenho ou prova de conceito do produto proposto evidenciado por desenhos com vistas ortogonais e perspectivas isométrica, projetos, códigos ou esquemas gráficos, e demais recursos pertinentes, com detalhamento de seu desenvolvimento, incluindo memorial descritivo e de cálculo. Anexar Declaração, assinada pelo representante da Empresa Demandante, atestando o recebimento da entrega e que o Prestador de Serviços explicou o conteúdo da entrega."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "O serviço de “Design de Produto” é direcionado à concepção, criação e produção de objetos tridimensionais, incluindo: • Design de máquinas e ferramentas; • Design de produtos intermediários, finais e artesanais; • Design de superfície (texturas bi e tridimensionais). São considerados objetos passíveis desse serviço: mobiliário, joias, calçados, objetos de uso pessoal, utensílios domésticos e de decoração, eletrodomésticos e eletroeletrônicos, acessórios de construção civil, equipamentos de transporte, mobiliário urbano, máquinas e ferramentas, jogos e brinquedos, material esportivo, produtos médico-hospitalares.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Detalhar a demanda no momento do atendimento pelo Gestor do SEBRAE. É necessário que a Empresa Demandante tenha algum conhecimento sobre sua necessidade e objetivos, incluindo no mínimo o seguinte\no Os resultados esperados do trabalho de design\no As características do público a que o produto se destina\no Quaisquer requisitos e restrições que possam ou devam influenciar o trabalho de design\no Resultados e entregas esperadas\n2. Fornecimento, produção ou tratamento de textos, fotos ou vídeos e demais itens a serem utilizados durante o processo\n3. Aprovar a proposta do Sebrae, valores e condições de pagamento\n4. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n5. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n6. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n7. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n8. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n 3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. Serviços de design de produto devem considerar o ecodesign. Trata-se de atividade de design que dá especial relevância a critérios ambientais na concepção dos objetos, procurando reduzir ao máximo seu impacto sobre a natureza\n7. O produto desenvolvido deverá atender, se aplicável, os requisitos legais exigidos pelo Código de Defesa do Consumidor e pelos órgãos regulamentadores correlatos ao produto, como ANVISA, MAPA, INMETRO, órgãos correspondentes locais e outros.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com domínio nas técnicas e ferramentas de design. Também deve contar com ao menos um profissional qualificado e com experiência no segmento de negócio em que a consultoria está sendo oferecida.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nA demanda deverá ser feita para atendimento a apenas um produto\nNão inclui a elaboração de rotulagem (informações técnicas como nutricionais, ingredientes, validade, etc.)\nÉ fundamental que o conjunto de ações da empresa estejam alinhadas ao posicionamento, propósito e valores da marca; Despesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo a empresa demandante, não fazendo parte da proposta de trabalho; (direitos autorais, É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente\nNão são previstos investimentos físicos e financeiros para melhoria ou adequação nos processos, produtos ou serviços. A consultoria vai até a entrega dos relatórios, dos planos de ação e dos demais documentos pertinentes\nA Consultoria não contempla: re-design de identidade de marca; indicação de fornecedores e/ou fabricantes e a implantação do produto no mercado, bem como acesso a canais de comercialização promovidos ou não pelo SEBRAE, campanhas publicitárias, redes sociais, etc.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "20/02/2020",
+      "alteradoPor": "Produto-Tridimensional-DP23002- Produto-Tridimensional-DP23002- Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "13/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "codigo": "371440100402"
+}

@@ -1,0 +1,323 @@
+Código da ficha técnica: 43007-2
+
+INJEÇÃO  INTRACITOPLASMÁTICA  DE  ESPERMATOZOIDES
+(ICSI) NA REPRODUÇÃO DE EQUINOS
+
+1.  Tema
+
+Desenvolvimento Tecnológico
+
+2.  Subtema
+
+Melhoria Genética e Biotecnologia
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria Tecnológica / Acesso a Serviço Tecnológico
+
+5.  Modalidade
+
+Presencial
+
+6.  Público alvo
+
+ME, EPP e Produtor Rural
+
+7.  Setor indicado
+
+Agronegócios
+
+8.  Macrossegmento
+
+-
+
+9.  Descrição
+
+INJEÇÃO INTRACITOPLASMÁTICA DE ESPERMATOZOIDES (ICSI)
+
+É uma técnica de reprodução realizada por meio do tratamento de Fertilização in vitro
+(FIV)  e  consiste  em  introduzir  um  único  espermatozoide  previamente  selecionado
+dentro do óvulo e, dessa forma, realizar a fecundação.
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43007-2
+
+Através da aspiração folicular são obtidos os oocistos das éguas doadoras por mão
+de obra altamente qualificada. Através dessa técnica é possível o uso de sêmen de
+baixa motilidade espermática, o que por outras técnicas de reprodução seria inviável.
+Como os oocistos são fertilizados com um único espermatozoide, através de injeção,
+é possível otimizar o uso de sêmen congelado pois a cada trabalho é usado apenas
+1/5  de  uma  palheta.  Além  da  vantagem  da  economia  de  sêmen  congelado  de
+garanhões que já morreram e deixaram pouca quantidade de sêmen congelado e/ou
+de baixa qualidade, a técnica permite a produção de embriões em éguas doadoras
+que  não  respondem  às  técnicas  convencionais  de  reprodução.  Permite  transferir
+embriões de éguas doadoras para o útero de receptoras (barriga de aluguel), a fim de
+explorar racionalmente as características genéticas melhoradas desses animais.
+
+ETAPA 01 | RECEPÇÃO DA(S) DOADORA(S) E SELEÇÃO DAS RECEPTORAS
+
+a.  Reunião  de  alinhamento  com  o  produtor  rural  para  marcar  a  data  que  será
+
+realizada as aspirações;
+
+b.  Recebimento  da(s)  égua(s)  doadora(s)  na  base  física  da  Central  de
+
+Reprodução em um único dia;
+
+c.  Realiza-se, com auxílio do ultrassom, ou equipamento que venha sucedê-lo,
+
+a aspiração folicular dos oocistos;
+
+d.  Após  as  aspirações,  as  éguas  doadoras  serão  liberadas  para  os  seus
+
+respectivos Haras de origem;
+
+e.  Protocola-se as receptoras aptas ao processo de Transferência de Embrião.
+
+ENTREGA  ETAPA  01:  Relatório  contendo
+informações  sobre  a  avaliação
+ginecológica e produção de oocistos pelas doadoras, manejo reprodutivo, nutricional,
+sanitário e boas práticas para reprodução.
+
+ETAPA  02  |  INJEÇÃO  INTRACITOPLAMÁTICA  DE  ESPERMATOZOIDES  (ICSI),
+MATURAÇÃO E IMPLANTAÇÃO DE EMBRIÕES NAS RECEPTORAS
+
+a.  Os oocistos, após as aspirações, serão transportados para o laboratório e em
+
+24 horas será feita a maturação e em seguida a injeção do espermatozoide;
+
+b.  Após 8 dias os embriões estarão prontos para a transferência em receptoras
+
+ou congelamento;
+
+c.  Transfere-se  o  embrião  para  a  receptora  apta  a  receber  e  continuar  com  a
+
+gestação;
+
+d.  Faz-se o diagnóstico de prenhes na receptora;
+e.  O manejo alimentar das receptoras fica a cargo da prestadora de serviços;
+f.  O protocolo da ICSI será o adotado pela prestadora de serviços;
+g.  Por medida de segurança, a receptora com prenhes positiva, através da ICSI,
+será  entregue  somente  após  decorridos  90  dias,  visto  que  até  essa  data
+poderá haver morte embrionária.
+
+ENTREGA ETAPA 02: Relatório contendo a descrição do processo de implantação
+do(s)  embrião(ões).  Acasalamento(s)  realizado(s)  e  a  descrição  da(s)  égua(s)  que
+foi(ram) utilizada(s) como receptora(s), validado pelo produtor rural demandante.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43007-2
+
+10. Benefícios e resultados esperados
+
+1.  Permite a produção de embriões em éguas doadoras que não respondem às
+
+técnicas convencionais de reprodução;
+
+2.  É possível otimizar o uso de sêmen congelado, pois a cada trabalho é usado
+
+apenas 1/5 de uma palheta;
+
+3.  Otimiza  o  uso  de  genética  rara  (garanhões  mortos,  improdutivos),  dada  a
+
+economia de sêmen utilizado pela biotecnologia;
+
+4.  Qualidade genética superior dos embriões;
+5.  Melhoramento genético do rebanho;
+6.  Aumento da renda com a atividade;
+7.  Melhorias nos ganhos genéticos dos rebanhos assistidos;
+8.  Ganhos de produção e produtividade nos rebanhos assistidos;
+9.  Preservação de material genético de qualidade superior.
+
+11. Estrutura e materiais necessários
+
+Central  de  biotecnologias  de  reprodução  habilitada  no  MAPA  –  Ministério  da
+Agricultura, pecuária e abastecimento;
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+2.  Conhecer e validar a proposta de trabalho do prestador de serviço;
+3.  Proceder      ao      acompanhamento      e      à      supervisão      das      consultorias
+tecnológicas desenvolvidas e que estão no objeto do Termo de Adesão;
+4.  Acatar as orientações dos técnicos relativas aos procedimentos de nutrição,
+sanidade dos animais, bem como aos cuidados das animais gestantes;
+5.  Empenhar-se para viabilizar a execução das ações planejadas e promover a
+
+participação e o envolvimento de sua equipe de colaboradores;
+
+6.  Informar,  fornece  e  auxiliar  a  coleta  de  dados,  de  estrito  interesse  técnico,
+além  do  cumprimento  integral  das  orientações  emitidas  pelo  consultor  em
+atividade;
+
+7.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo
+
+prestador de serviço;
+
+8.  Atender a equipe técnica do programa nas datas e horários agendados pela
+
+entidade executora dos serviços;
+
+9.  Avaliar o serviço prestado.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Os  materiais  necessários  para  a  execução  dos  procedimentos  são  de
+responsabilidade  da  prestadora  de  serviço,  não  cabendo  ao  produtor  o
+requerimento dos mesmos;
+
+2.  Realizar reunião para alinhamento e apresentação das atividades previstas;
+3.  Elaborar  proposta,  escopo  de  trabalho,  cronograma  das  etapas  do  projeto,
+agenda  de  reuniões  e atividades,  sendo  necessário  validar  com  a Empresa
+Demandante;
+
+4.  Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43007-2
+
+atividades;
+
+5.  Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria;
+6.  Cumprir as obrigações expressas no termo de adesão do projeto;
+7.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae;
+
+8.  Cumprir com as obrigações previstas no Regulamento do Sebraetec e Edital
+
+Estadual.
+
+14. Perfil desejado da prestadora de serviço
+
+Corpo  Técnico  formado  por  profissionais  Médico  veterinário  com  especialidade  em
+reprodução de equinos;
+
+15. Pré-diagnóstico
+
+-
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+01 entre a empresa demandante e a prestadora de serviço tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+3.  As consultorias contratadas serão realizadas na base física da Prestadora de
+
+serviços;
+
+4.  É  de  responsabilidade  do  proprietário  da  doadora  o  envio  do  sêmen  do
+garanhão  com  a  antecedência  operacional  indicada  pela  prestadora  de
+serviços para os procedimentos de ICSI;
+
+5.  Os embriões serão implantados em receptoras da prestadora de serviços que
+permanecerão  na  central  até  90  dias  sem  custos  para  o  proprietário  da
+doadora;
+
+6.  As  doadoras  receberão  alimentação  adequada  para  a  reprodução,  sendo
+
+pesadas na entrada e na saída, quando finalizados os serviços;
+
+7.  Todos  os  gastos  com  alimentação  e  medicamentos  (hormônios)  para  a
+
+reprodução serão por conta da Prestadora de serviços;
+
+8.  Medicação ou alimentação extra será por conta do contratante do serviço;
+9.  Fica  a  prestadora  de  serviços  responsável  pelos  exames  da  doadora  e
+
+receptoras quando da saída das mesmas;
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 43007-2
+
+10. O  embrião  na  receptora  tem  a  garantia  de  120  dias,  quando  seguidas  as
+recomendações de manejo estabelecidas pela prestadora de serviços. Após
+esse prazo a Prestadora de serviços não se responsabilizará pela reposição
+do embrião;
+
+11. A  prestadora  de  serviços  encaminhará  ao  proprietário  dos  embriões  o
+protocolo  de  medidas  e  recomendações  a  serem  tomadas  para  o  bom
+andamento da gestação das receptoras;
+
+12. Os protocolos hormonais utilizados durantes a execução dos serviços já estão
+
+inclusa no valor da contrapartida do produtor;
+
+13. É de responsabilidade do prestador de serviço todo o projeto, da concepção à
+
+aprovação do cliente;
+
+14. O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pelo cliente.
+
+Versão
+
+Data
+
+Link
+
+HISTÓRICO DE ALTERAÇÕES
+
+1
+
+04/07/19
+
+1
+
+14/04/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/07/Injeção-
+Intracitoplasmática-de-Espermatozoides-
+ICSI-na-Reprodução-de-Equinos-
+MGB43007-1.pdf
+https://datasebrae.com.br/wp-
+content/uploads/2020/04/Injeção-
+Intracitoplasmática-de-Espermatozoides-
+ICSI-na-Reprodução-de-Equinos-
+MGB43007-2.pdf
+
+Responsável
+
+Nilo Vasconcelos
+de Oliveira
+
+Victor Rodrigues
+Ferreira
+
+Coordenação
+Sebraetec
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+

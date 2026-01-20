@@ -1,0 +1,272 @@
+Código da ficha técnica: 12018-2
+
+CERTIFICAÇÃO HALAL – POR AUDITORIA
+
+1.  Tema
+
+Produção e Qualidade
+
+2.  Subtema
+
+Certificação/Inspeção
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Avaliação da Conformidade / Acesso a serviços tecnológicos
+
+5.  Modalidade
+
+Presencial
+
+6.  Público alvo
+
+ME e EPP
+
+7.  Setor indicado
+
+Agronegócios e Indústria
+
+8.  Macrossegmento
+
+Indústria Alimentícia, Farmacêutica e Cosmética
+
+9.  Descrição
+
+A certificação Halal é o procedimento pelo qual uma Certificadora, credenciada por
+um Organismo de Certificação Halal assegura, por meio de auditoria que a empresa
+demandante  atende  os  requisitos  para  comercialização  de  produtos  destinados  a
+países islâmicos ou que desejem exportar a países islâmicos.
+
+Os produtos Halal exigem das indústrias a implantação de uma série de padrões e
+controles de qualidade, como o controle dos insumos, da manipulação dos alimentos,
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 12018-2
+
+da rastreabilidade. Esses são parâmetros bastante diferentes e bem mais rigorosos
+do  que  os  adotados  na  indústria  comum  e  que  garantem  mais  segurança  aos
+alimentos. Em se tratando da proteína animal, além de tudo, há a certeza de que não
+existiu  o  sofrimento  do  animal  e  que  o  método do  abate  foi  o  mais  ético  e  correto
+existente.
+
+A  solução  objetiva  realizar  a  avaliação  da  conformidade  das  empresas  quanto  às
+normas e práticas Halal.
+
+ETAPA 00 | FASE INICIAL - SEBRAE E EMPRESA DEMANDANTE
+
+a.  Atendimento  inicial  para  alinhamento  da  descrição  da  demanda  (Motivação
+
+para a obtenção de certificado HALAL) e avaliação do perfil do cliente.
+
+b.  Realiza  uma  revisão  dos  dados  e  verifica  a  capacidade  de  certificar  a
+
+requerida empresa;
+
+c.  Na sequência são realizados os trâmites legais de assinatura de contrato, e
+solicitadas  documentações  que  demonstram  que  o  produto  está  isento  de
+materiais  proibidos  diante  da  certificação  Halal  (conhecidos  como  ilícitos  -
+Haram), tais como porco e seus derivados e o etanol.
+
+ETAPA 01 | PLANEJAMENTO DA AUDITORIA PRINCIPAL
+
+Planejar a realização da auditoria externa para fins de certificação.
+
+ENTREGA ETAPA 01: Planejamento para a Auditoria Principal (Plano de Auditoria),
+de  acordo  com  a  avaliação  do  formulário  enviado  visando  estabelecer  uma  visão
+crítica de sua abrangência.
+
+ETAPA 02 | EXECUÇÃO DA AUDITORIA PRINCIPAL
+
+Execução da auditoria na planta sendo esta conduzida em 02 (dois) estágios.
+As auditorias são realizadas por uma equipe técnica e religiosa, que conferem se a
+empresa atende a todos os requisitos estabelecidos pela certificação Halal e normas
+internacionais. Caso necessário, o produto ainda passará por análises laboratoriais
+para confirmar que o mesmo está isento de elementos Haram. Ao final, é tomada a
+decisão de certificação, na qual um comitê técnico e religioso irá revisar o processo e
+avaliar se a empresa está apta para obter a certificação Halal.
+
+ENTREGAS  ETAPA  02:  Relatório  de  auditoria  externa,  com  os  seus  achados,
+contendo  a  assinatura  do  empresário.  É  importante  ressaltar  que  desvios  de
+atendimento  aos  requisitos  verificados  durante  a  auditoria  devem  ser  reanalisados
+pela  empresa  certificadora.  Neste  caso  haverá  a  necessidade  de  passar  por  uma
+nova auditoria, onde a empresa auditada terá que incorrer em contratação de uma
+nova auditoria e o Certificado, até então, não será emitido; Certificado do Sistema de
+Gestão  da  empresa.  Havendo  a  recomendação,  a  entrega  será  o  Certificado.  Não
+havendo a recomendação, a entrega será uma Carta informando que a Empresa não
+foi recomendada.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 12018-2
+
+10. Benefícios e resultados esperados
+
+As principais vantagens da certificação Halal são:
+
+•  O certificado Halal é o mecanismo único para que os clientes e consumidores
+
+tenham produtos Halal com segurança e confiabilidade.
+
+•  O  selo de  garantia  Halal  agrega pontos positivos  à  imagem  dos  produtos  e
+empresas, criando lealdade do mercado consumidor de Halal em todo mundo,
+que está representado por aproximadamente um bilhão e oitocentos milhões
+de consumidores;
+
+•  Demonstra comprometimento com a qualidade e segurança do produto final;
+•  Auxiliar a melhoria contínua da empresa;
+•  Auxiliar no desenvolvimento de seus negócios junto aos países islâmicos;
+•  Reduz perdas em seu processo produtivo e contribui para melhoria em sua
+
+gestão;
+
+•  Fortalece a imagem e a imagem da organização e de seus produtos frente aos
+
+clientes e consumidores;
+
+•  Fidelização dos consumidores muçulmanos;
+•  Assegura  que  seus  produtos  atendem  as  normas  internacionais  do  Halal
+como, UAES 2055-1 / 2015, HAS 23000 LPPOM MUI Indonésia, MS 15000
+Malásia;
+
+•  Aumenta a competitividade da empresa nos países islâmicos.
+
+11. Estrutura e materiais necessários
+
+As indústrias que desejam obter a certificação Halal devem praticar Boas Práticas de
+Fabricação e todos os requisitos exigidos pela legislação a qual estiver cadastrada.
+Indústrias do segmento alimentício que optem pela exportação para países do Golfo
+devem apresentar um plano de APPCC. Também devem implantar o HAS (Manual
+de Garantia Halal).
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento;
+2.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+do prestador de serviço;
+
+3.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo
+
+prestador de serviço.
+
+4.  Fornecer informações técnicas sobre os processos, produtos ou serviços ao
+
+prestador de serviço para o desenvolvimento do trabalho;
+
+5.  Acompanhar  o  prestador  de  serviço  em  visita(s)  técnica(s)  aos  espaços
+
+físicos, se previsto no escopo do trabalho;
+
+6.  Avaliar o serviço prestado.
+7.  Assegurar que seus produtos estejam livres de ingredientes e insumos ilícitos
+como  por  exemplo:  Alimentos  in  natura  e  produtos  industrializados  devem
+estar  livres  de  carne  de  porco  e  seus  derivados  (insumos  e  ingredientes),
+como,  por  exemplo,  colágeno,  sangue,  enzimas,  pelos,  osso,  gordura,
+derivados  de  seres  humanos,  insetos  e  álcool  proveniente  de  bebidas
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 12018-2
+
+alcoólicas.  Devem  também  ser  isentos  de  impurezas  (najis),  elementos
+intoxicantes ou nocivos à saúde.
+
+13. Responsabilidade da prestadora de serviço
+
+Garantir  que  os  produtos  atendam  aos  requisitos  de  qualidade  e  das  normas
+referentes  ao  Halal,  por  meio  de  análises  documentais  e  auditorias  in  loco.  Para
+comprovante de aptidão para fabricar produtos Halal, a empresa demandante recebe
+um certificado na etapa de finalização do processo.
+
+14. Perfil desejado da prestadora de serviço
+
+Ter reconhecimento das acreditadoras Halal mundiais, possibilitando a seus clientes
+a exportação de seus produtos Halal sem entraves comerciais.
+
+15. Pré-diagnóstico
+
+•  A  partir  do  preenchimento  de  um  formulário  enviado  pela  certificadora,  é
+realizada uma prévia análise da possibilidade de certificação dos produtos do
+escopo.
+
+•  A empresas dispõe de BPF e APPCC?
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+01 entre a empresa demandante e a prestadora de serviço tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+3.  Essa contratação dessa consultoria contempla:
+
+•  Certificação da planta, processo e produtos fabricados;
+•  Serviços de auditores dia trabalhado;
+•  Logística de viagem que contempla translado, hospedagem e alimentação;
+•  Análises laboratoriais (PCR para detecção de DNA animal e ou residual de
+
+solventes para álcool etílico).
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 12018-2
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+Responsável
+
+1
+
+2
+
+22/08/2019
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/08/Certificação-
+Halal-Por-Auditoria-CI12018-1.pdf
+
+Eduardo Cardoso
+Garrido
+
+14/04/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/04/Certificação-
+Halal-Por-Auditoria-CI12018-2.pdf
+
+Coordenação
+Sebraetec
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+

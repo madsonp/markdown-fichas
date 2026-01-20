@@ -1,0 +1,77 @@
+{
+  "id": "14030-2",
+  "nomeSolucao": "PRODUÇÃO DE AMÊNDOAS DE CACAU DE QUALIDADE",
+  "tema": "Produção e Qualidade",
+  "subtema": "Mapeamento e melhoria de processos",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio",
+  "descricao": "Consultoria para orientar e auxiliar o empresário e colaboradores de maneira simples e objetiva a adotar os critérios de beneficiamento de Cacau de Qualidade: 1. Qualidade do cacau como fator de diferenciação na cadeia de valor da cacauicultura; 2. Variedades genéticas e sua influência sobre a qualidade sensorial do cacau; 3. Boas Práticas agrícolas x Beneficiamento das amêndoas de cacau; 4. Beneficiamento na qualidade do cacau; 5. Mercado de cacau e qualidade.",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | DIAGNÓSTICO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Objetivo: Diagnóstico da área de pós-colheita e beneficiamento da propriedade.",
+      "entrega": "Documento contendo Diagnóstico."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | IDENTIFICAÇÃO, ORGANIZAÇÃO E DESCRIÇÃO DE FLUXOS DOS PROCEDIMENTOS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Objetivo: Identificar, organizar e descrever os seguintes fluxos dos procedimentos 1. Colheita dos frutos: Essa fase tem como procedimento o controle na seleção e na colheita dos frutos que atendem aos requisitos mínimos para o beneficiamento de Cacau de Qualidade 2. “Embandeiramento”/acondicionamento: Essa fase se caracteriza ainda por uma seleção de frutos e seu descanso obedecendo concentrações de compostos desejáveis para obtenção de um produto final de qualidade 3. Quebra dos frutos: Fase onde existe uma separação de amêndoas desejadas 4. Fermentação da massa de cacau: Essa fase se caracteriza com uma das mais importantes para obtenção da qualidade exigida, pois acontecem mudanças na coloração, sabor e no cheiro que sinalizam se está ou não acontecendo a fermentação 5. Secagem das amêndoas: É a fase de maior retirada de água da amêndoa, e onde acontecem mudanças químicas, tais como, redução da acidez, adstringência e liberação de componentes aromáticos 6. Armazenamento das amêndoas: Tem o objetivo de preservar a qualidade do cacau por um período prolongado.",
+      "entrega": "Guia de Beneficiamento de Cacau de Qualidade."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | APRESENTAÇÃO DE ORIENTAÇÕES E RESULTADOS AO CLIENTE",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Objetivo: Apresentar os resultados da Consultoria e recomendações de melhoria ao Cliente referente aos procedimentos de beneficiamento do cacau com qualidade.",
+      "entrega": "Relatório contendo recomendações agronômicas aos empresários acerca das práticas de Pós-Colheita para a Qualidade de Cacau e sobre as boas práticas no beneficiamento com lista de adequações a serem realizadas, caso seja necessário."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "O cliente dispõe de Regulamento de Uso estruturado?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "A empresa está apta a realizar procedimentos de registro e controle?",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "São potenciais benefícios da Consultoria:",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissional(is) com experiência em normas de produção de amêndoas de qualidade, de preferência Agrônomo/ Engenheiro Agrônomo\n",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nPara implantar as normas mínimas de produção de amêndoas de qualidade, as empresas interessadas precisam estar aptas a realizar procedimentos de registro e controle, para tanto há necessidade de treinamento para toda a mão de obra envolvida no processo.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "24/06/2019",
+      "alteradoPor": "Qualidade-MMP14030-1.pdf Qualidade-MMP14030-2.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/04/2020",
+      "alteradoPor": "Carlos Henrique"
+    }
+  ],
+  "valorTeto": 5424.0,
+  "codigo": "371440100337"
+}

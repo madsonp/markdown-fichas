@@ -1,0 +1,100 @@
+{
+  "id": "35013-2",
+  "nomeSolucao": "ADEQUAÇÃO À NR 35 - TRABALHO EM ALTURA",
+  "tema": "Sustentabilidade",
+  "subtema": "Saúde e Segurança no Trabalho",
+  "tipoServico": "Consultoria Tecnológica",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio, Indústria e Comércio e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | REUNIÃO DE ABERTURA DOS TRABALHOS",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente para nivelamento do escopo do trabalho apresentando todas as demais etapas a serem desenvolvidas e os prazos para realização de cada etapa. Definição da pessoa responsável pela disponibilização das informações necessárias e acompanhamento dos trabalhos por parte do cliente e da prestadora de serviço tecnológico",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço e o cronograma de atividades, assinados pela empresa e pelo contratado."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | COLETA DE DADOS NA EMPRESA",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realização de coleta de dados junto à empresa para desenvolvimento do escopo, onde as mais relevantes estão descritas abaixo • Coleta de informações do cartão CNPJ da empresa • Preenchimento de checklist da NR35 • Desenhos da empresa pertinentes ao escopo (localização dos pontos de atividade em altura) • Número de trabalhadores envolvidos nas atividades em altura • Documentação existente relacionada às atividades em altura da empresa conforme a NR35.",
+      "entrega": "Relatório com as informações coletadas."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | DESENVOLVIMENTO DA CONSULTORIA A consultoria é para verificação da adequação da empresa demandante à NR35 e envolve:",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Identificação de sistemas contra quedas (SPQ – SPQC e SPQI) • Check-list dos sistemas de proteção contra quedas • EPC’s e EPI’s existentes/recomendados conforme a NR 6 • Identificação dos documentos exigidos para atendimento a NR35 (POP e/ou PT, projeto dos sistemas de trabalho em altura, entre outros) • Desenho da linha de vida proposta com dimensionamento (cálculo) e lista de materiais, conforme a NR 18",
+      "entrega": "Relatório da consultoria da NR35 abordando alguns aspectos da NR 6 e NR 18."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Quais sistemas existentes de SPQ?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Qual o sistema mais adequado de linha de vida?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "A empresa possui procedimento operacional do trabalho em altura?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "A empresa possui equipamentos para trabalho em altura e sistema de gestão de trabalho em altura?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "O cliente está ciente da importância da gestão da NR35 nas atividades em altura realizadas pelos seus colaboradores?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "O cliente está ciente que a execução da instalação do sistema de linha de vida é de sua responsabilidade? ",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "Consultorias para auxiliar a empresa na adequação aos requisitos exigidos para o trabalho em altura (NR35) e identificar seu nível de atendimento da NR35 observando ainda alguns aspectos das NR 6 e 18. • Promover a segurança em trabalhos em altura; • A regularidade da empresa segundo a legislação vigente; • Redução dos riscos de sanções penais e interdições por não conformidades, assegurando o trabalho seguro; • Melhorar a imagem da empresa perante o mercado; • Condições para obter certificações;",
+  "estruturaMateriais": "- ",
+  "responsabilidadeEmpresaDemandante": "1. Fixar cronograma de datas e horários das atividades, em comum acordo entre as partes, no início do projeto\n2. Designar um responsável, com autoridade, para coordenação das atividades relacionadas ao projeto\n3. Identificar e designar os profissionais mais indicados a participarem das atividades previstas, conforme a sua atuação/responsabilidade dentro da organização\n4. Pagamento de taxas do conselho de classe CREA (ART)\n5. Disponibilizar as informações necessárias para a evolução da consultoria, tais como preenchimento das planilhas de coletas de dados, procedimentos operacionais\n6. Disponibilizar projeto arquitetônico e estrutural completo em formato PDF ou DWG para identificação e localização dos sistemas de proteção contra quedas e dos pontos de ancoragem do sistema de linha de vida.",
+  "responsabilidadePrestadora": "1. Fixar cronograma de datas e horários das atividades, em comum acordo entre as partes, no início do projeto\n2. Elaborar relatórios das consultorias realizadas\n3. Manter sigilo sobre as informações confidenciais da organização\n4. Elaborar relatórios das consultorias realizadas e disponibilizar os documentos descritos nas Entregas das Etapas do Item 9. Descrição.",
+  "perfilDesejadoPrestadora": "Corpo Técnico formado por profissional legalmente habilitado nos seus respectivos conselhos de classe, com preferência de profissional formado em ensino superior com especialização em Engenharia de Segurança do Trabalho.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possam incidir sobre o objeto da proposta\nDespesas adicionais com terceiros (direitos autorais, fotografia, hospedagem, imagens, registro de domínio, revisões, textos conteúdos dinâmicos, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizados por ele mediante apresentação de orçamento na apresentação da proposta de trabalho\nO prestador de serviços não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "23/07/2019",
+      "alteradoPor": "SST35013-1.pdf"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "08/04/2020",
+      "alteradoPor": "Michelli Trigueiro"
+    }
+  ],
+  "codigo": "371440100449"
+}

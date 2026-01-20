@@ -1,0 +1,336 @@
+Código da ficha técnica: 13047-2
+
+ADEQUAÇÃO CONFORME MODELO MPS.BR-SV, RH E SW
+
+1.  Tema
+
+Produção e qualidade
+
+2.  Subtema
+
+Gestão da Qualidade
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria tecnológica / Acesso a Serviço Tecnológico
+
+5.  Modalidade
+
+Presencial e/ou a distância
+
+6.  Público alvo
+
+ME e EPP
+
+7.  Setor indicado
+
+Serviços
+
+8.  Macrossegmento
+
+Empresas do Setor TIC (Tecnologia de Informação e Comunicação)
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+•  Realizar  interação  de  abertura  junto  à  empresa  demandante  para  definição
+das  diretrizes  de  serviço,  agendamento  diagnóstico  e  definição  dos
+responsáveis  pelo  acompanhamento  dos  serviços  por  parte  da  empresa
+demandante e da prestadora de serviço.
+
+•  Definir diretrizes do trabalho, informando os seguintes itens:
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13047-2
+
+o  Área de atuação da instituição demandante.
+o  Responsável pela equipe de apoio do demandante.
+o  Responsável legal pela empresa demandante.
+o
+Implementador responsável pela implementação.
+o  Modelo a ser adotado (MPS.BR SV/SW ou RH).
+o  Nível a ser pretendido (G ao A) – podendo ser um ou mais níveis;
+o  Processos a serem implementados (dependendo o nível).
+o  Se há algum processo a ser excluído do nível pretendido.
+o  Se há algum processo a ser adicionado ao nível pretendido.
+o  Quantidade  de
+
+colaboradores  envolvidos  nos  processos  de
+
+implementação.
+
+o  Empresa  demandante  deve  declarar  ciência  de  que  a  implementação
+
+necessita de ações de sua equipe junto ao implementador.
+
+o  Empresa prestadora se responsabiliza em encerrar a implementação com
+GAP 100% (Simulado de auditoria), apresentando resultados a equipe e
+laudo.
+
+o  Desenvolver cronograma de ações.
+
+ENTREGAS DA ETAPA 01:
+
+•  Documentos de proposta e ciência, conforme itens supracitados;
+•  Responsabilidades definidas e firmadas;
+•  Cronograma de ações, acordado com todos os envolvidos.
+
+ETAPA 02 | DIAGNÓSTICO – GAP - MARCO 0
+
+•  Aplicar  checklist  de
+
+implementação,  baseado  em  critérios  a  serem
+-  conforme  Modelo,  Nível  e  processos  a  serem
+
+implementados
+implementados;
+
+•  Diagnosticar  o  nível  de  implementação  atual,  ou  seja,  critérios  já  adotados
+pela  equipe  em  comparativo  com  os  critérios  exigidos  dos  processos
+pretendidos,  informando  o  grau  de  implementação  (T  (Totalmente),  L
+(Largamente), P (Parcialmente), N (Não Implementado), NA (Não se Aplica)).
+•  Definir escopo de ações pretendidas, conforme critérios diagnosticados, por
+
+processo.
+
+•  Capacitar equipe, internamente, com processos a serem implementados.
+
+ENTREGAS DA ETAPA 02:
+
+•  Diagnóstico inicial, com laudo de situação inicial dos processos.
+•  Evidência de capacitação da equipe interna (apoio na implementação), sobre
+processos a serem implementados (certificado interno ou lista de presença).
+
+ETAPA 03 | DIAGNÓSTICO DE ANDAMENTO – GAP - MARCO 50%
+
+•  Análise  de  50%  da  implementação,  aplicando  checklist  de  implementação,
+porém levantando a evolução dos processos, com itens já implementados e a
+serem implementados.
+
+•  Executar quando 50% das ações terem sido executadas ou 50% das horas
+
+consumidas.
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13047-2
+
+ENTREGA ETAPA 03: Diagnóstico com situação parcial, com laudo de situação de
+50% do esforço de ações consumido.
+
+ETAPA 04 | DIAGNÓSTICO FINAL – GAP - MARCO 100% - O SIMULADO
+
+•  Análise de 100% da implementação.
+•  Simulação de Auditoria Final (Entrevistas, Evidências e laudo).
+•  Treinamento  de  toda  equipe  envolvida  nos  processos  desenvolvidos  e
+
+implementados;
+
+•  Aplicação de checklist de implementação, com parecer qualitativo.
+•  Executar  etapa  no  encerramento  do  serviço,  apresentando  a  envolvidos
+
+resultados.
+
+ENTREGAS DA ETAPA 04:
+
+•  Laudo de diagnóstico com situação final, fechando 100% do esforço de ações
+
+consumido.
+
+•  Assinatura de ciência do responsável pela equipe interna de apoio.
+
+10. Benefícios e resultados esperados
+
+•  A implantação de diretrizes, alinhadas a modelos de qualidade de processo
+possibilitam  maior  excelência  na  entrega  de  produtos  e  serviços  de  uma
+organização, além de apoiar na gestão de processo e tomada de decisão.
+•  O modelo MPS-BR é alinhado com normas e modelos internacionais, como
+ISO, CMMI, ITIL, COBIT, levando em consideração a realidade de pequenas
+e médias empresas brasileiras.
+
+11. Estrutura e materiais necessários
+
+-
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta do Sebrae, valores e condições de pagamento.
+2.  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+da prestadora de serviço.
+
+3.  Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela
+
+prestadora de serviço.
+
+4.  Fornecer  informações  técnicas  sobre  os  processos,  produtos  ou  serviços  à
+
+prestadora de serviço para o desenvolvimento do trabalho.
+
+5.  Avaliar o serviço prestado.
+6.  Comprometer-se  com  ações  de  melhorias  de  processos,  alinhadas  com
+
+consultores, mas de responsabilidade da equipe demandante.
+
+7.  Registrar ciência em marcos de implantação.
+8.  Declarar  a  veracidade  de
+
+informações,  de  maneira  responsável  e
+
+transparente.
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13047-2
+
+9.  Sugere-se  que  as  equipes  que  buscam  a  implantação  do  modelo  estejam
+
+comprometidas em melhorar seus processos.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião para alinhamento e apresentação das atividades previstas.
+2.  Analisar a demanda e as informações fornecidas pela empresa.
+3.  Elaborar  proposta,  escopo  de  trabalho,  cronograma  das  etapas  do  projeto,
+agenda  de  reuniões  e  atividades,  sendo  necessário  validar  com  a  empresa
+demandante.
+
+4.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae.
+
+5.  Cumprir com as obrigações previstas no Regulamento do Sebraetec.
+6.  Proporcionar  o(s)  devido(s)  esclarecimento  do(s)  processo(s)  de  auditoria
+junto à empresa demandante, bem como: realizar o agendamento; realizar a
+prestação do serviço; comunicar o resultado; e emitir e entregar o certificado
+(em caso de atendimento aos requisitos).
+
+14. Perfil desejado da prestadora de serviço
+
+•  A
+
+instituição  prestadora  deve  ser  credenciada  como
+
+Instituição
+
+Implementadora (II) na SOFTEX;
+
+•  O  consultor  deve  ser  vinculado  a  Instituição  Implementadora  (II)  MPS.BR  e
+ser  Implementador  Oficial  do  Modelo,  pelo  SOFTEX.  Destacando  que  cada
+modelo (MPS.BR-SV, SW ou RH) possuem seu próprio credenciamento, ou
+seja,  uma  Instituição  Implementadora  (II)  ou  um  consultor  implementador,
+pode estar vinculado a um ou mais modelos.
+
+15. Pré-diagnóstico
+
+-
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+01 entre a empresa demandante e a prestadora de serviço tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13047-2
+
+3.  Esse serviço corresponde a consultorias de apoio a equipe, na implementação
+de critérios de qualidade de processos definidos no Modelo MPS.BR escolhido
+(RH, SV ou SW), correspondente ao nível pretendido (A-G).
+
+4.  O sucesso do trabalho depende tanto do desempenho e comprometimento do
+demandante, como da prestadora, tendo em vista que as atividades serão de
+ambas as partes.
+
+5.  Caso  o  prestador  ou  demandante  observe  dificuldade  nas  execuções  dos
+trabalhos, aconselha-se um alinhamento entre parte, caso não haja a solução,
+solicita-se comunicar Equipe SEBRAE.
+
+6.  O serviço de implementação não garante a certificação, embora seja alinhado.
+7.  Os  valores  dos  honorários  apresentados  pela  prestadora  de  serviço  devem
+incluir  todas  as  despesas  com  impostos  e  encargos  sociais,  conforme
+legislação tributária em vigor, que possa incidir sobre o objeto da proposta;
+
+8.  Despesas  adicionais  com
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico,  entre  outros)  ficam  a  cargo  exclusivo  da  empresa  demandante  e
+devem ser previamente autorizadas por ela durante a validação da proposta
+de trabalho.
+
+(direitos  autorais,
+
+terceiros
+
+9.  É de responsabilidade da prestadora de serviço todo o trabalho, da concepção
+
+à aprovação da empresa demandante;
+
+10. A prestadora de serviço não pode ser responsabilizada por erros de terceiros
+
+contratados pela empresa demandante cliente.
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+Responsável
+
+1
+
+2
+
+01/08/2019
+
+13/04/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/08/Adequação-
+Conforme-Modelo-MPS.BR-SV-RH-e-
+SW-GQ13047-1.pdf
+https://datasebrae.com.br/wp-
+content/uploads/2020/04/Adequação-
+Conforme-Modelo-MPS.BR-SV-RH-e-
+SW-GQ13047-2.pdf
+
+Arthur Prieto
+Coelho
+
+Coordenação
+Sebraetec
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+

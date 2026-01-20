@@ -1,0 +1,94 @@
+{
+  "id": "14022-2",
+  "nomeSolucao": "ADEQUAÇÃO ÀS BOAS PRÁTICAS DE BENEFICIAMENTO EM CASAS DE MEL",
+  "tema": "Produção e Qualidade",
+  "subtema": "Mapeamento e Melhoria de Processos",
+  "tipoServico": "Acesso a Serviço Tecnológico",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA E DIAGNÓSTICO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto ao cliente para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços composto do plano de trabalho e diagnóstico da casa de mel, definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico",
+      "entrega": "Plano de trabalho assinado entre as partes contendo cronograma físico e financeiro, diagnóstico inicial, agenda de reuniões, definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | ELABORAÇÃO DO PLANO DE AÇÃO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar reunião de abertura junto ao cliente para nivelamento do escopo do trabalho e realização do Check-list, que deverá conter, no mínimo a. Higienização do ambiente, equipamentos e utensílios b. Sanitização do ambiente, equipe, utensílios, utilizando produtos químicos bactericidas e fungicidas c. Extração do mel d. Reunir o material e. Colocar os quadros de mel na mesa desoperculadora f. Retirar os opérculos g. Colocar os quadros desoperculados na centrífuga h. Filtração do mel i. Decantação do mel j. Envase do mel k. Rotulagem • Analisar o processo atual utilizado na Casa de Mel, comparando-o com o Check-list realizado, e elaborar o Plano de Ação para as não conformidades detectadas.",
+      "entrega": "Apresentação de relatório assinado pelo produtor e pelo consultor, contendo o Plano de Ação, visando a correta aplicação da atividade na Casa de Mel."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | EXECUÇÃO DE BOAS PRÁTICAS",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Elaborar ou revisar o Manual de Boas Práticas para a Casa de Mel, tendo em vista as peculiaridades do estabelecimento, o Check-list e o Plano de Ação realizado Realizar acompanhamento da execução dos procedimentos de Boas Práticas com orientações técnicas e elaboração e/ou revisão do Manual de Boas Práticas.",
+      "entrega": "• Programa de Boas Práticas de Fabricação implantado e/ou revisado; • Capacitação com as orientações técnicas repassadas ao Apicultor."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "Qual o volume da produção de mel da propriedade?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Qual a quantidade de mel a ser beneficiada?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Local do Beneficiamento",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Condições atuais da agroindústria.",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Qual a localização da fazenda? ",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "O objetivo central das Boas Práticas de Beneficiamento é a manipulação do mel de forma higiênica e segura, visando garantir um produto com qualidade e livre de contaminações por microorganismos.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "• Aprovar a proposta do Sebrae, valores e condições de pagamento\n• Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n• Proceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua agroindústria\n• Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n• Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n• Acompanhar a prestadora de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n• Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n• Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n• Avaliar o serviço prestado.",
+  "responsabilidadePrestadora": "• Realizar reunião para alinhamento e apresentação das atividades previstas\n• Cumprir todas as etapas previstas no plano inicial do projeto garantindo que todas as etapas serão sucedidas por suas respectivas entregas\n• Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n• Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n• Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n• Cumprir o prazo estabelecido com o produtor para realização de todas as etapas do projeto.",
+  "perfilDesejadoPrestadora": "Quadro profissional composto por Técnico em Apicultura, Tecnólogo, Engenheiro Agrônomo, Zootecnista, Veterinário ou áreas afins.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única agroindústria, mencionada na identificação desse termo\nAs visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o cliente ciente das datas e horários propostos pela consultoria\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho; (direitos autorais, É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "20/05/2019",
+      "alteradoPor": "Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ],
+  "codigo": "371440100278"
+}

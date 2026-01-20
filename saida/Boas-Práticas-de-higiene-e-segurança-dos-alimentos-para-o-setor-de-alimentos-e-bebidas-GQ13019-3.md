@@ -1,0 +1,470 @@
+Código da ficha técnica: 13019-3
+
+Código da ficha técnica: 13019-1
+BOAS  PRÁTICAS  DE  HIGIENE  E  SEGURANÇA  DOS
+ALIMENTOS  PARA  O  SETOR  DE  ALIMENTOS  E
+BEBIDAS
+
+1.  Tema
+
+Produção e Qualidade
+
+2.  Subtema
+
+Gestão da Qualidade
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria tecnológica / Acesso a Serviço Tecnológico
+
+5.  Modalidade
+
+Presencial
+
+6.  Público alvo
+
+MEI, ME, EPP e Produtor Rural
+
+7.  Setor indicado
+
+Agronegócios, Comércio, Indústria e Serviços
+
+8.  Macrossegmento
+
+Alimentos e Bebidas
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+•  Atendimento inicial para alinhamento da descrição da demanda informando a
+motivação  para  a  implantação  dos  procedimentos  de  Boas  Práticas  para  o
+atendimento  à  legislação  específica  (empresas  produtoras  de  alimentos  de
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13019-3
+
+Código da ficha técnica: 13019-1
+
+origem  vegetal  e  alimentação  pronta  para  o  consumo    e  distribuidores  de
+alimentos  [mercados,  supermercados,  açougues,  peixarias];    empresas
+produtoras de bebidas,, empresas prestadoras de serviços de alimentação.)
+*As empresas do setor de alimentos e bebidas devem observar a existência
+de  legislações  locais  (estaduais  ou  municipais)  a  serem  atendidas  com
+critérios específicos por localidade.
+importante:  A  elaboração  dos  planos  APPCC  não  é
+**Observação
+contemplada  na  presente    ficha  técnica.  Em  caso  de  necessidade,  deve-se
+abrir outra demanda específica para o Sistema APPCC.
+
+•  Construção  da  descrição  da  demanda
+
+(objeto  de  contratação,
+
+responsabilidades, cronograma) e;
+
+•  Validação  da  descrição  da  demanda  e  da  proposta  final  pelo  cliente  e
+
+contratação do serviço.
+
+ENTREGA  ETAPA  01:  Documento  contendo  os  responsáveis  pela  prestação  do
+serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e
+outros aspectos acordados entre as partes, assinado pela Empresa Demandante.
+
+ETAPA 02 | DIAGNÓSTICO E DOCUMENTAÇÃO
+
+•  Diagnosticar a necessidade da empresa quanto aos processos de segurança
+do alimento de acordo com as normas regulamentadoras da legislação vigente
+(VISA, ANVISA, MAPA, etc);
+
+•  Visita  técnica  para  diagnóstico  in  loco  da  realização  das  atividades  pela
+equipe, onde serão observadas as não conformidades e os pontos de melhoria
+na  execução  dos  processos  da  produção  dos  alimentos,  que  interferem
+diretamente  na  qualidade  sanitária  dos  produtos,  com  base  nas  legislações
+vigentes, sendo verificados itens como:
+
+o  Procedimento  de
+
+limpeza  e  higienização  dos  utensílios  e
+
+equipamentos de trabalho;
+
+o  Procedimentos de organização do ambiente;
+o  Processo de recebimento dos insumos;
+o  Utilização de EPI´s e demais equipamentos de trabalho;
+o  Documentações obrigatórias como análises de água e certificado de
+
+dedetização;
+
+o  Utilização de planilhas para registro dos procedimentos;
+o  Procedimentos no preparo dos alimentos;
+o  Condições da área física para realização do serviço, entre outros.
+
+•  Realizar ajustes nos documentos conforme necessidades do cliente ajustando
+de acordo com indicações apresentadas no Relatório Técnico elaborado no
+Diagnóstico. É fundamental que todos os ajustes solicitados sejam realizados
+nesta etapa;
+
+•  Nesta etapa, os documentos que precisam ser atualizados ou providenciados,
+
+quando necessário, são:
+
+o  Termo de Viabilidade de Localização;
+o  Alvará de Funcionamento;
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13019-3
+
+Código da ficha técnica: 13019-1
+
+o  Projeto de Sistema de Controle e Combate a incêndio (se for o caso –
+
+depende do porte da empresa);
+
+o  Atestado de Saúde Ocupacional (ASO) dos funcionários;
+o  Alvará de Saúde;
+o  Certificado de Controle de Pragas, Laudo de Análise Microbiológica e
+
+Físico-química da água;
+
+o  MBPFA e POP.
+
+•  De posse de todas as informações a Empresa Contratada levantará requisitos
+estabelecidos pelos órgãos relacionados ao segmento específico da empresa
+atendida (Exemplo: ANVISA, MAPA, ADAB, nas esferas Federal, Estadual e
+Municipal);
+
+•  Elaborar  um  PLANO  DE  AÇÃO,  conforme  orientações  realizadas,  para
+
+implantação de melhorias pela empresa:
+
+o  Apresentar relatório para empresa, explicando detalhadamente sobre
+as  não  conformidades  apresentadas  e  as  propostas  sugeridas  para
+adequação;
+
+o  Orientar  nos  procedimentos  gerais  de  higiene,  armazenamento  e
+conservação  dos  alimentos/bebidas,  necessários  à  prática  da
+Segurança dos Alimentos e legislação vigente;
+
+o  Orientar nas melhorias estruturais e de processos, conforme legislação
+
+vigente;
+
+o  Orientar outras informações relevantes pertinentes ao tema, conforme
+
+demanda do cliente.
+
+ENTREGA  ETAPA  02:  Relatório  com  detalhamento  das  não  conformidades
+identificadas (com registro fotográfico) e Plano de Ação com as recomendações de
+ajuste  para  cada  item  considerando  as  diretrizes  estabelecidas  pelas  entidades
+reguladoras.
+
+ETAPA  03  |  CONSULTORIA  PARA  IMPLANTAÇÃO  DAS  BOAS  PRÁTICAS  EM
+EMPRESAS DE ALIMENTOS
+
+•  Consultoria  nas  boas  práticas,  com  base  no  resultado  do  diagnóstico,  para
+fornecimento de informações técnicas e legais, bem como orientações sobre
+os seguintes tópicos:
+
+o  Perigos e Higiene pessoal;
+o  Condições ambientais, instalações e equipamentos;
+o  Higiene de ambientes, equipamentos e utensílios;
+o  Produção e documentação.
+
+•  Nas empresas de produtos de origem vegetal e distribuidores de alimentos
+fiscalizadas  pela  ANVISA:  elaboração  e  implantação  dos  Procedimentos
+Operacionais Padronizados de acordo com a legislação específica da área de
+atuação  e/ou  setor  da  empresa.  Elaboração  do  Manual  de  Boas  Práticas,
+incluindo
+identificação  da  empresa,  condições  ambientais,  etapas  de
+produção  e  controle  da  qualidade,  e  documentos  complementares,  por
+exemplo.
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13019-3
+
+Código da ficha técnica: 13019-1
+
+•  Nas  empresas  de  produtos  de  origem  animal:  elaboração  e  implantação
+dos Programas de Autocontroles* de acordo com a legislação específica da
+área de atuação e/ou setor da empresa.
+*Os  títulos  dos  Programas  de  Autocontroles  podem  variar  em  função  de
+legislações de órgãos fiscalizadores locais, no caso de SISBI/SUASA.
+
+•  Orientar  os  empregados  e  responsáveis  pelos  processos  (com  lista  de
+assinatura) sobre os assuntos pertinentes de boas práticas na empresa, tais
+como: controle de perigos que atacam os alimentos: definição e classificação;
+microbiologia  básica;  contaminação  alimentar,  doenças  transmitidas  por
+alimentos; boas práticas: estrutura física; controle da água; controle de pragas;
+controle  da  saúde  e  higiene  do  manipulador;  higienização  de  superfícies;
+Controle  na  produção:  seleção  e  recebimento  das  matérias-primas,
+armazenamento, pré-preparo; cocção, manutenção, distribuição controles de
+temperatura.
+
+•  Reavaliação da situação da empresa, para caracterizar o progresso obtido no
+
+uso das boas práticas. | Avaliação final das boas práticas.
+
+Nota:  Se  combinado  previamente,  podem  ser  entregues  exclusivamente  em  meio
+eletrônico.
+
+ENTREGAS ETAPA 03: Avaliação final das boas práticas, Manual de Autocontroles
+ou  Procedimentos  Operacionais  Padronizados  (POP)  e  Manual  de  Boas  Práticas,
+demais documentos da qualidade elaborados/revisados durante a consultoria. Lista
+de  assinaturas  referente  a  orientação  de  boas  práticas,  validados  pela  empresa
+demandante.
+
+10. Benefícios e resultados esperados
+
+Preparar empresas de micro e pequeno porte, micro empreendedores individuais e
+produtores rurais do segmento de alimentos e bebidas visando à obtenção de licença
+ou alvará sanitário junto ao órgão local de Vigilância Sanitária, Serviços  de Inspeção
+Municipal,  Estadual  ou  Federal  (alimentos  de  origem  animal),  Registro  (bebidas  e
+alguns alimentos fiscalizados pela ANVISA), ou para implantação de boas práticas de
+segurança  do  alimento  de  acordo  com  protocolos  específicos  de  certificações
+voluntárias de mercado.
+
+1.  Melhoria da qualidade e processos internos de produção de alimentos;
+2.  Incentivo à qualidade e à melhoria contínua;
+3.  Maior facilidade para expansão de mercados;
+4.  Empresa  apta  para  auditoria  referente  aos  requisitos  das  Boas  Práticas  de
+
+segurança do alimento.
+
+5.  Atendimento  às  exigências  das  entidades
+
+regulamentadoras  para
+
+comercialização de produtos do setor de alimentos e bebidas no Brasil.
+
+11. Estrutura e materiais necessários
+
+-
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13019-3
+
+Código da ficha técnica: 13019-1
+
+12. Responsabilidade da empresa demandante
+
+1.  Aprovar a proposta.
+2.  Participar  da  reunião  de  alinhamento  do  trabalho  e  das  demais  reuniões
+
+previamente marcadas, conforme cronograma aprovado.
+
+3.  Disponibilizar um responsável para acompanhamento de todo o serviço.
+4.  Fornecer as informações necessárias à empresa prestadora de serviço para
+
+o desenvolvimento do trabalho.
+
+5.  Obedecer  às  orientações  dadas  para  a  implantação  das  Boas  Práticas  na
+
+empresa.
+
+6.  Participar da reunião de entrega dos resultados.
+
+Nota: É obrigatório a empresa demandante responder as pesquisas do SEBRAE.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar  reunião  para  colher  informações  e  apresentar  os  detalhes  da
+
+execução do trabalho previsto.
+
+2.  Executar  as  ações  de  diagnóstico,  registrando  em  relatórios  a  situação
+
+observada.
+
+3.  Apresentar  ao  empresário  a  situação  encontrada,  incluindo  as  evidências
+
+recomendações para melhoria, junto com um Plano de Ações.
+
+4.  Entregar os documentos nas versões impressa e digital à empresa cliente e
+
+digital ao SEBRAE.
+
+5.  Cumprir todos os prazos e agendas estabelecidas.
+
+NOTA: obrigatoriedade da entidade executora
+Considerar no mínimo os aspectos e informações constantes nesta ficha técnica.
+
+14. Perfil desejado da prestadora de serviço
+
+Corpo  técnico  formado  por  profissionais  com  competência  técnica  comprovada  na
+prestação  de  serviços  de  consultoria  para  implantação  das  boas  práticas  na
+fabricação de alimentos e bebidas e nos serviços de alimentação, tendo como base
+a legislação vigente do Ministérios da Agricultura, Pecuária e Abastecimento (Mapa),
+Anvisa e órgãos locais  de Vigilância Sanitária. O quadro técnico da empresa deverá
+comprovar  a  existência  de  profissionais  nas  áreas  de  engenharia  de  alimentos,
+produção,  química  ou  agronômica;  nutrição;  biologia;  medicina  veterinária  ou
+tecnologia de alimentos.
+
+15. Pré-diagnóstico
+
+1.  Qual é a atividade ou área de atuação da empresa?
+2.  Quais são os produtos fabricados / manipulados / comercializados?
+3.  Qual é o porte da empresa (micro, pequena etc.)?
+4.  Quantas pessoas estão envolvidas no manuseio dos alimentos?
+5.  A empresa foi autuada por algum órgão fiscalizador?
+6.  A empresa já teve suas atividades produtivas suspensas?
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13019-3
+
+Código da ficha técnica: 13019-1
+
+7.  Tem  disponibilidade  para  se  dedicar  às  melhorias  e  qualificação  de  sua
+
+equipe?
+
+8.  A  empresa  tem  documentos  da  qualidade  (procedimentos,  instruções,
+
+registros, manual de boas práticas)?
+
+9.  A empresa já fez ações visando a implantação das Boas Práticas? Quais?
+10. A  empresa  tem  um  técnico  que  possa  replicar  o  treinamento  para  outros
+
+membros da equipe?
+
+11. Conhece os benefícios da implementação das Boas Práticas de Fabricação?
+12. Qual  é  o  principal  motivo  para  a  implantação  das  Boas  Práticas  de
+
+Fabricação?
+
+13. Interesse  em  aperfeiçoar  a  gestão  da  empresa  e  inovar  seus  produtos,
+
+processos e serviços, inclusive certificação de processos e produtos?
+
+14. Interesse em expandir seus negócios?
+15. Alguma capacidade de investimento?
+16. Regularização empresarial de acordo com seu enquadramento (ex. certidões
+
+e alvará em dia)?
+
+17. Designar um responsável para atender à executora e fornecer as informações
+
+necessárias ao trabalho.
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+01 entre a empresa demandante e a prestadora de serviço tecnológico.
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento.
+
+4.  Despesas  adicionais  com
+
+3.  Os valores dos honorários apresentados devem incluir todas as despesas com
+impostos  e  encargos  sociais,  conforme  legislação  tributária  em  vigor,  que
+possa incidir sobre o objeto da proposta;
+terceiros
+
+fotografias,
+hospedagem,  imagens,  registro  de  domínio,  revisões,  textos,  conteúdo
+dinâmico,  entre  outros)  ficam  a  cargo  exclusivo  do  cliente  e  devem  ser
+previamente autorizadas por ele durante a validação da proposta de trabalho;
+5.  É de responsabilidade do prestador de serviço todo o projeto, da concepção à
+
+(direitos  autorais,
+
+aprovação do cliente;
+
+6.  O prestador de serviço não pode ser responsabilizado por erros de terceiros
+
+contratados pelo cliente.
+
+6
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13019-3
+
+Código da ficha técnica: 13019-1
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+Responsável
+
+1
+
+2
+
+23/05/2019
+
+03/04/2020
+
+3
+
+01/01/2021
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/03/Boas-
+Práticas-para-Serviços-de-
+Alimentação-GQ13019-1.pdf
+https://datasebrae.com.br/wp-
+content/uploads/2020/12/Boas-
+Práticas-de-higiene-e-segurança-dos-
+alimentos-para-o-setor-de-alimentos-
+e-bebidas-GQ13019-2.pdf
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/12/Boas-
+Práticas-de-higiene-e-segurança-dos-
+alimentos-para-o-setor-de-alimentos-
+e-bebidas-GQ13019-3.pdf
+
+Coordenação
+Sebraetec
+
+Aline Aparecida
+Santos Pereira
+
+Arthur Guimaraes
+Carneiro
+
+Hulda Oliveira
+Giesbrecht
+
+Vanessa dos Santos
+Oliveira
+
+7
+
+Ficha Técnica – Sebraetec 4.0
+

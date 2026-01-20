@@ -1,0 +1,52 @@
+{
+  "id": "12013-2",
+  "nomeSolucao": "AUDITORIA PARA ACREDITAÇÃO ONA",
+  "tema": "Produção e Qualidade",
+  "subtema": "Certificação / Inspeção",
+  "tipoServico": "Avaliação da conformidade",
+  "modalidade": "Presencial",
+  "publicoAlvo": [
+    "Empresa"
+  ],
+  "setor": "Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realizar reunião de abertura junto à empresa demandante para definição das diretrizes de serviço, agendamento da auditoria e definição dos responsáveis pelo acompanhamento dos serviços por parte da empresa demandante e da prestadora de serviço O levantamento das seguintes informações é imprescindível nesta etapa • A Instituição Acreditadora envia um questionário preliminar (definido pela Instituição) à empresa e solicita os seguintes documentos ▪ Alvará de funcionamento da Organização Prestadora de Serviços de Saúde ▪ Licença sanitária ▪ Registro do responsável técnico no Conselho Regional de Medicina (CRM) • Acordo de datas para realização da(s) visita(s) de auditoria",
+      "entrega": "Documento contendo os prazos para recebimento dos documentos da empresa demandante, prazos para a análise documental, datas das visitas de auditoria, os responsáveis pela prestação do serviço, o escopo do serviço, o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela empresa demandante."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | AUDITORIAS",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realização das auditorias para avaliação da conformidade das organizações de saúde, serviços e programas da saúde, com base nas normas e no Manual Brasileiro de Acreditação.",
+      "entrega": "• Relatório de Avaliação (folha de Resumo da Avaliação e Parecer Final da Instituição Acreditadora), • Certificado de Acreditação, de acordo com o nível pleiteado e alcançado pela empresa, emitido no âmbito da Organização Nacional de Acreditação – ONA. • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou presencialmente à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
+  "perguntasDiagnostico": [],
+  "beneficiosResultadosEsperados": "Atestar a competência e a qualidade na prestação dos serviços de saúde, estimulando a melhoria da qualidade da assistência e conceder o certificado de Acreditação, classificando o estabelecimento/serviço em um dos três níveis ONA, conforme o cumprimento de padrões do Manual Brasileiro de Acreditação.",
+  "estruturaMateriais": "-",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n5. Avaliar o serviço prestado\n6. Adequar previamente ao serviço de certificação, os produtos, serviços, processos, documentos (e outros requisitos) às condições necessárias para obtenção da certificação, sendo a obtenção da certificação pretendida não garantida pelo Sebrae nem pela prestadora de serviço\n7. Declarar a veracidade de informações, de maneira responsável e transparente.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. Proporcionar o(s) devido(s) esclarecimento do(s) processo(s) de auditoria junto à empresa demandante, bem como: realizar o agendamento; realizar a prestação do serviço; comunicar o resultado; e emitir e entregar o certificado (em caso de atendimento aos requisitos).",
+  "perfilDesejadoPrestadora": "Organizações que se habilitem a avaliar as instituições de saúde seguindo os procedimentos e as metodologias definidas pela ONA - Organização Nacional de Acreditação, e selecionadas como Instituição Acreditadora Credenciada – IAC.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nEsse serviço não contempla as consultorias para a adequação do sistema de gestão da empresa demandante\nCaso haja não-conformidades identificadas, que inviabilizem a acreditação, a empresa demandante deve providenciar a adequação de seus processos e, oportunamente, apresentar ao Sebrae uma nova demanda de serviço para avaliação da conformidade com vistas à acreditação\nO período de validade da certificação é de até 3 anos. Durante esse período, é necessário realizar a manutenção da certificação de 1 em 1 ano\nÉ vedado à entidade executora (IAC) o exercício da atividade de consultoria Despesas adicionais com Os valores dos honorários apresentados pela prestadora de serviço devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo da empresa demandante e devem ser previamente autorizadas por ela durante a validação da proposta de trabalho; (direitos autorais, A prestadora de serviço não pode ser responsabilizada por erros de terceiros contratados pela empresa demandante cliente.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "25/07/2019",
+      "alteradoPor": "Eduardo Cardoso Garrido Coordenação Sebraetec"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "14/04/2020",
+      "alteradoPor": "Coordenação Sebraetec"
+    }
+  ]
+}

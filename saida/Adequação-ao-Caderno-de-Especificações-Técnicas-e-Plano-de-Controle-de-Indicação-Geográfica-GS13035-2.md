@@ -1,0 +1,319 @@
+Código da ficha técnica: 13035-2
+
+ADEQUAÇÃO  AO  CADERNO DE  ESPECIFICAÇÕES TÉCNICAS
+E PLANO DE CONTROLE DE INDICAÇÃO GEOGRÁFICA
+
+1.  Tema
+
+Produção e Qualidade
+
+2.  Subtema
+
+Gestão da Qualidade
+
+3.  Categoria de serviço
+
+Acesso a Serviços de Terceiros
+
+4.  Tipo de serviço / instrumento
+
+Consultoria Tecnológica / Acesso a Serviço Tecnológico
+
+5.  Modalidade
+
+Presencial
+
+6.  Público alvo
+
+MEI, ME, EPP, Produtor Rural e Artesão
+
+7.  Setor indicado
+
+Agronegócios, Indústria, Comércio e Serviços.
+
+8.  Macrossegmento
+
+-
+
+9.  Descrição
+
+ETAPA 01 | ALINHAMENTO DA PROPOSTA
+
+Realizar reunião de abertura junto à empresa demandante, para nivelamento sobre o
+escopo do trabalho, alinhamento sobre os requisitos do Caderno de Especificações
+Técnicas  e  Plano  de  Controle  da  Indicação  Geográfica  a  qual  a  empresa  está
+vinculada, validação do planejamento e do cronograma de execução dos serviços e
+
+1
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13035-2
+
+definição dos responsáveis pelo acompanhamento dos serviços por parte da empresa
+demandante.
+O Caderno de Especificações Técnicas é o documento elaborado pelos produtores
+ou  prestadores  de  serviço,  estabelecidos  no  local  ou  região,  que  descreve  as
+características  do  produto  ou  serviço,  a  forma  de  obtenção  do  produto  ou  da
+prestação de serviço e os mecanismos de controle, como condição do uso do nome
+geográfico reconhecido.
+O  Plano  de  Controle,  estabelecido  pelo  Conselho  Regulador  da  IG,  descreve  os
+procedimentos,  incluindo  os  agentes  e  recursos,  para  controlar  os  produtores  ou
+prestadores de serviço e produtos ou serviços, em obediência às normas contidas no
+Caderno de Especificações Técnicas.
+
+ENTREGA  ETAPA  01:  Documento  contendo  os  responsáveis  pela  prestação  do
+serviço,  o  escopo  do  serviço,  o  cronograma  das  atividades  e  outros  aspectos
+acordados entre as partes, assinado pela empresa demandante.
+
+ETAPA 02 | DIAGNÓSTICO
+
+Visita à demandante para avaliação das condições de produção/prestação de serviço
+e  do  produto/serviço  em  relação  aos  requisitos  do  Caderno  de  Especificações
+Técnicas e do Plano de Controle da Indicação Geográfica. Informações possíveis de
+serem levantadas na empresa demandante e analisadas, observada a especificidade
+de cada caso:
+
+•
+localização geográfica da produção, conforme demarcação da área da IG;
+•  produto  -  características  físicas,  químicas,  organolépticas,  microbiológicas,
+matéria-prima  utilizada  e  demais  detalhes  e  informações  que  imprimem
+diferencial ao produto da IG;
+
+•  produção  agrícola:  sistema  de  manejo,  processos  específicos  de  plantio,
+condução e colheita, pós-colheita, variedade autorizadas, limites de produção
+por hectare, etc.
+
+•  produção pecuária: manejo do rebanho, alimentação, raças permitidas, forma
+
+de produção e acondicionamento, tempo de maturação, etc.
+
+•  artesanatos  ou  manufaturados,  podem  ser  detalhados,  como  exemplo,  a
+
+matéria-prima a ser utilizada, os modelos de produtos, etc;
+
+•  prestação de serviços: pode incluir as etapas do processo, do método ou do
+
+desempenho da atividade, incluindo as matérias-primas, se for o caso.
+
+ENTREGA ETAPA 02: Relatório contendo a descrição do produto e da sua forma de
+produção ou prestação de serviço e o resultado da análise do atendimento dessas
+condições  aos  requisitos  do  Caderno  de  Especificações  Técnicas  e  do  Plano  de
+Controle da IG.
+Plano  de  ação  e  cronograma  do  desenvolvimento  das  ações  necessárias  para
+adequação do processo produtivo e do produto ou prestação de serviços ao Caderno
+de Especificações Técnicas e ao Plano de Controle da IG.
+
+ETAPA 03 | CONSULTORIA
+
+Com  base  no  resultado  do  diagnóstico  (Etapa  02),  realizar  consultoria  para
+fornecimento  de  informações  técnicas  à  empresa  demandante  para  adequação  do
+
+2
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13035-2
+
+seu  processo  produtivo  ou  prestação  de  serviços  conforme  Caderno  de
+Especificações  Técnicas  da  IG  e  orientação  sobre  implementação  do  Plano  de
+Controle. Monitoramento e acompanhamento da implantação das medidas propostas
+no plano de ação.
+
+ENTREGA  ETAPA  03:  Relatório  final  com  descrição  das  atividades  executadas,
+resultados obtidos (inclusive com registros fotográficos), recomendações, conclusões
+e, se for o caso, as não conformidades ainda identificadas em relação ao Caderno de
+Especificações  Técnicas  e  ao  Plano  de  Controle  da  IG,  orientando  a  empresa  na
+implementação das ações necessárias, assinado pela empresa demandante.
+
+10. Benefícios e resultados esperados
+
+As  indicações  Geográficas  e  sua  proteção  estão  previstas  na  Lei  de  Propriedade
+Industrial – Lei nº 9.279, de 14 de maio de 1996. As condições para o registro são
+estabelecidas  pelo  Instituto  Nacional  da  Propriedade  Industrial  (INPI),  por  meio  da
+Instrução Normativa INPI nº 95/2018, de 28 de dezembro.
+A  Indicação  Geográfica  (IG)  é  um  nome  geográfico  que  identifica  um  produto  ou
+serviço  como  originário  de  uma  área  geográfica  delimitada  quando  determinada
+qualidade, reputação ou outra característica é essencialmente atribuída a essa origem
+geográfica. A Indicação Geográfica no Brasil se divide em duas espécies:
+
+•
+
+INDICAÇÃO DE PROCEDÊNCIA (IP)
+
+É o nome geográfico de localidade ou região que se tenha tornado conhecido como
+centro de extração, produção ou fabricação de determinado produto ou de prestação
+de determinado serviço.
+
+•  DENOMINAÇÃO DE ORIGEM (DO)
+
+É  o  nome  geográfico  de  país,  cidade,  região  ou  localidade  de  seu  território,  que
+designe produto ou serviço cujas qualidades ou características se devam exclusiva
+ou essencialmente ao meio geográfico, incluídos fatores naturais e humanos.
+
+Benefícios e resultados esperados para os produtores/empresas que usam a IG:
+
+•  apresentar um produto/serviço diferenciado ao mercado;
+•  melhorar a qualidade do produto/serviço da empresa;
+•  acessar mercados de nicho;
+•  estar  inserido  numa  ação  coletiva  de  preservação  dos  ativos  intangíveis  da
+
+região;
+
+•  estar  inserido  numa  ação  coletiva  de  promoção  dos  produtos/serviços
+
+diferenciados da região;
+
+•  estar apto a utilizar o selo da IG.
+
+11. Estrutura e materiais necessários
+
+É necessário que a Indicação Geográfica esteja registrada no Instituto Nacional da
+Propriedade  Industrial  (INPI).  Consultar  Indicações  Geográficas  registradas  em:
+http://www.inpi.gov.br/menu-servicos/indicacao-geografica/pedidos-de-indicacao-
+geografica-no-brasil
+
+3
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13035-2
+
+12. Responsabilidade da empresa demandante
+•  Disponibilizar  para  a  prestadora  de  serviço  o  Caderno  de  Especificações
+
+Técnicas e o Plano de Controle da Indicação Geográfica.
+
+•  Participar  da  reunião  de  alinhamento  do  trabalho  e  demais  reuniões
+
+previamente marcadas conforme cronograma;
+
+•  Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas
+
+da prestadora de serviço.
+
+•  Aprovar a proposta do Sebrae, valores e condições de pagamento.
+•  Disponibilizar agenda prévia para visitas, reuniões, capacitações e atividades
+
+propostas pela prestadora de serviço.
+
+•  Acompanhar a prestadora de serviço quando em visita aos espaços físicos da
+
+propriedade/empresa;
+
+•  5. Disponibilizar um responsável para acompanhar a prestadora de serviço em
+
+toda a execução do trabalho previsto.
+
+•  Fornecer as informações técnicas necessárias sobre os processos, produtos
+
+ou serviços executados para o desenvolvimento do trabalho;
+
+•  Comprometer-se com a execução das orientações e melhorias propostas na
+
+consultoria.
+
+•  Avaliar o serviço prestado. Responder a pesquisa realizada pelo Sebrae
+•  Reportar ao Sebrae qualquer problema encontrado durante o atendimento.
+
+13. Responsabilidade da prestadora de serviço
+
+1.  Realizar reunião de alinhamento e apresentação das atividades previstas na
+
+proposta.
+
+2.  Analisar a demanda e as informações fornecidas pela empresa.
+3.  Elaborar proposta, escopo de trabalho, cronograma das etapas do trabalho,
+agendas  de  reuniões  e  demais  atividades,  sendo  necessário  validar  com  a
+empresa demandante.
+
+4.  Fornecer  as  entregas  previstas,  validadas  pela  empresa  demandante,  ao
+
+Sebrae
+
+5.  Cumprir com as obrigações previstas no Regulamento do Sebraetec.
+
+14. Perfil desejado da prestadora de serviço
+
+Experiência e conhecimento no segmento específico do produto/serviço da Indicação
+Geográfica; em gestão da qualidade e no controle e gestão de Indicações Geográficas
+
+15. Pré-diagnóstico
+
+-
+
+16. Observações
+
+1.  Na  impossibilidade  desta  ficha  técnica  ser  aplicada  presencialmente,  ela
+poderá  ser  aplicada  de  forma  remota  (ferramentas  de  videoconferência,
+
+4
+
+Ficha Técnica – Sebraetec 4.0
+
+Código da ficha técnica: 13035-2
+
+ligações telefônicas, aplicativos de mensagens e/ou e-mails).  No momento da
+contratação  a  empresa  demandante  deverá  ser  comunicada  que  parte  do
+serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota.
+Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa
+01 entre a empresa demandante e a prestadora de serviço tecnológico;
+
+2.  Na impossibilidade de as entregas serem assinadas fisicamente pela empresa
+demandante,  elas  poderão  ser  validadas  via  assinatura  digital,  aceite
+eletrônico  ou  e-mail,  em  que  a  empresa  demandante  deverá  manifestar  o
+aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá
+incluir  o  comprovante  de  validação  da  empresa  demandante  nas  entregas
+para o registro do atendimento;
+
+3.  Os  itens  analisados  no  diagnóstico  e  as  atividades  de  consultoria  para
+adequação dos produtos/serviços e processos de produção são estabelecidos
+conforme  o  Caderno  de  Especificações  Técnicas  e  o  Plano  de  Controle  da
+Indicação  Geográfica.  O  serviço  não  contempla  a  criação,  revisão  ou
+adequação do Caderno de Especificações Técnicas e Plano de Controle da
+IG.
+
+HISTÓRICO DE ALTERAÇÕES
+
+Versão
+
+Data
+
+Link
+
+1
+
+19/07/2019
+
+2
+
+15/04/2020
+
+https://datasebrae.com.br/wp-
+content/uploads/2019/07/Adequação-
+ao-Caderno-de-Especificações-
+Técnicas-e-Plano-de-Controle-de-
+Indicação-Geográfica-GS13035-1.pdf
+
+https://datasebrae.com.br/wp-
+content/uploads/2020/04/Adequação-
+ao-Caderno-de-Especificações-
+Técnicas-e-Plano-de-Controle-de-
+Indicação-Geográfica-GS13035-2.pdf
+
+Responsável
+
+Amanda Emanuele
+Garcia de Oliveira
+Eduardo Cardoso
+Garrido
+Hulda Oliveira
+Giesbrecht
+
+Coordenação
+Sebraetec
+
+5
+
+Ficha Técnica – Sebraetec 4.0
+

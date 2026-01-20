@@ -1,0 +1,132 @@
+{
+  "id": "33002-3",
+  "nomeSolucao": "REDUÇÃO DE DESPERDÍCIO NOS PEQUENOS NEGÓCIOS",
+  "tema": "Sustentabilidade",
+  "subtema": "Gestão da Sustentabilidade",
+  "tipoServico": "Consultoria tecnológica",
+  "modalidade": "Híbrido",
+  "publicoAlvo": [
+    "Empresa",
+    "Produtor Rural"
+  ],
+  "setor": "Agronegócio, Comércio, Indústria e Serviços",
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA E IMERSÃO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com a agenda de visitas e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico Identificação dos segmentos empresariais • Classificar o porte da empresa por faturamento e número de empregados.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante. Descrição das características do empreendimento e documentação obtida."
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "O Diagnóstico é o levantamento de todos os processos envolvidos na fabricação dos produtos ou na realização dos serviços pela empresa • Realizar visita a todos os setores produtivos da empresa, desde o local onde é feito o recebimento de insumos (matérias primas etc) até o despacho do produto ou de entrega do serviço • Obter as tabelas de custo de água e de energia elétrica na região da empresa analisada Identificação dos Processos Identificação das entradas (insumos, matérias primas, energia elétrica e água) Identificação das saídas (água servida, esgoto gerado, resíduos, emissões)",
+      "entrega": "Relatório contendo: ata da reunião com o cliente, termo de ateste das visitas, resultados do diagnóstico; situação verificada na empresa (com registros fotográficos, caso necessário); avaliação de como se encontra a empresa, seus maiores problemas com desperdícios e como eles poderão ser minimizados ou mesmo eliminados."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 03 | IMPLEMENTAÇÃO",
+      "ordem": 3,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "A implementação é destinada às medições de um foco de desperdício, que irá gerar um estudo de caso. Definido o foco de redução de desperdício, deve ser planejada a logística para realização das medições necessárias para identificar a quantidade exata do desperdício diagnosticado. Nessa etapa é necessário • Quantificação do desperdício • Elaboração de um plano de ação, cuja implementação visa mitigar ou eliminar o desperdício medido, que será objeto do relatório parcial • Comprovar a efetividade das ações implementadas por meio de visitas para apuração dos dados apresentados e correção, quando necessário • Quantificar os ganhos ambientais e econômicos obtidos após a implementação do plano de ação",
+      "entrega": "Relatório parcial Fase de Implementação contendo a tabulação dos dados medidos, com as ações de redução de desperdício a serem implantadas validadas previamente pelo empresário;"
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | FINALIZAÇÃO E ENTREGA",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Consultor elabora o Relatório Final e visita a empresa para apresentar a devolutiva Fase II (Entrega do Relatório Final) e fechar a consultoria recolhendo assinatura de aceite do empresário |Relatório Final Fase II e Termo de Conclusão da consultoria.",
+      "entrega": "Relatório final contendo a apresentação dos resultados alcançados, com o cenário antes e depois das ações de redução de desperdício que foram implantadas e recomendações finais sobre o que foi constatado; Termo de Conclusão padrão Sebraetec."
+    }
+  ],
+  "perguntasDiagnostico": [
+    {
+      "id": "1",
+      "pergunta": "A empresa é nova?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "2",
+      "pergunta": "Qual a quantidade de colaboradores em cada setor?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "3",
+      "pergunta": "Tem filiais?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "4",
+      "pergunta": "Observa desperdício de insumos e matéria prima durante os serviços ou produção?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "5",
+      "pergunta": "Existe algum procedimento relacionado ao gerenciamento de resíduos e rejeitos?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "6",
+      "pergunta": "A empresa tem alvará de funcionamento sanitário válido?",
+      "tipo": "sim_nao",
+      "obrigatoria": true
+    },
+    {
+      "id": "7",
+      "pergunta": "A empresa dispõe de caldeira ou outro tipo de equipamento que emite gases como autoclave?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "8",
+      "pergunta": "A empresa descarta rejeitos químicos junto com o lixo comum?",
+      "tipo": "texto",
+      "obrigatoria": true
+    },
+    {
+      "id": "9",
+      "pergunta": "Existe registro que especifique quantidade e qualidade dos produtos químicos utilizados nos serviços ou produção? ",
+      "tipo": "texto",
+      "obrigatoria": true
+    }
+  ],
+  "beneficiosResultadosEsperados": "• Ampliação do conhecimento do empresário sobre o ciclo produtivo da sua empresa, seus pontos ou fases sensíveis, frágeis ou desnecessários; • Verificação e validação do sucesso de iniciativas próprias, eventualmente já implementadas pelo empresário, para a redução de desperdícios; • Diminuição dos gastos com insumos diretos (matérias-primas, recursos humanos) e indiretos (energia, água, transportes, etc), caso sejam detectados desperdícios e adotadas as formas de contê-los/eliminá-los; • Melhoria da capacidade produtiva das MPEs promovida pela redução de desperdícios: menores custos, maior produção; • Ampliação da lucratividade/rentabilidade do negócio com a diminuição de custos de produção e a redução/eliminação de despesas por meio de controle e/ou recuperação ambiental; • Aumento da capacidade de competição das micro e pequenas empresas pela manutenção do seu espaço no mercado ou na conquista de novos.",
+  "estruturaMateriais": "No caso de empresas do segmento da beleza é indicado o uso de ferramentas para diagnóstico métrico dos fios que auxiliem na determinação da quantidade de insumos usados na prestação do serviço.",
+  "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta\n2. Participar da reunião de alinhamento do trabalho e das demais reuniões previamente marcadas, conforme cronograma aprovado\n3. Disponibilizar um funcionário, que será responsável por implementar as orientações definidas pelo consultor, realizar as medições e registrá-las em ferramentas disponibilizadas pelo consultor e disponibilizar os dados para o consultor (via e-mail ou cópia física)\n4. Definir o estudo de caso, em conjunto com o consultor, e atestar a escolha do mesmo através de Documento Específico para tal\n5. Intervir junto à sua equipe, se necessário, para apoio na implementação das orientações feitas pelo consultor\n6. Fornecer informações estratégicas e técnicas necessárias à entidade executora para o desenvolvimento do trabalho\n7. Acompanhar a entidade executora em visita(s) técnica(s) aos espaços físicos, quando necessário.",
+  "responsabilidadePrestadora": "1. Realizar reunião presencial para coleta de dados, registros fotográficos e apresentação do trabalho\n2. Apresentar, presencialmente, os Relatórios (Fase I, Parcial Fase II e Final Fase II) para o empresário ou responsável\n3. Disponibilizar os Relatórios Fase I e Final Fase II impressos para o empresário\n4. Definir o estudo de caso, em conjunto com o empresário ou responsável\n5. Definir a logística e o método de medição mais adequado para ser operado na empresa, levando em consideração as condições de reprodução da medição pelo empresário\n6. Treinar a equipe da empresa, que fará as medições e anotará os resultados\n7. Tirar dúvidas por e-mail, telefone ou presencialmente\n8. Para as medições responsabilidade do consultor a posse/aquisição/locação dos equipamentos necessários, sem que haja alteração do valor contratado\niniciais é de 9. Recolher as assinaturas do empresário na Definição do Estudo de Caso e na entrega do Relatório da Fase II\n10. Disponibilizar todos os Documentos em meio digital para o Sebrae\n11. Cumprir todos os prazos e agendas estabelecidas\n12. Cumprir as obrigações previstas no Regulamento Sebraetec.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissional com nível superior com especialização em gestão ambiental, engenharia de produção, logística, alimentos, qualidade, produção mais limpa, administração da produção.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente\nAs medições devem ser realizadas antes e após a implementação das ações, para que se possam relatar precisamente os benefícios obtidos com auxílio da consultoria.",
+  "historicoAlteracoes": [
+    {
+      "versao": 1,
+      "dataAlteracao": "10/04/2019",
+      "alteradoPor": "Danisson Luiz dos"
+    },
+    {
+      "versao": 2,
+      "dataAlteracao": "16/09/2019",
+      "alteradoPor": "Santos Reis"
+    },
+    {
+      "versao": 3,
+      "dataAlteracao": "03/04/2020",
+      "alteradoPor": "Michelli Trigueiro"
+    }
+  ],
+  "codigo": "371440100426"
+}
