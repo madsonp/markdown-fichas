@@ -6,41 +6,50 @@ Verifica se todos os campos obrigatórios foram extraídos corretamente
 import json
 from pathlib import Path
 from collections import defaultdict
+from typing import List, Dict, Optional
+
+try:
+    from config import SAIDA_JSON_DIR, CAMPOS_OBRIGATORIOS, CAMPOS_IMPORTANTES
+    from logger_config import setup_logger, log_exception
+    logger = setup_logger(__name__)
+    USE_NEW_INFRA = True
+except ImportError:
+    SAIDA_JSON_DIR = Path("saida/json")
+    CAMPOS_OBRIGATORIOS = ['id', 'nomeSolucao', 'tema', 'subtema', 'tipoServico', 'modalidade', 'publicoAlvo']
+    CAMPOS_IMPORTANTES = ['beneficiosResultadosEsperados', 'responsabilidadeEmpresaDemandante', 
+                         'responsabilidadePrestadora', 'perfilDesejadoPrestadora', 'etapas']
+    USE_NEW_INFRA = False
+
 
 class ValidadorFichasTecnicas:
     """Valida a integridade dos dados extraídos das fichas técnicas"""
     
-    # Campos obrigatórios que devem estar presentes
-    CAMPOS_OBRIGATORIOS = [
-        'id',
-        'nomeSolucao',
-        'tema',
-        'subtema',
-        'tipoServico',
-        'modalidade',
-        'publicoAlvo'
-    ]
+    # Campos obrigatórios e importantes (importados de config)
+    CAMPOS_OBRIGATORIOS = CAMPOS_OBRIGATORIOS
+    CAMPOS_IMPORTANTES = CAMPOS_IMPORTANTES
     
-    # Campos importantes que devem ter conteúdo
-    CAMPOS_IMPORTANTES = [
-        'beneficiosResultadosEsperados',
-        'responsabilidadeEmpresaDemandante',
-        'responsabilidadePrestadora',
-        'perfilDesejadoPrestadora',
-        'etapas'
-    ]
-    
-    def __init__(self, dir_json="saida/json"):
-        self.dir_json = Path(dir_json)
+    def __init__(self, dir_json: Optional[str] = None):
+        self.dir_json = Path(dir_json) if dir_json else SAIDA_JSON_DIR
         self.resultados = {
             'total': 0,
             'validos': 0,
             'com_problemas': 0,
             'problemas': defaultdict(list)
         }
+        
+        if USE_NEW_INFRA:
+            logger.info(f"Validador inicializado - Diretório: {self.dir_json}")
     
-    def validar_arquivo(self, arquivo_json):
-        """Valida um arquivo JSON individual"""
+    def validar_arquivo(self, arquivo_json: Path) -> List[str]:
+        """
+        Valida um arquivo JSON individual
+        
+        Args:
+            arquivo_json: Path do arquivo JSON a validar
+            
+        Returns:
+            Lista de problemas encontrados (vazia se válido)
+        """
         problemas = []
         
         try:
@@ -73,12 +82,24 @@ class ValidadorFichasTecnicas:
             return problemas
             
         except json.JSONDecodeError as e:
+            if USE_NEW_INFRA:
+                log_exception(logger, e, f"decodificar {arquivo_json.name}")
             return [f"❌ Erro ao ler JSON: {str(e)[:100]}"]
         except Exception as e:
+            if USE_NEW_INFRA:
+                log_exception(logger, e, f"validar {arquivo_json.name}")
             return [f"❌ Erro inesperado: {str(e)[:100]}"]
     
-    def validar_todos(self, mostrar_detalhes=False):
-        """Valida todos os arquivos JSON do diretório"""
+    def validar_todos(self, mostrar_detalhes: bool = False) -> List[Dict]:
+        """
+        Valida todos os arquivos JSON do diretório
+        
+        Args:
+            mostrar_detalhes: Se deve mostrar detalhes durante validação
+            
+        Returns:
+            Lista de arquivos com problemas
+        """
         print("="*80)
         print("🔍 VALIDADOR DE INTEGRIDADE - FICHAS TÉCNICAS SEBRAETEC")
         print("="*80)
@@ -86,11 +107,17 @@ class ValidadorFichasTecnicas:
         print()
         
         # Listar todos os JSONs
-        arquivos_json = sorted(list(self.dir_json.glob("*.json")))
+        try:
+            arquivos_json = sorted(list(self.dir_json.glob("*.json")))
+        except Exception as e:
+            if USE_NEW_INFRA:
+                log_exception(logger, e, "listar JSONs")
+            print(f"❌ Erro ao listar arquivos: {e}")
+            return []
         
         if not arquivos_json:
             print("❌ Nenhum arquivo JSON encontrado!")
-            return
+            return []
         
         print(f"📋 Total de arquivos JSON: {len(arquivos_json)}")
         print()

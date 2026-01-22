@@ -6,12 +6,17 @@ Identifica e rankeia fichas com baixa qualidade de extração
 import json
 from pathlib import Path
 from collections import defaultdict
+from typing import List, Dict, Any, Optional
 
-class AnalisadorQualidade:
-    """Analisa a qualidade da extração de dados das fichas técnicas"""
-    
-    # Pesos para cálculo de score de qualidade
-    PESOS = {
+try:
+    from config import SAIDA_JSON_DIR, PESOS_QUALIDADE, CAMPOS_OBRIGATORIOS, SCORE_MINIMO_QUALIDADE
+    from logger_config import setup_logger, log_exception
+    logger = setup_logger(__name__)
+    USE_NEW_INFRA = True
+except ImportError:
+    # Fallback para compatibilidade
+    SAIDA_JSON_DIR = Path("saida/json")
+    PESOS_QUALIDADE = {
         'campo_obrigatorio_presente': 10,
         'campo_obrigatorio_preenchido': 5,
         'campo_importante_preenchido': 3,
@@ -20,20 +25,31 @@ class AnalisadorQualidade:
         'descricao_presente': 3,
         'responsabilidades_presentes': 2
     }
+    CAMPOS_OBRIGATORIOS = ['id', 'nomeSolucao', 'tema', 'subtema', 'tipoServico', 'modalidade', 'publicoAlvo']
+    SCORE_MINIMO_QUALIDADE = 70
+    USE_NEW_INFRA = False
+
+
+class AnalisadorQualidade:
+    """Analisa a qualidade da extração de dados das fichas técnicas"""
     
-    def __init__(self, dir_json="saida/json"):
-        self.dir_json = Path(dir_json)
-        self.resultados = []
+    # Pesos para cálculo de score de qualidade
+    PESOS = PESOS_QUALIDADE
     
-    def calcular_score_qualidade(self, dados, nome_arquivo):
+    def __init__(self, dir_json: Optional[str] = None):
+        self.dir_json = Path(dir_json) if dir_json else SAIDA_JSON_DIR
+        self.resultados: List[Dict[str, Any]] = []
+        if USE_NEW_INFRA:
+            logger.info(f"Analisador inicializado - Diretório: {self.dir_json}")
+    
+    def calcular_score_qualidade(self, dados: Dict[str, Any], nome_arquivo: str) -> Dict[str, Any]:
         """Calcula um score de qualidade (0-100) para um arquivo JSON"""
         score = 0
         max_score = 0
         problemas = []
         
         # Campos obrigatórios
-        campos_obrigatorios = ['id', 'nomeSolucao', 'tema', 'subtema', 'tipoServico', 'modalidade', 'publicoAlvo']
-        for campo in campos_obrigatorios:
+        for campo in CAMPOS_OBRIGATORIOS:
             max_score += self.PESOS['campo_obrigatorio_presente']
             if campo in dados:
                 score += self.PESOS['campo_obrigatorio_presente']
@@ -110,17 +126,25 @@ class AnalisadorQualidade:
             }
         }
     
-    def analisar_todos(self, limite_baixa_qualidade=70):
+    def analisar_todos(self, limite_baixa_qualidade: Optional[float] = None) -> List[Dict[str, Any]]:
         """Analisa todos os arquivos JSON e identifica os de baixa qualidade"""
+        limite = limite_baixa_qualidade or SCORE_MINIMO_QUALIDADE
+        
         print("="*80)
         print("🔍 ANALISADOR DE QUALIDADE DO SCRAPPING")
         print("="*80)
         print(f"📂 Diretório: {self.dir_json.absolute()}")
-        print(f"⚠️  Considerando baixa qualidade: score < {limite_baixa_qualidade}%")
+        print(f"⚠️  Considerando baixa qualidade: score < {limite}%")
         print()
         
         # Listar todos os JSONs
-        arquivos_json = sorted(list(self.dir_json.glob("*.json")))
+        try:
+            arquivos_json = sorted(list(self.dir_json.glob("*.json")))
+        except Exception as e:
+            if USE_NEW_INFRA:
+                log_exception(logger, e, "listar arquivos JSON")
+            print(f"❌ Erro ao listar arquivos: {e}")
+            return []
         
         if not arquivos_json:
             print("❌ Nenhum arquivo JSON encontrado!")
@@ -138,7 +162,18 @@ class AnalisadorQualidade:
                 resultado = self.calcular_score_qualidade(dados, arquivo.name)
                 self.resultados.append(resultado)
                 
+            except json.JSONDecodeError as e:
+                if USE_NEW_INFRA:
+                    log_exception(logger, e, f"decodificar JSON {arquivo.name}")
+                self.resultados.append({
+                    'arquivo': arquivo.name,
+                    'score': 0,
+                    'problemas': [f"Erro JSON: {str(e)[:100]}"],
+                    'detalhes': {}
+                })
             except Exception as e:
+                if USE_NEW_INFRA:
+                    log_exception(logger, e, f"processar {arquivo.name}")
                 self.resultados.append({
                     'arquivo': arquivo.name,
                     'score': 0,
@@ -150,14 +185,14 @@ class AnalisadorQualidade:
         self.resultados.sort(key=lambda x: x['score'])
         
         # Filtrar baixa qualidade
-        baixa_qualidade = [r for r in self.resultados if r['score'] < limite_baixa_qualidade]
+        baixa_qualidade = [r for r in self.resultados if r['score'] < limite]
         
         # Estatísticas
         print("="*80)
         print("📊 ESTATÍSTICAS GERAIS")
         print("="*80)
         print(f"Total de arquivos: {len(self.resultados)}")
-        print(f"Arquivos com baixa qualidade (< {limite_baixa_qualidade}%): {len(baixa_qualidade)}")
+        print(f"Arquivos com baixa qualidade (< {limite}%): {len(baixa_qualidade)}")
         
         if self.resultados:
             scores = [r['score'] for r in self.resultados]

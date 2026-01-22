@@ -1,7 +1,257 @@
 import re
 import json
 from pathlib import Path
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional, Callable, Pattern, Tuple
+from dataclasses import dataclass
+
+# Importar infraestrutura
+try:
+    from logger_config import setup_logger
+    from config import CAMPOS_OBRIGATORIOS
+    USE_NEW_INFRA = True
+except ImportError:
+    USE_NEW_INFRA = False
+    def setup_logger(name):
+        import logging
+        return logging.getLogger(name)
+
+
+@dataclass
+class RegexPatterns:
+    """Padrões regex compilados para melhor performance"""
+    
+    # Padrões de sujeira
+    uso_interno: Pattern = re.compile(r'^Uso Interno$')
+    codigo_ficha: Pattern = re.compile(r'^Código da ficha técnica:')
+    historico: Pattern = re.compile(r'^HISTÓRICO DE ALTERAÇÕES')
+    link: Pattern = re.compile(r'^Link$')
+    responsavel: Pattern = re.compile(r'^Responsável$')
+    coordenacao: Pattern = re.compile(r'^Coordenação')
+    sebraetec: Pattern = re.compile(r'^Sebraetec$')
+    rodape_numero: Pattern = re.compile(r'\d+\s+Ficha Técnica.*Sebraetec.*Código da ficha técnica:')
+    rodape_sem_numero: Pattern = re.compile(r'^Ficha Técnica\s*[\–\-]\s*Sebraetec')
+    numero_isolado: Pattern = re.compile(r'^\d+\s*$')
+    confidencial: Pattern = re.compile(r'^Confidencial\s*$')
+    
+    # Padrões de estrutura
+    secao_numerada: Pattern = re.compile(r'^(\d+)\.\s+')
+    lista_item: Pattern = re.compile(r'^[●○•\d+\-A-Z]\.|^[●○•]\s+')
+    etapa_titulo: Pattern = re.compile(r'^ETAPA\s+(\d+)\s*[\|:]?\s*(.+)$', re.IGNORECASE)
+    entrega_etapa: Pattern = re.compile(r'^ENTREGAS?\s+ETAPA\s+\d+:', re.IGNORECASE)
+    pergunta_numerada: Pattern = re.compile(r'^(\d+)\.\s+(.+)$')
+    
+    # Padrões de dados
+    codigo_ficha_extractor: Pattern = re.compile(r'Código da ficha técnica:\s*([\d\w-]+)')
+    bullet_campo: Pattern = re.compile(r'•\s*{campo}\s*:\s*(.+)', re.IGNORECASE)
+    data_padrao: Pattern = re.compile(r'^\d{2}/\d{2}/\d{4}$')
+    
+    # Padrões de limpeza
+    rodape_inline: Pattern = re.compile(r'\d+\s+Ficha Técnica\s*[\–\-]\s*Sebraetec\s+\d+\.\d+(\s+Código da ficha técnica:\s+\d+-\d+)?')
+    espacos_multiplos: Pattern = re.compile(r'  +')
+    bullets_duplicados: Pattern = re.compile(r'•(\s*•)+')
+    quebra_apos_pontuacao: Pattern = re.compile(r'([.!?;:])\n')
+    
+    def __post_init__(self):
+        """Inicializa padrões que precisam de parâmetros"""
+        self._bullet_campo_cache = {}
+    
+    def bullet_campo_pattern(self, campo: str) -> Pattern:
+        """Retorna padrão compilado para campo bullet específico (com cache)"""
+        if campo not in self._bullet_campo_cache:
+            self._bullet_campo_cache[campo] = re.compile(
+                rf'•\s*{re.escape(campo)}\s*:\s*(.+)', 
+                re.IGNORECASE
+            )
+        return self._bullet_campo_cache[campo]
+
+
+class EtapaExtractor:
+    """Extrator especializado para etapas"""
+    
+    def __init__(self, patterns: RegexPatterns, logger):
+        self.patterns = patterns
+        self.logger = logger
+    
+    def extrair_titulo_completo(self, linhas: List[str], indice: int, numero_str: str, titulo_base: str) -> Tuple[str, int]:
+        """
+        Extrai título completo da etapa (pode estar em múltiplas linhas)
+        
+        Returns:
+            Tuple[título completo, novo índice]
+        """
+        i = indice
+        while i < len(linhas):
+            linha_seguinte = linhas[i].strip()
+            # Se não é linha vazia, não começa com item de lista, não é ENTREGA, nem é outra etapa
+            if (linha_seguinte and 
+                not self.patterns.lista_item.match(linha_seguinte) and
+                not self.patterns.entrega_etapa.match(linha_seguinte) and
+                not self.patterns.etapa_titulo.match(linha_seguinte) and
+                not self.patterns.secao_numerada.match(linha_seguinte) and
+                not re.match(r'^Com\s+base|^Realizar', linha_seguinte)):
+                # É continuação do título
+                titulo_base += " " + linha_seguinte
+                i += 1
+            else:
+                break
+        
+        titulo = f"ETAPA {numero_str} | {titulo_base}"
+        return titulo, i
+    
+    def extrair_descricao(self, linhas: List[str], indice: int) -> Tuple[str, int]:
+        """
+        Extrai descrição da etapa até encontrar ENTREGA
+        
+        Returns:
+            Tuple[descrição, novo índice]
+        """
+        descricao_linhas = []
+        i = indice
+        
+        while i < len(linhas):
+            linha_atual = linhas[i].strip()
+            
+            # Parar quando encontrar a entrega
+            if self.patterns.entrega_etapa.match(linha_atual):
+                break
+            
+            # Ignorar linhas vazias no início
+            if linha_atual or descricao_linhas:
+                descricao_linhas.append(linha_atual)
+            
+            i += 1
+        
+        # Remover linhas vazias do final
+        while descricao_linhas and not descricao_linhas[-1]:
+            descricao_linhas.pop()
+        
+        descricao = "\n".join(descricao_linhas).strip()
+        return descricao, i
+    
+    def extrair_entrega(self, linhas: List[str], indice: int, eh_sujeira_func: Callable) -> Tuple[str, int]:
+        """
+        Extrai entrega/deliverable da etapa
+        
+        Returns:
+            Tuple[entrega, novo índice]
+        """
+        i = indice
+        entrega = ""
+        
+        if i >= len(linhas):
+            return entrega, i
+        
+        linha_entrega = linhas[i].strip()
+        if not self.patterns.entrega_etapa.match(linha_entrega):
+            return entrega, i
+        
+        # Extrair o texto após o ":"
+        match_entrega = re.match(r'^ENTREGAS?\s+ETAPA\s+\d+:\s*(.+)', linha_entrega, re.IGNORECASE)
+        if match_entrega:
+            entrega = match_entrega.group(1).strip()
+        
+        # Coletar linhas seguintes até encontrar próxima etapa ou seção
+        i += 1
+        while i < len(linhas):
+            linha_proxima = linhas[i].strip()
+            
+            # Parar quando encontrar próxima etapa ou seção numerada
+            if (self.patterns.etapa_titulo.match(linha_proxima) or
+                re.match(r'^\d+\.\s+(?!Uso Interno|Código)', linha_proxima)):
+                break
+            
+            # Ignorar linhas de sujeira mas continuar coletando
+            if linha_proxima and not eh_sujeira_func(linha_proxima):
+                if entrega:
+                    entrega += " " + linha_proxima
+                else:
+                    entrega = linha_proxima
+            
+            i += 1
+        
+        return entrega.strip(), i
+
+
+class HistoricoExtractor:
+    """Extrator especializado para histórico de alterações"""
+    
+    def __init__(self, patterns: RegexPatterns, logger):
+        self.patterns = patterns
+        self.logger = logger
+    
+    def coletar_versoes(self, linhas: List[str]) -> List[int]:
+        """Coleta números de versão"""
+        versoes = []
+        for linha in linhas:
+            linha_limpa = linha.strip()
+            if self.patterns.numero_isolado.match(linha_limpa):
+                num = int(linha_limpa)
+                if num < 100 and num not in versoes:
+                    versoes.append(num)
+        return versoes
+    
+    def coletar_datas(self, linhas: List[str]) -> List[str]:
+        """Coleta datas no formato DD/MM/YYYY"""
+        datas = []
+        for linha in linhas:
+            linha_limpa = linha.strip()
+            if self.patterns.data_padrao.match(linha_limpa):
+                if linha_limpa not in datas:
+                    datas.append(linha_limpa)
+        return datas
+    
+    def coletar_responsaveis(self, linhas: List[str]) -> List[str]:
+        """Coleta e consolida nomes de responsáveis"""
+        responsaveis_bruto = []
+        
+        for linha in linhas:
+            linha_limpa = linha.strip()
+            # Responsável: linha que começa com letra maiúscula, não é número/URL
+            if (re.match(r'^[A-Z]', linha_limpa) and 
+                not re.match(r'^\d', linha_limpa) and 
+                not re.match(r'^https?://', linha_limpa) and
+                not linha_limpa.startswith('content') and
+                not linha_limpa.startswith('uploads') and
+                not re.match(r'^(Versão|Data|Link|Responsável)', linha_limpa, re.IGNORECASE)):
+                responsaveis_bruto.append(linha_limpa)
+        
+        # Consolidar responsáveis (alguns têm quebra de linha)
+        responsaveis = []
+        i = 0
+        while i < len(responsaveis_bruto):
+            resp_linha = responsaveis_bruto[i]
+            resp_componentes = [resp_linha]
+            
+            # Verificar se próxima linha é continuação
+            while i + 1 < len(responsaveis_bruto):
+                prox = responsaveis_bruto[i + 1]
+                if len(prox.split()) == 1 and prox[0].isupper():
+                    resp_componentes.append(prox)
+                    i += 1
+                else:
+                    break
+            
+            responsaveis.append(" ".join(resp_componentes))
+            i += 1
+        
+        # Garantir que temos ao menos 3 responsáveis
+        while len(responsaveis) < 3:
+            responsaveis.append("Coordenação Sebraetec")
+        
+        return responsaveis
+    
+    def montar_historico(self, versoes: List[int], datas: List[str], responsaveis: List[str]) -> List[Dict[str, Any]]:
+        """Monta lista de registros do histórico"""
+        historico = []
+        for j in range(min(len(versoes), len(datas), 3)):
+            registro = {
+                "versao": versoes[j],
+                "dataAlteracao": datas[j],
+                "alteradoPor": responsaveis[j] if j < len(responsaveis) else "Coordenação Sebraetec"
+            }
+            historico.append(registro)
+        return historico
+
 
 class ExtractorFichaTecnica:
     """Extrator inteligente de dados do MD da ficha técnica - Robusto para diferentes formatos"""
@@ -22,12 +272,27 @@ class ExtractorFichaTecnica:
     
     def __init__(self, caminho_md: str):
         self.caminho_md = Path(caminho_md)
+        self.logger = setup_logger(self.__class__.__name__)
+        self.patterns = RegexPatterns()
         self.linhas = self._ler_arquivo()
+        self.logger.info(f"Extrator inicializado: {self.caminho_md.name}")
         
-    def _ler_arquivo(self) -> list:
+    def _ler_arquivo(self) -> List[str]:
         """Lê o arquivo MD e retorna lista de linhas"""
-        with open(self.caminho_md, 'r', encoding='utf-8') as f:
-            return f.readlines()
+        try:
+            with open(self.caminho_md, 'r', encoding='utf-8') as f:
+                linhas = f.readlines()
+            self.logger.debug(f"Arquivo lido: {len(linhas)} linhas")
+            return linhas
+        except FileNotFoundError:
+            self.logger.error(f"Arquivo não encontrado: {self.caminho_md}")
+            raise
+        except UnicodeDecodeError as e:
+            self.logger.error(f"Erro de encoding em {self.caminho_md}: {e}")
+            raise
+        except Exception as e:
+            self.logger.error(f"Erro ao ler arquivo {self.caminho_md}: {e}")
+            raise
     
     def _eh_sujeira(self, linha: str) -> bool:
         """Verifica se uma linha é sujeira para ser ignorada"""
@@ -105,8 +370,8 @@ class ExtractorFichaTecnica:
         # Restaurar quebras protegidas
         texto = texto.replace('\x00QUEBRA_PROTEGIDA\x00', '\n')
         
-        # Limpar múltiplos espaços
-        texto = re.sub(r' +', ' ', texto)
+        # Limpar múltiplos espaços (incluindo espaços não-quebráveis e tabs)
+        texto = re.sub(r'[ \t\u00A0\u2000-\u200B]+', ' ', texto)
         
         # Limpar múltiplos \n
         texto = re.sub(r'\n+', '\n', texto)
@@ -269,9 +534,11 @@ class ExtractorFichaTecnica:
         Coleta TODAS as linhas maiúsculas consecutivas que formam o título
         Exemplo: ADEQUAÇÃO / EXPORTAÇÃO / DE / PROCESSOS / LOGÍSTICOS / PARA
         """
+        self.logger.debug("Extraindo nome da solução")
         for i, linha in enumerate(self.linhas):
             # Procurar pela linha do código
             if re.match(r'^Código da ficha técnica:', linha.strip()):
+                self.logger.debug(f"Código encontrado na linha {i}")
                 # Após o código, coletar todas as palavras maiúsculas consecutivas
                 palavras_titulo = []
                 j = i + 1
@@ -308,8 +575,13 @@ class ExtractorFichaTecnica:
                 
                 # Juntar todas as palavras com espaço
                 if palavras_titulo:
-                    return " ".join(palavras_titulo)
+                    nome = " ".join(palavras_titulo)
+                    # Normalizar espaços múltiplos
+                    nome = re.sub(r'\s+', ' ', nome).strip()
+                    self.logger.info(f"✅ Nome extraído: {nome[:60]}...")
+                    return nome
         
+        self.logger.warning("⚠️ Nome da solução não encontrado")
         return ""
     
     def extrair_codigo_ficha(self) -> str:
@@ -317,10 +589,14 @@ class ExtractorFichaTecnica:
         Extrai o código da ficha técnica (ID)
         Procura por "Código da ficha técnica: XXXXX"
         """
+        self.logger.debug("Extraindo código da ficha")
         for linha in self.linhas[:5]:
             match = re.search(r'Código da ficha técnica:\s*([\d\w-]+)', linha)
             if match:
-                return match.group(1)
+                codigo = match.group(1)
+                self.logger.info(f"✅ Código extraído: {codigo}")
+                return codigo
+        self.logger.warning("⚠️ Código da ficha não encontrado")
         return ""
     
     def _extrair_valor_bullet(self, campo: str) -> str:
@@ -336,39 +612,56 @@ class ExtractorFichaTecnica:
                 return match.group(1).strip()
         return ""
     
-    def extrair_tema(self) -> str:
+    def _extrair_campo_numerado(
+        self,
+        numero: int,
+        nome_campo: str,
+        transformador: Optional[Callable[[str], Any]] = None
+    ) -> str:
         """
-        Extrai o tema - texto após "1. Tema" ou • Tema: xxx
-        Procura pela linha com número e pega a próxima linha não vazia
+        Método genérico para extrair campo de seção numerada
+        
+        Args:
+            numero: Número da seção (ex: 1 para "1. Tema")
+            nome_campo: Nome do campo (ex: "Tema")
+            transformador: Função opcional para transformar o valor
+            
+        Returns:
+            Valor extraído ou string vazia
         """
+        self.logger.debug(f"Extraindo campo {numero}. {nome_campo}")
+        
         # Tentar formato padrão primeiro
         for i, linha in enumerate(self.linhas):
-            if re.search(r'^1\.\s+Tema', linha.strip()):
+            if re.search(rf'^{numero}\.\s+{re.escape(nome_campo)}', linha.strip(), re.IGNORECASE):
+                self.logger.debug(f"Seção encontrada na linha {i}")
                 # Procura a próxima linha que não seja vazia
                 for j in range(i + 1, len(self.linhas)):
-                    tema = self.linhas[j].strip()
-                    if tema and not re.match(r'^\d+\.', tema):  # Se não é outra seção
-                        return tema
+                    valor = self.linhas[j].strip()
+                    if valor and not re.match(r'^\d+\.', valor):
+                        if transformador:
+                            valor = transformador(valor)
+                        self.logger.info(f"✅ {nome_campo}: {str(valor)[:50]}...")
+                        return valor
         
         # Se não encontrou, tentar formato bullet
-        return self._extrair_valor_bullet("Tema")
+        valor = self._extrair_valor_bullet(nome_campo)
+        if valor:
+            if transformador:
+                valor = transformador(valor)
+            self.logger.info(f"✅ {nome_campo} (bullet): {str(valor)[:50]}...")
+            return valor
+        
+        self.logger.warning(f"⚠️ {nome_campo} não encontrado")
+        return ""
+    
+    def extrair_tema(self) -> str:
+        """Extrai o tema - texto após "1. Tema" ou • Tema: xxx"""
+        return self._extrair_campo_numerado(1, "Tema")
     
     def extrair_subtema(self) -> str:
-        """
-        Extrai o subtema - texto após "2. Subtema" ou • Subtema: xxx
-        Procura pela linha com número e pega a próxima linha não vazia
-        """
-        # Tentar formato padrão primeiro
-        for i, linha in enumerate(self.linhas):
-            if re.search(r'^2\.\s+Subtema', linha.strip()):
-                # Procura a próxima linha que não seja vazia
-                for j in range(i + 1, len(self.linhas)):
-                    subtema = self.linhas[j].strip()
-                    if subtema and not re.match(r'^\d+\.', subtema):
-                        return subtema
-        
-        # Se não encontrou, tentar formato bullet
-        return self._extrair_valor_bullet("Subtema")
+        """Extrai o subtema - texto após "2. Subtema" ou • Subtema: xxx"""
+        return self._extrair_campo_numerado(2, "Subtema")
     
     def extrair_tipo_servico(self) -> str:
         """
@@ -399,19 +692,7 @@ class ExtractorFichaTecnica:
     
     def extrair_modalidade(self) -> str:
         """Extrai e normaliza modalidade"""
-        # Tentar formato padrão primeiro
-        for i, linha in enumerate(self.linhas):
-            if re.search(r'^5\.\s+Modalidade', linha.strip()):
-                for j in range(i + 1, len(self.linhas)):
-                    modalidade = self.linhas[j].strip()
-                    if modalidade and not self._eh_inicio_secao(modalidade):
-                        return self._normalizar_modalidade(modalidade)
-        
-        # Se não encontrou, tentar formato bullet
-        valor = self._extrair_valor_bullet("Modalidade")
-        if valor:
-            return self._normalizar_modalidade(valor)
-        return ""
+        return self._extrair_campo_numerado(5, "Modalidade", self._normalizar_modalidade)
     
     def extrair_publico_alvo(self) -> List[str]:
         """Extrai e normaliza público alvo"""
@@ -708,114 +989,60 @@ class ExtractorFichaTecnica:
         Extrai as etapas conforme formato do solutions-data.ts
         Retorna lista de dicts com: id, titulo, ordem, percentual, tipo, descricao, entrega
         """
+        self.logger.debug("Extraindo etapas")
         etapas = []
         numero_etapa = 1
         i = 0
+        
+        extrator_etapa = EtapaExtractor(self.patterns, self.logger)
         
         while i < len(self.linhas):
             linha = self.linhas[i].strip()
             
             # Procurar por linhas que começam com "ETAPA"
-            match = re.match(r'^ETAPA\s+(\d+)\s*[\|:]?\s*(.+)$', linha, re.IGNORECASE)
+            match = self.patterns.etapa_titulo.match(linha)
             if match:
                 numero_str = match.group(1)
                 titulo_base = match.group(2).strip()
                 
-                # Verificar se há continuação do título na próxima linha
+                self.logger.debug(f"Etapa {numero_str} encontrada na linha {i}")
+                
+                # Extrair título completo (pode estar em múltiplas linhas)
                 i += 1
-                while i < len(self.linhas):
-                    linha_seguinte = self.linhas[i].strip()
-                    # Se não é linha vazia, não começa com item de lista, não é ENTREGA, nem é outra etapa
-                    if (linha_seguinte and 
-                        not re.match(r'^[●○•\d+\-A-Z]\.|^[●○•]\s+', linha_seguinte) and
-                        not re.match(r'^ENTREGAS?\s+ETAPA', linha_seguinte, re.IGNORECASE) and
-                        not re.match(r'^ETAPA\s+\d+|^\d+\.', linha_seguinte, re.IGNORECASE) and
-                        not re.match(r'^Com\s+base|^Realizar', linha_seguinte)):  # Palavras-chave de início de descrição
-                        # É continuação do título
-                        titulo_base += " " + linha_seguinte
-                        i += 1
-                    else:
-                        break
+                titulo, i = extrator_etapa.extrair_titulo_completo(
+                    self.linhas, i, numero_str, titulo_base
+                )
                 
-                # Título com formato: "ETAPA 01 | Alinhamento da Proposta"
-                titulo = f"ETAPA {numero_str} | {titulo_base}"
+                # Extrair descrição
+                descricao, i = extrator_etapa.extrair_descricao(self.linhas, i)
                 
-                # Coletar descrição até encontrar "ENTREGA"
-                descricao_linhas = []
-                while i < len(self.linhas):
-                    linha_atual = self.linhas[i].strip()
-                    
-                    # Parar quando encontrar a entrega
-                    if re.match(r'^ENTREGAS?\s+ETAPA\s+\d+:', linha_atual, re.IGNORECASE):
-                        break
-                    
-                    # Ignorar linhas vazias no início
-                    if linha_atual or descricao_linhas:
-                        descricao_linhas.append(linha_atual)
-                    
-                    i += 1
+                # Extrair entrega
+                entrega, i = extrator_etapa.extrair_entrega(
+                    self.linhas, i, self._eh_sujeira
+                )
                 
-                # Remover linhas vazias do final
-                while descricao_linhas and not descricao_linhas[-1]:
-                    descricao_linhas.pop()
-                
-                # Juntar preservando quebras de linha para seções
-                descricao = "\n".join(descricao_linhas).strip()
-                # Não collapsar quebras - vamos manter a estrutura para formatar depois
-                
-                # Coletar entrega/deliverable
-                entrega = ""
-                if i < len(self.linhas):
-                    linha_entrega = self.linhas[i].strip()
-                    if re.match(r'^ENTREGAS?\s+ETAPA\s+\d+:', linha_entrega, re.IGNORECASE):
-                        # Extrair o texto após o ":"
-                        match_entrega = re.match(r'^ENTREGAS?\s+ETAPA\s+\d+:\s*(.+)', linha_entrega, re.IGNORECASE)
-                        if match_entrega:
-                            entrega = match_entrega.group(1).strip()
-                        
-                        # Coletar linhas seguintes até encontrar próxima etapa ou seção
-                        i += 1
-                        while i < len(self.linhas):
-                            linha_proxima = self.linhas[i].strip()
-                            
-                            # Parar quando encontrar:
-                            # - Próxima etapa
-                            # - Próxima seção numerada (10., 11., etc)
-                            if (re.match(r'^ETAPA\s+\d+', linha_proxima, re.IGNORECASE) or
-                                re.match(r'^\d+\.\s+(?!Uso Interno|Código)', linha_proxima)):  # Seção numerada (mas não sujeira)
-                                break
-                            
-                            # Ignorar linhas de sujeira mas continuar coletando
-                            if linha_proxima and not self._eh_sujeira(linha_proxima):
-                                if entrega:
-                                    entrega += " " + linha_proxima
-                                else:
-                                    entrega = linha_proxima
-                            
-                            i += 1
-                        
-                        entrega = entrega.strip()
-                
-                # Criar estrutura da etapa conforme solutions-data.ts
                 # Normalizar descricao com formatação estruturada
                 descricao_normalizada = self._normalizar_string_sujeira(descricao)
                 descricao_normalizada = self._formatar_descricao_estruturada(descricao_normalizada)
                 
+                # Criar estrutura da etapa
                 etapa = {
                     "id": f"e{numero_etapa}",
                     "titulo": titulo,
                     "ordem": numero_etapa,
-                    "percentual": 0,  # Será preenchido manualmente se houver % no documento
-                    "tipo": "Consultoria",  # Será preenchido conforme tipo_servico
+                    "percentual": 0,
+                    "tipo": "Consultoria",
                     "descricao": descricao_normalizada,
                     "entrega": self._normalizar_string_sujeira(entrega)
                 }
                 
                 etapas.append(etapa)
+                self.logger.debug(f"Etapa {numero_etapa} extraída: {titulo[:50]}...")
                 numero_etapa += 1
             else:
                 i += 1
         
+        self.logger.info(f"✅ {len(etapas)} etapas extraídas")
         return etapas
     
     def extrair_perguntas_diagnostico(self) -> List[Dict[str, Any]]:
@@ -1027,6 +1254,7 @@ class ExtractorFichaTecnica:
         2 | 14/04/2020 | https://...CS11003-2.pdf | Arthur Carneiro
         3 | 01/01/2021 | https://...CS11003-3.pdf | Flavio Germano Petry
         """
+        self.logger.debug("Extraindo histórico de alterações")
         historico = []
         i = 0
         encontrou_historico = False
@@ -1035,119 +1263,97 @@ class ExtractorFichaTecnica:
         while i < len(self.linhas):
             if re.match(r'^HISTÓRICO\s+DE\s+ALTERAÇÕES', self.linhas[i].strip(), re.IGNORECASE):
                 encontrou_historico = True
+                self.logger.debug(f"Histórico encontrado na linha {i}")
                 i += 1
                 break
             i += 1
         
         if not encontrou_historico:
+            self.logger.warning("Seção HISTÓRICO não encontrada")
             return historico
         
-        versoes = []
-        datas = []
-        responsaveis_bruto = []  # Todas as linhas que parecem ser responsáveis
-        
-        # Coletar todos os dados da tabela
+        # Coletar linhas até "Ficha Técnica"
+        linhas_historico = []
         while i < len(self.linhas):
             linha = self.linhas[i].strip()
-            
             if re.match(r'^Ficha Técnica', linha, re.IGNORECASE):
                 break
-            
-            # Versão: número 1-99 único
-            if re.match(r'^\d{1,2}$', linha):
-                num = int(linha)
-                if num < 100 and num not in versoes:
-                    versoes.append(num)
-            
-            # Data: DD/MM/YYYY
-            elif re.match(r'^\d{2}/\d{2}/\d{4}$', linha):
-                if linha not in datas:
-                    datas.append(linha)
-            
-            # Responsável: linha que começa com letra maiúscula, não é número/URL
-            # Pode ter quebra de linha (e.g., "Flavio Germano" em uma linha, "Petry" em outra)
-            elif (re.match(r'^[A-Z]', linha) and 
-                  not re.match(r'^\d', linha) and 
-                  not re.match(r'^https?://', linha) and
-                  not linha.startswith('content') and
-                  not linha.startswith('uploads') and
-                  not re.match(r'^(Versão|Data|Link|Responsável)', linha, re.IGNORECASE)):
-                responsaveis_bruto.append(linha)
-            
+            linhas_historico.append(linha)
             i += 1
         
-        # Consolidar responsáveis (alguns têm quebra de linha)
-        # Ex: ["Coordenação", "Sebraetec", "Arthur Carneiro", "Flavio Germano", "Petry"]
-        # -> ["Coordenação Sebraetec", "Arthur Carneiro", "Flavio Germano Petry"]
+        # Usar HistoricoExtractor para processar
+        extrator_historico = HistoricoExtractor(self.patterns, self.logger)
         
-        responsaveis = []
-        i = 0
-        while i < len(responsaveis_bruto):
-            resp_linha = responsaveis_bruto[i]
-            resp_componentes = [resp_linha]
-            
-            # Verificar se próxima linha é continuação (se é palavra pequena como "Sebraetec", "Petry")
-            # Heurística: se próxima linha tem 1 palavra ou começa com minúscula no meio, é continuação
-            while i + 1 < len(responsaveis_bruto):
-                prox = responsaveis_bruto[i + 1]
-                # Se próxima tem 1 palavra E é maiúscula, é continuação
-                # Ou se responsável atual é "Coordenação" e próximo é "Sebraetec"
-                if (len(prox.split()) == 1 and prox[0].isupper()):
-                    resp_componentes.append(prox)
-                    i += 1
-                else:
-                    break
-            
-            responsaveis.append(" ".join(resp_componentes))
-            i += 1
+        versoes = extrator_historico.coletar_versoes(linhas_historico)
+        datas = extrator_historico.coletar_datas(linhas_historico)
+        responsaveis = extrator_historico.coletar_responsaveis(linhas_historico)
         
-        # Garantir que temos 3 responsáveis
-        while len(responsaveis) < 3:
-            responsaveis.append("Coordenação Sebraetec")
+        historico = extrator_historico.montar_historico(versoes, datas, responsaveis)
         
-        # Construir histórico
-        for j in range(min(len(versoes), len(datas), 3)):
-            registro = {
-                "versao": versoes[j],
-                "dataAlteracao": datas[j],
-                "alteradoPor": responsaveis[j] if j < len(responsaveis) else "Coordenação Sebraetec"
-            }
-            historico.append(registro)
-        
+        self.logger.info(f"✅ {len(historico)} versões no histórico")
         return historico
     
     def extrair_todos_dados(self) -> Dict[str, Any]:
         """Extrai todos os dados importantes"""
-        return {
-            "id": self.extrair_codigo_ficha(),
-            "nomeSolucao": self.extrair_nome_solucao(),
-            "tema": self.extrair_tema(),
-            "subtema": self.extrair_subtema(),
-            "tipoServico": self.extrair_tipo_servico(),
-            "modalidade": self.extrair_modalidade(),
-            "publicoAlvo": self.extrair_publico_alvo(),
-            "setor": self.extrair_setor(),
-            "descricao": self.extrair_descricao(),
-            "etapas": self.extrair_etapas(),
-            "perguntasDiagnostico": self.extrair_perguntas_diagnostico(),
-            "beneficiosResultadosEsperados": self.extrair_beneficios_resultados(),
-            "estruturaMateriais": self.extrair_estrutura_materiais(),
-            "responsabilidadeEmpresaDemandante": self.extrair_responsabilidade_empresa_demandante(),
-            "responsabilidadePrestadora": self.extrair_responsabilidade_prestadora(),
-            "perfilDesejadoPrestadora": self.extrair_perfil_desejado_prestadora(),
-            "observacoesGerais": self.extrair_observacoes(),
-            "historicoAlteracoes": self.extrair_historico_alteracoes()
-        }
+        self.logger.info(f"Iniciando extração completa de {self.caminho_md.name}")
+        
+        try:
+            dados = {
+                "id": self.extrair_codigo_ficha(),
+                "nomeSolucao": self.extrair_nome_solucao(),
+                "tema": self.extrair_tema(),
+                "subtema": self.extrair_subtema(),
+                "tipoServico": self.extrair_tipo_servico(),
+                "modalidade": self.extrair_modalidade(),
+                "publicoAlvo": self.extrair_publico_alvo(),
+                "setor": self.extrair_setor(),
+                "descricao": self.extrair_descricao(),
+                "etapas": self.extrair_etapas(),
+                "perguntasDiagnostico": self.extrair_perguntas_diagnostico(),
+                "beneficiosResultadosEsperados": self.extrair_beneficios_resultados(),
+                "estruturaMateriais": self.extrair_estrutura_materiais(),
+                "responsabilidadeEmpresaDemandante": self.extrair_responsabilidade_empresa_demandante(),
+                "responsabilidadePrestadora": self.extrair_responsabilidade_prestadora(),
+                "perfilDesejadoPrestadora": self.extrair_perfil_desejado_prestadora(),
+                "observacoesGerais": self.extrair_observacoes(),
+                "historicoAlteracoes": self.extrair_historico_alteracoes()
+            }
+            
+            # Validar campos obrigatórios
+            if USE_NEW_INFRA:
+                campos_vazios = [k for k in CAMPOS_OBRIGATORIOS if not dados.get(k)]
+                if campos_vazios:
+                    self.logger.warning(f"⚠️ Campos obrigatórios vazios: {', '.join(campos_vazios)}")
+            
+            self.logger.info(f"✅ Extração completa: {len(dados)} campos")
+            return dados
+            
+        except Exception as e:
+            self.logger.error(f"❌ Erro na extração: {e}", exc_info=True)
+            raise
     
     def salvar_dados_extraidos(self, caminho_saida: str):
         """Salva os dados extraídos em JSON"""
-        dados = self.extrair_todos_dados()
-        # Normalizar dados removendo quebras em frases
-        dados = self._normalizar_dados(dados)
-        with open(caminho_saida, 'w', encoding='utf-8') as f:
-            json.dump(dados, f, indent=2, ensure_ascii=False)
-        print(f"✅ Dados extraídos salvos em: {caminho_saida}")
-        return dados
+        self.logger.info(f"Salvando dados em {caminho_saida}")
+        
+        try:
+            dados = self.extrair_todos_dados()
+            # Normalizar dados removendo quebras em frases
+            dados = self._normalizar_dados(dados)
+            
+            # Criar diretório se não existir
+            Path(caminho_saida).parent.mkdir(parents=True, exist_ok=True)
+            
+            with open(caminho_saida, 'w', encoding='utf-8') as f:
+                json.dump(dados, f, indent=2, ensure_ascii=False)
+            
+            self.logger.info(f"✅ Dados extraídos salvos: {caminho_saida}")
+            print(f"✅ Dados extraídos salvos em: {caminho_saida}")
+            return dados
+            
+        except Exception as e:
+            self.logger.error(f"❌ Erro ao salvar dados: {e}", exc_info=True)
+            raise
 
 # Teste
 if __name__ == "__main__":

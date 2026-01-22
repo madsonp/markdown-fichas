@@ -1,7 +1,24 @@
+"""
+Gera arquivo TypeScript com dados das soluções
+Inclui validação Pydantic e enriquecimento de dados
+"""
 import json
 import glob
 from pathlib import Path
 from datetime import datetime
+from typing import List, Dict, Any
+
+try:
+    from config import SAIDA_JSON_DIR, OUTPUT_ENCODING, OUTPUT_INDENT
+    from logger_config import setup_logger, LogContext
+    from models import FichaTecnica
+    logger = setup_logger(__name__)
+    USE_PYDANTIC = True
+except ImportError:
+    SAIDA_JSON_DIR = Path("saida/json")
+    OUTPUT_ENCODING = "utf-8-sig"
+    OUTPUT_INDENT = 2
+    USE_PYDANTIC = False
 
 def converter_setor_para_setorial(setor_str):
     """Converte 'setor' string para 'setorial' array"""
@@ -28,8 +45,34 @@ def converter_setor_para_setorial(setor_str):
     
     return resultado if resultado else ["transversal"]
 
-def enriquecer_solucao(dados_json, indice):
-    """Adiciona campos faltantes ao JSON da solução"""
+def enriquecer_solucao(dados_json: Dict[str, Any], indice: int) -> Dict[str, Any]:
+    """
+    Adiciona campos faltantes ao JSON da solução
+    Agora com validação Pydantic opcional
+    """
+    try:
+        # Se temos Pydantic, validar primeiro
+        if USE_PYDANTIC:
+            try:
+                ficha = FichaTecnica(**dados_json)
+                # Retornar dados validados e normalizados
+                return ficha.to_dict()
+            except Exception as e:
+                if USE_PYDANTIC:
+                    logger.warning(f"Validação Pydantic falhou, usando fallback: {e}")
+                # Continua com método antigo se validação falhar
+        
+        # Método antigo (fallback)
+        return enriquecer_solucao_legacy(dados_json, indice)
+    
+    except Exception as e:
+        if USE_PYDANTIC:
+            logger.error(f"Erro ao enriquecer solução: {e}")
+        return dados_json
+
+
+def enriquecer_solucao_legacy(dados_json: Dict[str, Any], indice: int) -> Dict[str, Any]:
+    """Método legado de enriquecimento sem Pydantic"""
     dados = dados_json.copy()
     
     # Mapear 'setor' para 'setorial' se existir
