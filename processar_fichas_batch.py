@@ -4,13 +4,10 @@ Processa todas as fichas técnicas baixadas
 """
 
 import json
-import sys
+import re
 from pathlib import Path
-from typing import Optional, Dict, List
+from typing import Optional, Dict, List, Any
 from extrator_ficha import ExtractorFichaTecnica
-
-# Adicionar diretório pai ao path para importar agents
-sys.path.insert(0, str(Path(__file__).parent))
 
 try:
     from config import ENTRADA_PDFS_DIR, SAIDA_DIR, SAIDA_JSON_DIR
@@ -31,15 +28,6 @@ except ImportError:
     print("❌ markitdown não está instalado. Instale com: pip install markitdown")
     md_converter = None
 
-# Importar Markdown Formatter Agent
-try:
-    from agents.markdown_formatter_agent import get_formatter_agent
-    FORMATTER_AGENT = get_formatter_agent()
-    USE_FORMATTER = True
-except ImportError:
-    FORMATTER_AGENT = None
-    USE_FORMATTER = False
-
 
 class ProcessadorFichasTecnicas:
     """Processador de fichas técnicas: PDF → MD → JSON"""
@@ -54,6 +42,11 @@ class ProcessadorFichasTecnicas:
         self.dir_markdown = dir_markdown or SAIDA_DIR
         self.dir_json = dir_json or SAIDA_JSON_DIR
         
+        # Padrões para formatação de bullets/numeração
+        self.pattern_bullets = re.compile(r'([^\n])\s+•\s+')
+        self.pattern_numbers = re.compile(r'([^\n])\s+(\d+\.)\s+')
+        self.pattern_dashes = re.compile(r'([^\n])\s+-\s+(?!\s)')
+        
         # Criar diretórios se não existem
         self.dir_json.mkdir(parents=True, exist_ok=True)
         
@@ -62,6 +55,38 @@ class ProcessadorFichasTecnicas:
             logger.info(f"  PDFs: {self.dir_pdfs}")
             logger.info(f"  Markdown: {self.dir_markdown}")
             logger.info(f"  JSON: {self.dir_json}")
+    
+    def _formatar_texto(self, texto: str) -> str:
+        """Adiciona quebras de linha antes de bullets/numeração misturados"""
+        if not texto or not isinstance(texto, str):
+            return texto
+        
+        # Adiciona quebra antes de bullets
+        texto = self.pattern_bullets.sub(r'\1\n• ', texto)
+        
+        # Adiciona quebra antes de numeração
+        texto = self.pattern_numbers.sub(r'\1\n\2 ', texto)
+        
+        # Adiciona quebra antes de hífens
+        texto = self.pattern_dashes.sub(r'\1\n- ', texto)
+        
+        return texto
+    
+    def _processar_recursivo(self, obj: Any) -> Any:
+        """Processa objeto recursivamente aplicando formatação"""
+        if obj is None:
+            return obj
+        
+        if isinstance(obj, str):
+            return self._formatar_texto(obj)
+        
+        if isinstance(obj, list):
+            return [self._processar_recursivo(item) for item in obj]
+        
+        if isinstance(obj, dict):
+            return {chave: self._processar_recursivo(valor) for chave, valor in obj.items()}
+        
+        return obj
     
     def pdf_para_markdown(self, arquivo_pdf: Path) -> Optional[Path]:
         """
@@ -127,7 +152,6 @@ class ProcessadorFichasTecnicas:
     def markdown_para_json(self, arquivo_md: Path) -> Optional[Path]:
         """
         Converte Markdown para JSON usando o extrator
-        Aplica Markdown Formatter Agent para normalizar formatação
         
         Args:
             arquivo_md: Path do arquivo Markdown
@@ -157,20 +181,12 @@ class ProcessadorFichasTecnicas:
             dados = extrator.extrair_todos_dados()
             dados_normalizados = extrator._normalizar_dados(dados)
             
-            # Aplicar Markdown Formatter Agent se disponível
-            if USE_FORMATTER and FORMATTER_AGENT:
-                try:
-                    FORMATTER_AGENT.reset_memory()
-                    dados_normalizados = FORMATTER_AGENT.process_solution_data(dados_normalizados)
-                    if USE_NEW_INFRA:
-                        logger.debug(f"Formatter Agent aplicado: {arquivo_md.name}")
-                except Exception as e:
-                    if USE_NEW_INFRA:
-                        logger.warning(f"Erro ao aplicar Formatter Agent: {str(e)[:100]}")
+            # Aplicar formatação de bullets/numeração
+            dados_formatados = self._processar_recursivo(dados_normalizados)
             
             # Salvar JSON
             with open(arquivo_json, 'w', encoding='utf-8') as f:
-                json.dump(dados_normalizados, f, ensure_ascii=False, indent=2)
+                json.dump(dados_formatados, f, ensure_ascii=False, indent=2)
             
             if USE_NEW_INFRA:
                 logger.info(f"✅ JSON criado: {arquivo_json.name}")
