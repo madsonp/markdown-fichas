@@ -4,8 +4,13 @@ Script para processar arquivos JSON existentes com o Markdown Formatter Agent
 """
 import json
 import glob
+import sys
 from pathlib import Path
 from datetime import datetime
+
+# Adicionar diretório pai ao path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from agents.markdown_formatter_agent import get_formatter_agent
 
 def process_json_files(directory: str = 'saida/json', output_suffix: str = '-formatted') -> None:
@@ -131,7 +136,7 @@ if __name__ == "__main__":
     import sys
     
     print("\n" + "=" * 80)
-    print("🔧 MARKDOWN FORMATTER AGENT - PROCESSADOR DE ARQUIVOS JSON")
+    print("MARKDOWN FORMATTER AGENT - PROCESSADOR DE ARQUIVOS JSON")
     print("=" * 80 + "\n")
     
     # Se passado argumento, processar arquivo específico

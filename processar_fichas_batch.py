@@ -4,9 +4,13 @@ Processa todas as fichas técnicas baixadas
 """
 
 import json
+import sys
 from pathlib import Path
 from typing import Optional, Dict, List
 from extrator_ficha import ExtractorFichaTecnica
+
+# Adicionar diretório pai ao path para importar agents
+sys.path.insert(0, str(Path(__file__).parent))
 
 try:
     from config import ENTRADA_PDFS_DIR, SAIDA_DIR, SAIDA_JSON_DIR
@@ -26,6 +30,15 @@ try:
 except ImportError:
     print("❌ markitdown não está instalado. Instale com: pip install markitdown")
     md_converter = None
+
+# Importar Markdown Formatter Agent
+try:
+    from agents.markdown_formatter_agent import get_formatter_agent
+    FORMATTER_AGENT = get_formatter_agent()
+    USE_FORMATTER = True
+except ImportError:
+    FORMATTER_AGENT = None
+    USE_FORMATTER = False
 
 
 class ProcessadorFichasTecnicas:
@@ -114,6 +127,7 @@ class ProcessadorFichasTecnicas:
     def markdown_para_json(self, arquivo_md: Path) -> Optional[Path]:
         """
         Converte Markdown para JSON usando o extrator
+        Aplica Markdown Formatter Agent para normalizar formatação
         
         Args:
             arquivo_md: Path do arquivo Markdown
@@ -142,6 +156,17 @@ class ProcessadorFichasTecnicas:
             extrator = ExtractorFichaTecnica(str(arquivo_md))
             dados = extrator.extrair_todos_dados()
             dados_normalizados = extrator._normalizar_dados(dados)
+            
+            # Aplicar Markdown Formatter Agent se disponível
+            if USE_FORMATTER and FORMATTER_AGENT:
+                try:
+                    FORMATTER_AGENT.reset_memory()
+                    dados_normalizados = FORMATTER_AGENT.process_solution_data(dados_normalizados)
+                    if USE_NEW_INFRA:
+                        logger.debug(f"Formatter Agent aplicado: {arquivo_md.name}")
+                except Exception as e:
+                    if USE_NEW_INFRA:
+                        logger.warning(f"Erro ao aplicar Formatter Agent: {str(e)[:100]}")
             
             # Salvar JSON
             with open(arquivo_json, 'w', encoding='utf-8') as f:
