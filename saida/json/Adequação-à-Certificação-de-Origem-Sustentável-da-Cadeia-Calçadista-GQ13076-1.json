@@ -26,8 +26,8 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Avaliação inicial da empresa, mapeando principais não conformidades e lacunas em relação aos requisitos da certificação Origem Sustentável da cadeia calçadista • Elaboração de cronograma e plano de trabalho para preparação da empresa para se submeter às auditorias da certificação Origem Sustentável da cadeia calçadista",
-      "entrega": "• Relatório do diagnóstico, com o plano de ação; • Cronograma do desenvolvimento das ações."
+      "descricao": "• Avaliação inicial da empresa, mapeando principais não conformidades e lacunas em relação aos requisitos da certificação Origem Sustentável da cadeia calçadista\n• Elaboração de cronograma e plano de trabalho para preparação da empresa para se submeter às auditorias da certificação Origem Sustentável da cadeia calçadista",
+      "entrega": "• Relatório do diagnóstico, com o plano de ação;\n• Cronograma do desenvolvimento das ações."
     },
     {
       "id": "e3",
@@ -35,16 +35,16 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Orientações e auxílio para adequação • Orientações e acompanhamento dos indicadores e plano de trabalho • Auxílio na análise e tratamento das não conformidades • Simulação de auditoria • Análise dos resultados da auditoria interna • Adequações finais • Orientações e encaminhamentos prévios à auditoria externa.",
+      "descricao": "• Orientações e auxílio para adequação\n• Orientações e acompanhamento dos indicadores e plano de trabalho\n• Auxílio na análise e tratamento das não conformidades\n• Simulação de auditoria\n• Análise dos resultados da auditoria interna\n• Adequações finais\n• Orientações e encaminhamentos prévios à auditoria externa.",
       "entrega": "Relatório técnico final, contendo bases e premissas utilizadas, tarefas executadas e resultados obtidos."
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "A consultoria visa auxiliar as empresas na adequação de suas práticas aos requisitos estabelecidos pela certificação Origem Sustentável da cadeia calçadista, programa gerido pela Associação Brasileira das Indústrias de Calçados (Abicalçados) e pela Associação Brasileira de Empresas de Componentes para Couro, Calçados e Artefatos (Assintecal), disponível em https://www.origemsustentavel.org.br/. A certificação Origem Sustentável está pautada em cinco dimensões: econômica, social, cultural, ambiental e de gestão da sustentabilidade. l. É esperado que, ao final que das consultorias, o empresário tenha conhecimento de todos os requisitos",
+  "beneficiosResultadosEsperados": "A consultoria visa auxiliar as empresas na adequação de suas práticas aos requisitos estabelecidos pela certificação Origem Sustentável da cadeia calçadista, programa gerido pela Associação Brasileira das Indústrias de Calçados (Abicalçados) e pela Associação Brasileira de Empresas de Componentes para Couro, Calçados e Artefatos (Assintecal), disponível em https://www.origemsustentavel.org.br/. A certificação Origem Sustentável está pautada em cinco dimensões: econômica, social, cultural, ambiental e de gestão da sustentabilidade. l. É esperado que, ao final que das consultorias, o empresário tenha conhecimento de todos os requisitos aplicáveis à referida certificação e tenha realizado as adequações necessárias em sua empresa para se submeter às auditorias de certificação.\n• Orientação à empresa no desenvolvimento e implantação dos requisitos da certificação Origem Sustentável,;\n• Além da possibilidade de redução de custos, padronização de processos, a obtenção da certificação traz a possibilidade de fornecimento para grandes empresas. As empresas participantes do Programa Origem Sustentável são avaliadas por indicadores de maturidade na jornada pela sustentabilidade. Para as micro e pequenas empresas, considera-se o atingimento de 30% de conformidade aos requisitos do programa para alcançar o nível Bronze.",
   "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n5. Acompanhar a prestadora de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do trabalho, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
-  "perfilDesejadoPrestadora": " É necessário que o profissional conheça o Programa Origem Sustentável, tenha experiência na implantação dos requisitos da certificação e tenha formação em áreas correlatas ao tema.",
+  "perfilDesejadoPrestadora": "É necessário que o profissional conheça o Programa Origem Sustentável, tenha experiência na implantação dos requisitos da certificação e tenha formação em áreas correlatas ao tema.",
   "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta.",
   "historicoAlteracoes": [
     {
@@ -52,6 +52,5 @@
       "dataAlteracao": "07/07/2022",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "372000048527"
+  ]
 }

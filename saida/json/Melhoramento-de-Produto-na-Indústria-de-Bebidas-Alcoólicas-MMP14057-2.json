@@ -27,7 +27,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Realizar diagnóstico da empresa, dos seus produtos e dos processos de produção, observando os seguintes aspectos, quando aplicáveis o o o o o Identificação de layout produtivo Identificação de maquinário Identificação do quadro de funcionários Identificação do estoque de insumos Identificação de produto(s) elaborado(s), o qual é o foco de objeto de melhoria: insumos utilizados, fluxo de operação, conformidade do padrão de identidade e qualidade de bebidas alcoólicas conforme legislação vigente, históricos de produção, registros de análises físico- química do(s) produto(s), identidade do público alvo o Estudo da melhoria do produto conforme objetivos e restrições do cliente.",
+      "descricao": "• Realizar diagnóstico da empresa, dos seus produtos e dos processos de produção, observando os seguintes aspectos, quando aplicáveis o o o o o Identificação de layout produtivo Identificação de maquinário Identificação do quadro de funcionários Identificação do estoque de insumos Identificação de produto(s) elaborado(s), o qual é o foco de objeto de melhoria: insumos utilizados, fluxo de operação, conformidade do padrão de identidade e qualidade de bebidas alcoólicas conforme legislação vigente, históricos de produção, registros de análises físico\n- química do(s) produto(s), identidade do público alvo o Estudo da melhoria do produto conforme objetivos e restrições do cliente.",
       "entrega": "Relatório do diagnóstico da estrutura operacional da empresa, contendo: identificação de melhorias no processo de fabricação do produto (com registros fotográficos, caso necessário); e soluções propostas (com plano de ação e cronograma); assinado pela empresa demandante."
     },
     {
@@ -37,7 +37,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "• Realizar consultoria observando os seguintes aspectos, quando aplicáveis o Acompanhamento da melhoria da estrutura operacional, quando for o caso o Desenho de receita do produto considerando atual estrutura da empresa o Acompanhamento da elaboração do novo produto segundo novas definições o Avaliação da conformidade do produto elaborado com os objetivos esperados do cliente o Ajuste descritivo de processo e/ou produto elaborado, se necessário o Acompanhamento de nova elaboração de produto, considerando ajustes identificados, se necessário o Elaboração de Procedimento Operacional Padrão o Elaboração de caderno técnico sobre melhorias do produto, contendo Descrição de melhoria estrutural, quando for o caso (com registros fotográficos, caso necessário), nova receita de produto proposta e ajustes identificados, consolidado de objetivos esperados e objetivos alcançados o Orientação dos colaboradores para a manutenção dos métodos aplicados e realização do controle da produção após a finalização do serviço prestado.",
-      "entrega": "• Relatório Técnico Final contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos), oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço, e que o prestador de serviço explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+      "entrega": "• Relatório Técnico Final contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos), oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões;\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço, e que o prestador de serviço explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [
@@ -84,24 +84,22 @@
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "• Padronização de processo; • Otimização do uso de recursos produtivos; • Otimização de fluxo operacional; • Aumento dos rendimentos de produção; • Redução de custos operacionais; • Redução de desperdícios e retrabalhos.",
+  "beneficiosResultadosEsperados": "• Padronização de processo;\n• Otimização do uso de recursos produtivos;\n• Otimização de fluxo operacional;\n• Aumento dos rendimentos de produção;\n• Redução de custos operacionais;\n• Redução de desperdícios e retrabalhos.",
   "estruturaMateriais": "Fábrica de bebida alcoólica com registro de estabelecimento aprovado junto ao Ministério da Agricultura e Pecuária (MAPA).",
   "responsabilidadeEmpresaDemandante": "• Aprovar a proposta do Sebrae, valores e condições de pagamento\n• Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n• Disponibilizar agenda prévia para visitas, reuniões e atividades  propostas pelo prestador de serviço\n• Fornecer informações técnicas sobre os processos, produtos ou  serviços ao prestador de serviço para o desenvolvimento do trabalho\n• Acompanhar o prestador de serviço em visita (s) técnica (s) aos espaços físicos, se previsto no escopo do trabalho\n• Avaliar o serviço prestado.",
-  "responsabilidadePrestadora": "• Realizar reunião para alinhamento e apresentação das atividades previstas\n• Analisar a demanda e as informações fornecidas pela empresa\n • Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com  a Empresa Demandante\n• Fornecer as entregas previstas, validadas pela empresa demandante,  ao Sebrae\n• Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "responsabilidadePrestadora": "• Realizar reunião para alinhamento e apresentação das atividades previstas\n• Analisar a demanda e as informações fornecidas pela empresa\n• Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com  a Empresa Demandante\n• Fornecer as entregas previstas, validadas pela empresa demandante,  ao Sebrae\n• Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
   "perfilDesejadoPrestadora": "Formação superior em Engenharia Agrônoma, Engenharia de Produção, Engenharia de Alimentos, Engenharia Química ou Química Industrial. Profissional com especialização em tecnologia de bebidas alcoólicas (qualquer), ou experiência mínima de 2 anos em fabricação de bebidas alcoólicas.",
   "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nDespesas adicionais com terceiros (obras, aquisição de maquinário, análises laboratoriais, registros governamentais) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. Versão Data",
   "historicoAlteracoes": [
     {
       "versao": 1,
       "dataAlteracao": "03/02/2020",
-      "alteradoPor": "Alcoólicas-MMP14057-1.pdf Alcoólicas-MMP14057-2.pdf"
+      "alteradoPor": "Alcoólicas-MMP14057\n- 1. pdf Alcoólicas-MMP14057\n- 2. pdf"
     },
     {
       "versao": 2,
       "dataAlteracao": "13/04/2020",
       "alteradoPor": "Carlos Henrique"
     }
-  ],
-  "valorTeto": 12600.0,
-  "codigo": "371440103353"
+  ]
 }

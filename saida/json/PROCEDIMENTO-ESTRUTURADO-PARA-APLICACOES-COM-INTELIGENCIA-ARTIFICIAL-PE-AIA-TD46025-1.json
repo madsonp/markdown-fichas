@@ -24,17 +24,17 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Detalhar os processos e identificar tarefas passíveis de automação com apoio de IA - Análise técnica dos fluxos de trabalho - Identificação de tarefas repetitivas e padronizáveis - Definição de entradas e saídas dos processos: Determinação dos dados necessários para agentes autônomos - Levantamento de dados disponíveis e riscos operacionais, identificação de problemas que podem ser solucionados com IA.",
+      "descricao": "Detalhar os processos e identificar tarefas passíveis de automação com apoio de IA\n- Análise técnica dos fluxos de trabalho\n- Identificação de tarefas repetitivas e padronizáveis\n- Definição de entradas e saídas dos processos: Determinação dos dados necessários para agentes autônomos\n- Levantamento de dados disponíveis e riscos operacionais, identificação de problemas que podem ser solucionados com IA.",
       "entrega": "Relatório com o diagnóstico dos processos da empresa, indicando os gargalos ou processos que poderiam ser aperfeiçoados com o uso da IA."
     },
     {
       "id": "e3",
-      "titulo": "ETAPA 03 | DESENVOLVIMENTO DO PROCEDIMENTO ESTRUTURADO (PE- AIA)",
+      "titulo": "ETAPA 03 | DESENVOLVIMENTO DO PROCEDIMENTO ESTRUTURADO (PE\n- AIA)",
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Criar um procedimento formal compatível com aplicações de IA generativa ou IA tradicional - Redação de instruções em linguagem natural e técnica - Definição clara de entradas, saídas, gatilhos e exceções - Criação de estrutura narrativa padronizada para IAs - Preparação de documento compatível com formatos estruturados (JSON, TXT ou DOCX) - Sugestão de ferramentas compatíveis (ChatGPT, RPA, APIs, etc.).",
-      "entrega": "Relatório técnico final e declaração assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas além de: - Documento de escopo e planejamento; - Diagnóstico detalhado com mapeamento técnico; - Procedimento técnico (PE-AIA); - Arquivo estruturado compatível com IA; - Recomendações de aplicação prática e ferramentas. Orientar a empresa demandante sobre os riscos e oportunidades que o uso de IA pode gerar ao negócio e aos seus clientes, bem como sobre questões envolvidas na divulgação e direitos autorais de conteúdo produzido por IA."
+      "descricao": "Criar um procedimento formal compatível com aplicações de IA generativa ou IA tradicional\n- Redação de instruções em linguagem natural e técnica\n- Definição clara de entradas, saídas, gatilhos e exceções\n- Criação de estrutura narrativa padronizada para IAs\n- Preparação de documento compatível com formatos estruturados (JSON, TXT ou DOCX)\n- Sugestão de ferramentas compatíveis (ChatGPT, RPA, APIs, etc.).",
+      "entrega": "Relatório técnico final e declaração assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas além de:\n- Documento de escopo e planejamento;\n- Diagnóstico detalhado com mapeamento técnico;\n- Procedimento técnico (PE-AIA);\n- Arquivo estruturado compatível com IA;\n- Recomendações de aplicação prática e ferramentas. Orientar a empresa demandante sobre os riscos e oportunidades que o uso de IA pode gerar ao negócio e aos seus clientes, bem como sobre questões envolvidas na divulgação e direitos autorais de conteúdo produzido por IA."
     }
   ],
   "perguntasDiagnostico": [
@@ -69,7 +69,7 @@
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "Procedimentos estruturados em linguagem natural e técnica, prontos para serem integrados a ferramentas de IA. Isso inclui recomendações de uso e entregas digitais que poderão ser usadas para automação de tarefas, melhoria de produtividade e operacional. ganho escala de Os principais impactos desta consultoria incluem: • Melhora significativa da produtividade; • Redução do tempo necessário para operações internas; • Identificação de oportunidades concretas de automação e otimização de processos; • Aumento da eficiência operacional Esses resultados agregam valor ao negócio de forma estratégica, sendo ajustados para o contexto do cliente.",
+  "beneficiosResultadosEsperados": "Procedimentos estruturados em linguagem natural e técnica, prontos para serem integrados a ferramentas de IA. Isso inclui recomendações de uso e entregas digitais que poderão ser usadas para automação de tarefas, melhoria de produtividade e operacional. ganho escala de Os principais impactos desta consultoria incluem:\n• Melhora significativa da produtividade;\n• Redução do tempo necessário para operações internas;\n• Identificação de oportunidades concretas de automação e otimização de processos;\n• Aumento da eficiência operacional Esses resultados agregam valor ao negócio de forma estratégica, sendo ajustados para o contexto do cliente.",
   "estruturaMateriais": "Assinaturas dos sistemas/ferramentas de Inteligência Artificial necessários",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Realizar a aquisição de hardwares, softwares e serviços de instalação e configuração dos mesmos realizados por terceiros, especificados pelo consultor, em tempo hábil, conforme cronograma de implementação, para integração do processo produtivo\n7. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\nLimita-se a elaboração do diagnóstico, do procedimento estruturado e da recomendação, sem execução de integração ou desenvolvimento de soluções tecnológicas.",
@@ -81,6 +81,5 @@
       "dataAlteracao": "18/07/2025",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "372000113103"
+  ]
 }

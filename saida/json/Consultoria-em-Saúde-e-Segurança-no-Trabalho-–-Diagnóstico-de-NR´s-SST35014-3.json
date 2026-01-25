@@ -29,11 +29,11 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Com base na avaliação inicial na etapa anterior, deve-se organizar as informações e elaborar o relatório do diagnóstico de NR´s, conforme ações recomendadas Diagnóstico de Normas Regulamentadoras (NR´s) a. Realizar visita inicial de auditoria b. Apontar as NR´s, aplicáveis e não aplicáveis ao negócio c. Para as não conformidades apontadas, elaborar plano de ação com datas e responsáveis d. Entregar o relatório ao cliente e. Propor medidas de atendimento as conformidades.",
-      "entrega": "• Documento do diagnóstico, contendo plano de ação e assinatura do(s) profissional(is) de segurança responsável(is) pela elaboração. • Assinatura pela empresa demandante, atestando o recebimento da entrega realizada pelo prestador de serviço e que explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+      "entrega": "• Documento do diagnóstico, contendo plano de ação e assinatura do(s) profissional(is) de segurança responsável(is) pela elaboração.\n• Assinatura pela empresa demandante, atestando o recebimento da entrega realizada pelo prestador de serviço e que explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "• Evitar multas e notificações. • Proteção para as exigências da legislação. • Redução de dos riscos ambientais, acidentes de trabalho e doenças ocupacionais. • Aumento de produtividade e lucros da empresa. • Contribui para demonstrar que a empresa é socialmente responsável. • Conter despesas médicas, índices de absenteísmo e afastamentos. • Maior custo-benefício dos programas de prevenção. • Protege e reforça a imagem e o valor da marca. • Mão-de-obra mais competente e mais saudável. • Ambiente de trabalho mais seguro. • Adquirir o serviço de um fornecedor reconhecido pelo mercado.",
+  "beneficiosResultadosEsperados": "• Evitar multas e notificações.\n• Proteção para as exigências da legislação.\n• Redução de dos riscos ambientais, acidentes de trabalho e doenças ocupacionais.\n• Aumento de produtividade e lucros da empresa.\n• Contribui para demonstrar que a empresa é socialmente responsável.\n• Conter despesas médicas, índices de absenteísmo e afastamentos.\n• Maior custo-benefício dos programas de prevenção.\n• Protege e reforça a imagem e o valor da marca.\n• Mão-de-obra mais competente e mais saudável.\n• Ambiente de trabalho mais seguro.\n• Adquirir o serviço de um fornecedor reconhecido pelo mercado.",
   "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Arcar com o pagamento de eventuais taxas cobradas pelos órgãos responsáveis para fins de cadastro\n2. Ter, no mínimo, um empregado celetista\n3. Aprovar a proposta do Sebrae, valores e condições de pagamento\n4. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n5. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n6. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n7. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n8. Avaliar o serviço prestado\n9. Comprometer-se com a execução do plano de ação proposto na consultoria.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
@@ -43,7 +43,7 @@
     {
       "versao": 1,
       "dataAlteracao": "30/07/2019",
-      "alteradoPor": "Diagnóstico-de-NR´s-SST35014-1.pdf Diagnóstico-de-NR´s-SST35014-2.pdf Diagnóstico-de-NR´s-SST35014-3.pdf"
+      "alteradoPor": "Diagnóstico-de-NR´s-SST35014\n- 1. pdf Diagnóstico-de-NR´s-SST35014\n- 2. pdf Diagnóstico-de-NR´s-SST35014\n- 3. pdf"
     },
     {
       "versao": 2,
@@ -55,7 +55,5 @@
       "dataAlteracao": "22/04/2020",
       "alteradoPor": "Lopes Barbalho"
     }
-  ],
-  "valorTeto": 5000.0,
-  "codigo": "371440100453"
+  ]
 }

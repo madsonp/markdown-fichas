@@ -1,6 +1,6 @@
 {
   "id": "24002-4",
-  "nomeSolucao": "UX - EXPERIÊNCIA DO USUÁRIO EM AMBIENTES DIGITAIS",
+  "nomeSolucao": "UX\n- EXPERIÊNCIA DO USUÁRIO EM AMBIENTES DIGITAIS",
   "tema": "Design",
   "subtema": "Design de Serviço",
   "tipoServico": "Consultoria tecnológica",
@@ -28,16 +28,16 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Esta etapa consiste em realizar o mapeamento atual do processo e/ou aprofundamento dos potenciais pontos de melhoria de usabilidade da solução atual. Realizando as seguintes ações • Definição da Persona • Levantamento dos principais pontos de contato com a tecnologia • Mapeamento atual do processo e jornada do cliente • Entrevista guiada com potenciais usuários da tecnologia com a finalidade de obtenção de reações durante o uso • Bechmarking • Levantamento dos principais pontos de melhoria ou problemas de usabilidade • Definição das métricas de avaliação da experiência do usuário",
+      "descricao": "Esta etapa consiste em realizar o mapeamento atual do processo e/ou aprofundamento dos potenciais pontos de melhoria de usabilidade da solução atual. Realizando as seguintes ações\n• Definição da Persona\n• Levantamento dos principais pontos de contato com a tecnologia\n• Mapeamento atual do processo e jornada do cliente\n• Entrevista guiada com potenciais usuários da tecnologia com a finalidade de obtenção de reações durante o uso\n• Bechmarking\n• Levantamento dos principais pontos de melhoria ou problemas de usabilidade\n• Definição das métricas de avaliação da experiência do usuário",
       "entrega": "Relatório contendo o conteúdo dos itens aplicáveis como definição da persona, mapeamento atual do processo e pontos de melhoria na usabilidade baseados nas reações de usuários reais da tecnologia a ser aperfeiçoada, pesquisa de benchmarking, etc. (quando houver)."
     },
     {
       "id": "e3",
-      "titulo": "ETAPA 03 | DESIGN DE INTERFACE DO AMBIENTE DIGITAL - EXPERIÊNCIA DO USUÁRIO",
+      "titulo": "ETAPA 03 | DESIGN DE INTERFACE DO AMBIENTE DIGITAL\n- EXPERIÊNCIA DO USUÁRIO",
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Realizar consultoria para desenvolvimento da interface de plataforma digital, portais web, hotsites ou ambiente on-line para interação com clientes observando os seguintes aspectos • Prototipação o Definição da técnica/nível de fidelidade (utilizando programa próprio de design de interface com ampla relevância, tais como Adobe XD, Figma ou Sketch) o Estratégia de interface o Escopo contento todas as funcionalidade prototipadas • Avaliação de Interface/ testes de usabilidade • Programação Visual o Levantamento de referências com os empreendedores / Pesquisa conceitual/estética o Produção dos layouts (PNG, JPG, PDF ou outra ferramenta) o Elementos visuais para o desenvolvimento (ícones, especificação de cores, fontes, assets)",
+      "descricao": "Realizar consultoria para desenvolvimento da interface de plataforma digital, portais web, hotsites ou ambiente on-line para interação com clientes observando os seguintes aspectos\n• Prototipação o Definição da técnica/nível de fidelidade (utilizando programa próprio de design de interface com ampla relevância, tais como Adobe XD, Figma ou Sketch) o Estratégia de interface o Escopo contento todas as funcionalidade prototipadas\n• Avaliação de Interface/ testes de usabilidade\n• Programação Visual o Levantamento de referências com os empreendedores / Pesquisa conceitual/estética o Produção dos layouts (PNG, JPG, PDF ou outra ferramenta) o Elementos visuais para o desenvolvimento (ícones, especificação de cores, fontes, assets)",
       "entrega": "Documentação para desenvolvedores contendo todas as informações necessárias para aplicação das alterações nas plataformas digitais bem como as imagens em arquivos tanto editáveis quanto prontos para inclusão nos ambientes digitais, protótipo de alta fidelidade e navegável e Relatório Final com os aspectos técnicos do projeto desenvolvido (oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões); e evidências das melhorias na experiência do usuários, de acordo com as métricas estabelecidas. Declaração assinada pelo empresário atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
@@ -86,7 +86,7 @@
     },
     {
       "id": "8",
-      "pergunta": "Pré-venda e venda on-line: ",
+      "pergunta": "Pré-venda e venda on-line:",
       "tipo": "texto",
       "obrigatoria": true
     }
@@ -95,13 +95,13 @@
   "estruturaMateriais": "Utilizar softwares apropriados para prototipagem que possibilitem alta fidelidade e navegável",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
-  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com experiência em Design Front-End e UX ",
-  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nA consultoria não inclui a produção de informações técnicas necessárias ao consumidor de modo a se atender requisitos legais\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. VEDAÇÕES • Aquisições ou pagamentos de material promocional, fotografias profissionais de produtos, aquisição de softwares, serviços de servidor e hospedagem de plataformas / sites, domínio web, registro e anuidades de domínio, licenças de software, framework para licenças de uso android/iOS, desenvolvimento de sistemas, mídias publicitárias (ads); Integração com serviços de terceiros (ex: integração da área de cliente com softwares de gestão); licenças de • Desenvolvimento de sistemas web ou customização avançada de ferramentas; • Compra de mídias digitais de qualquer formato ou para qualquer canal existente (Adwords, Facebook Ads, etc); • Desenvolvimento de intranets e extranets; • Hospedagem em host de websites, portais corporativos ou blogs em qualquer plataforma existente ou a ser desenvolvida pela prestadora; • Compra de domínios na web, URL e endereços eletrônicos; • Produção e/ou monitoramento de conteúdos para os canais digitais; • Manutenção do site posteriormente ao seu desenvolvimento.",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com experiência em Design Front-End e UX",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nA consultoria não inclui a produção de informações técnicas necessárias ao consumidor de modo a se atender requisitos legais\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à (direitos autorais, aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. VEDAÇÕES\n• Aquisições ou pagamentos de material promocional, fotografias profissionais de produtos, aquisição de softwares, serviços de servidor e hospedagem de plataformas / sites, domínio web, registro e anuidades de domínio, licenças de software, framework para licenças de uso android/iOS, desenvolvimento de sistemas, mídias publicitárias (ads); Integração com serviços de terceiros (ex: integração da área de cliente com softwares de gestão); licenças de\n• Desenvolvimento de sistemas web ou customização avançada de ferramentas;\n• Compra de mídias digitais de qualquer formato ou para qualquer canal existente (Adwords, Facebook Ads, etc);\n• Desenvolvimento de intranets e extranets;\n• Hospedagem em host de websites, portais corporativos ou blogs em qualquer plataforma existente ou a ser desenvolvida pela prestadora;\n• Compra de domínios na web, URL e endereços eletrônicos;\n• Produção e/ou monitoramento de conteúdos para os canais digitais;\n• Manutenção do site posteriormente ao seu desenvolvimento.",
   "historicoAlteracoes": [
     {
       "versao": 1,
       "dataAlteracao": "26/02/2019",
-      "alteradoPor": "DS24002-1.pdf DS24002-2.pdf Experiencia-do-Usuario-em- Ambientes-Digitais-DS24002-3.pdf Experiencia-do-Usuario-em- Ambientes-Digitais-DS24002-4.pdf Coordenação Sebraetec"
+      "alteradoPor": "DS24002\n- 1. pdf DS24002\n- 2. pdf Experiencia-do-Usuario-em\n- Ambientes-Digitais-DS24002\n- 3. pdf Experiencia-do-Usuario-em\n- Ambientes-Digitais-DS24002\n- 4. pdf Coordenação Sebraetec"
     },
     {
       "versao": 2,
@@ -113,6 +113,5 @@
       "dataAlteracao": "31/08/2020",
       "alteradoPor": "Marijara Leal Coordenação Sebraetec"
     }
-  ],
-  "codigo": "371440100412"
+  ]
 }

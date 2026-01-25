@@ -1,6 +1,6 @@
 {
   "id": "35024-2",
-  "nomeSolucao": "AVALIAÇÃO AMBIENTAL - AGENTES FÍSICOS (VIBRAÇÃO)",
+  "nomeSolucao": "AVALIAÇÃO AMBIENTAL\n- AGENTES FÍSICOS (VIBRAÇÃO)",
   "tema": "Sustentabilidade",
   "subtema": "Saúde e Segurança no Trabalho",
   "tipoServico": "Acesso a Serviço Tecnológico",
@@ -11,7 +11,7 @@
     "Artesão"
   ],
   "setor": "Agronegócios, Comércio, Indústria e Serviços",
-  "descricao": "A consultoria visa adequação da empresa quanto à prevenção dos riscos de saúde e segurança ocupacional, bem como compor exigências dos Programas legais, com base legal na Portaria do MTPS nº 3.214/78 e suas Normas Regulamentadoras – NR’s 9, 15 e 18 que estabelecem a obrigatoriedade de avaliar os agentes físicos vibrações decorrentes da exposição à Vibração de Mãos e Braços (VMB) e Vibração de Corpo Inteiro (VCI) expostas aos trabalhadores em suas atividades laborativas. ",
+  "descricao": "A consultoria visa adequação da empresa quanto à prevenção dos riscos de saúde e segurança ocupacional, bem como compor exigências dos Programas legais, com base legal na Portaria do MTPS nº\n3. 214/78 e suas Normas Regulamentadoras – NR’s 9, 15 e 18 que estabelecem a obrigatoriedade de avaliar os agentes físicos vibrações decorrentes da exposição à Vibração de Mãos e Braços (VMB) e Vibração de Corpo Inteiro (VCI) expostas aos trabalhadores em suas atividades laborativas. ",
   "etapas": [
     {
       "id": "e1",
@@ -28,13 +28,13 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Com base na avaliação inicial realizada na etapa anterior, deve-se organizar as informações e elaborar o documento de Avaliações de vibração, conforme ações recomendadas • Visita técnica para coleta de informações técnicas e administrativas relacionadas aos veículos, às máquinas e aos equipamentos, às operações e demais parâmetros ambientais, de processos de trabalho, utilizando - se de equipamento de medição para avaliar vibração (Acelerômetro).",
-      "entrega": "• Apresentação e entrega das planilhas de Avaliações Ambientais – Agentes Físicos - Vibrações. • Relatório de análises e certificados de calibração dos equipamentos. • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço e que explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+      "descricao": "Com base na avaliação inicial realizada na etapa anterior, deve-se organizar as informações e elaborar o documento de Avaliações de vibração, conforme ações recomendadas\n• Visita técnica para coleta de informações técnicas e administrativas relacionadas aos veículos, às máquinas e aos equipamentos, às operações e demais parâmetros ambientais, de processos de trabalho, utilizando\n- se de equipamento de medição para avaliar vibração (Acelerômetro).",
+      "entrega": "• Apresentação e entrega das planilhas de Avaliações Ambientais – Agentes Físicos\n- Vibrações.\n• Relatório de análises e certificados de calibração dos equipamentos.\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço e que explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "• Proteção para as exigências da legislação. • Redução de acidentes de trabalho e doenças ocupacionais. • Aumento de produtividade e lucros da empresa. • Contribui para demonstrar que a empresa é socialmente responsável. • Conter despesas médicas, índices de absenteísmo e afastamentos. • Maior custo-benefício dos programas de prevenção. • Protege e reforça a imagem e o valor da marca. • Mão-de-obra mais competente e mais saudável. • Ambiente de trabalho mais seguro. • Adquirir o serviço de um fornecedor reconhecido pelo mercado.",
-  "estruturaMateriais": "Equipamentos de medição para Avaliação dos Agentes Físicos Vibrações (Acelerômetro)\n",
+  "beneficiosResultadosEsperados": "• Proteção para as exigências da legislação.\n• Redução de acidentes de trabalho e doenças ocupacionais.\n• Aumento de produtividade e lucros da empresa.\n• Contribui para demonstrar que a empresa é socialmente responsável.\n• Conter despesas médicas, índices de absenteísmo e afastamentos.\n• Maior custo-benefício dos programas de prevenção.\n• Protege e reforça a imagem e o valor da marca.\n• Mão-de-obra mais competente e mais saudável.\n• Ambiente de trabalho mais seguro.\n• Adquirir o serviço de um fornecedor reconhecido pelo mercado.",
+  "estruturaMateriais": "Equipamentos de medição para Avaliação dos Agentes Físicos Vibrações (Acelerômetro).",
   "responsabilidadeEmpresaDemandante": "1. Arcar com o pagamento de eventuais taxas cobradas pelos órgãos responsáveis para fins de cadastro (exceto ART, que é de responsabilidade da prestadora de serviço)\n2. Aprovar a proposta do Sebrae, valores e condições de pagamento\n3. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n4. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n5. Fornecer informações técnicas sobre os processos, produtos ou serviço ao prestador de serviço para o desenvolvimento do trabalho\n6. Acompanhar o prestador de serviço em visita (s) técnica (s) aos espaços físicos, se previsto no escopo do trabalho\n7. Avaliar o serviço prestado\n8. Comprometer-se com a execução do plano de ação proposto na consultoria, quando aplicável.",
   "responsabilidadePrestadora": "1. Realizar visita técnica para reconhecimento do ambiente de trabalho\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
   "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais que atendam a Legislação vigente sendo designado o Técnico de Segurança do Trabalho para o desenvolvimento dessa consultoria.",
@@ -43,14 +43,12 @@
     {
       "versao": 1,
       "dataAlteracao": "10/03/2020",
-      "alteradoPor": "Ambiental-Agentes-Físicos-Vibração- SST35024-1.pdf Ambiental-Agentes-Físicos-Vibração- SST35024-2.pdf"
+      "alteradoPor": "Ambiental-Agentes-Físicos-Vibração\n- SST35024\n- 1. pdf Ambiental-Agentes-Físicos-Vibração\n- SST35024\n- 2. pdf"
     },
     {
       "versao": 2,
       "dataAlteracao": "22/04/2020",
       "alteradoPor": "Danisson Luiz dos"
     }
-  ],
-  "valorTeto": 5040.0,
-  "codigo": "371440103482"
+  ]
 }

@@ -26,13 +26,13 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Deve-se organizar as informações e orientar a empresa para o processo de implantação de pré-pesagem realizando as seguintes tarefas, quando aplicáveis • Definir a área, propor adequações e indicar os utensílios e equipamentos para a pré-pesagem • Avaliar as fichas técnicas existentes, fragmentar as formulações de acordo a demanda e a capacidade de produção e a capacidades dos equipamentos • Elaborar calendário de produção e implantar rotinas e controles • Acompanhar a implantação de adequações.",
-      "entrega": "• Relatório contendo informações sobre: Onde será instalada a pré-pesagem, layout para adequação da área atendendo as Normas que regem as BPF’s; Relação dos utensílios e equipamentos que serão necessários para a implantação; Fichas técnicas validadas e, corrigidas e atualizadas; Formulações fragmentadas de acordo com a rotina de fabricação e a capacidade dos equipamentos, atendendo a relação, demanda x Capacidade produtiva; Planilhas e formulários; Ordem de produção; Calendário de Produção; Acompanhamento da implementação e produção; e proposta de melhorias assinado pela empresa demandante. • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+      "descricao": "Deve-se organizar as informações e orientar a empresa para o processo de implantação de pré-pesagem realizando as seguintes tarefas, quando aplicáveis\n• Definir a área, propor adequações e indicar os utensílios e equipamentos para a pré-pesagem\n• Avaliar as fichas técnicas existentes, fragmentar as formulações de acordo a demanda e a capacidade de produção e a capacidades dos equipamentos\n• Elaborar calendário de produção e implantar rotinas e controles\n• Acompanhar a implantação de adequações.",
+      "entrega": "• Relatório contendo informações sobre: Onde será instalada a pré-pesagem, layout para adequação da área atendendo as Normas que regem as BPF’s; Relação dos utensílios e equipamentos que serão necessários para a implantação; Fichas técnicas validadas e, corrigidas e atualizadas; Formulações fragmentadas de acordo com a rotina de fabricação e a capacidade dos equipamentos, atendendo a relação, demanda x Capacidade produtiva; Planilhas e formulários; Ordem de produção; Calendário de Produção; Acompanhamento da implementação e produção; e proposta de melhorias assinado pela empresa demandante.\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "Esta consultoria tem como objetivo a implantação de setor de pré-pesagem, que consiste em preparar previamente os ingredientes de um produto visando atender a demanda, padronizando os produtos e diminuindo do tempo de produção (lead time).",
-  "estruturaMateriais": "- ",
+  "beneficiosResultadosEsperados": "Esta consultoria tem como objetivo a implantação de setor de pré-pesagem, que consiste em preparar previamente os ingredientes de um produto visando atender a demanda, padronizando os produtos e diminuindo do tempo de produção (lead time).\n1. Otimização do processo;\n2. Aumento da produtividade;\n3. Redução de desperdício.",
+  "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
   "perfilDesejadoPrestadora": "Corpo técnico composto por Nutricionistas, Engº de alimentos, e Tecnólogos em Gastronomia.",
@@ -53,7 +53,5 @@
       "dataAlteracao": "16/04/2020",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "valorTeto": 16400.0,
-  "codigo": "371440100310"
+  ]
 }

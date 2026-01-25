@@ -1,6 +1,6 @@
 {
   "id": "35023-2",
-  "nomeSolucao": "ADEQUAÇÃO À NR 13 - INSPEÇÃO DE CALDEIRAS E VASOS DE PRESSÃO",
+  "nomeSolucao": "ADEQUAÇÃO À NR 13\n- INSPEÇÃO DE CALDEIRAS E VASOS DE PRESSÃO",
   "tema": "Sustentabilidade",
   "subtema": "Saúde e Segurança no Trabalho",
   "tipoServico": "Acesso a Serviço Tecnológico",
@@ -32,23 +32,22 @@
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "• Proteção para as exigências da legislação vigente conforme NR 13. • Preservação da saúde e da integridade dos trabalhadores no desempenho das suas atividades, através da antecipação, reconhecimento, avaliação e consequente controle de riscos; • Proteção para as exigências da legislação. • Contribui para demonstrar que a empresa é socialmente responsável. • Conter despesas médicas, índices de absenteísmo e afastamentos. • Protege e reforça a imagem e o valor da marca. • Ambiente de trabalho mais seguro. • Adquirir o serviço de um fornecedor reconhecido pelo mercado.",
+  "beneficiosResultadosEsperados": "• Proteção para as exigências da legislação vigente conforme NR\n13. • Preservação da saúde e da integridade dos trabalhadores no desempenho das suas atividades, através da antecipação, reconhecimento, avaliação e consequente controle de riscos;\n• Proteção para as exigências da legislação.\n• Contribui para demonstrar que a empresa é socialmente responsável.\n• Conter despesas médicas, índices de absenteísmo e afastamentos.\n• Protege e reforça a imagem e o valor da marca.\n• Ambiente de trabalho mais seguro.\n• Adquirir o serviço de um fornecedor reconhecido pelo mercado.",
   "estruturaMateriais": "Ferramenta de medição de espessura de materiais ultrassom.",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer toda a documentação necessária para avaliação\n5. Disponibilizar funcionário para acompanhamento da execução do serviço, inclusive para preparação das máquinas caso haja necessidade\n6. Avaliar o serviço prestado;",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. O pagamento da ART.",
-  "perfilDesejadoPrestadora": "Corpo técnico formado por Engenheiro Mecânico com especialização em Engenharia de segurança do Trabalho com o devido registro no conselho de classe\n",
-  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nO serviço ofertado é de inspeção, não estando inclusos manutenções, (direitos autorais, substituição de peças e calibrações\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. ",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por Engenheiro Mecânico com especialização em Engenharia de segurança do Trabalho com o devido registro no conselho de classe.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele durante a validação da proposta de trabalho\nO serviço ofertado é de inspeção, não estando inclusos manutenções, (direitos autorais, substituição de peças e calibrações\nÉ de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
   "historicoAlteracoes": [
     {
       "versao": 1,
       "dataAlteracao": "23/10/2019",
-      "alteradoPor": "Vasos-de-Pressão-SST35023-1.pdf Vasos-de-Pressão-SST35023-2.pdf"
+      "alteradoPor": "Vasos-de-Pressão-SST35023\n- 1. pdf Vasos-de-Pressão-SST35023\n- 2. pdf"
     },
     {
       "versao": 2,
       "dataAlteracao": "22/04/2020",
       "alteradoPor": "Caroline da Costa Antunes"
     }
-  ],
-  "codigo": "371440100518"
+  ]
 }

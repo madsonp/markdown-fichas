@@ -28,7 +28,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Diagnóstico da empresa e do layout produtivo, observando os seguintes aspectos, quando aplicáveis • Levantamento das sequências dos fluxos operacionais dos produtos • Medição dos espaços produtivos, máquinas, equipamentos e móveis do setor registros de imagens • Elaboração do arranjo físico do estado presente.",
+      "descricao": "Diagnóstico da empresa e do layout produtivo, observando os seguintes aspectos, quando aplicáveis\n• Levantamento das sequências dos fluxos operacionais dos produtos\n• Medição dos espaços produtivos, máquinas, equipamentos e móveis do setor registros de imagens\n• Elaboração do arranjo físico do estado presente.",
       "entrega": "Relatório do diagnóstico da empresa, contendo: fluxos operacionais dos produtos, gargalos, esboço da planta industrial e planta industrial da situação presente em formato 2D ou 3D; assinado pela empresa demandante."
     },
     {
@@ -37,8 +37,8 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Com base no(s) diagnóstico(s) realizado(s) na etapa anterior, deve-se organizar as informações e orientar a empresa para o processo de melhoria do layout produtivo, como recomendado • Propor estratégias para a otimização do layout • Elaboração e determinação do arranjo físico do estado futuro da empresa • Propor indicadores que possibilitem o acompanhamento dos resultados provenientes do rearranjo • Acompanhamento da execução do rearranjo do layout de máquinas, equipamentos e fluxos proposto.",
-      "entrega": "• Relatório Técnico Final contendo a planta industrial do estado futuro da empresa em formato digital 2D ou 3D, bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos, caso necessário), oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou presencialmente ao cliente o conteúdo da(s) entrega(s) efetivadas."
+      "descricao": "Com base no(s) diagnóstico(s) realizado(s) na etapa anterior, deve-se organizar as informações e orientar a empresa para o processo de melhoria do layout produtivo, como recomendado\n• Propor estratégias para a otimização do layout\n• Elaboração e determinação do arranjo físico do estado futuro da empresa\n• Propor indicadores que possibilitem o acompanhamento dos resultados provenientes do rearranjo\n• Acompanhamento da execução do rearranjo do layout de máquinas, equipamentos e fluxos proposto.",
+      "entrega": "• Relatório Técnico Final contendo a planta industrial do estado futuro da empresa em formato digital 2D ou 3D, bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos, caso necessário), oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões;\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou presencialmente ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [
@@ -50,7 +50,7 @@
     },
     {
       "id": "2",
-      "pergunta": "Qual é o produto/serviço da empresa? ",
+      "pergunta": "Qual é o produto/serviço da empresa?",
       "tipo": "texto",
       "obrigatoria": true
     },
@@ -85,7 +85,7 @@
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "• Menor perda de tempo com o manuseio de materiais; • Menor congestionamento nos postos de trabalhos; • Treinamento e controle facilitado;",
+  "beneficiosResultadosEsperados": "• Menor perda de tempo com o manuseio de materiais;\n• Menor congestionamento nos postos de trabalhos;\n• Treinamento e controle facilitado;\n• Redução de material utilizado em processo, menos desperdício;\n• Melhoria do fluxo interno de pessoas;\n• Melhor utilização do espaço disponível;\n• Facilidade no controle e supervisão das atividades;\n• Redução do tempo entre processos;\n• Redução de custos;\n• Redução da ociosidade de máquinas e funcionários.",
   "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
@@ -102,6 +102,5 @@
       "dataAlteracao": "03/04/2020",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "371440100323"
+  ]
 }

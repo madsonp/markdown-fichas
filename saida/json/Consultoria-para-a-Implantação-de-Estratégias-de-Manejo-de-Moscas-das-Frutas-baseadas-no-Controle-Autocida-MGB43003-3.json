@@ -10,7 +10,7 @@
     "Produtor Rural"
   ],
   "setor": "Agronegócio",
-  "descricao": "A Consultoria objetiva promover a redução do ataque por moscas-das-frutas (Ceratitis capitata) em frutos hospedeiros. Como Objetivos Específicos, tem-se: • Implementar a Técnica do Inseto Estéril (TIE) como ferramenta do manejo integrado de moscas-das-frutas; • Promover a redução da população de moscas das frutas nos pomares comerciais.",
+  "descricao": "A Consultoria objetiva promover a redução do ataque por moscas-das-frutas (Ceratitis capitata) em frutos hospedeiros. Como Objetivos Específicos, tem-se:\n• Implementar a Técnica do Inseto Estéril (TIE) como ferramenta do manejo integrado de moscas-das-frutas;\n• Promover a redução da população de moscas das frutas nos pomares comerciais.",
   "etapas": [
     {
       "id": "e1",
@@ -18,7 +18,7 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "1.1. Produção do Inseto Estéril de Ceratitis capitata 1.2. O Controle Autocida será iniciado, com liberação de insetos estéreis utilizando densidade de 1.500 a 3.000 insetos/ hectare por semana durante o período da Consultoria, sempre que o índice MAD (Mosca/ Armadilha/ Dia) (inferior a 0,20) for compatível com o uso da Técnica do Inseto Estéril (TIE).",
+      "descricao": "1.\n1. Produção do Inseto Estéril de Ceratitis capitata\n1. 2. O Controle Autocida será iniciado, com liberação de insetos estéreis utilizando densidade de\n1. 500 a\n3. 000 insetos/ hectare por semana durante o período da Consultoria, sempre que o índice MAD (Mosca/ Armadilha/ Dia) (inferior a 0,20) for compatível com o uso da Técnica do Inseto Estéril (TIE).",
       "entrega": "Relatório Técnico Inicial evidenciando a estruturação do sistema de produção do macho estéril mediante o estabelecimento de colônias. O Relatório deve conter o seguinte conteúdo mínimo: Capa; Situação verificada na Empresa; Objetivo(s) da Consultoria; Metodologia; Resultado(s) Esperado(s) e/ou alcançado(s) pela Consultoria; Plano de Ação e Cronograma Proposto; Registros Fotográficos."
     },
     {
@@ -27,8 +27,8 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "2.1. Acompanhamentos dos índices de infestação de moscas-das-frutas no campo, em continuidade ao promovido na Consultoria para o Monitoramento de Moscas-das-Frutas em Pomares de Frutas 2.2. Emissão de Relatórios 2.3. Durante o período de Consultoria, de 06 (seis) meses, o Cliente receberá semanalmente um informe com o Índice MAD (Mosca/ Armadilha/ Dia) da área. Ao final da Consultoria será elaborado 01 (um) Relatório notificando- se o nível de infestação da praga nas propriedades no período avaliado.",
-      "entrega": "Relatório Técnico Bimestral contendo os resultados das medições semanais e demonstrando a eficiência da ferramenta de controle implementada (TIE) através da relação MAD Estéril/ MAD Fértil (entre 6.000 a 12.000 machos estéreis/hectare em cada mês). O Relatório deve conter o seguinte conteúdo mínimo: Capa; Situação verificada na Empresa; Objetivo(s) da Consultoria; Metodologia; Resultado(s) Esperado(s) e/ou alcançado(s) pela Consultoria; Plano de Ação e Cronograma Proposto; Registros Fotográficos."
+      "descricao": "2.\n1. Acompanhamentos dos índices de infestação de moscas-das-frutas no campo, em continuidade ao promovido na Consultoria para o Monitoramento de Moscas-das-Frutas em Pomares de Frutas\n2. 2. Emissão de Relatórios\n2. 3. Durante o período de Consultoria, de 06 (seis) meses, o Cliente receberá semanalmente um informe com o Índice MAD (Mosca/ Armadilha/ Dia) da área. Ao final da Consultoria será elaborado 01 (um) Relatório notificando\n- se o nível de infestação da praga nas propriedades no período avaliado.",
+      "entrega": "Relatório Técnico Bimestral contendo os resultados das medições semanais e demonstrando a eficiência da ferramenta de controle implementada (TIE) através da relação MAD Estéril/ MAD Fértil (entre\n6. 000 a\n12. 000 machos estéreis/hectare em cada mês). O Relatório deve conter o seguinte conteúdo mínimo: Capa; Situação verificada na Empresa; Objetivo(s) da Consultoria; Metodologia; Resultado(s) Esperado(s) e/ou alcançado(s) pela Consultoria; Plano de Ação e Cronograma Proposto; Registros Fotográficos."
     }
   ],
   "perguntasDiagnostico": [
@@ -64,7 +64,7 @@
     },
     {
       "id": "6",
-      "pergunta": "Possui registros das perdas decorrentes de infestação por moscas-das- frutas?",
+      "pergunta": "Possui registros das perdas decorrentes de infestação por moscas-das\n- frutas?",
       "tipo": "sim_nao",
       "obrigatoria": true
     },
@@ -82,22 +82,22 @@
     },
     {
       "id": "9",
-      "pergunta": "O cliente já foi atendido pela Consultoria para o Monitoramento de Moscas- das-Frutas em Pomares de Frutas?",
+      "pergunta": "O cliente já foi atendido pela Consultoria para o Monitoramento de Moscas\n- das-Frutas em Pomares de Frutas?",
       "tipo": "sim_nao",
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "Como potenciais benefícios da Consultoria, tem-se: • Redução dos ataques de moscas-das-frutas em pomares comerciais; • Agregar valor a fruta produzida; • Reduzir a aplicação de produtos químicos; • Realizar o manejo integrado de moscas-das-frutas com foco na TIE; • Abertura de novos mercados para exportação de frutas.",
+  "beneficiosResultadosEsperados": "Como potenciais benefícios da Consultoria, tem-se:\n• Redução dos ataques de moscas-das-frutas em pomares comerciais;\n• Agregar valor a fruta produzida;\n• Reduzir a aplicação de produtos químicos;\n• Realizar o manejo integrado de moscas-das-frutas com foco na TIE;\n• Abertura de novos mercados para exportação de frutas.",
   "estruturaMateriais": "Instalação, realocação, manutenção e revisão de uma rede de armadilhas para o monitoramento de moscas-das-frutas, do tipo Jackson e McPhail (ou similares) instaladas previamente, em regime de COMODATO, nos perímetros para o monitoramento da praga. A densidade de armadilhas utilizada nesta rede será de\n01 armadilha do tipo Jackson e 01 armadilha do tipo McPhail para cada unidade produtiva até o tamanho de 10 hectares, sendo 90% armadilhas Jackson e 10% armadilhas McPhail, de acordo com a Instrução Normativa IN-20 do Ministério da Agricultura, Pecuária e Abastecimento. É obrigatório a utilização de, no mínimo, uma armadilha de cada tipo de por propriedade. As armadilhas Jackson deverão conter iscas atrativas a base do paraferomônio trimedlure e as McPhail com proteína hidrolisada (ou similares).",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Fornecer os matérias apresentados no item 11. Estrutura e materiais necessários\n6. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
-  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com experiência na adoção de medidas fitossanitárias e no controle de pragas em pomares causados por moscas-das- frutas\n",
-  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs visitas técnicas nas unidades produtivas ocorrerão independentemente da fase fenológica da cultura\nObservação: Para contratação desta Consultoria, é necessário já ter realizado previamente a contratação da Consultoria para o Monitoramento de Moscas-das-Frutas em Pomares de Frutas por um período de 12 (doze) meses\nPrazo Máximo de Entrega: 180 dias. ",
+  "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com experiência na adoção de medidas fitossanitárias e no controle de pragas em pomares causados por moscas-das\n- frutas.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs visitas técnicas nas unidades produtivas ocorrerão independentemente da fase fenológica da cultura\nObservação: Para contratação desta Consultoria, é necessário já ter realizado previamente a contratação da Consultoria para o Monitoramento de Moscas-das-Frutas em Pomares de Frutas por um período de 12 (doze) meses\nPrazo Máximo de Entrega: 180 dias.",
   "historicoAlteracoes": [
     {
       "versao": 1,
       "dataAlteracao": "24/04/2019",
-      "alteradoPor": "Manejo-de-Moscas-das-Frutas- MGB43003-1.pdf Manejo-de-Moscas-das-Frutas- MGB43003-2.pdf Manejo-de-Moscas-das-Frutas- MGB43003-3.pdf"
+      "alteradoPor": "Manejo-de-Moscas-das-Frutas\n- MGB43003\n- 1. pdf Manejo-de-Moscas-das-Frutas\n- MGB43003\n- 2. pdf Manejo-de-Moscas-das-Frutas\n- MGB43003\n- 3. pdf"
     },
     {
       "versao": 2,
@@ -109,7 +109,5 @@
       "dataAlteracao": "14/04/2020",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "valorTeto": 16530.0,
-  "codigo": "371440100448"
+  ]
 }

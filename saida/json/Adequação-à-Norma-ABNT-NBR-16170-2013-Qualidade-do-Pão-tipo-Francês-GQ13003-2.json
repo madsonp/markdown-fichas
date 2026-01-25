@@ -1,6 +1,6 @@
 {
   "id": "13003-2",
-  "nomeSolucao": "ADEQUAÇÃO À NORMA ABNT NBR 16170:2013 - QUALIDADE DO PÃO TIPO FRANCÊS",
+  "nomeSolucao": "ADEQUAÇÃO À NORMA ABNT NBR 16170:2013\n- QUALIDADE DO PÃO TIPO FRANCÊS",
   "tema": "Produção e Qualidade",
   "subtema": "Gestão da Qualidade",
   "tipoServico": "Consultoria tecnológica",
@@ -26,8 +26,8 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Abrange a coleta e análise dos pães tipo francês e o acompanhamento do seu processo de fabricação nos turnos da manhã e da tarde • São recolhidas amostras das primeiras fornadas do dia, que se referem ao pão produzido à noite. Ao longo do dia, também são coletadas amostras dos pães vendidos no turno da manhã e da tarde • Os pães coletados são avaliados de acordo com os preceitos da norma ABNT NBR 16170:2013, preenchendo-se uma ficha de avaliação para cada amostra identificada, conforme modelo de ficha de avaliação que é parte integrante dessa norma • Faz-se o acompanhamento do processo produtivo do pão tipo francês da empresa, observando-se cada etapa da fabricação, também nos dois turnos de trabalho. O objetivo aqui é verificar possíveis não conformidades, que depois serão confrontadas com o resultado das avaliações das amostras • Realiza-se o registro fotográfico de cada amostra coletada, bem como de cada etapa de produção, que será confrontado com a etapa posterior de correção das falhas identificadas.",
-      "entrega": "Relatório com registros fotográficos, contendo ficha de avaliação dos pães coletados segundo os requisitos da norma ABNT NBR 16170. Registro de informações sobre o processo produtivo e sobre possíveis inconformidades."
+      "descricao": "• Abrange a coleta e análise dos pães tipo francês e o acompanhamento do seu processo de fabricação nos turnos da manhã e da tarde\n• São recolhidas amostras das primeiras fornadas do dia, que se referem ao pão produzido à noite. Ao longo do dia, também são coletadas amostras dos pães vendidos no turno da manhã e da tarde\n• Os pães coletados são avaliados de acordo com os preceitos da norma ABNT NBR 16170:2013, preenchendo-se uma ficha de avaliação para cada amostra identificada, conforme modelo de ficha de avaliação que é parte integrante dessa norma\n• Faz-se o acompanhamento do processo produtivo do pão tipo francês da empresa, observando-se cada etapa da fabricação, também nos dois turnos de trabalho. O objetivo aqui é verificar possíveis não conformidades, que depois serão confrontadas com o resultado das avaliações das amostras\n• Realiza-se o registro fotográfico de cada amostra coletada, bem como de cada etapa de produção, que será confrontado com a etapa posterior de correção das falhas identificadas.",
+      "entrega": "Relatório com registros fotográficos, contendo ficha de avaliação dos pães coletados segundo os requisitos da norma ABNT NBR\n16170. Registro de informações sobre o processo produtivo e sobre possíveis inconformidades."
     },
     {
       "id": "e3",
@@ -35,7 +35,7 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Consiste na reunião dos dados coletados e a verificação das médias de atendimento aos preceitos da norma, observando-se as médias por turno e geral. Obtém-se aí o resultado para cada um dos 13 quesitos previstos pela norma • Verificam-se ainda as não conformidades do pão fabricado em cada turno em relação à norma • Faz-se a comparação entre cada quesito de qualidade e as não conformidades verificadas, traçando-se um perfil da produção do pão tipo francês e as principais causas das falhas identificadas.",
+      "descricao": "• Consiste na reunião dos dados coletados e a verificação das médias de atendimento aos preceitos da norma, observando-se as médias por turno e geral. Obtém-se aí o resultado para cada um dos 13 quesitos previstos pela norma\n• Verificam-se ainda as não conformidades do pão fabricado em cada turno em relação à norma\n• Faz-se a comparação entre cada quesito de qualidade e as não conformidades verificadas, traçando-se um perfil da produção do pão tipo francês e as principais causas das falhas identificadas.",
       "entrega": "Planilha contendo a consolidação das pontuações das amostras analisadas, a análise sobre os defeitos do pão e os atributos de qualidade da norma e a relação entre possíveis defeitos na fabricação do pão e as etapas de produção, assim como plano de ação para correção dos problemas identificados."
     },
     {
@@ -44,13 +44,13 @@
       "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Haverá o repasse das informações à equipe de produção do resultado da análise realizada de acordo com a norma e das não conformidades identificadas, bem como do plano de ação elaborado na etapa anterior. A partir daí, realiza-se a intervenção no processo produtivo no turno da manhã, conforme o plano de ação • Cada etapa da fabricação é acompanhada, realizando-se a devida orientação identificados, com a participação dos para correção dos problemas colaboradores responsáveis pela produção do pão • Há o novo registro fotográfico de cada etapa de produção, com as correções realizadas. Acompanha-se todo o processo, até o cozimento do pão, ao final do qual se faz nova coleta de pães, para serem avaliados de acordo com a norma • Novamente cada amostra é registrada numa folha de avaliação e fotografada, para comparação.",
-      "entrega": "• Relatório Final de Serviço de Consultoria contemplando as atividades desenvolvidas durante o atendimento, com registros fotográficos. • Declaração assinada pelo empresário atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
+      "descricao": "• Haverá o repasse das informações à equipe de produção do resultado da análise realizada de acordo com a norma e das não conformidades identificadas, bem como do plano de ação elaborado na etapa anterior. A partir daí, realiza-se a intervenção no processo produtivo no turno da manhã, conforme o plano de ação\n• Cada etapa da fabricação é acompanhada, realizando-se a devida orientação identificados, com a participação dos para correção dos problemas colaboradores responsáveis pela produção do pão\n• Há o novo registro fotográfico de cada etapa de produção, com as correções realizadas. Acompanha-se todo o processo, até o cozimento do pão, ao final do qual se faz nova coleta de pães, para serem avaliados de acordo com a norma\n• Novamente cada amostra é registrada numa folha de avaliação e fotografada, para comparação.",
+      "entrega": "• Relatório Final de Serviço de Consultoria contemplando as atividades desenvolvidas durante o atendimento, com registros fotográficos.\n• Declaração assinada pelo empresário atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "O objetivo dessa consultoria é melhorar a qualidade do pão tipo francês a partir da avaliação das características externas, internas e sensoriais, como crosta, aparência, miolo, sabor, entre outras, por meio da adequação à norma ABNT NBR 16170:2013 – Panificação: Pão tipo francês - Diretrizes para avaliação da qualidade e classificação. O pão tipo francês é o produto mais importante de uma padaria, pois é o maior gerador de fluxo de cientes. O pão tipo francês é estrategicamente muito importante nas empresas de panificação e confeitaria, mesmo com a atual incorporação de diferentes produtos e serviços que ampliam a atuação das empresas para o food service. E é importante que se trabalhe a qualidade desse produto, fundamental para a movimentação do mercado. Os possíveis ganhos de uma padaria com a implementação da norma são: • aperfeiçoamento da qualidade do pão tipo francês; • conquista de mais clientes; • aumento da competitividade da empresa; • fabricação do pão tipo francês com mais critério e controle; redução de perdas e custos no processo produtivo do pão tipo francês.",
-  "estruturaMateriais": "- - -",
+  "beneficiosResultadosEsperados": "O objetivo dessa consultoria é melhorar a qualidade do pão tipo francês a partir da avaliação das características externas, internas e sensoriais, como crosta, aparência, miolo, sabor, entre outras, por meio da adequação à norma ABNT NBR 16170:2013 – Panificação: Pão tipo francês\n- Diretrizes para avaliação da qualidade e classificação. O pão tipo francês é o produto mais importante de uma padaria, pois é o maior gerador de fluxo de cientes. O pão tipo francês é estrategicamente muito importante nas empresas de panificação e confeitaria, mesmo com a atual incorporação de diferentes produtos e serviços que ampliam a atuação das empresas para o food service. E é importante que se trabalhe a qualidade desse produto, fundamental para a movimentação do mercado. Os possíveis ganhos de uma padaria com a implementação da norma são:\n• aperfeiçoamento da qualidade do pão tipo francês;\n• conquista de mais clientes;\n• aumento da competitividade da empresa;\n• fabricação do pão tipo francês com mais critério e controle; redução de perdas e custos no processo produtivo do pão tipo francês.",
+  "estruturaMateriais": "- \n- -",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "perfilDesejadoPrestadora": "",
@@ -59,13 +59,12 @@
     {
       "versao": 1,
       "dataAlteracao": "07/03/2019",
-      "alteradoPor": "Qualidade-do-Pão-tipo-Francês- GQ13003-1.pdf Qualidade-do-Pão-tipo-Francês- GQ13003-2.pdf Coordenação Sebraetec"
+      "alteradoPor": "Qualidade-do-Pão-tipo-Francês\n- GQ13003\n- 1. pdf Qualidade-do-Pão-tipo-Francês\n- GQ13003\n- 2. pdf Coordenação Sebraetec"
     },
     {
       "versao": 2,
       "dataAlteracao": "15/04/2020",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "371440100264"
+  ]
 }

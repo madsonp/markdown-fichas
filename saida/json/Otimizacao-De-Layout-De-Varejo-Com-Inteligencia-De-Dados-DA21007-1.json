@@ -17,7 +17,7 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico • Levantamento de dados históricos de vendas por categoria e produto (curva ABC) identificação dos itens de alta e baixa rotatividade e sazonalidade • Análise detalhada do comportamento e da preferência dos clientes • Avaliação do layout atual da loja • Análise das ferramentas de gestão de vendas.",
+      "descricao": "• Reunião de abertura junto ao cliente, para nivelamento do escopo do trabalho e validação do planejamento de execução dos serviços, composto de cronograma resumido com os principais eventos, agendas de reuniões e definição dos responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico\n• Levantamento de dados históricos de vendas por categoria e produto (curva ABC) identificação dos itens de alta e baixa rotatividade e sazonalidade\n• Análise detalhada do comportamento e da preferência dos clientes\n• Avaliação do layout atual da loja\n• Análise das ferramentas de gestão de vendas.",
       "entrega": "Documento contendo os responsáveis pela prestação do serviço, o escopo do serviço, o plano de ação com o cronograma das atividades e outros aspectos acordados entre as partes, assinado pela Empresa Demandante. Relatório detalhado contendo o histórico de vendas, análise do comportamento e da preferência dos clientes e da sazonalidade; análise do layout e das ferramentas de gestão de vendas."
     },
     {
@@ -26,7 +26,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Cálculo do share de gôndola e definição da disposição dos produtos de acordo com a análise estratégica dos dados levantados; aplicação de técnicas de \"cross- merchandising\"; organização das prateleiras com base nos melhores locais de exposição (nível dos olhos, áreas de fluxo de clientes); zonas quentes e frias; e estratégias sazonais • Elaboração de projeto do arranjo físico da loja, considerando o fluxo de clientes, visibilidade dos produtos, eficiência operacional, definição de áreas estratégicas para promoções e produtos de alta rotatividade.",
+      "descricao": "• Cálculo do share de gôndola e definição da disposição dos produtos de acordo com a análise estratégica dos dados levantados; aplicação de técnicas de \"cross\n- merchandising\"; organização das prateleiras com base nos melhores locais de exposição (nível dos olhos, áreas de fluxo de clientes); zonas quentes e frias; e estratégias sazonais\n• Elaboração de projeto do arranjo físico da loja, considerando o fluxo de clientes, visibilidade dos produtos, eficiência operacional, definição de áreas estratégicas para promoções e produtos de alta rotatividade.",
       "entrega": "Planograma detalhado contendo o share de gôndola para cada produto ou marca, os produtos a serem expostos, quantidade, marcas, localização, tipo de arranjo e/ou empilhamento, técnicas de \"cross-merchandising\" e estratégias sazonais. Projeto digital do arranjo físico da loja, indicando a disposição de gôndolas, móveis, itens de sinalização, displays e outros itens do ambiente, além de áreas estratégicas para promoções e produtos de alta rotatividade."
     },
     {
@@ -35,7 +35,7 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Alinhamento e preparação dos colaboradores para a execução do novo layout e o reposicionamento dos produtos, assegurando que todos compreendam a lógica por trás das mudanças e como elas beneficiarão o desempenho da loja • Orientação e acompanhamento presencial durante reorganização física da loja todo o processo de o Ajuste da disposição de gôndolas, móveis, itens de sinalização, displays e outros itens do ambiente conforme projeto do arranjo físico o Ajuste da circulação do cliente para aumentar o tempo de permanência e interação com produtos o Organização dos produtos nas prateleiras conforme definido no planograma.",
+      "descricao": "• Alinhamento e preparação dos colaboradores para a execução do novo layout e o reposicionamento dos produtos, assegurando que todos compreendam a lógica por trás das mudanças e como elas beneficiarão o desempenho da loja\n• Orientação e acompanhamento presencial durante reorganização física da loja todo o processo de o Ajuste da disposição de gôndolas, móveis, itens de sinalização, displays e outros itens do ambiente conforme projeto do arranjo físico o Ajuste da circulação do cliente para aumentar o tempo de permanência e interação com produtos o Organização dos produtos nas prateleiras conforme definido no planograma.",
       "entrega": "Registros loja organizada conforme planograma e arranjo físico propostos. Documento com orientações sobre a organização física da loja, para consulta pelos colaboradores. fotográficos da"
     },
     {
@@ -44,7 +44,7 @@
       "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Definição de KPIs de vendas e taxas de conversão comercial, a exemplo de vendas por metro quadrado, taxa de rotatividade de estoque, lucratividade, satisfação do cliente etc • Criação de diretrizes para gestão de estoques por categoria alinhada ao layout e ao fluxo de vendas de forma a evitar rupturas • Orientação sobre a implementação de ferramentas de monitoramento das vendas por categoria após a organização.",
+      "descricao": "• Definição de KPIs de vendas e taxas de conversão comercial, a exemplo de vendas por metro quadrado, taxa de rotatividade de estoque, lucratividade, satisfação do cliente etc\n• Criação de diretrizes para gestão de estoques por categoria alinhada ao layout e ao fluxo de vendas de forma a evitar rupturas\n• Orientação sobre a implementação de ferramentas de monitoramento das vendas por categoria após a organização.",
       "entrega": "Relatório contendo a definição e detalhamento dos KPIs; política de gestão de estoque alinhada ao layout e ao fluxo de vendas; recomendações de ferramentas de monitoramento de vendas."
     },
     {
@@ -125,6 +125,5 @@
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. Entregar o detalhamento de todos os dados técnicos e referências necessárias à produção do projeto\n7. Preparar os documentos a serem entregues (projeto, impressões, encadernações e organização da pasta com material digital)\n8. Buscar toda a legislação e regras locais aplicadas ao projeto e seguir as orientações necessárias;",
   "perfilDesejadoPrestadora": "Corpo técnico formado por, no mínimo, um profissional graduado em Arquitetura ou Design de Interiores e, no mínimo, um profissional com experiência prévia, nos últimos dois anos, em consultoria de gestão de dados para empresas do setor varejista.",
   "observacoesGerais": "Na impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nApenas profissionais com registro no conselho CAU poderá propor alteração em estrutura física\nO designer de interiores não pode realizar ou assinar projetos que envolvam obras estruturais, somente profissionais de arquitetura\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nDespesas adicionais com terceiros (com impressões, direitos autorais, fotografias, imagens, entre outros) ficam a cargo exclusivo da empresa demandante, não fazendo parte da proposta de trabalho\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
-  "historicoAlteracoes": [],
-  "codigo": "372000109433"
+  "historicoAlteracoes": []
 }

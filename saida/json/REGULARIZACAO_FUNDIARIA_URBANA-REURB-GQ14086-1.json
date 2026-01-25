@@ -28,7 +28,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• CNPJ atualizado (emitido no site da Receita Federal) • Contrato Social ou Estatuto vigente • Documentos pessoais do representante legal (RG e CPF) • Comprovantes de ocupação mansa e pacífica (mínimo 5 anos) • Contas de água, luz, telefone fixo • Guias de IPTU • Alvarás de funcionamento • Contratos ou recibos de compra e venda (se houver) • Declaração dos confrontantes (vizinhos laterais e de fundo) • Planta de situação ou planta georreferenciada do imóvel • Memorial descritivo da área ocupada • ART (CREA) ou RRT (CAU) do responsável técnico • Certidão de existência ou inexistência de matrícula (cartório de registro de imóveis competente) • Certidão Conjunta da Receita Federal • Certidão Negativa de Débitos Trabalhistas (CNDT) • Certidão de Regularidade do FGTS (CRF/FGTS) • Certidão Estadual (ICMS, se aplicável) A solicitação do REURB-E pelo Sebraetec deve obrigatoriamente ser feito em nome da jurídica (ex.: MEI, ME, EPP) estabelecida no local, acompanhado de documentação mínima obrigatória. Esse processo deve ser protocolado junto ao órgão municipal competente, geralmente a Secretaria de Planejamento, Regularização Fundiária ou afim.",
+      "descricao": "• CNPJ atualizado (emitido no site da Receita Federal)\n• Contrato Social ou Estatuto vigente\n• Documentos pessoais do representante legal (RG e CPF)\n• Comprovantes de ocupação mansa e pacífica (mínimo 5 anos)\n• Contas de água, luz, telefone fixo\n• Guias de IPTU\n• Alvarás de funcionamento\n• Contratos ou recibos de compra e venda (se houver)\n• Declaração dos confrontantes (vizinhos laterais e de fundo)\n• Planta de situação ou planta georreferenciada do imóvel\n• Memorial descritivo da área ocupada\n• ART (CREA) ou RRT (CAU) do responsável técnico\n• Certidão de existência ou inexistência de matrícula (cartório de registro de imóveis competente)\n• Certidão Conjunta da Receita Federal\n• Certidão Negativa de Débitos Trabalhistas (CNDT)\n• Certidão de Regularidade do FGTS (CRF/FGTS)\n• Certidão Estadual (ICMS, se aplicável) A solicitação do REURB-E pelo Sebraetec deve obrigatoriamente ser feito em nome da jurídica (ex.: MEI, ME, EPP) estabelecida no local, acompanhado de documentação mínima obrigatória. Esse processo deve ser protocolado junto ao órgão municipal competente, geralmente a Secretaria de Planejamento, Regularização Fundiária ou afim.",
       "entrega": "Protocolamento do requerimento formal do interessado, acompanhado da documentação mínima obrigatória, no órgão municipal competente."
     },
     {
@@ -42,7 +42,7 @@
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "A ausência de matrícula imobiliária regular impede pequenos negócios de obterem: • Financiamentos e créditos bancários; • Participarem de programas públicos de incentivo; • Valorização dos imóveis A REURB-E representa, portanto, uma ponte entre a formalização fundiária e a inclusão econômica dos pequenos negócios.",
+  "beneficiosResultadosEsperados": "A ausência de matrícula imobiliária regular impede pequenos negócios de obterem:\n• Financiamentos e créditos bancários;\n• Participarem de programas públicos de incentivo;\n• Valorização dos imóveis A REURB-E representa, portanto, uma ponte entre a formalização fundiária e a inclusão econômica dos pequenos negócios.",
   "estruturaMateriais": "Espaço físico adequado para a realização de reunião, execução de atividade de planejamento, elaborações de relatórios e documentos, etc.",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer as informações e documentos solicitados\n5. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas nesta ficha técnica, e devidamente validadas pela empresa demandante\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
@@ -54,6 +54,5 @@
       "dataAlteracao": "18/08/2025",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "372000113238"
+  ]
 }

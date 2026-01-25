@@ -1,6 +1,6 @@
 {
   "id": "43004-3",
-  "nomeSolucao": "CONSULTORIA PARA MONITORAMENTO DE MOSCA-DAS- FRUTAS EM POMARES DE FRUTAS",
+  "nomeSolucao": "CONSULTORIA PARA MONITORAMENTO DE MOSCA-DAS\n- FRUTAS EM POMARES DE FRUTAS",
   "tema": "Desenvolvimento Tecnológico",
   "subtema": "Melhoria Genética e Biotecnologia",
   "tipoServico": "Consultoria tecnológica",
@@ -10,7 +10,7 @@
     "Produtor Rural"
   ],
   "setor": "Agronegócio",
-  "descricao": "A Consultoria objetiva identificar as perdas de produtividade nos pomares em relação aos danos causados por moscas-das-frutas. Como Objetivos Específicos, tem-se: 1. Monitorar a flutuação populacional da praga e diagnosticar o nível de infestação por moscas-das-frutas nos pomares; 2. Realizar a amostragem de frutos para identificação do nível de infestação por estágios imaturos em frutos; 3. Esclarecer sobre a relevância do monitoramento e manejo de moscas-das- frutas; 4. Capacitar assistentes técnicos; 5. Promover a Educação Sanitária dos produtores; 6. Identificar as perdas de produtividade nos pomares em relação aos danos causados por moscas-das-frutas. A Consultoria é estruturada em 04 (quatro) etapas, à seguir.",
+  "descricao": "A Consultoria objetiva identificar as perdas de produtividade nos pomares em relação aos danos causados por moscas-das-frutas. Como Objetivos Específicos, tem-se:\n1. Monitorar a flutuação populacional da praga e diagnosticar o nível de infestação por moscas-das-frutas nos pomares;\n2. Realizar a amostragem de frutos para identificação do nível de infestação por estágios imaturos em frutos;\n3. Esclarecer sobre a relevância do monitoramento e manejo de moscas-das\n- frutas;\n4. Capacitar assistentes técnicos;\n5. Promover a Educação Sanitária dos produtores;\n6. Identificar as perdas de produtividade nos pomares em relação aos danos causados por moscas-das-frutas. A Consultoria é estruturada em 04 (quatro) etapas, à seguir.",
   "etapas": [
     {
       "id": "e1",
@@ -45,7 +45,7 @@
       "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "O produtor receberá semanalmente um informe com o índice Mosca Armadilha Dia - MAD da área e, para fins de prestação de contas, será elaborado 01 (um) relatório periódico contendo os resultados dos relatórios semanais, notificando-se a flutuação populacional da praga na propriedade no período avaliado.",
+      "descricao": "O produtor receberá semanalmente um informe com o índice Mosca Armadilha Dia\n- MAD da área e, para fins de prestação de contas, será elaborado 01 (um) relatório periódico contendo os resultados dos relatórios semanais, notificando-se a flutuação populacional da praga na propriedade no período avaliado.",
       "entrega": "Relatórios periódicos contendo resultados das medições semanais do monitoramento populacional da unidade produtiva, identificando-se a flutuação populacional de moscas-das-frutas, nível de infestação por estágios imaturos de moscas-das-frutas, informações geoespaciais com especificações da distribuição espacial das armadilhas, da praga e do nível de infestação na área monitorada, bem como recomendações técnicas de manejo da praga."
     }
   ],
@@ -99,17 +99,17 @@
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "São potenciais benefícios da Consultoria: • Melhorar a qualidade e produtividade das culturas; • Agregar valor a fruta produzida; • Reduzir a aplicação de produtos químicos; • Adequar o manejo integrado de moscas-das-frutas; • Redução dos custos de produção; • Abertura de novos mercados para exportação de frutas.",
+  "beneficiosResultadosEsperados": "São potenciais benefícios da Consultoria:\n• Melhorar a qualidade e produtividade das culturas;\n• Agregar valor a fruta produzida;\n• Reduzir a aplicação de produtos químicos;\n• Adequar o manejo integrado de moscas-das-frutas;\n• Redução dos custos de produção;\n• Abertura de novos mercados para exportação de frutas.",
   "estruturaMateriais": "Instalação, realocação, manutenção e revisão de uma rede de armadilhas para o monitoramento de moscas-das-frutas, do tipo Jackson e McPhail (ou similares) instaladas previamente, em regime de COMODATO, nos perímetros para o monitoramento da praga. A densidade de armadilhas utilizada nesta rede será de: 01 armadilha do tipo Jackson para cada unidade produtiva até o tamanho de 05 hectares e 01 armadilha do tipo McPhail para cada unidade produtiva até o tamanho de 10 hectares, sendo 90% armadilhas Jackson e 10% armadilhas McPhail, de acordo com a Instrução Normativa IN-20 do Ministério da Agricultura, Pecuária e Abastecimento\nÉ obrigatório a utilização de, no mínimo, uma armadilha de cada tipo de por propriedade. As armadilhas Jackson deverão conter iscas atrativas a base do paraferomônio trimedlure e as McPhail com proteína hidrolisada (ou similares).",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Zelar pela integridade equipamentos instalados pela prestadora de serviço em regime de COMODATO\n7. Avaliar o serviço prestado.",
-  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n 5. Fornecer os matérias apresentados no item 11. Estrutura e materiais necessários\n6. Realizar a instalação, realocação, manutenção e revisão de uma rede de armadilhas contendo iscas atrativas, em regime de COMODATO\n7. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
+  "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Fornecer os matérias apresentados no item 11. Estrutura e materiais necessários\n6. Realizar a instalação, realocação, manutenção e revisão de uma rede de armadilhas contendo iscas atrativas, em regime de COMODATO\n7. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
   "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais com experiência na adoção de medidas fitossanitárias e no controle de pragas em pomares causados por moscas-das-frutas.",
-  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs visitas técnicas às unidades produtivas ocorrerão independentemente da fase fenológica da cultura\nPrazo Máximo de Entrega: 360 dias. ",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs visitas técnicas às unidades produtivas ocorrerão independentemente da fase fenológica da cultura\nPrazo Máximo de Entrega: 360 dias.",
   "historicoAlteracoes": [
     {
       "versao": 1,
       "dataAlteracao": "24/04/2019",
-      "alteradoPor": "Frutas-em-Pomares-de-Frutas- MGB43004-1.pdf Frutas-em-Pomares-de-Frutas- MGB43004-2.pdf Frutas-em-Pomares-de-Frutas- MGB43004-3.pdf"
+      "alteradoPor": "Frutas-em-Pomares-de-Frutas\n- MGB43004\n- 1. pdf Frutas-em-Pomares-de-Frutas\n- MGB43004\n- 2. pdf Frutas-em-Pomares-de-Frutas\n- MGB43004\n- 3. pdf"
     },
     {
       "versao": 2,
@@ -121,6 +121,5 @@
       "dataAlteracao": "14/04/2020",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "371440100450"
+  ]
 }

@@ -27,7 +27,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Realizar diagnóstico da empresa e elaborar um relatório contendo informações sobre os aspectos da adequação aos regulamentos internacionais aplicáveis à categoria de produtos da empresa, observando 1. Caracterização da empresa (fabricante ou comerciante, mercado(s)-alvo das exportações) 2. Caracterização dos produtos; caracterização da(s) família(s) de produto(s) verificar os documentos regulatórios já existentes e seus prazos de vigência, verificar se estão traduzidos para a língua do país-alvo 3. Indicar os requisitos regulatórios do país de destino que estão cumpridos e os não cumpridos 4. Indicar quais os documentos faltantes, testes laboratoriais, adequações de formulação, ingredientes proibidos ou restritos, e adequações de rotulagem necessárias 5. Indicar adequações de processo de fabricação e gestão de qualidade necessárias 6. Caso seja considerado necessário a realização de diagnóstico do produto Uso Interno Código da ficha técnica: 14085-1 para verificar a conformidade às normas técnicas, a prestadora de serviço deve cumprir os seguintes passos 6.1 Identificar (preferencialmente) laboratório de ensaios acreditado 6.2 Orientar o empresário na coleta de orçamentos e contratação de ensaios para uma amostra de cada família de produto alvo para a avaliação da conformidade (laboratório deve ser contratado como outro atendimento externo a esta ficha técnica) 6.3 Analisar os resultados, identificando as conformidades e eventuais não conformidades do produto.",
+      "descricao": "Realizar diagnóstico da empresa e elaborar um relatório contendo informações sobre os aspectos da adequação aos regulamentos internacionais aplicáveis à categoria de produtos da empresa, observando\n1. Caracterização da empresa (fabricante ou comerciante, mercado(s)-alvo das exportações)\n2. Caracterização dos produtos; caracterização da(s) família(s) de produto(s) verificar os documentos regulatórios já existentes e seus prazos de vigência, verificar se estão traduzidos para a língua do país-alvo\n3. Indicar os requisitos regulatórios do país de destino que estão cumpridos e os não cumpridos\n4. Indicar quais os documentos faltantes, testes laboratoriais, adequações de formulação, ingredientes proibidos ou restritos, e adequações de rotulagem necessárias\n5. Indicar adequações de processo de fabricação e gestão de qualidade necessárias\n6. Caso seja considerado necessário a realização de diagnóstico do produto Uso Interno Código da ficha técnica: 14085-1 para verificar a conformidade às normas técnicas, a prestadora de serviço deve cumprir os seguintes passos\n6. 1 Identificar (preferencialmente) laboratório de ensaios acreditado\n6. 2 Orientar o empresário na coleta de orçamentos e contratação de ensaios para uma amostra de cada família de produto alvo para a avaliação da conformidade (laboratório deve ser contratado como outro atendimento externo a esta ficha técnica)\n6. 3 Analisar os resultados, identificando as conformidades e eventuais não conformidades do produto.",
       "entrega": "Relatório contendo a descrição dos itens analisados no diagnóstico da empresa, produtos e documentos existentes, indicando todos os itens necessários para o cumprimento dos requisitos regulatórios do país-alvo, os requisitos não atendidos, e as providências necessárias para adequação às exigências do país-alvo e obtenção dos registros nos órgãos regulatórios."
     },
     {
@@ -41,7 +41,7 @@
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "● Viabilização da exportação para mercados-alvo; ● Cumprimento de requisitos legais para comercialização dos produtos no país- alvo; ● Sistematização do processo de organização dos documentos regulatórios; ● Prontidão no atendimento de solicitações de documentos dos compradores internacionais; ● Ganho de competitividade na internacionalização.",
+  "beneficiosResultadosEsperados": "● Viabilização da exportação para mercados-alvo; ● Cumprimento de requisitos legais para comercialização dos produtos no país\n- alvo; ● Sistematização do processo de organização dos documentos regulatórios; ● Prontidão no atendimento de solicitações de documentos dos compradores internacionais; ● Ganho de competitividade na internacionalização.",
   "estruturaMateriais": "Durante o processo de adequação poderão ser necessários serviços de terceiros como laboratórios de testes que sejam acreditados internacionalmente, traduções, consularizações e outros\nOs custos adicionais à consultoria serão de responsabilidade da empresa, assim como eventuais investimentos em infraestrutura para implantação de melhorias e as taxas para registro de produtos nos órgãos reguladores no(s) país(es)-alvo(s).",
   "responsabilidadeEmpresaDemandante": "",
   "responsabilidadePrestadora": "",
@@ -53,7 +53,5 @@
       "dataAlteracao": "18/07/2025",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "valorTeto": 30000.0,
-  "codigo": "372000113104"
+  ]
 }

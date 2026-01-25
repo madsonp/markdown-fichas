@@ -27,8 +27,8 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "| IDENTIFICAÇÃO DAS OPORTUNIDADES DE ANÁLISE E De acordo com o conhecimento identificado pelo cliente, realizar uma reunião online para alinhamento teórico atendendo aos seguintes requisitos, quando aplicável Introdução aos Dados • O valor dos dados e seu uso para tomada de decisão • Dados, Informação e Conhecimento • Dados específicos e seu Uso de acordo com a realidade da empresa Planejamento estratégico • Conceitos práticos e essenciais ao segmento de negócio do cliente • A estratégia empresarial e sua ligação com análise de resultados • O que o negócio espera dos dados, como definir metas específicas para cada atividade do seu negócio • O processo de tomada de decisão baseado em conhecimento KPIs – Indicadores para a Realidade do Seu Negócio • Métricas e Indicadores • Análise de desempenho • Abrangência e classificação dos indicadores de desempenho Definir em conjunto com o cliente quais oportunidades podem ser analisadas através da coleta e análise de dados. As oportunidades podem ser classificadas por eixo temático, quando aplicável: (marketing, vendas, estoque, financeiro, outro indicador definido com o cliente) Definir ferramenta ou meio de coleta de informações aderente com a estrutura existente do cliente OBSERVAÇÃO: Fica a critério entre a prestadora de serviços e o cliente definirem a melhor forma a aplicação do alinhamento teórico.",
-      "entrega": "• Relatórios das reuniões com assinatura do Empresário. O Relatório deve conter o seguinte conteúdo: Capa; Situação verificada na Empresa; Objetivo(s) da Consultoria; Metodologia; Indicadores Definidos; Resultado(s) Esperado(s) e/ou alcançado(s) pela Consultoria; Registros Fotográficos. Observação: Caso o Cliente não permita a realização de registros fotográficos, esta observação deve constar registrada na Evidência. • Declaração do Empresário informando a designação de um preposto para acompanhar e atestar os serviços que serão realizados na empresa, quando aplicável."
+      "descricao": "| IDENTIFICAÇÃO DAS OPORTUNIDADES DE ANÁLISE E De acordo com o conhecimento identificado pelo cliente, realizar uma reunião online para alinhamento teórico atendendo aos seguintes requisitos, quando aplicável Introdução aos Dados\n• O valor dos dados e seu uso para tomada de decisão\n• Dados, Informação e Conhecimento\n• Dados específicos e seu Uso de acordo com a realidade da empresa Planejamento estratégico\n• Conceitos práticos e essenciais ao segmento de negócio do cliente\n• A estratégia empresarial e sua ligação com análise de resultados\n• O que o negócio espera dos dados, como definir metas específicas para cada atividade do seu negócio\n• O processo de tomada de decisão baseado em conhecimento KPIs – Indicadores para a Realidade do Seu Negócio\n• Métricas e Indicadores\n• Análise de desempenho\n• Abrangência e classificação dos indicadores de desempenho Definir em conjunto com o cliente quais oportunidades podem ser analisadas através da coleta e análise de dados. As oportunidades podem ser classificadas por eixo temático, quando aplicável: (marketing, vendas, estoque, financeiro, outro indicador definido com o cliente) Definir ferramenta ou meio de coleta de informações aderente com a estrutura existente do cliente OBSERVAÇÃO: Fica a critério entre a prestadora de serviços e o cliente definirem a melhor forma a aplicação do alinhamento teórico.",
+      "entrega": "• Relatórios das reuniões com assinatura do Empresário. O Relatório deve conter o seguinte conteúdo: Capa; Situação verificada na Empresa; Objetivo(s) da Consultoria; Metodologia; Indicadores Definidos; Resultado(s) Esperado(s) e/ou alcançado(s) pela Consultoria; Registros Fotográficos. Observação: Caso o Cliente não permita a realização de registros fotográficos, esta observação deve constar registrada na Evidência.\n• Declaração do Empresário informando a designação de um preposto para acompanhar e atestar os serviços que serão realizados na empresa, quando aplicável."
     },
     {
       "id": "e3",
@@ -36,7 +36,7 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Validar dados coletados (volume, qualidade, risco, eficiência) • Apresentar melhorias, ajustes, alternativas para melhor eficiência na coleta e análise de dados • Apresentar indicadores de referência do segmento do negócio em fontes IBGE etc) atrelados aos disponíveis (Exemplo: Datasebrae, Cielo, indicadores definidos na ETAPA 02.",
+      "descricao": "• Validar dados coletados (volume, qualidade, risco, eficiência)\n• Apresentar melhorias, ajustes, alternativas para melhor eficiência na coleta e análise de dados\n• Apresentar indicadores de referência do segmento do negócio em fontes IBGE etc) atrelados aos disponíveis (Exemplo: Datasebrae, Cielo, indicadores definidos na ETAPA\n02. ",
       "entrega": "Relatório técnico contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos (inclusive com registros fotográficos), oportunidades de melhoria, recomendações, ajustes, alternativas e conclusões, orientando a empresa na implementação das ações corretivas necessárias; assinado pela empresa demandante."
     },
     {
@@ -45,8 +45,8 @@
       "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Desenvolvimento de dashboard em plataforma com acesso para o cliente • Apresentação de análise para tomada de decisão baseada em dados • Relatório final contendo atividades realizadas e recomendações a partir dos dados analisados.",
-      "entrega": "• Captura de tela do Dashboard desenvolvido em plataforma com acesso para o cliente; • Relatório final contendo análise de pelo menos 02 indicadores apresentados no dashboard com recomendações para tomada de decisão estratégica. Considerar o uso dos indicadores de referência descritos na ETAPA 03 como elementos para as recomendações contidas no relatório final, quando aplicável; • Declaração assinada pelo empresário atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço tecnológico e que a prestadora de serviço tecnológico explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
+      "descricao": "• Desenvolvimento de dashboard em plataforma com acesso para o cliente\n• Apresentação de análise para tomada de decisão baseada em dados\n• Relatório final contendo atividades realizadas e recomendações a partir dos dados analisados.",
+      "entrega": "• Captura de tela do Dashboard desenvolvido em plataforma com acesso para o cliente;\n• Relatório final contendo análise de pelo menos 02 indicadores apresentados no dashboard com recomendações para tomada de decisão estratégica. Considerar o uso dos indicadores de referência descritos na ETAPA 03 como elementos para as recomendações contidas no relatório final, quando aplicável;\n• Declaração assinada pelo empresário atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço tecnológico e que a prestadora de serviço tecnológico explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [
@@ -58,7 +58,7 @@
     },
     {
       "id": "2",
-      "pergunta": "Você utiliza um sistema de captação de dados? ",
+      "pergunta": "Você utiliza um sistema de captação de dados?",
       "tipo": "sim_nao",
       "obrigatoria": true
     },
@@ -75,7 +75,7 @@
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "São potenciais benefícios da Consultoria:",
+  "beneficiosResultadosEsperados": "São potenciais benefícios da Consultoria:\n• Redução de custos de produção na empresa;\n• Aumento na produtividade;\n• Definição da estratégia;\n• Aumento das vendas.",
   "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Determinar membro da equipe interna como responsável pelo projeto, disseminando para todas as áreas da empresa\n5. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n6. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n7. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
@@ -85,8 +85,7 @@
     {
       "versao": 1,
       "dataAlteracao": "28/11/2022",
-      "alteradoPor": "Negocios-Baseados-em-Analise-e- Inteligencia-em-Dados-TD46021-1.pdf Coordenação Sebraetec"
+      "alteradoPor": "Negocios-Baseados-em-Analise-e\n- Inteligencia-em-Dados-TD46021\n- 1. pdf Coordenação Sebraetec"
     }
-  ],
-  "codigo": "372000060160"
+  ]
 }

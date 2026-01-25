@@ -18,7 +18,7 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "a. Avaliação de carcaça do animal vivo Escolha dos animais que possuem os requisitos abaixo relacionados num dado lote de animais • Arqueamento de costela (profundida de costela) • Garupa larga e comprida • Volume de carne no traseiro e dianteiro (valorizando os cortes) b. Classificação de carcaças Avaliação da idade do animal visando a composição de lotes homogêneos para padronização dos abates e agrupamentos para reestruturação de manejo nutricional visando aumentar a uniformidade e o padrão da qualidade das carcaças c. Manejo sanitário Implantação do calendário sanitário e procedimentos vermifugação, vacinação, etc referentes à d. Manejo nutricional Definição das estratégias de manejo nutricional para cada categoria animal ao longo do período, incluindo • Planejamento Nutricional do Rebanho • Ajuste nutricional das dietas no período chuvoso e período seco.",
+      "descricao": "a. Avaliação de carcaça do animal vivo Escolha dos animais que possuem os requisitos abaixo relacionados num dado lote de animais\n• Arqueamento de costela (profundida de costela)\n• Garupa larga e comprida\n• Volume de carne no traseiro e dianteiro (valorizando os cortes) b. Classificação de carcaças Avaliação da idade do animal visando a composição de lotes homogêneos para padronização dos abates e agrupamentos para reestruturação de manejo nutricional visando aumentar a uniformidade e o padrão da qualidade das carcaças c. Manejo sanitário Implantação do calendário sanitário e procedimentos vermifugação, vacinação, etc referentes à d. Manejo nutricional Definição das estratégias de manejo nutricional para cada categoria animal ao longo do período, incluindo\n• Planejamento Nutricional do Rebanho\n• Ajuste nutricional das dietas no período chuvoso e período seco.",
       "entrega": "Planilha contendo as avalições realizadas na propriedade: Identificação dos animais, raça, avaliação de carcaça do animal vivo, arqueamento de costela, classificação da carcaça, volume de carne (traseiro e dianteiro), recomendações para o manejo sanitário/nutricional."
     },
     {
@@ -27,7 +27,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "a. Rastreabilidade para o Embarque Avaliar e orientar os funcionários quanto ao uso das técnicas de bem-estar- animal e pesagem do lote que será abatido contendo os itens abaixo relacionados Itens da planilha de controle individual dos animais preenchidos na fazenda, contendo • Raça • Peso Identificação do animal b. Acompanhamento do abate dos animais Avaliação das carcaças quanto ao acabamento e a idade; Preenchimento de planilha com os dados coletados e imagens das carcaças. Itens da planilha que serão preenchidos • Peso da carcaça • Avaliação de idade (dentes) • Cálculo do índice obtido pela carcaça • Classificação da carcaça de acordo com o índice obtido • Rendimento de Carcaça c. Tipificação da carcaça Avaliação subjetiva das carcaças e preenchimento de planilha com os dados coletados Estratificando as carcaças em: M-, M e M+ d. Ratificação da avaliação dentária Verificação da arcada dentária e preenchimento de planilha com os dados coletados Estratificando a idade em: 0 dentes e 2 dentes.",
+      "descricao": "a. Rastreabilidade para o Embarque Avaliar e orientar os funcionários quanto ao uso das técnicas de bem-estar\n- animal e pesagem do lote que será abatido contendo os itens abaixo relacionados Itens da planilha de controle individual dos animais preenchidos na fazenda, contendo\n• Raça\n• Peso Identificação do animal b. Acompanhamento do abate dos animais Avaliação das carcaças quanto ao acabamento e a idade; Preenchimento de planilha com os dados coletados e imagens das carcaças. Itens da planilha que serão preenchidos\n• Peso da carcaça\n• Avaliação de idade (dentes)\n• Cálculo do índice obtido pela carcaça\n• Classificação da carcaça de acordo com o índice obtido\n• Rendimento de Carcaça c. Tipificação da carcaça Avaliação subjetiva das carcaças e preenchimento de planilha com os dados coletados Estratificando as carcaças em: M-, M e M+ d. Ratificação da avaliação dentária Verificação da arcada dentária e preenchimento de planilha com os dados coletados Estratificando a idade em: 0 dentes e 2 dentes.",
       "entrega": "Planilha contendo os dados coletados entre a fazenda e o frigorifico: peso no embarque, entrada no abate, peso da carcaça, avaliação de idade, nota para os dentes, classificação da carcaça, rendimento de carcaça; acompanhado de imagens das carcaças. acompanhamento do abate de animais."
     },
     {
@@ -42,7 +42,7 @@
   ],
   "perguntasDiagnostico": [],
   "beneficiosResultadosEsperados": "Agregar Eficiência, Qualidade e Valor a Pecuária de Corte. Na Fazenda: Acompanhar as ações de controle da qualidade, priorizando os rebanhos que poderão ser abatidos dentro das especificações para carne nobres. Na logística da Fazenda até o Frigorífico: Acompanhamento da logística para que o animal, com boas práticas de transporte até o frigorifico e dentro do padrão de qualidade para o abate. Na logística do Frigorífico até os Pontos de Venda: Acompanhamento do padrão de qualidade das carcaças os pontos de venda, onde são armazenados para produzir os cortes nobres para comercialização.",
-  "estruturaMateriais": "- - -",
+  "estruturaMateriais": "- \n- -",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa 4. Demandante\n5. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n6. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
   "perfilDesejadoPrestadora": "",
@@ -58,7 +58,5 @@
       "dataAlteracao": "16/04/2020",
       "alteradoPor": "Victor Rodrigues Ferreira Coordenação Sebraetec"
     }
-  ],
-  "valorTeto": 17280.0,
-  "codigo": "371440100280"
+  ]
 }

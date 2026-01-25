@@ -28,7 +28,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Orientação, quando aplicável, sobre alojamento para os trabalhadores contratados e o transporte adequado dos trabalhadores para o trabalho durante a manhã e à noite para o alojamento, respeitando as normas de segurança e as normas trabalhistas.",
-      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa. • Condições físicas e sanitárias do alojamento (se aplicável). • Segurança e rotas do transporte dos trabalhadores do carnaubal (se aplicável)"
+      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa.\n• Condições físicas e sanitárias do alojamento (se aplicável).\n• Segurança e rotas do transporte dos trabalhadores do carnaubal (se aplicável)"
     },
     {
       "id": "e3",
@@ -37,7 +37,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Orientação, quando aplicável, sobre o mapeamento básico da propriedade, a fim de que se compilem informações como: densidade, altura, tamanho, maturidade, transitabilidade, sanidade do carnaubal, presença de APPs entre outras condições físicas e ecológicas.",
-      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa: • Mapeamento do carnaubal • Condições físicas e ecológicas"
+      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa:\n• Mapeamento do carnaubal\n• Condições físicas e ecológicas"
     },
     {
       "id": "e4",
@@ -46,7 +46,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Orientação, quando aplicável, sobre a produção extrativista, medidas de segurança no corte da palha protegendo o mangará (área de crescimento da planta) para evitar a morte da palmeira, separação das palhas em feixes (fibra do olho para artesanato, palha do olho e palha mediana), carregamento para o local de secagem e orientação sobre secagem e cuidados no processo de secagem para evitar a perda do pó.",
-      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa. • Produção extrativista da carnaúba. • Orientação sobre o corte correto na planta e separação das palhas. • Transporte da palha para secagem. • Orientação sobre o processo de secagem da palha. • Orientação sobre a segurança do trabalhador nas etapas abordadas."
+      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa.\n• Produção extrativista da carnaúba.\n• Orientação sobre o corte correto na planta e separação das palhas.\n• Transporte da palha para secagem.\n• Orientação sobre o processo de secagem da palha.\n• Orientação sobre a segurança do trabalhador nas etapas abordadas."
     },
     {
       "id": "e5",
@@ -55,7 +55,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Orientações, quando aplicável, sobre o manejo sanitário da área, com ênfase na limpeza da área produtiva e controle de invasoras, pragas e doenças. Uma das maiores ameaças da produção nas áreas de carnaubal é a invasora unha-do-diabo, por possuir uma característica de infestação rápida e intensa.",
-      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa. • Orientações para limpeza do carnaubal. • Orientação para controle de invasoras com a passo-a-passo para identificação, áreas prioritárias para controle, época e método para controle."
+      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa.\n• Orientações para limpeza do carnaubal.\n• Orientação para controle de invasoras com a passo-a-passo para identificação, áreas prioritárias para controle, época e método para controle."
     },
     {
       "id": "e6",
@@ -64,7 +64,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Orientações, quando aplicável, sobre práticas de manejo conservacionistas do solo, água, flora e fauna. As práticas que visem contribuir para redução da degradação, a derrubada indiscriminada, reposição dos carnaubais mortos e a proteção dos cursos de água, visto que os carnaubais ocorrem normalmente ao longo dos cursos d’água, dentre outras práticas sustentáveis associadas aos carnaubais, quando aplicável.",
-      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa. • Orientações sobre práticas de manejo conservacionistas do solo, água, flora e fauna, quando aplicável. • Orientações sobre práticas de redução da degradação, derrubada indiscriminada, reposição dos carnaubais e sobre a preservação dos cursos d’água, quando aplicável."
+      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa.\n• Orientações sobre práticas de manejo conservacionistas do solo, água, flora e fauna, quando aplicável.\n• Orientações sobre práticas de redução da degradação, derrubada indiscriminada, reposição dos carnaubais e sobre a preservação dos cursos d’água, quando aplicável."
     },
     {
       "id": "e7",
@@ -73,7 +73,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Orientação, quando aplicável, sobre os diversos processos para escolha e seleção das sementes, tratamento e armazenamento das sementes, produção de mudas e plantio das mudas.",
-      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa. • Orientação sobre os tipos de escolha e seleção das sementes, quando aplicável. • Orientações, quando aplicável sobre o tratamento e armazenamento das sementes. • Orientações, quando aplicável, sobre a produção de mudas. • Orientações sobre, quando aplicável, o processo de plantio das mudas no campo."
+      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa.\n• Orientação sobre os tipos de escolha e seleção das sementes, quando aplicável.\n• Orientações, quando aplicável sobre o tratamento e armazenamento das sementes.\n• Orientações, quando aplicável, sobre a produção de mudas.\n• Orientações sobre, quando aplicável, o processo de plantio das mudas no campo."
     },
     {
       "id": "e8",
@@ -81,8 +81,8 @@
       "ordem": 8,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Orientação, quando aplicável, sobre os diversos processos para beneficiamento da palha após a secagem 7.1. BATIÇÃO MECANIZADA: Quando aplicável, orientação do processo de beneficiamento da palha de forma mecanizada visando a obtenção de • Pó de olho tipo A • Pó preto ou pó tipo B • Bagana 7.2. BATIÇÃO MANUAL: Quando aplicável, orientação do processo de beneficiamento da palha de forma manual visando a obtenção de • Pó de olho tipo A • Palha para artesanato 7.3. PRODUÇÃO DE CERA: Quando aplicável, orientação sobre a produção de cera no local (cera bruta ou cera de origem), qualidade e armazenamento e transporte da cera.",
-      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa. • Orientações sobre os métodos de batição, quando aplicável. • Orientações sobre coleta, armazenamento e qualidade do pó, quando aplicável. • Orientações sobre produção, qualidade, armazenamento e tipos de cera, quando aplicável."
+      "descricao": "Orientação, quando aplicável, sobre os diversos processos para beneficiamento da palha após a secagem\n7. 1. BATIÇÃO MECANIZADA: Quando aplicável, orientação do processo de beneficiamento da palha de forma mecanizada visando a obtenção de\n• Pó de olho tipo A\n• Pó preto ou pó tipo B\n• Bagana\n7. 2. BATIÇÃO MANUAL: Quando aplicável, orientação do processo de beneficiamento da palha de forma manual visando a obtenção de\n• Pó de olho tipo A\n• Palha para artesanato\n7. 3. PRODUÇÃO DE CERA: Quando aplicável, orientação sobre a produção de cera no local (cera bruta ou cera de origem), qualidade e armazenamento e transporte da cera.",
+      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa.\n• Orientações sobre os métodos de batição, quando aplicável.\n• Orientações sobre coleta, armazenamento e qualidade do pó, quando aplicável.\n• Orientações sobre produção, qualidade, armazenamento e tipos de cera, quando aplicável."
     },
     {
       "id": "e9",
@@ -91,7 +91,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Aproveitamento da bagana, quando aplicável, apara utilização para cobertura morta, substrato para o plantio em vasos, processo de amoniação para a alimentação animal e outros.",
-      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa. • Formas de aproveitamento da bagana para o uso agrícola e para alimentação animal, quando aplicável. Para o uso em substratos para o plantio em vasos, quando aplicável."
+      "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas nesta etapa.\n• Formas de aproveitamento da bagana para o uso agrícola e para alimentação animal, quando aplicável. Para o uso em substratos para o plantio em vasos, quando aplicável."
     }
   ],
   "perguntasDiagnostico": [
@@ -121,24 +121,22 @@
     },
     {
       "id": "5",
-      "pergunta": "Localização do carnaubal. ",
+      "pergunta": "Localização do carnaubal.",
       "tipo": "texto",
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "• Aumento da produção de pó e de cera. • Evitar a ocorrência de invasor na área produtiva de carnaúba. • Melhora na qualidade e produtividade da cera. Incremento da renda do produtor/arrendatário. •",
-  "estruturaMateriais": "- ",
+  "beneficiosResultadosEsperados": "• Aumento da produção de pó e de cera.\n• Evitar a ocorrência de invasor na área produtiva de carnaúba.\n• Melhora na qualidade e produtividade da cera. Incremento da renda do produtor/arrendatário.\n• ",
+  "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho do prestador de serviço\n3. Proceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade e que estão no objeto deste Termo de Adesão\n4. Empenhar-se para viabilizar a execução das ações planejadas e promover a participação e o envolvimento de sua equipe de colaboradores\n5. Informar, fornecer e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n6. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n7. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n8. Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n9. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Cumprir todas as etapas previstas no plano inicial do projeto, garantindo que todas as etapas serão sucedidas por suas respectivas entregas\n3. Realizar todas as etapas sem custo adicional\n4. Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n5. Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n6. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n7. Cumprir o prazo estabelecido com o produtor para realização de todas as etapas do projeto.",
   "perfilDesejadoPrestadora": "Quadro profissional composto por Técnico Agrícola, Engenheiro Agrônomo ou Biólogo com experiência em Produção e Beneficiamento de Produtos Vegetais",
-  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo\nAs visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários propostos pela consultoria\nCaso o produtor opte por realizar qualquer procedimento não condizente com o prescrito pelo consultor, o mesmo deverá declarar a intenção no relatório técnico e isentar o prestador do serviço e o SEBRAE de qualquer responsabilidade\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nCustos de trabalhos não especificados na proposta poderão ser assumidos posteriormente mediante Termo Aditivo ao contrato do Sebrae, desde que aprovados por ambas as partes; O Termo Aditivo deverá respeitar o regulamento do Sebraetec e o Regulamento de Licitações e Contratos\nDespesas adicionais com fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho; (direitos autorais, terceiros É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente. ",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo\nAs visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários propostos pela consultoria\nCaso o produtor opte por realizar qualquer procedimento não condizente com o prescrito pelo consultor, o mesmo deverá declarar a intenção no relatório técnico e isentar o prestador do serviço e o SEBRAE de qualquer responsabilidade\nOs valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta\nCustos de trabalhos não especificados na proposta poderão ser assumidos posteriormente mediante Termo Aditivo ao contrato do Sebrae, desde que aprovados por ambas as partes; O Termo Aditivo deverá respeitar o regulamento do Sebraetec e o Regulamento de Licitações e Contratos\nDespesas adicionais com fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho; (direitos autorais, terceiros É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
   "historicoAlteracoes": [
     {
       "versao": 1,
       "dataAlteracao": "10/09/2020",
-      "alteradoPor": "Práticas-no-Extrativismo-da-Carnaúba- MMP14066-1.pdf"
+      "alteradoPor": "Práticas-no-Extrativismo-da-Carnaúba\n- MMP14066\n- 1. pdf"
     }
-  ],
-  "valorTeto": 11600.0,
-  "codigo": "372000000465"
+  ]
 }

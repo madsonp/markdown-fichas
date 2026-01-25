@@ -23,11 +23,11 @@
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | NIVELAMENTO - FUNDAMENTOS PARA A PRODUTIVIDADE",
+      "titulo": "ETAPA 02 | NIVELAMENTO\n- FUNDAMENTOS PARA A PRODUTIVIDADE",
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Histórico da apicultura informações sobre produção ultrapassada, erros comuns cometidos na apicultura tradicional e limitações tradicional, • Base do manejo para a alta produtividade – tripé: troca de favos velhos, • alimentação entressafra e troca de rainha Indução ao crescimento populacional da colmeia para mais de 100.000 abelhas, como fator de aumento da produtividade • Colocação de melgueiras na época certa para aumento de produtividade.",
+      "descricao": "• Histórico da apicultura informações sobre produção ultrapassada, erros comuns cometidos na apicultura tradicional e limitações tradicional,\n• Base do manejo para a alta produtividade – tripé: troca de favos velhos,\n• alimentação entressafra e troca de rainha Indução ao crescimento populacional da colmeia para mais de\n100. 000 abelhas, como fator de aumento da produtividade\n• Colocação de melgueiras na época certa para aumento de produtividade.",
       "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas, bem como as informações colhidas pelo consultor junto ao apicultor no decorrer das orientações teóricas e práticas."
     },
     {
@@ -45,7 +45,7 @@
       "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "A troca de favos velhos como fator de aumento de produtividade • Como trocar favos velhos • Quando trocar favos velhos • Por que trocar favos velhos?",
+      "descricao": "A troca de favos velhos como fator de aumento de produtividade\n• Como trocar favos velhos\n• Quando trocar favos velhos\n• Por que trocar favos velhos?",
       "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas, bem como as informações colhidas pelo consultor junto ao apicultor no decorrer das orientações teóricas e práticas."
     },
     {
@@ -54,7 +54,7 @@
       "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Alimentação estimulante e de subsistência como fator de aumento de produtividade • Tipos de alimentação e formulações • Tipos de alimentadores, individuais e coletivos • Quando alimentar as colmeias • Por que alimentar as colmeias • Desenvolvimento do ciclo de gerações na colmeia como fator de aumento de produtividade.",
+      "descricao": "Alimentação estimulante e de subsistência como fator de aumento de produtividade\n• Tipos de alimentação e formulações\n• Tipos de alimentadores, individuais e coletivos\n• Quando alimentar as colmeias\n• Por que alimentar as colmeias\n• Desenvolvimento do ciclo de gerações na colmeia como fator de aumento de produtividade.",
       "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas, bem como as informações colhidas pelo consultor junto ao apicultor no decorrer das orientações teóricas e práticas."
     },
     {
@@ -63,7 +63,7 @@
       "ordem": 6,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "A rainha como fator de aumento de produtividade • Como trocar a rainha • Quando trocar a rainha • Por que trocar a rainha?",
+      "descricao": "A rainha como fator de aumento de produtividade\n• Como trocar a rainha\n• Quando trocar a rainha\n• Por que trocar a rainha?",
       "entrega": "Relatório assinado pelo produtor e pelo consultor contendo as informações repassadas, bem como as informações colhidas pelo consultor junto ao apicultor no decorrer das orientações teóricas e práticas."
     }
   ],
@@ -105,17 +105,17 @@
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "Consultoria tecnológica com foco no aumento da produção do mel e na produtividade da atividade apícola: • Aumento da produção de mel; • Redução da perda de colmeias; • Maior produtividade; • Redução de custos; • Aumento da renda com o manejo adequado na Apicultura.",
+  "beneficiosResultadosEsperados": "Consultoria tecnológica com foco no aumento da produção do mel e na produtividade da atividade apícola:\n• Aumento da produção de mel;\n• Redução da perda de colmeias;\n• Maior produtividade;\n• Redução de custos;\n• Aumento da renda com o manejo adequado na Apicultura.",
   "estruturaMateriais": "EPI (Equipamento de Proteção Individual), Fumigador, Formão, Placas de cera alveolada, Alimentadores, Alimentação (açúcar), Materiais para produção de rainha quando aplicável.",
-  "responsabilidadeEmpresaDemandante": "1\n2\n3\nAprovar a proposta do Sebrae, valores e condições de pagamento\nConhecer e validar a proposta de trabalho do prestador de serviço\nProceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade\n4. Empenhar-se para viabilizar a execução das ações planejadas e promover a participação e o envolvimento de sua equipe de colaboradores\n5. Informar, colaborar e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n6. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n7. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n8. Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n9. Avaliar o serviço prestado\n",
+  "responsabilidadeEmpresaDemandante": "1\n2\n3\nAprovar a proposta do Sebrae, valores e condições de pagamento\nConhecer e validar a proposta de trabalho do prestador de serviço\nProceder ao acompanhamento e à supervisão das consultorias tecnológicas desenvolvidas em sua propriedade\n4. Empenhar-se para viabilizar a execução das ações planejadas e promover a participação e o envolvimento de sua equipe de colaboradores\n5. Informar, colaborar e auxiliar a coleta de dados, de estrito interesse técnico, além do cumprimento integral das orientações emitidas pelo consultor em atividade\n6. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n7. Atender a equipe técnica do programa nas datas e horários agendados pela entidade executora dos serviços\n8. Reportar ao Sebrae qualquer problema encontrado durante o atendimento\n9. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Cumprir todas as etapas previstas no plano de trabalho inicial do projeto, garantindo que todas as etapas serão sucedidas por suas respectivas entregas\n3. Realizar todas as etapas sem custo adicional\n4. Preparar escopo e cronograma das etapas do projeto, agenda de reuniões e atividades\n5. Realizar o trabalho, desenvolvendo o diagnóstico e/ou a consultoria\n6. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n7. Cumprir o prazo estabelecido com o produtor para realização de todas as etapas do projeto.",
   "perfilDesejadoPrestadora": "Quadro profissional composto por Técnico em Apicultura, Tecnólogo, Engenheiro Agrônomo, Zootecnista, Veterinário ou áreas afins.",
-  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo; As visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários propostos pela consultoria\nCaso o produtor opte por realizar qualquer procedimento não condizente com o prescrito pelo consultor, o mesmo deverá declarar a intenção no relatório técnico e isentar o prestador do serviço e o Sebrae de qualquer responsabilidade\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho; (direitos autorais, É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
+  "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nAs consultorias contratadas serão realizadas em uma única propriedade, mencionada na identificação desse termo\nAs visitas de atendimento serão agendadas e organizadas de acordo com a logística e o cronograma de atividades do projeto, ficando o produtor ciente das datas e horários propostos pela consultoria\nCaso o produtor opte por realizar qualquer procedimento não condizente com o prescrito pelo consultor, o mesmo deverá declarar a intenção no relatório técnico e isentar o prestador do serviço e o Sebrae de qualquer responsabilidade\nDespesas adicionais com Os valores dos honorários apresentados devem incluir todas as despesas com impostos e encargos sociais, conforme legislação tributária em vigor, que possa incidir sobre o objeto da proposta; terceiros fotografias, hospedagem, imagens, registro de domínio, revisões, textos, conteúdo dinâmico, entre outros) ficam a cargo exclusivo do cliente e devem ser previamente autorizadas por ele mediante apresentação de orçamento na apresentação da proposta de trabalho; (direitos autorais, É de responsabilidade do prestador de serviço todo o projeto, da concepção à aprovação do cliente\nO prestador de serviço não pode ser responsabilizado por erros de terceiros contratados pelo cliente.",
   "historicoAlteracoes": [
     {
       "versao": 1,
       "dataAlteracao": "20/05/2019",
-      "alteradoPor": "Produção-de-Mel-MMP14023-1.pdf Producao-de-Mel-MMP14023-2.pdf Producao-de-Mel-e-Derivados- MMP14023-3.pdf Coordenação Sebraetec Coordenação Sebraetec"
+      "alteradoPor": "Produção-de-Mel-MMP14023\n- 1. pdf Producao-de-Mel-MMP14023\n- 2. pdf Producao-de-Mel-e-Derivados\n- MMP14023\n- 3. pdf Coordenação Sebraetec Coordenação Sebraetec"
     },
     {
       "versao": 2,
@@ -127,6 +127,5 @@
       "dataAlteracao": "03/04/2023",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "371440100320"
+  ]
 }

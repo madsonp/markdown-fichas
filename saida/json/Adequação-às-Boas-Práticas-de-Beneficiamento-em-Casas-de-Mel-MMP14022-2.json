@@ -27,7 +27,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Realizar reunião de abertura junto ao cliente para nivelamento do escopo do trabalho e realização do Check-list, que deverá conter, no mínimo a. Higienização do ambiente, equipamentos e utensílios b. Sanitização do ambiente, equipe, utensílios, utilizando produtos químicos bactericidas e fungicidas c. Extração do mel d. Reunir o material e. Colocar os quadros de mel na mesa desoperculadora f. Retirar os opérculos g. Colocar os quadros desoperculados na centrífuga h. Filtração do mel i. Decantação do mel j. Envase do mel k. Rotulagem • Analisar o processo atual utilizado na Casa de Mel, comparando-o com o Check-list realizado, e elaborar o Plano de Ação para as não conformidades detectadas.",
+      "descricao": "• Realizar reunião de abertura junto ao cliente para nivelamento do escopo do trabalho e realização do Check-list, que deverá conter, no mínimo a. Higienização do ambiente, equipamentos e utensílios b. Sanitização do ambiente, equipe, utensílios, utilizando produtos químicos bactericidas e fungicidas c. Extração do mel d. Reunir o material e. Colocar os quadros de mel na mesa desoperculadora f. Retirar os opérculos g. Colocar os quadros desoperculados na centrífuga h. Filtração do mel i. Decantação do mel j. Envase do mel k. Rotulagem\n• Analisar o processo atual utilizado na Casa de Mel, comparando-o com o Check-list realizado, e elaborar o Plano de Ação para as não conformidades detectadas.",
       "entrega": "Apresentação de relatório assinado pelo produtor e pelo consultor, contendo o Plano de Ação, visando a correta aplicação da atividade na Casa de Mel."
     },
     {
@@ -37,7 +37,7 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Elaborar ou revisar o Manual de Boas Práticas para a Casa de Mel, tendo em vista as peculiaridades do estabelecimento, o Check-list e o Plano de Ação realizado Realizar acompanhamento da execução dos procedimentos de Boas Práticas com orientações técnicas e elaboração e/ou revisão do Manual de Boas Práticas.",
-      "entrega": "• Programa de Boas Práticas de Fabricação implantado e/ou revisado; • Capacitação com as orientações técnicas repassadas ao Apicultor."
+      "entrega": "• Programa de Boas Práticas de Fabricação implantado e/ou revisado;\n• Capacitação com as orientações técnicas repassadas ao Apicultor."
     }
   ],
   "perguntasDiagnostico": [
@@ -67,7 +67,7 @@
     },
     {
       "id": "5",
-      "pergunta": "Qual a localização da fazenda? ",
+      "pergunta": "Qual a localização da fazenda?",
       "tipo": "texto",
       "obrigatoria": true
     }
@@ -89,6 +89,5 @@
       "dataAlteracao": "16/04/2020",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "371440100278"
+  ]
 }

@@ -26,8 +26,8 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Consultoria à empresa demandante para adequação da sua propriedade, instalações e processos à norma Rainforest Alliance – Norma para Agricultura Sustentável – para produção agrícola e pecuária de fazendas e grupos de produtores (julho, 2017 – versão 1.2). A consultoria dever abordar integralmente os princípios previstos nessa norma • Princípio 1. Sistema eficaz de planejamento e gestão • Princípio 2. Conservação da biodiversidade • Princípio 3. Conservação dos recursos naturais • Princípio 4. Melhores meios de vida e bem-estar humano • Princípio 5. Produção de pecuária sustentável (aplicado somente para o escopo da certificação pecuária).",
-      "entrega": "• Relatório contendo as ações implementadas para cumprir os Critérios Críticos da Norma RAS para Agricultura Sustentável 2017 - 34 para fazendas agrícolas (pequenos produtores) + 6 para fazendas pecuárias, os quais são pré-requisitos para o alcance da certificação, a depender da propriedade atendida; não estão incluídos necessariamente nessa entrega o atendimento aos critérios de melhoramento contínuo previstos na norma; • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
+      "descricao": "Consultoria à empresa demandante para adequação da sua propriedade, instalações e processos à norma Rainforest Alliance – Norma para Agricultura Sustentável – para produção agrícola e pecuária de fazendas e grupos de produtores (julho, 2017 – versão\n1. 2). A consultoria dever abordar integralmente os princípios previstos nessa norma\n• Princípio\n1. Sistema eficaz de planejamento e gestão\n• Princípio\n2. Conservação da biodiversidade\n• Princípio\n3. Conservação dos recursos naturais\n• Princípio\n4. Melhores meios de vida e bem-estar humano\n• Princípio\n5. Produção de pecuária sustentável (aplicado somente para o escopo da certificação pecuária).",
+      "entrega": "• Relatório contendo as ações implementadas para cumprir os Critérios Críticos da Norma RAS para Agricultura Sustentável 2017\n- 34 para fazendas agrícolas (pequenos produtores) + 6 para fazendas pecuárias, os quais são pré-requisitos para o alcance da certificação, a depender da propriedade atendida; não estão incluídos necessariamente nessa entrega o atendimento aos critérios de melhoramento contínuo previstos na norma;\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [],
@@ -41,14 +41,12 @@
     {
       "versao": 1,
       "dataAlteracao": "22/04/2019",
-      "alteradoPor": "Agricultura-Sustentável-RAS- GQ13014-1.pdf Agricultura-Sustentável-RAS- GQ13014-2.pdf Coordenação Sebraetec"
+      "alteradoPor": "Agricultura-Sustentável-RAS\n- GQ13014\n- 1. pdf Agricultura-Sustentável-RAS\n- GQ13014\n- 2. pdf Coordenação Sebraetec"
     },
     {
       "versao": 2,
       "dataAlteracao": "15/04/2020",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "valorTeto": 17650.0,
-  "codigo": "371440100272"
+  ]
 }

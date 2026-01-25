@@ -1,6 +1,6 @@
 {
   "id": "13013-6",
-  "nomeSolucao": "METROLOGIA - ENSAIOS",
+  "nomeSolucao": "METROLOGIA\n- ENSAIOS",
   "tema": "Produção e da Qualidade",
   "subtema": "Gestão da qualidade",
   "tipoServico": "Serviços metrológicos",
@@ -28,12 +28,12 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Realizar a coleta de amostras conforme metodologia definida na Etapa 01, quando aplicável • Realizar o ensaio • Apresentar ao cliente os resultados do ensaio conforme planejamento validado técnicas e procedimentos alinhados conforme",
+      "descricao": "• Realizar a coleta de amostras conforme metodologia definida na Etapa 01, quando aplicável\n• Realizar o ensaio\n• Apresentar ao cliente os resultados do ensaio conforme planejamento validado técnicas e procedimentos alinhados conforme",
       "entrega": "Emissão de relatório técnico contendo: resultados e análises referentes ao desempenho metrológico do produto, descrição dos procedimentos realizados, e identificação dos responsáveis pela execução do serviço, assinado pela empresa demandante."
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "Realização de um ensaio num produto, ou seja, a determinação de uma ou mais características de um objeto de avaliação da conformidade, de acordo com um procedimento. São exemplos de classes de ensaios: Análises Clínicas e Patológicas; Ensaios Acústicos, de Vibração e Choque; Ensaios Biológicos; Ensaios de Radiações Ionizantes; Ensaios Elétricos e Magnéticos; Ensaios em Telhas Cerâmicas para a Avaliação da Conformidade/ PSQ; Ensaios Mecânicos; Ensaios Não Destrutivos; Ensaios Ópticos; Ensaios Químicos; Ensaios Térmicos; Exames de Laboratórios de Interpretação de Imagens (Ultrassonografia, etc); Serviços de Análise de Resíduos e Serviços de Análise Microbiológicas. Inclui-se como um serviço metrológico a amostragem, com ensaio subsequente. A amostragem é o ato de coletar as amostras adequadamente para que seja realizado o ensaio nas condições ideais. Os principais objetivos desses ensaios são: • Garantir maior segurança no trabalho evitando fraturas inesperadas que poderiam causar acidentes durante a execução do serviço; • Redução de custos: a partir da maior facilidade de identificação de falhas se torna possível a realização de manutenção no tempo correto, gerando menos custos;",
+  "beneficiosResultadosEsperados": "Realização de um ensaio num produto, ou seja, a determinação de uma ou mais características de um objeto de avaliação da conformidade, de acordo com um procedimento. São exemplos de classes de ensaios: Análises Clínicas e Patológicas; Ensaios Acústicos, de Vibração e Choque; Ensaios Biológicos; Ensaios de Radiações Ionizantes; Ensaios Elétricos e Magnéticos; Ensaios em Telhas Cerâmicas para a Avaliação da Conformidade/ PSQ; Ensaios Mecânicos; Ensaios Não Destrutivos; Ensaios Ópticos; Ensaios Químicos; Ensaios Térmicos; Exames de Laboratórios de Interpretação de Imagens (Ultrassonografia, etc); Serviços de Análise de Resíduos e Serviços de Análise Microbiológicas. Inclui-se como um serviço metrológico a amostragem, com ensaio subsequente. A amostragem é o ato de coletar as amostras adequadamente para que seja realizado o ensaio nas condições ideais. Os principais objetivos desses ensaios são:\n• Garantir maior segurança no trabalho evitando fraturas inesperadas que poderiam causar acidentes durante a execução do serviço;\n• Redução de custos: a partir da maior facilidade de identificação de falhas se torna possível a realização de manutenção no tempo correto, gerando menos custos;\n• Maior conhecimento das propriedades do material testado;\n• Garantia de uso de material adequado para a funcionalidade do produto;\n• Atender regulamentações específicas e exigência da metrologia legal;\n• Maior capacidade de análise de riscos concernentes ao produto.",
   "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
@@ -43,7 +43,7 @@
     {
       "versao": 1,
       "dataAlteracao": "10/04/2019",
-      "alteradoPor": "Ensaios-GQ13013-1.pdf Ensaios-GQ13013-2.pdf Ensaios-GQ13013-3.pdf Ensaios-GQ13013-4.pdf Ensaios-GQ13013-5.pdf"
+      "alteradoPor": "Ensaios-GQ13013\n- 1. pdf Ensaios-GQ13013\n- 2. pdf Ensaios-GQ13013\n- 3. pdf Ensaios-GQ13013\n- 4. pdf Ensaios-GQ13013\n- 5. pdf"
     },
     {
       "versao": 2,
@@ -55,7 +55,5 @@
       "dataAlteracao": "12/12/2019",
       "alteradoPor": "Garcia de Oliveira"
     }
-  ],
-  "valorTeto": 17000.0,
-  "codigo": "371440100365"
+  ]
 }

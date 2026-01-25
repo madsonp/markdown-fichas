@@ -25,7 +25,7 @@ try:
     from markitdown import MarkItDown
     md_converter = MarkItDown()
 except ImportError:
-    print("❌ markitdown não está instalado. Instale com: pip install markitdown")
+    print("[X] markitdown nao instalado. Instale com: pip install markitdown")
     md_converter = None
 
 
@@ -43,9 +43,13 @@ class ProcessadorFichasTecnicas:
         self.dir_json = dir_json or SAIDA_JSON_DIR
         
         # Padrões para formatação de bullets/numeração
-        self.pattern_bullets = re.compile(r'([^\n])\s+•\s+')
-        self.pattern_numbers = re.compile(r'([^\n])\s+(\d+\.)\s+')
-        self.pattern_dashes = re.compile(r'([^\n])\s+-\s+(?!\s)')
+        # Captura qualquer caractere não-quebra seguido de espaço + símbolo
+        self.pattern_bullets = re.compile(r'([^\n•])\s*•\s*')
+        self.pattern_bullets_start = re.compile(r'^(\s*)•')  # Bullet no início da linha
+        self.pattern_numbers = re.compile(r'([^\n\d])\s*(\d+\.)\s*')
+        self.pattern_numbers_start = re.compile(r'^(\s*)(\d+\.)')  # Número no início
+        self.pattern_dashes = re.compile(r'([^\n\-])\s*-\s+(?!\s)')
+        self.pattern_dashes_start = re.compile(r'^(\s*)-\s+')  # Hífen no início
         
         # Criar diretórios se não existem
         self.dir_json.mkdir(parents=True, exist_ok=True)
@@ -61,16 +65,31 @@ class ProcessadorFichasTecnicas:
         if not texto or not isinstance(texto, str):
             return texto
         
-        # Adiciona quebra antes de bullets
-        texto = self.pattern_bullets.sub(r'\1\n• ', texto)
+        # Processa cada linha individualmente para capturar todos os casos
+        linhas = texto.split('\n')
+        linhas_processadas = []
         
-        # Adiciona quebra antes de numeração
-        texto = self.pattern_numbers.sub(r'\1\n\2 ', texto)
+        for linha in linhas:
+            # Se a linha começar com bullet mas não for primeira linha
+            # de um bloco (ou seja, linha anterior existe), adiciona quebra
+            if linhas_processadas and self.pattern_bullets_start.match(linha.strip()):
+                # Reinsere a última linha processada e inicia nova com bullet
+                linhas_processadas[-1] = linhas_processadas[-1].rstrip()
+                linhas_processadas.append(linha)
+            elif linhas_processadas and self.pattern_numbers_start.match(linha.strip()):
+                linhas_processadas[-1] = linhas_processadas[-1].rstrip()
+                linhas_processadas.append(linha)
+            elif linhas_processadas and self.pattern_dashes_start.match(linha.strip()):
+                linhas_processadas[-1] = linhas_processadas[-1].rstrip()
+                linhas_processadas.append(linha)
+            else:
+                # Processa símbolos no meio da linha
+                linha = self.pattern_bullets.sub(r'\1\n• ', linha)
+                linha = self.pattern_numbers.sub(r'\1\n\2 ', linha)
+                linha = self.pattern_dashes.sub(r'\1\n- ', linha)
+                linhas_processadas.append(linha)
         
-        # Adiciona quebra antes de hífens
-        texto = self.pattern_dashes.sub(r'\1\n- ', texto)
-        
-        return texto
+        return '\n'.join(linhas_processadas)
     
     def _processar_recursivo(self, obj: Any) -> Any:
         """Processa objeto recursivamente aplicando formatação"""

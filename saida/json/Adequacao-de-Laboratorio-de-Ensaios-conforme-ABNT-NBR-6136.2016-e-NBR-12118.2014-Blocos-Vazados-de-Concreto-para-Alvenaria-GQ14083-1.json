@@ -31,7 +31,7 @@
     },
     {
       "id": "e3",
-      "titulo": "ETAPA 0 | 3 TECNOLÓGICO Orientar a equipe técnica da fábrica quanto aos requisitos das normas técnicas, práticas de ensaio, e controle de qualidade em laboratório, conforme as normas ABNT NBR 6136 e NBR 12118.",
+      "titulo": "ETAPA 0 | 3 TECNOLÓGICO Orientar a equipe técnica da fábrica quanto aos requisitos das normas técnicas, práticas de ensaio, e controle de qualidade em laboratório, conforme as normas ABNT NBR 6136 e NBR\n12118. ",
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
@@ -63,13 +63,13 @@
     },
     {
       "id": "3",
-      "pergunta": "A empresapossui estrutura formal, procedimentos documentados e sistematização completa de seus processos?A falta dessa padronização pode requerer outras consultorias de padronização de processos antes da consultoria para implantação do laboratório conforme as normas ABNT NBR 6136:2016 e NBR 12118:2014.",
+      "pergunta": "A empresapossui estrutura formal, procedimentos documentados e sistematização completa de seus processos?A falta dessa padronização pode requerer outras consultorias de padronização de processos antes da consultoria para implantação do laboratório conforme as normas ABNT NBR 6136:2016 e NBR 12118:\n2014. ",
       "tipo": "sim_nao",
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "• Implantação de laboratório de controle tecnológico conforme as normas ABNT NBR 6136:2016 e NBR 12118:2014 • Redução de custos de produção • Melhoria da qualidade do produto • Atendimento aos requisitos técnicos e regulatórios • Aumento da satisfação do cliente e melhoria da imagem da empresa • Aumento da motivação da equipe • Redução de retrabalho, devoluções e reclamações • Aumento da competitividade no mercado",
-  "estruturaMateriais": "A estrutura necessária envolve espaço físico adequado para instalação do laboratório de controle tecnológico, aquisição de equipamentos específicos para ensaios de blocos vazados de concreto, tais como prensa hidráulica, paquímetros, balanças e outros instrumentos de medição, conforme exigido pelas normas técnicas. Também serão necessários materiais de apoio para registros e documentação dos procedimentos de ensaio, além de acesso às normas NBR 6136:2016 e NBR 12118:2014.",
+  "beneficiosResultadosEsperados": "• Implantação de laboratório de controle tecnológico conforme as normas ABNT NBR 6136:2016 e NBR 12118:2014\n• Redução de custos de produção\n• Melhoria da qualidade do produto\n• Atendimento aos requisitos técnicos e regulatórios\n• Aumento da satisfação do cliente e melhoria da imagem da empresa\n• Aumento da motivação da equipe\n• Redução de retrabalho, devoluções e reclamações\n• Aumento da competitividade no mercado",
+  "estruturaMateriais": "A estrutura necessária envolve espaço físico adequado para instalação do laboratório de controle tecnológico, aquisição de equipamentos específicos para ensaios de blocos vazados de concreto, tais como prensa hidráulica, paquímetros, balanças e outros instrumentos de medição, conforme exigido pelas normas técnicas. Também serão necessários materiais de apoio para registros e documentação dos procedimentos de ensaio, além de acesso às normas NBR 6136:2016 e NBR 12118:\n2014. ",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas da prestadora de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pela prestadora de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços à prestadora de serviço para o desenvolvimento do trabalho\n5. Acompanhar a prestadora de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\nAvaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do trabalho, agenda de reuniões e atividades, sendo necessário validar com a empresa demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
   "perfilDesejadoPrestadora": "Corpo técnico com experiência comprovada de pelo menos 3 anos na implementação de sistemas de gestão da qualidade.",
@@ -80,7 +80,5 @@
       "dataAlteracao": "18/07/2025",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "valorTeto": 25000.0,
-  "codigo": "372000113101"
+  ]
 }

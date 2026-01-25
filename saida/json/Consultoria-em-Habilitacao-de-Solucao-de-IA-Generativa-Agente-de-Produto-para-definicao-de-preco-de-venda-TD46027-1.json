@@ -9,7 +9,7 @@
     "Empresa"
   ],
   "setor": "Comércio e Serviços",
-  "descricao": "Etapa 1: Prontidão e Hipótese de Aplicação (2 semanas) Avaliar o processo atual de definição de preços da empresa Definir hipóteses de uso do Agente Produtos para resolver problemas Objetivos: • específicos de definição de preço de venda • Identificar requisitos específicos para solução de IA Generativa Atividades: Ficha Técnica – Sebraetec 4.0 • Realizar diagnóstico simplificado do processo de definição de preço atual Avaliar os dados disponíveis sobre histórico de preços e vendas Identificar os principais desafios no processo de definição de preços Estruturar a hipótese de solução e métricas de sucesso para experimentação Apresentar a solução de Agente de Produto recomendada e seus benefícios Conduzir entrevistas com stakeholders chave Entrega Etapa 1: • de Produto • Relatório de prontidão para adoção do Agente de Produto Board de experimentação com hipóteses e métricas definidas para o Agente Plano de ação para preparação do ambiente da solução de IA Generativa Implementar o Agente de Produto em escala controlada Validar as hipóteses, métricas definidas e solução selecionada Etapa 2: Experimento de Validação da Solução (4 semanas) Objetivos: • Atividades: • resultados iniciais Configurar e treinar o Agente de Produto com dados da empresa Elaborar plano detalhado de experimentos para validar as hipóteses Conduzir experimentos em cenários reais de definição de preço Monitorar KPIs definidos e coletar feedback Realizar ajustes e otimizações no Agente de Produto baseado nos Entrega Etapa 2: • hipóteses e métricas • Agente de Produto configurado e treinado para o contexto da empresa Relatório de desempenho do Agente de Produto, incluindo validação das Modelo de contratação mais adequado da ferramenta de IA Generativa Etapa 3: Escala da Solução (2 semanas) Objetivos: • catálogo de produtos Orientar PME na expansão do uso do Agente de Produto para todo o Implementar o Agente de Produto em larga escala, baseado nos resultados Treinar toda a equipe de venda para trabalhar em conjunto com o Agente de Atividades: • dos experimentos • Produto • Efetivação da contratação da solução de IA Generativa Entrega Etapa 3: • Agente de Produto totalmente integrado ao processo de contratação Treinamento completo da equipe de Vendas",
+  "descricao": "Etapa 1: Prontidão e Hipótese de Aplicação (2 semanas) Avaliar o processo atual de definição de preços da empresa Definir hipóteses de uso do Agente Produtos para resolver problemas Objetivos:\n• específicos de definição de preço de venda\n• Identificar requisitos específicos para solução de IA Generativa Atividades: Ficha Técnica – Sebraetec\n4. 0\n• Realizar diagnóstico simplificado do processo de definição de preço atual Avaliar os dados disponíveis sobre histórico de preços e vendas Identificar os principais desafios no processo de definição de preços Estruturar a hipótese de solução e métricas de sucesso para experimentação Apresentar a solução de Agente de Produto recomendada e seus benefícios Conduzir entrevistas com stakeholders chave Entrega Etapa 1:\n• de Produto\n• Relatório de prontidão para adoção do Agente de Produto Board de experimentação com hipóteses e métricas definidas para o Agente Plano de ação para preparação do ambiente da solução de IA Generativa Implementar o Agente de Produto em escala controlada Validar as hipóteses, métricas definidas e solução selecionada Etapa 2: Experimento de Validação da Solução (4 semanas) Objetivos:\n• Atividades:\n• resultados iniciais Configurar e treinar o Agente de Produto com dados da empresa Elaborar plano detalhado de experimentos para validar as hipóteses Conduzir experimentos em cenários reais de definição de preço Monitorar KPIs definidos e coletar feedback Realizar ajustes e otimizações no Agente de Produto baseado nos Entrega Etapa 2:\n• hipóteses e métricas\n• Agente de Produto configurado e treinado para o contexto da empresa Relatório de desempenho do Agente de Produto, incluindo validação das Modelo de contratação mais adequado da ferramenta de IA Generativa Etapa 3: Escala da Solução (2 semanas) Objetivos:\n• catálogo de produtos Orientar PME na expansão do uso do Agente de Produto para todo o Implementar o Agente de Produto em larga escala, baseado nos resultados Treinar toda a equipe de venda para trabalhar em conjunto com o Agente de Atividades:\n• dos experimentos\n• Produto\n• Efetivação da contratação da solução de IA Generativa Entrega Etapa 3:\n• Agente de Produto totalmente integrado ao processo de contratação Treinamento completo da equipe de Vendas",
   "etapas": [
     {
       "id": "e1",
@@ -17,17 +17,17 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Avaliar o processo atual de definição de preços da empresa Definir hipóteses de uso do Agente Produtos para resolver problemas Objetivos • específicos de definição de preço de venda • Identificar requisitos específicos para solução de IA Generativa Atividades Ficha Técnica – Sebraetec 4.0 Código da ficha técnica: 46027-1 • Realizar diagnóstico simplificado do processo de definição de preço atual Avaliar os dados disponíveis sobre histórico de preços e vendas Identificar os principais desafios no processo de definição de preços Estruturar a hipótese de solução e métricas de sucesso para experimentação Apresentar a solução de Agente de Produto recomendada e seus benefícios Conduzir entrevistas com stakeholders chave",
-      "entrega": "• de Produto • Relatório de prontidão para adoção do Agente de Produto Board de experimentação com hipóteses e métricas definidas para o Agente Plano de ação para preparação do ambiente da solução de IA Generativa Implementar o Agente de Produto em escala controlada Validar as hipóteses, métricas definidas e solução selecionada"
+      "descricao": "Avaliar o processo atual de definição de preços da empresa Definir hipóteses de uso do Agente Produtos para resolver problemas Objetivos\n• específicos de definição de preço de venda\n• Identificar requisitos específicos para solução de IA Generativa Atividades Ficha Técnica – Sebraetec\n4. 0 Código da ficha técnica: 46027-1\n• Realizar diagnóstico simplificado do processo de definição de preço atual Avaliar os dados disponíveis sobre histórico de preços e vendas Identificar os principais desafios no processo de definição de preços Estruturar a hipótese de solução e métricas de sucesso para experimentação Apresentar a solução de Agente de Produto recomendada e seus benefícios Conduzir entrevistas com stakeholders chave",
+      "entrega": "• de Produto\n• Relatório de prontidão para adoção do Agente de Produto Board de experimentação com hipóteses e métricas definidas para o Agente Plano de ação para preparação do ambiente da solução de IA Generativa Implementar o Agente de Produto em escala controlada Validar as hipóteses, métricas definidas e solução selecionada"
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 2 | Experimento de Validação da Solução (4 semanas) Objetivos: • Atividades: • resultados iniciais",
+      "titulo": "ETAPA 2 | Experimento de Validação da Solução (4 semanas) Objetivos:\n• Atividades:\n• resultados iniciais",
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Configurar e treinar o Agente de Produto com dados da empresa Elaborar plano detalhado de experimentos para validar as hipóteses Conduzir experimentos em cenários reais de definição de preço Monitorar KPIs definidos e coletar feedback Realizar ajustes e otimizações no Agente de Produto baseado nos",
-      "entrega": "• hipóteses e métricas • Agente de Produto configurado e treinado para o contexto da empresa Relatório de desempenho do Agente de Produto, incluindo validação das Modelo de contratação mais adequado da ferramenta de IA Generativa"
+      "entrega": "• hipóteses e métricas\n• Agente de Produto configurado e treinado para o contexto da empresa Relatório de desempenho do Agente de Produto, incluindo validação das Modelo de contratação mais adequado da ferramenta de IA Generativa"
     },
     {
       "id": "e3",
@@ -35,7 +35,7 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Objetivos • catálogo de produtos Orientar PME na expansão do uso do Agente de Produto para todo o Implementar o Agente de Produto em larga escala, baseado nos resultados Treinar toda a equipe de venda para trabalhar em conjunto com o Agente de Atividades • dos experimentos • Produto • Efetivação da contratação da solução de IA Generativa",
+      "descricao": "Objetivos\n• catálogo de produtos Orientar PME na expansão do uso do Agente de Produto para todo o Implementar o Agente de Produto em larga escala, baseado nos resultados Treinar toda a equipe de venda para trabalhar em conjunto com o Agente de Atividades\n• dos experimentos\n• Produto\n• Efetivação da contratação da solução de IA Generativa",
       "entrega": "• Agente de Produto totalmente integrado ao processo de contratação Treinamento completo da equipe de Vendas"
     }
   ],
@@ -52,6 +52,5 @@
       "dataAlteracao": "18/09/2025",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "372000115239"
+  ]
 }

@@ -27,8 +27,8 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Diagnóstico da empresa e mapeamento dos processos, observando os seguintes aspectos, quando aplicáveis • Medição da eficiência real x teórica • Comparação da capacidade produtiva e/ou de atendimento x demanda (nº clientes/dia) • Levantamento das sequências dos fluxos operacionais dos produtos • Avaliação do espaço físico e layout da área de produção dos alimentos, em consonância com o cardápio e/ou lista de produtos, a demanda e os processos mapeados Identificação de gargalos no processo",
-      "entrega": "• Relatório do diagnóstico da empresa, contendo: fluxos operacionais dos produtos; mapeamento descrevendo o fluxograma de processos, balanços, requisitos de matérias primas (entradas) e produtos (saídas); Identificação das principais variáveis de cada processo; disposição dos equipamentos e descrição dos principais gargalos da produção e pontos de melhoria com as respectivas ações corretivas. • Documento de avaliação e dimensionamento de capacidade produtiva e/ou de atendimento; • Desenho do espaço físico e layout atual do processo de produção dos alimentos."
+      "descricao": "Diagnóstico da empresa e mapeamento dos processos, observando os seguintes aspectos, quando aplicáveis\n• Medição da eficiência real x teórica\n• Comparação da capacidade produtiva e/ou de atendimento x demanda (nº clientes/dia)\n• Levantamento das sequências dos fluxos operacionais dos produtos\n• Avaliação do espaço físico e layout da área de produção dos alimentos, em consonância com o cardápio e/ou lista de produtos, a demanda e os processos mapeados Identificação de gargalos no processo",
+      "entrega": "• Relatório do diagnóstico da empresa, contendo: fluxos operacionais dos produtos; mapeamento descrevendo o fluxograma de processos, balanços, requisitos de matérias primas (entradas) e produtos (saídas); Identificação das principais variáveis de cada processo; disposição dos equipamentos e descrição dos principais gargalos da produção e pontos de melhoria com as respectivas ações corretivas.\n• Documento de avaliação e dimensionamento de capacidade produtiva e/ou de atendimento;\n• Desenho do espaço físico e layout atual do processo de produção dos alimentos."
     },
     {
       "id": "e3",
@@ -36,7 +36,7 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Com base no(s) diagnóstico(s) realizado(s) na etapa anterior, deve-se organizar as informações e orientar a empresa no sentido da otimização dos processos produtivos, quando aplicáveis • Elaboração de novo croqui do espaço físico com a distribuição dos equipamentos, buscando otimizar os processos, segundo as avaliações realizadas na etapa anterior • Desenhar os fluxos que fazem parte do processo, evitando que esses se cruzem (entrada de pessoal; entrada de matérias primas e ingredientes entrada de embalagens; entradas de produtos químicos; saída dos produtos acabados; saída de lixo; saída de pessoal, etc.) • Propor ações de reestruturação dos processos produtivos para aumento de capacidade e inclusive do redimensionamento dos equipamentos de produção dos alimentos, e substituição e/ou compra de novos equipamentos redução de gargalos, através • Listar os equipamentos necessários na área de produção, com suas dimensões, quantidade e função • Avaliação dos custos de produção identificando margem de lucro dos produtos através da utilização de planilhas e ferramentas que possibilitem o cálculo de margem e preço de venda • Propor estratégias para aumento da margem de lucro (redução de custos, desperdícios, tempos de processamento, maximização de sinergias), sem, contudo, comprometer a qualidade do produto ou nível de atendimento • Documento de padronização de processos operacionais (Procedimento • Operacional Padrão – POP) Implementação de formulários para controle de processos, planejamento da produção e métodos e cálculos de produção e planejamento de manutenção dos equipamentos • Padronização dos processos de elaboração e fabricação, bem como aperfeiçoamento dos processos produtivos • Propor indicadores de processo chave (custo, qualidade, produtividade, segurança) que possibilite o acompanhamento e análise dos processos existentes e potenciais tomadas de decisões.",
+      "descricao": "Com base no(s) diagnóstico(s) realizado(s) na etapa anterior, deve-se organizar as informações e orientar a empresa no sentido da otimização dos processos produtivos, quando aplicáveis\n• Elaboração de novo croqui do espaço físico com a distribuição dos equipamentos, buscando otimizar os processos, segundo as avaliações realizadas na etapa anterior\n• Desenhar os fluxos que fazem parte do processo, evitando que esses se cruzem (entrada de pessoal; entrada de matérias primas e ingredientes entrada de embalagens; entradas de produtos químicos; saída dos produtos acabados; saída de lixo; saída de pessoal, etc.)\n• Propor ações de reestruturação dos processos produtivos para aumento de capacidade e inclusive do redimensionamento dos equipamentos de produção dos alimentos, e substituição e/ou compra de novos equipamentos redução de gargalos, através\n• Listar os equipamentos necessários na área de produção, com suas dimensões, quantidade e função\n• Avaliação dos custos de produção identificando margem de lucro dos produtos através da utilização de planilhas e ferramentas que possibilitem o cálculo de margem e preço de venda\n• Propor estratégias para aumento da margem de lucro (redução de custos, desperdícios, tempos de processamento, maximização de sinergias), sem, contudo, comprometer a qualidade do produto ou nível de atendimento\n• Documento de padronização de processos operacionais (Procedimento\n• Operacional Padrão – POP) Implementação de formulários para controle de processos, planejamento da produção e métodos e cálculos de produção e planejamento de manutenção dos equipamentos\n• Padronização dos processos de elaboração e fabricação, bem como aperfeiçoamento dos processos produtivos\n• Propor indicadores de processo chave (custo, qualidade, produtividade, segurança) que possibilite o acompanhamento e análise dos processos existentes e potenciais tomadas de decisões.",
       "entrega": "Relatório definitivo contendo a consolidação de todas as etapas desenvolvidas na consultoria, validado junto ao cliente. O documento deve conter observações, análise do problema, plano de ação contendo ações executadas, ações propostas, resultados e plano de melhoria contínua."
     }
   ],
@@ -97,13 +97,13 @@
     },
     {
       "id": "10",
-      "pergunta": "Qual é o principal benefício (redução de perdas, redução de custo, qualidade, etc.) esperado? ",
+      "pergunta": "Qual é o principal benefício (redução de perdas, redução de custo, qualidade, etc.) esperado?",
       "tipo": "texto",
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "O objetivo desta consultoria é capacitar as empresas do segmento de alimentação nas melhores práticas de gestão produtiva, através de diagnóstico, análise de informações, mapeamento de processos, visando o acompanhamento da implantação de melhorias das rotinas operacionais e de gestão produtiva, tendo como objetivo: • Gestão produtiva estruturada voltada para resultados através da estruturação de processos, mapeamento de custos, desenvolvimento de pessoas, organização e estratégia para atingir resultados • Acompanhamento de desempenho com base em indicadores; • Foco na melhoria contínua; • Aumento da competitividade; • Menor perda de tempo com o manuseio de materiais; • Menor congestionamento nos postos de trabalhos; • Treinamento e controle facilitado; • Redução do tempo entre processos; • Redução de custos.",
-  "estruturaMateriais": "- ",
+  "beneficiosResultadosEsperados": "O objetivo desta consultoria é capacitar as empresas do segmento de alimentação nas melhores práticas de gestão produtiva, através de diagnóstico, análise de informações, mapeamento de processos, visando o acompanhamento da implantação de melhorias das rotinas operacionais e de gestão produtiva, tendo como objetivo:\n• Gestão produtiva estruturada voltada para resultados através da estruturação de processos, mapeamento de custos, desenvolvimento de pessoas, organização e estratégia para atingir resultados\n• Acompanhamento de desempenho com base em indicadores;\n• Foco na melhoria contínua;\n• Aumento da competitividade;\n• Menor perda de tempo com o manuseio de materiais;\n• Menor congestionamento nos postos de trabalhos;\n• Treinamento e controle facilitado;\n• Redução do tempo entre processos;\n• Redução de custos.",
+  "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
   "perfilDesejadoPrestadora": "Corpo técnico formado por profissionais da Gastronomia, Nutrição, Engenheiros de produção, Engenheiros de Alimentos ou áreas correlatas, com experiência em gestão de serviços de alimentação.",
@@ -112,14 +112,12 @@
     {
       "versao": 1,
       "dataAlteracao": "08/04/2020",
-      "alteradoPor": "Processo-para-Alimenta%C3%A7%C3%A3o- Panifica%C3%A7%C3%A3o-e-Confeitaria- MMP14011-1.pdf Processo-para-Alimenta%C3%A7%C3%A3o- Panifica%C3%A7%C3%A3o-e-Confeitaria- MMP14011-2.pdf"
+      "alteradoPor": "Processo-para-Alimenta%C3%A7%C3%A3o\n- Panifica%C3%A7%C3%A3o-e-Confeitaria\n- MMP14011\n- 1. pdf Processo-para-Alimenta%C3%A7%C3%A3o\n- Panifica%C3%A7%C3%A3o-e-Confeitaria\n- MMP14011\n- 2. pdf"
     },
     {
       "versao": 2,
       "dataAlteracao": "01/01/2021",
       "alteradoPor": "Carlos Henrique"
     }
-  ],
-  "valorTeto": 16000.0,
-  "codigo": "371440100324"
+  ]
 }

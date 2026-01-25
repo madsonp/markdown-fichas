@@ -26,7 +26,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Uso Interno Código da ficha técnica: 14047-3 • Consiste no mapeamento das condições organizacionais existentes e alinhamento dos objetivos e metas com os usos e níveis de desenvolvimento BIM. O diagnóstico consiste no primeiro contato entre as equipes da empresa demandante e prestador de serviço • O mapeamento servirá para o desenvolvimento do Plano de Implantação BIM • Serão realizadas Entrevistas, Análise documentos e Observação dos processos, entre outros. Para isso, o prestador de serviço, passará período necessário em contato com a equipe da empresa demandante utilizando, se necessário, as instalações do cliente • Será desenvolvido pela prestadora de serviço um Relatório de Processos da empresa, que consiste na descrição dos processos vigentes e o nível de integração destes com o processo BIM • De posse do Relatório de Processos, o prestador de serviço irá elaborar o Plano de Implantação BIM, que será a estratégia base para a futura implantação do BIM na empresa demandante.",
+      "descricao": "Uso Interno Código da ficha técnica: 14047-3\n• Consiste no mapeamento das condições organizacionais existentes e alinhamento dos objetivos e metas com os usos e níveis de desenvolvimento BIM. O diagnóstico consiste no primeiro contato entre as equipes da empresa demandante e prestador de serviço\n• O mapeamento servirá para o desenvolvimento do Plano de Implantação BIM\n• Serão realizadas Entrevistas, Análise documentos e Observação dos processos, entre outros. Para isso, o prestador de serviço, passará período necessário em contato com a equipe da empresa demandante utilizando, se necessário, as instalações do cliente\n• Será desenvolvido pela prestadora de serviço um Relatório de Processos da empresa, que consiste na descrição dos processos vigentes e o nível de integração destes com o processo BIM\n• De posse do Relatório de Processos, o prestador de serviço irá elaborar o Plano de Implantação BIM, que será a estratégia base para a futura implantação do BIM na empresa demandante.",
       "entrega": "Relatório Técnico Parcial com o Relatório de Diagnóstico da empresa para implantação da metodologia contendo bases e premissas, contendo Fluxos de trabalho e Maturidade BIM atual da empresa demandante."
     },
     {
@@ -40,7 +40,7 @@
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "• Clareza no processo de migração para a metodologia BIM; • Possibilidade de criação de novos produtos; • Planejamento estratégico das ações e investimentos necessários para adoção do BIM, com base nos usos pretendidos; • Geração de valor agregado.",
+  "beneficiosResultadosEsperados": "• Clareza no processo de migração para a metodologia BIM;\n• Possibilidade de criação de novos produtos;\n• Planejamento estratégico das ações e investimentos necessários para adoção do BIM, com base nos usos pretendidos;\n• Geração de valor agregado.",
   "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
@@ -50,7 +50,7 @@
     {
       "versao": 1,
       "dataAlteracao": "20/09/2019",
-      "alteradoPor": "Plano-de-Implantação-MMP14047.pdf Plano-de-Implantação-MMP14047- MMP14047-3.pdf"
+      "alteradoPor": "Plano-de-Implantação-MMP\n14047. pdf Plano-de-Implantação-MMP14047\n- MMP14047\n- 3. pdf"
     },
     {
       "versao": 2,
@@ -62,6 +62,5 @@
       "dataAlteracao": "16/09/2024",
       "alteradoPor": "Garcia de Oliveira Coordenação Sebraetec"
     }
-  ],
-  "codigo": "371440100506"
+  ]
 }

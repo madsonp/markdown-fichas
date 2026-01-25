@@ -27,21 +27,21 @@
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Realização das auditorias para avaliação da conformidade do Sistema de Gestão da Qualidade da empresa com base nos requisitos da norma ABNT NBR ISO/IEC 29110, com vistas à certificação ou à manutenção da certificação.",
-      "entrega": "• Relatório de auditoria final com indicação e considerações sobre pontos de conformidade/não-conformidade previstos na certificação pretendida, assinado pela empresa demandante. • Certificado de Avaliação da Conformidade conforme ABNT NBR ISO/IEC 29110 emitido, nos casos em que não houver não conformidades identificadas. • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou presencialmente à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
+      "entrega": "• Relatório de auditoria final com indicação e considerações sobre pontos de conformidade/não-conformidade previstos na certificação pretendida, assinado pela empresa demandante.\n• Certificado de Avaliação da Conformidade conforme ABNT NBR ISO/IEC 29110 emitido, nos casos em que não houver não conformidades identificadas.\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou presencialmente à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [],
-  "beneficiosResultadosEsperados": "São potenciais benefícios: • Reconhecimento de atendimento aos requisitos de qualidade de empresas desenvolvedoras de software; • Geração de valor para a empresa; • Maior competitividade empresarial; • Acesso a novos mercados; • Auditoria de Certificação por organizações acreditadas pelos Órgãos Certificadores do(s) processo(s) ou produto(s) auditado(s). PRÉ REQUISITOS PARA ATENDIMENTO DO CLIENTE • Possuir até 25 (vinte e cinco) funcionários. • Recomendável que a empresa demandante tenha realizado a adequação do seu sistema de gestão da qualidade conforme requisitos da ABNT NBR ISO/IEC 29110 - Engenharia de Software: Perfis de ciclo de vida para micro- organizações.",
+  "beneficiosResultadosEsperados": "São potenciais benefícios:\n• Reconhecimento de atendimento aos requisitos de qualidade de empresas desenvolvedoras de software;\n• Geração de valor para a empresa;\n• Maior competitividade empresarial;\n• Acesso a novos mercados;\n• Auditoria de Certificação por organizações acreditadas pelos Órgãos Certificadores do(s) processo(s) ou produto(s) auditado(s). PRÉ REQUISITOS PARA ATENDIMENTO DO CLIENTE\n• Possuir até 25 (vinte e cinco) funcionários.\n• Recomendável que a empresa demandante tenha realizado a adequação do seu sistema de gestão da qualidade conforme requisitos da ABNT NBR ISO/IEC 29110\n- Engenharia de Software: Perfis de ciclo de vida para micro\n- organizações.",
   "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Participar da reunião de alinhamento do trabalho e demais reuniões previamente marcadas conforme cronograma\n2. Validar o escopo das etapas propostas pelo prestador de serviço\n3. Acompanhar o prestador de serviços ou disponibilizar 1 (um) funcionário para físicos da acompanhar o consultor quando em visita aos espaços propriedade/empresa\n4. Fornecer as informações necessárias para a realização do trabalho\n5. Adequar previamente ao serviço de certificação, os produtos, serviços, processos, documentos (e outros requisitos) às condições necessárias para obtenção da certificação, sendo a obtenção da certificação pretendida não garantida pelo Sebrae nem pela prestadora de serviço\n6. Aprovar o Documento Final\n7. Responder a pesquisa realizada pelo Sebrae\n8. Reportar ao Sebrae qualquer problema encontrado durante o atendimento.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec\n6. Proporcionar o(s) devido(s) esclarecimento do(s) processo(s) de auditoria junto à empresa demandante, bem como: realizar o agendamento; realizar a prestação do serviço; comunicar o resultado; e emitir e entregar o certificado (em caso de atendimento aos requisitos).",
-  "perfilDesejadoPrestadora": "Empresa com expertise em implantação dos Sistemas de Requisitos da Norma ABNT NBR ISO/IEC 29110.",
+  "perfilDesejadoPrestadora": "Empresa com expertise em implantação dos Sistemas de Requisitos da Norma ABNT NBR ISO/IEC\n29110. ",
   "observacoesGerais": "Na impossibilidade desta ficha técnica ser aplicada presencialmente, ela poderá ser aplicada de forma remota (ferramentas de videoconferência, ligações telefônicas, aplicativos de mensagens e/ou e-mails). No momento da contratação a empresa demandante deverá ser comunicada que parte do serviço ou a integralidade dele, quando aplicável, acontecerá de forma remota. Além disso, o alinhamento do formato do atendimento deve ser feito na Etapa 01 entre a empresa demandante e a prestadora de serviço tecnológico\nNa impossibilidade de as entregas serem assinadas fisicamente pela empresa demandante, elas poderão ser validadas via assinatura digital, aceite eletrônico ou e-mail, em que a empresa demandante deverá manifestar o aceite e encaminhar para a prestadora de serviço tecnológico, e esta deverá incluir o comprovante de validação da empresa demandante nas entregas para o registro do atendimento\nA empresa demandante deve ter até 25 (vinte e cinco) funcionários\nEsse serviço não contempla as consultorias para a adequação do sistema de gestão da qualidade da empresa demandante\nCaso haja não-conformidades identificadas, que inviabilizem a certificação, a empresa demandante deve providenciar a adequação de seus processos e, oportunamente, apresentar ao Sebrae uma nova demanda de serviço para avaliação da conformidade com vistas à certificação.",
   "historicoAlteracoes": [
     {
       "versao": 1,
       "dataAlteracao": "13/09/2019",
-      "alteradoPor": "CI12019-3.pdf"
+      "alteradoPor": "CI12019\n- 3. pdf"
     },
     {
       "versao": 2,
@@ -53,7 +53,5 @@
       "dataAlteracao": "31/03/2021",
       "alteradoPor": "Arthur Guimaraes Carneiro"
     }
-  ],
-  "valorTeto": 11260.0,
-  "codigo": "371440100493"
+  ]
 }

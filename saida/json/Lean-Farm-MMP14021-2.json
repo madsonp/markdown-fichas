@@ -10,7 +10,7 @@
     "Produtor Rural"
   ],
   "setor": "Agronegócio",
-  "descricao": "A aplicação do conceito Lean na empresa rural é baseada em dois princípios: valor e desperdício. • O primeiro está relacionado com a expectativa de valor do cliente: o benefício esperado pelo produto ou serviço. Ele diz respeito ao cuidado em identificar de maneira precisa e com regularidade o que é valor para o cliente. • O segundo trata do cuidado em identificar os principais tipos de desperdício e suas causas, no contexto da produção rural. ",
+  "descricao": "A aplicação do conceito Lean na empresa rural é baseada em dois princípios: valor e desperdício.\n• O primeiro está relacionado com a expectativa de valor do cliente: o benefício esperado pelo produto ou serviço. Ele diz respeito ao cuidado em identificar de maneira precisa e com regularidade o que é valor para o cliente.\n• O segundo trata do cuidado em identificar os principais tipos de desperdício e suas causas, no contexto da produção rural. ",
   "etapas": [
     {
       "id": "e1",
@@ -27,7 +27,7 @@
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "O diagnóstico Lean para a empresa rural é baseado nas seguintes fontes de desperdício • Produção em excesso: toda a produção rural (fruto da colheita) está sendo vendida? Há sobras na produção • Tempo improdutivo: todos os trabalhadores estão conseguindo trabalhar sem interrupções desnecessárias? Os produtos estão sendo armazenados mais longe do que deveriam • Embalagens adequadas: identificar os tamanhos e tipos de embalagens que atendam às necessidades do cliente • Estoque: o estoque de matérias-primas está excessivo? O estoque de itens acabados (frutas, grãos, legumes) está adequado/sem exageros • Fluxo produtivo: quantas vezes os itens são manuseados e quão eficiente é a organização dos setores, talhões de plantio e packing house (galpão de embalagem e/ou acondicionamento dos produtos) da propriedade rural • Defeitos: como reduzir a atual quantidade de produtos defeituosos produzida pelas práticas agrícolas e aumentar a eficiência pós colheita • Sobrecarga: os trabalhadores ou equipamentos estão sobrecarregados Como está o trabalho de ergonomia dos trabalhadores • Fluxo: o fluxo de trabalho está previsível e padronizado, evitando perda de tempo ou imprevistos • Clima de trabalho: há um ambiente propício e receptivo às boas ideias por parte dos trabalhadores?",
+      "descricao": "O diagnóstico Lean para a empresa rural é baseado nas seguintes fontes de desperdício\n• Produção em excesso: toda a produção rural (fruto da colheita) está sendo vendida? Há sobras na produção\n• Tempo improdutivo: todos os trabalhadores estão conseguindo trabalhar sem interrupções desnecessárias? Os produtos estão sendo armazenados mais longe do que deveriam\n• Embalagens adequadas: identificar os tamanhos e tipos de embalagens que atendam às necessidades do cliente\n• Estoque: o estoque de matérias-primas está excessivo? O estoque de itens acabados (frutas, grãos, legumes) está adequado/sem exageros\n• Fluxo produtivo: quantas vezes os itens são manuseados e quão eficiente é a organização dos setores, talhões de plantio e packing house (galpão de embalagem e/ou acondicionamento dos produtos) da propriedade rural\n• Defeitos: como reduzir a atual quantidade de produtos defeituosos produzida pelas práticas agrícolas e aumentar a eficiência pós colheita\n• Sobrecarga: os trabalhadores ou equipamentos estão sobrecarregados Como está o trabalho de ergonomia dos trabalhadores\n• Fluxo: o fluxo de trabalho está previsível e padronizado, evitando perda de tempo ou imprevistos\n• Clima de trabalho: há um ambiente propício e receptivo às boas ideias por parte dos trabalhadores?",
       "entrega": "Relatório do Diagnóstico Lean, contendo os pontos citados acima, com identificação dos principais problemas e focos de desperdício, bem como com a proposta de atuação identificando os processos que serão trabalhados e os impactos que poderão ser gerados na empresa, assinado pelo Produtor Rural."
     },
     {
@@ -36,7 +36,7 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "O levantamento da expectativa de valor é norteado por três perguntas • O que o cliente quer • Quando ele quer • Quanto ele quer Normalmente o processo engloba as seguintes etapas • Entrevistas com líderes das cooperativas rurais locais, para identificação de tendências em termos de preços das commodities, tendências de consumo (frutas, leguminosas, hortaliças, grãos, carnes, etc.) e novos mercados • Entrevistas com o pessoal dos centros de distribuição (CEASA), para identificação de tendências em termos de logística de entrega dos produtos e tendências de demanda dos centros urbanos.",
+      "descricao": "O levantamento da expectativa de valor é norteado por três perguntas\n• O que o cliente quer\n• Quando ele quer\n• Quanto ele quer Normalmente o processo engloba as seguintes etapas\n• Entrevistas com líderes das cooperativas rurais locais, para identificação de tendências em termos de preços das commodities, tendências de consumo (frutas, leguminosas, hortaliças, grãos, carnes, etc.) e novos mercados\n• Entrevistas com o pessoal dos centros de distribuição (CEASA), para identificação de tendências em termos de logística de entrega dos produtos e tendências de demanda dos centros urbanos.",
       "entrega": "Relatório do Diagnóstico Lean (valor), contendo o resultado das entrevistas, bem como sugestões e recomendações para o balanço do portfólio do produtor rural."
     },
     {
@@ -45,8 +45,8 @@
       "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Implementar a abordagem Lean, propondo melhorias nos processos • Ajustes, alterações ou transformação do portfólio do produtor rural (produtos a serem cultivados e área de cultivo) • Ajuste nas técnicas de plantio, técnicas de colheita e armazenamento dos produtos • Ajustes no layout produtivo da propriedade rural • Otimização do processo logístico na chegada dos insumos e na saída dos produtos • Redução de estoques finais e intermediários • Identificação da necessidade de eventual criação de estoques mínimos, estoque “pulmão” • Redução de focos de desperdício (materiais, deslocamento, tempo, pessoas, ferramentas).",
-      "entrega": "• Relatório Técnico Final contendo: bases e premissas utilizadas, ações executadas, resultados obtidos (inclusive com registros fotográficos, se necessário), ajustes executados, oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões. • Realizar reunião para disseminação dos conceitos Lean implementados e consolidação da filosofia Lean no produtor rural. • Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou presencialmente ao cliente o conteúdo da(s) entrega(s) efetivadas."
+      "descricao": "Implementar a abordagem Lean, propondo melhorias nos processos\n• Ajustes, alterações ou transformação do portfólio do produtor rural (produtos a serem cultivados e área de cultivo)\n• Ajuste nas técnicas de plantio, técnicas de colheita e armazenamento dos produtos\n• Ajustes no layout produtivo da propriedade rural\n• Otimização do processo logístico na chegada dos insumos e na saída dos produtos\n• Redução de estoques finais e intermediários\n• Identificação da necessidade de eventual criação de estoques mínimos, estoque “pulmão”\n• Redução de focos de desperdício (materiais, deslocamento, tempo, pessoas, ferramentas).",
+      "entrega": "• Relatório Técnico Final contendo: bases e premissas utilizadas, ações executadas, resultados obtidos (inclusive com registros fotográficos, se necessário), ajustes executados, oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões.\n• Realizar reunião para disseminação dos conceitos Lean implementados e consolidação da filosofia Lean no produtor rural.\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou presencialmente ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
   "perguntasDiagnostico": [
@@ -64,7 +64,7 @@
     },
     {
       "id": "3",
-      "pergunta": "Quantos setores/ unidades/ células estão envolvidos no processo(s)? ",
+      "pergunta": "Quantos setores/ unidades/ células estão envolvidos no processo(s)?",
       "tipo": "texto",
       "obrigatoria": true
     },
@@ -87,7 +87,7 @@
       "obrigatoria": true
     }
   ],
-  "beneficiosResultadosEsperados": "A aplicação da filosofia Lean na produção rural pode trazer ganhos expressivos em custos, produtividade e qualidade para os pequenos negócios.",
+  "beneficiosResultadosEsperados": "A aplicação da filosofia Lean na produção rural pode trazer ganhos expressivos em custos, produtividade e qualidade para os pequenos negócios.\n1. Melhoria da eficiência dos processos da propriedade rural;\n2. Redução dos custos com estoques;\n3. Melhorar a produtividade do processo produtivo;\n4. Reduzir os desperdícios",
   "estruturaMateriais": "-",
   "responsabilidadeEmpresaDemandante": "1. Aprovar a proposta do Sebrae, valores e condições de pagamento\n2. Conhecer e validar a proposta de trabalho, o escopo das etapas e as entregas do prestador de serviço\n3. Disponibilizar agenda prévia para visitas, reuniões e atividades propostas pelo prestador de serviço\n4. Fornecer informações técnicas sobre os processos, produtos ou serviços ao prestador de serviço para o desenvolvimento do trabalho\n5. Acompanhar o prestador de serviço em visita(s) técnica(s) aos espaços físicos, se previsto no escopo do trabalho\n6. Avaliar o serviço prestado.",
   "responsabilidadePrestadora": "1. Realizar reunião para alinhamento e apresentação das atividades previstas\n2. Analisar a demanda e as informações fornecidas pela empresa\n3. Elaborar proposta, escopo de trabalho, cronograma das etapas do projeto, agenda de reuniões e atividades, sendo necessário validar com a Empresa Demandante\n4. Fornecer as entregas previstas, validadas pela empresa demandante, ao Sebrae\n5. Cumprir com as obrigações previstas no Regulamento do Sebraetec.",
@@ -97,13 +97,12 @@
     {
       "versao": 1,
       "dataAlteracao": "25/04/2019",
-      "alteradoPor": "MMP14021-1.pdf MMP14021-2.pdf Coordenação Sebraetec"
+      "alteradoPor": "MMP14021\n- 1. pdf MMP14021\n- 2. pdf Coordenação Sebraetec"
     },
     {
       "versao": 2,
       "dataAlteracao": "16/04/2020",
       "alteradoPor": "Coordenação Sebraetec"
     }
-  ],
-  "codigo": "371440100318"
+  ]
 }
