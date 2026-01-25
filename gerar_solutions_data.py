@@ -1,6 +1,7 @@
 """
 Gera arquivo TypeScript com dados das soluções
 Inclui validação Pydantic e enriquecimento de dados
+Integrado com Markdown Formatter Agent para normalização de texto
 """
 import json
 import glob
@@ -19,6 +20,15 @@ except ImportError:
     OUTPUT_ENCODING = "utf-8-sig"
     OUTPUT_INDENT = 2
     USE_PYDANTIC = False
+
+# Importar Markdown Formatter Agent
+try:
+    from agents.markdown_formatter_agent import get_formatter_agent
+    FORMATTER_AGENT = get_formatter_agent()
+    USE_FORMATTER_AGENT = True
+except ImportError:
+    FORMATTER_AGENT = None
+    USE_FORMATTER_AGENT = False
 
 def converter_setor_para_setorial(setor_str):
     """Converte 'setor' string para 'setorial' array"""
@@ -190,6 +200,11 @@ for i, json_file in enumerate(json_files, 1):
     with open(json_file, 'r', encoding='utf-8') as f:
         dados = json.load(f)
     
+    # Aplicar Markdown Formatter Agent se disponível
+    if USE_FORMATTER_AGENT and FORMATTER_AGENT:
+        FORMATTER_AGENT.reset_memory()
+        dados = FORMATTER_AGENT.process_solution_data(dados)
+    
     # Enriquecer com campos faltantes
     solucao_enriquecida = enriquecer_solucao(dados, i)
     solucoes.append(solucao_enriquecida)
@@ -226,6 +241,14 @@ with open(output_file, 'w', encoding='utf-8-sig') as f:
 print("=" * 80)
 print(f"✅ Arquivo gerado: {output_file}")
 print(f"   Total de soluções: {len(solucoes)}")
+
+# Exibir relatório do Formatter Agent se disponível
+if USE_FORMATTER_AGENT and FORMATTER_AGENT:
+    print("\n" + "=" * 80)
+    print("📋 INTEGRAÇÃO: MARKDOWN FORMATTER AGENT")
+    print("=" * 80)
+    FORMATTER_AGENT.print_report()
+
 print("\nⓘ  Campos com valores padrão (verifique e ajuste conforme necessário):")
 print("   - valorTeto: 15000")
 print("   - ods: [] (vazio)")
