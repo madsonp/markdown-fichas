@@ -23,7 +23,8 @@ except ImportError:
         'beneficios_tamanho': 2,
         'etapas_quantidade': 2,
         'descricao_presente': 3,
-        'responsabilidades_presentes': 2
+        'responsabilidades_presentes': 2,
+        'entregas_sem_duplicatas': 5  # Penalidade por entregas duplicadas
     }
     CAMPOS_OBRIGATORIOS = ['id', 'nomeSolucao', 'tema', 'subtema', 'tipoServico', 'modalidade', 'publicoAlvo']
     SCORE_MINIMO_QUALIDADE = 70
@@ -108,6 +109,28 @@ class AnalisadorQualidade:
             score += self.PESOS['responsabilidades_presentes']
         else:
             problemas.append("responsabilidadePrestadora ausente ou muito curta")
+        
+        # Verificar entregas duplicadas nas etapas
+        max_score += self.PESOS.get('entregas_sem_duplicatas', 5)
+        if isinstance(etapas, list) and len(etapas) > 0:
+            from collections import Counter
+            entregas = [etapa.get('entrega', '').strip() for etapa in etapas if etapa.get('entrega', '').strip()]
+            
+            if len(entregas) > 0:
+                contador = Counter(entregas)
+                duplicadas = {entrega: count for entrega, count in contador.items() if count > 1}
+                
+                if not duplicadas:
+                    # Sem duplicatas = pontuação completa
+                    score += self.PESOS.get('entregas_sem_duplicatas', 5)
+                else:
+                    # Com duplicatas = penalização
+                    num_duplicatas = sum(count - 1 for count in duplicadas.values())
+                    problemas.append(f"Entregas duplicadas: {num_duplicatas} repetição(ões) em {len(duplicadas)} entrega(s)")
+                    
+                    # Reduzir pontuação proporcionalmente ao número de duplicatas
+                    penalidade = min(num_duplicatas / len(entregas), 1.0)  # 0 a 1
+                    score += self.PESOS.get('entregas_sem_duplicatas', 5) * (1 - penalidade)
         
         # Calcular percentual
         score_percentual = (score / max_score * 100) if max_score > 0 else 0
