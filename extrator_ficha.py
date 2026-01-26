@@ -580,6 +580,13 @@ class ExtractorFichaTecnica:
                     # Normalizar espaços múltiplos (incluindo Unicode)
                     # Remove espaços duplicados, não-quebráveis, largos, etc.
                     nome = re.sub(r'[\s\u00A0\u2000-\u200B]+', ' ', nome).strip()
+                    
+                    # Remover quebras de linha explícitas (\n, \r)
+                    nome = nome.replace('\n', ' ').replace('\r', ' ')
+                    
+                    # Re-normalizar após remoção de quebras
+                    nome = re.sub(r'\s+', ' ', nome).strip()
+                    
                     self.logger.info(f"✅ Nome extraído: {nome[:60]}...")
                     return nome
         
