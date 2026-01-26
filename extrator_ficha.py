@@ -1024,6 +1024,7 @@ class ExtractorFichaTecnica:
                 
                 # Normalizar descricao com formatação estruturada
                 descricao_normalizada = self._normalizar_string_sujeira(descricao)
+                descricao_normalizada = self._limpar_quebras_em_frases(descricao_normalizada)
                 descricao_normalizada = self._formatar_descricao_estruturada(descricao_normalizada)
                 
                 # Criar estrutura da etapa

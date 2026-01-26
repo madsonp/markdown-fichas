@@ -84,9 +84,12 @@ class ProcessadorFichasTecnicas:
                 linhas_processadas.append(linha)
             else:
                 # Processa símbolos no meio da linha
-                linha = self.pattern_bullets.sub(r'\1\n• ', linha)
-                linha = self.pattern_numbers.sub(r'\1\n\2 ', linha)
-                linha = self.pattern_dashes.sub(r'\1\n- ', linha)
+                # MAS não aplica a números de lei (ex: "LEI Nº 13. 425")
+                # Verificar se é padrão de lei antes de aplicar regex
+                if not re.search(r'LEI\s+(?:FEDERAL\s+)?N[Oº]\s+\d+\.\s*\d+', linha, re.IGNORECASE):
+                    linha = self.pattern_bullets.sub(r'\1\n• ', linha)
+                    linha = self.pattern_numbers.sub(r'\1\n\2 ', linha)
+                    linha = self.pattern_dashes.sub(r'\1\n- ', linha)
                 linhas_processadas.append(linha)
         
         return '\n'.join(linhas_processadas)
