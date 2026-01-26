@@ -36,8 +36,8 @@ class RegexPatterns:
     # Padrões de estrutura
     secao_numerada: Pattern = re.compile(r'^(\d+)\.\s+')
     lista_item: Pattern = re.compile(r'^[●○•\d+\-A-Z]\.|^[●○•]\s+')
-    etapa_titulo: Pattern = re.compile(r'^ETAPA\s+(\d+)\s*[\|:]?\s*(.+)$', re.IGNORECASE)
-    entrega_etapa: Pattern = re.compile(r'^ENTREGAS?\s+ETAPA\s+\d+:', re.IGNORECASE)
+    etapa_titulo: Pattern = re.compile(r'^ETAPA\s+(?:(\d+)|(ÚNICA))\s*[\|:]?\s*(.+)$', re.IGNORECASE)
+    entrega_etapa: Pattern = re.compile(r'^ENTREGAS?\s*(?:ETAPA\s+\d+)?\s*:', re.IGNORECASE)
     pergunta_numerada: Pattern = re.compile(r'^(\d+)\.\s+(.+)$')
     
     # Padrões de dados
@@ -147,7 +147,7 @@ class EtapaExtractor:
             return entrega, i
         
         # Extrair o texto após o ":"
-        match_entrega = re.match(r'^ENTREGAS?\s+ETAPA\s+\d+:\s*(.+)', linha_entrega, re.IGNORECASE)
+        match_entrega = re.match(r'^ENTREGAS?\s*(?:ETAPA\s+\d+)?\s*:\s*(.*)$', linha_entrega, re.IGNORECASE)
         if match_entrega:
             entrega = match_entrega.group(1).strip()
         
@@ -156,9 +156,9 @@ class EtapaExtractor:
         while i < len(linhas):
             linha_proxima = linhas[i].strip()
             
-            # Parar quando encontrar próxima etapa ou seção numerada
+            # Parar quando encontrar próxima etapa ou seção numerada (10+)
             if (self.patterns.etapa_titulo.match(linha_proxima) or
-                re.match(r'^\d+\.\s+(?!Uso Interno|Código)', linha_proxima)):
+                re.match(r'^(1[0-9]|2[0-9])\.\s+', linha_proxima)):
                 break
             
             # Ignorar linhas de sujeira mas continuar coletando
@@ -968,7 +968,7 @@ class ExtractorFichaTecnica:
             
             if coletando:
                 # Parar quando encontrar as etapas ou outras seções
-                if re.search(r'^ETAPA\s+\d+|^10\.|^11\.|^12\.|^13\.|^14\.|^15\.', linha.strip()):
+                if re.search(r'^ETAPA\s+(?:\d+|ÚNICA)|^10\.|^11\.|^12\.|^13\.|^14\.|^15\.', linha.strip()):
                     break
                 
                 # Adicionar linha se não for vazia e não for sujeira
@@ -1003,8 +1003,15 @@ class ExtractorFichaTecnica:
             # Procurar por linhas que começam com "ETAPA"
             match = self.patterns.etapa_titulo.match(linha)
             if match:
-                numero_str = match.group(1)
-                titulo_base = match.group(2).strip()
+                # Extrair número da etapa (pode ser número ou "ÚNICA")
+                numero_str = match.group(1)  # Número se tiver
+                eh_unica = match.group(2)    # "ÚNICA" se houver
+                titulo_base = match.group(3).strip()  # Título após o número/ÚNICA
+                
+                # Se for ETAPA ÚNICA, usar número 1
+                if eh_unica:
+                    numero_str = "1"
+                    numero_etapa = 1
                 
                 self.logger.debug(f"Etapa {numero_str} encontrada na linha {i}")
                 

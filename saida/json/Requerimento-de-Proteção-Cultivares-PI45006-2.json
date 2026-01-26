@@ -11,8 +11,18 @@
     "Artesão"
   ],
   "setor": "Agronegócio, Comércio, Indústria e Serviços",
-  "descricao": "ETAPA ÚNICA | ALINHAMENTO DA PROPOSTA E EXECUÇÃO DO SERVIÇO\n• Realizar reunião para alinhamento da demanda, objetivos, premissas e restrições do serviço.\n• Realizar cadastro no CultivarWeb.\n• Emitir Guia de Recolhimento da União (GRU) e verificar se a empresa demandante realizou o pagamento.\n• Preencher o Requerimento de proteção, que abrange os documentos: a) Formulário de relatório técnico; b) Formulário de descritores mínimos; c) Instrumento de procuração; d) Fotografias da cultivar. ENTREGAS:\n1. Documento contendo os responsáveis pela prestação do serviço; o escopo do serviço e outros aspectos acordados entre as partes; cópia dos documentos em meio digital e cópia do protocolo; assinado pela empresa demandante.\n2. Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas.",
-  "etapas": [],
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 1 | ALINHAMENTO DA PROPOSTA E EXECUÇÃO DO SERVIÇO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar reunião para alinhamento da demanda, objetivos, premissas e restrições do serviço\n• Realizar cadastro no CultivarWeb\n• Emitir Guia de Recolhimento da União (GRU) e verificar se a empresa demandante realizou o pagamento\n• Preencher o Requerimento de proteção, que abrange os documentos a) Formulário de relatório técnico b) Formulário de descritores mínimos c) Instrumento de procuração d) Fotografias da cultivar.",
+      "entrega": "1. Documento contendo os responsáveis pela prestação do serviço; o escopo do serviço e outros aspectos acordados entre as partes; cópia dos documentos em meio digital e cópia do protocolo; assinado pela empresa demandante.\n2. Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pela prestadora de serviço e que a prestadora de serviço explicou à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
+    }
+  ],
   "perguntasDiagnostico": [],
   "beneficiosResultadosEsperados": "Cultivar é a variedade de qualquer gênero ou espécie vegetal superior que seja claramente distinguível de outras cultivares conhecidas por margem mínima de descritores, por sua denominação própria, que seja homogênea e estável quanto aos descritores através de gerações sucessivas e seja de espécie passível de uso pelo complexo agroflorestal, descrita em publicação especializada disponível e acessível ao público, bem como a linhagem componente de híbridos. O Registro Nacional de Cultivares (RNC) é realizado junto ao Ministério da Agricultura, Pecuária e Abastecimento (Mapa). O RNC tem por finalidade habilitar previamente cultivares e espécies para a produção e a comercialização de sementes e mudas no País. Pré-requisitos para a Empresa Demandante: É preciso que o produtor Homogeneidade e Estabilidade (DHE). tenha realizado os testes de Distinguibilidade,",
   "estruturaMateriais": "-",

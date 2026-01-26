@@ -11,8 +11,18 @@
     "Artesão"
   ],
   "setor": "Agronegócios, Comércio, Indústria e Serviços",
-  "descricao": "ETAPA ÚNICA | ALINHAMENTO DA PROPOSTA E REALIZAÇÃO DO ENSAIO\n• Realizar reunião de alinhamento junto ao cliente para a definição das seguintes informações: a) Produto que se deseja realizar o ensaio/amostragem e sua aplicação (área de atividade); b) Características técnicas do produto que será submetido ao ensaio; c) Classe de ensaio que o produto se enquadra conforme norma CGCRE/Inmetro NIT-Dicla-016; d) Grandeza a ser ensaiada; e) Técnica a ser aplicada ao ensaio; f) Se o ensaio visa atender uma norma ou regulamento específico. Em caso afirmativo, qual regulamento. g) Responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico; h) Planejamento de execução dos serviços.\n• Realização do ensaio/amostragem. ENTREGA: Emissão do relatório de ensaio, contendo os responsáveis pela prestação do serviço; o escopo do serviço e possíveis outros aspectos acordados entre as partes; resultados e análises referentes ao desempenho metrológico do produto submetido ao ensaio e descrição dos procedimentos realizados; assinado pela empresa demandante.",
-  "etapas": [],
+  "descricao": "",
+  "etapas": [
+    {
+      "id": "e1",
+      "titulo": "ETAPA 1 | ALINHAMENTO DA PROPOSTA E REALIZAÇÃO DO ENSAIO",
+      "ordem": 1,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Realizar reunião de alinhamento junto ao cliente para a definição das seguintes informações a) Produto que se deseja realizar o ensaio/amostragem e sua aplicação (área de atividade) b) Características técnicas do produto que será submetido ao ensaio Uso Interno Código da ficha técnica: 13013-5 c) Classe de ensaio que o produto se enquadra conforme norma CGCRE/Inmetro NIT-Dicla-016 d) Grandeza a ser ensaiada e) Técnica a ser aplicada ao ensaio f) Se o ensaio visa atender uma norma ou regulamento específico. Em caso afirmativo, qual regulamento g) Responsáveis pelo acompanhamento dos serviços por parte do cliente e da prestadora de serviço tecnológico h) Planejamento de execução dos serviços\n• Realização do ensaio/amostragem.",
+      "entrega": "Emissão do relatório de ensaio, contendo os responsáveis pela prestação do serviço; o escopo do serviço e possíveis outros aspectos acordados entre as partes; resultados e análises referentes ao desempenho metrológico do produto submetido ao ensaio e descrição dos procedimentos realizados; assinado pela empresa demandante."
+    }
+  ],
   "perguntasDiagnostico": [],
   "beneficiosResultadosEsperados": "Realização de um ensaio num produto, ou seja, a determinação de uma ou mais características de um objeto de avaliação da conformidade, de acordo com um procedimento. São exemplos de classes de ensaios: Análises Clínicas e Patológicas; Ensaios Acústicos, de Vibração e Choque; Ensaios Biológicos; Ensaios de Radiações Ionizantes; Ensaios Elétricos e Magnéticos; Ensaios em Telhas Cerâmicas para a Avaliação da Conformidade/ PSQ; Ensaios Mecânicos; Ensaios Não Destrutivos; Ensaios Ópticos; Ensaios Químicos; Ensaios Térmicos; Exames de Laboratórios de Interpretação de Imagens (Ultrassonografia, etc); Serviços de Análise de Resíduos e Serviços de Análise Microbiológicas. Inclui-se como um serviço metrológico a amostragem, com ensaio subsequente. A amostragem é o ato de coletar as amostras adequadamente para que seja realizado o ensaio nas condições ideais. Os principais objetivos desses ensaios são:\n• Garantir maior segurança no trabalho evitando fraturas inesperadas que poderiam causar acidentes durante a execução do serviço;\n• Redução de custos: a partir da maior facilidade de identificação de falhas se torna possível a realização de manutenção no tempo correto, gerando menos custos;\n• Maior conhecimento das propriedades do material testado;\n• Garantia de uso de material adequado para a funcionalidade do produto;\n• Atender regulamentações específicas e exigência da metrologia legal;\n• Maior capacidade de análise de riscos concernentes ao produto.",
   "estruturaMateriais": "-",
