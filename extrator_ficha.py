@@ -249,10 +249,15 @@ class HistoricoExtractor:
         """Monta lista de registros do histórico"""
         historico = []
         for j in range(min(len(versoes), len(datas), 3)):
+            # Normalizar campo alteradoPor removendo quebras de linha
+            alterado_por = responsaveis[j] if j < len(responsaveis) else "Coordenação Sebraetec"
+            alterado_por = alterado_por.replace('\n', ' ').replace('\r', ' ')
+            alterado_por = re.sub(r'\s+', ' ', alterado_por).strip()
+            
             registro = {
                 "versao": versoes[j],
                 "dataAlteracao": datas[j],
-                "alteradoPor": responsaveis[j] if j < len(responsaveis) else "Coordenação Sebraetec"
+                "alteradoPor": alterado_por
             }
             historico.append(registro)
         return historico
