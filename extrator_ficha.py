@@ -95,6 +95,10 @@ class EtapaExtractor:
             else:
                 break
         
+        # Remover quebras de linha e normalizar espaços
+        titulo_base = titulo_base.replace('\n', ' ').replace('\r', ' ')
+        titulo_base = re.sub(r'\s+', ' ', titulo_base).strip()
+        
         titulo = f"ETAPA {numero_str} | {titulo_base}"
         return titulo, i
     
