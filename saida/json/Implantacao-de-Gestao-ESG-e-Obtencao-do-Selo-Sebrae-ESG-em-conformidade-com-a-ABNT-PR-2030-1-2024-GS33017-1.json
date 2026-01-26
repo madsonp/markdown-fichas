@@ -1,6 +1,6 @@
 {
   "id": "33017-1",
-  "nomeSolucao": "",
+  "nomeSolucao": "IMPLANTAÇÃO DE GESTÃO ESG E OBTENÇÃO DO SELO SEBRAE ESG EM CONFORMIDADE COM A ABNT PR 2030-1:2024",
   "tema": "Sustentabilidade",
   "subtema": "Gestão da Sustentabilidade",
   "tipoServico": "Consultoria tecnológica",
@@ -9,7 +9,7 @@
     "Empresa"
   ],
   "setor": "Comércio, Indústria, Agronegócio, Serviços",
-  "descricao": "",
+  "descricao": "Implantação de sistema de gestão ESG (Ambiental, Social e Governança) na empresa, com aplicação do Diagnóstico de Maturidade ESG do Sebrae, desenvolvimento de políticas e instrumentos de gestão, formação de Comitê ESG e obtenção do Selo Sebrae ESG em conformidade com a ABNT PR 2030-1:2024.",
   "etapas": [
     {
       "id": "e1",
@@ -22,7 +22,7 @@
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | DIAGNÓSTICO E VERIFICAÇÃO ESG DA ORGANIZAÇÃO Aplicar o diagnóstico assistido de maturidade ESG, quando solicitado pela MPE, utilizando o Diagnóstico ESG Sebrae, disponível em:",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO E VERIFICAÇÃO ESG DA ORGANIZAÇÃO",
       "ordem": 2,
       "percentual": 0,
       "tipo": "Consultoria",
@@ -40,7 +40,7 @@
     },
     {
       "id": "e4",
-      "titulo": "ETAPA 04 | ESPECIFICAÇÃO PARA A DEMONSTRAÇÃO DE NEUTRALIDADE DE CARBONO\n- ABNT PR 2060 (OPCIONAL)",
+      "titulo": "ETAPA 04 | ESPECIFICAÇÃO PARA A DEMONSTRAÇÃO DE NEUTRALIDADE DE CARBONO - ABNT PR 2060 (OPCIONAL)",
       "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
