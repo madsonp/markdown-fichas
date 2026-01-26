@@ -94,19 +94,28 @@ class ProcessadorFichasTecnicas:
         
         return '\n'.join(linhas_processadas)
     
-    def _processar_recursivo(self, obj: Any) -> Any:
-        """Processa objeto recursivamente aplicando formatação"""
+    def _processar_recursivo(self, obj: Any, caminho_chave: str = "") -> Any:
+        """Processa objeto recursivamente aplicando formatação
+        
+        Args:
+            obj: Objeto a processar
+            caminho_chave: Chave atual (para proteger campos específicos)
+        """
         if obj is None:
             return obj
         
         if isinstance(obj, str):
+            # Não formatar certos campos que são títulos/identificadores
+            campos_protegidos = {'nomeSolucao', 'tema', 'subtema', 'tipoServico', 'modalidade', 'setor', 'id'}
+            if caminho_chave in campos_protegidos:
+                return obj
             return self._formatar_texto(obj)
         
         if isinstance(obj, list):
-            return [self._processar_recursivo(item) for item in obj]
+            return [self._processar_recursivo(item, caminho_chave) for item in obj]
         
         if isinstance(obj, dict):
-            return {chave: self._processar_recursivo(valor) for chave, valor in obj.items()}
+            return {chave: self._processar_recursivo(valor, chave) for chave, valor in obj.items()}
         
         return obj
     
