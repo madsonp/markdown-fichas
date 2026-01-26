@@ -390,8 +390,8 @@ class ExtractorFichaTecnica:
                 # Remover sujeira inline (rodapé de página tipo "1 Ficha Técnica – Sebraetec 4.0 Código da ficha técnica: XXXXX")
                 # Também remove versão reduzida como "3 Ficha Técnica – Sebraetec 4.0"
                 texto = re.sub(r'\d+\s+Ficha Técnica\s*[\–\-]\s*Sebraetec\s+\d+\.\d+(\s+Código da ficha técnica:\s+\d+-\d+)?', '', texto)
-                # Remover espaços duplos resultantes da remoção de sujeira
-                texto = re.sub(r'  +', ' ', texto)
+                # Normalizar todos os tipos de espaços (incluindo Unicode) para espaço simples
+                texto = re.sub(r'[\s\u00A0\u2000-\u200B]+', ' ', texto)
                 # Remover bullets duplicados (• • → •, • • • → •, etc)
                 texto = re.sub(r'•(\s*•)+', '•', texto)
                 dados_normalizados[chave] = texto
@@ -577,8 +577,9 @@ class ExtractorFichaTecnica:
                 # Juntar todas as palavras com espaço
                 if palavras_titulo:
                     nome = " ".join(palavras_titulo)
-                    # Normalizar espaços múltiplos
-                    nome = re.sub(r'\s+', ' ', nome).strip()
+                    # Normalizar espaços múltiplos (incluindo Unicode)
+                    # Remove espaços duplicados, não-quebráveis, largos, etc.
+                    nome = re.sub(r'[\s\u00A0\u2000-\u200B]+', ' ', nome).strip()
                     self.logger.info(f"✅ Nome extraído: {nome[:60]}...")
                     return nome
         

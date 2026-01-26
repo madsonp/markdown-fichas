@@ -41,18 +41,25 @@ class MarkdownFormatterAgent:
     def format_markdown_text(self, text: str) -> str:
         """
         Processa texto para adicionar quebras de linha antes de bullets/numeração
+        e normaliza espaços múltiplos
         
         Args:
             text: Texto para processar
             
         Returns:
-            Texto formatado com quebras de linha
+            Texto formatado com quebras de linha e espaços normalizados
         """
         if not text or not isinstance(text, str):
             return text
 
         formatted_text = text
         changes = []
+
+        # Normalizar espaços múltiplos (incluindo Unicode) PRIMEIRO
+        original_spaces = formatted_text
+        formatted_text = re.sub(r'[\s\u00A0\u2000-\u200B]+', ' ', formatted_text)
+        if formatted_text != original_spaces:
+            changes.append('Espaços múltiplos normalizados')
 
         # Detecta e adiciona quebra de linha antes de bullets
         if self.patterns['bulletMixed'].search(formatted_text):
