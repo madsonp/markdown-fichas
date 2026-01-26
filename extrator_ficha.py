@@ -100,7 +100,7 @@ class EtapaExtractor:
     
     def extrair_descricao(self, linhas: List[str], indice: int) -> Tuple[str, int]:
         """
-        Extrai descrição da etapa até encontrar ENTREGA
+        Extrai descrição da etapa até encontrar ENTREGA ou próxima ETAPA
         
         Returns:
             Tuple[descrição, novo índice]
@@ -111,8 +111,9 @@ class EtapaExtractor:
         while i < len(linhas):
             linha_atual = linhas[i].strip()
             
-            # Parar quando encontrar a entrega
-            if self.patterns.entrega_etapa.match(linha_atual):
+            # Parar quando encontrar a entrega ou próxima etapa
+            if (self.patterns.entrega_etapa.match(linha_atual) or
+                self.patterns.etapa_titulo.match(linha_atual)):
                 break
             
             # Ignorar linhas vazias no início

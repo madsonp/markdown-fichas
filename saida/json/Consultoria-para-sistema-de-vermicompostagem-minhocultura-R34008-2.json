@@ -19,22 +19,31 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | ALINHAMENTO Reunião de alinhamento com visita à propriedade/empresa e aplicação de diagnóstico para identificação do local onde serão instalados os canteiros, volume de resíduos orgânicos gerados para posterior definição da dimensão do sistema e quantidade de minhocas necessárias. Caso o proprietário já possua os canteiros instalados, o consultor deverá avaliar se são necessárias adequações na estrutura ou manejo para melhorar a eficiência | Relatório Parcial com dados levantados e registro fotográfico.",
-      "entrega": "Ata de reunião e Relatório Parcial com dados levantados e registro fotográfico"
+      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | DESENVOLVIMENTO",
+      "titulo": "ETAPA 01 | ALINHAMENTO",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião de alinhamento com visita à propriedade/empresa e aplicação de diagnóstico para identificação do local onde serão instalados os canteiros, volume de resíduos orgânicos gerados para posterior definição da dimensão do sistema e quantidade de minhocas necessárias. Caso o proprietário já possua os canteiros instalados, o consultor deverá avaliar se são necessárias adequações na estrutura ou manejo para melhorar a eficiência | Relatório Parcial com dados levantados e registro fotográfico.",
+      "entrega": "Ata de reunião e Relatório Parcial com dados levantados e registro fotográfico"
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | DESENVOLVIMENTO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "do Projeto Desenvolvimento de de Vermicompostagem/Minhocultura com descrição do serviço, localização, tipos de materiais, operacionalização, resultados esperados, investimento necessário. | Projeto Executivo do Sistema Repasse de informações às pessoas indicadas pela empresa demandante, para realizar diariamente o processo de vermicompostagem confecção Sistema do",
       "entrega": "Projeto Executivo do Sistema e Relatório do Repasse de Informações."
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | ENTREGA E APRESENTAÇÃO",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Confecção e entrega do Relatório Final contendo evidências das visitas com registro fotográfico.",

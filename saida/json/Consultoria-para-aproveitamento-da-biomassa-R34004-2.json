@@ -19,31 +19,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | ALINHAMENTO Reunião presencial de alinhamento da proposta | Ata de reunião\n1. Alinhamento dos objetivos do cliente e entregas do consultor\n2. Conferência do checklist da documentação necessária para fase Diagnóstico\n3. Encaminhamentos de ações e prazos do cliente e do consultor\n4. Elucidar questões referentes a taxas, encargos, responsabilidade, entregas etc Obs: A responsabilidade do pagamento de taxas é do Cliente.",
-      "entrega": "Ata de reunião"
+      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "titulo": "ETAPA 01 | ALINHAMENTO",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião presencial de alinhamento da proposta | Ata de reunião\n1. Alinhamento dos objetivos do cliente e entregas do consultor\n2. Conferência do checklist da documentação necessária para fase Diagnóstico\n3. Encaminhamentos de ações e prazos do cliente e do consultor\n4. Elucidar questões referentes a taxas, encargos, responsabilidade, entregas etc Obs: A responsabilidade do pagamento de taxas é do Cliente.",
+      "entrega": "Ata de reunião"
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Diagnóstico da estrutura da empresa | Relatório de diagnóstico\n• Atividade da empresa, localização\n• Estrutura (estrutura física, mão de obra capacitada)\n• Equipamentos\n• Matéria prima disponível (tipo, caracterização e quantidade de biomassa a ser utilizada)\n• Fornecedores/ frequência de fornecimento\n• Análise do potencial de utilização da biomassa (próprio sistema produtivo ou negócio específico)\n• Não conformidades referentes à legislação ambiental\n• Situação legal\n• Análise de viabilidade técnica e econômica.",
       "entrega": "Relatório de diagnóstico"
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | DESENVOLVIMENTO DO PROJETO TÉCNICO",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Projeto Técnico\n• Concepção, localização do empreendimento\n• Objetivo da utilização da Biomassa: Produção de energia elétrica, térmica, produção de biofertilizantes, de biocombustível, recuperação e formação de solo, destino adequado do resíduo; outros\n• Destinação da Biomassa: utilização na própria propriedade ou comercialização\n• Tipo do substrato utilizado: dejeto de animais, resíduo florestal ou agrícola (bagaço de cana-de-açúcar, casca de arroz, etc.), restos de comida, outros\n• Tecnologia empregada (Processo de conversão: Fermentação, liquefação, combustão direta, processo mecânico, pirólise, gaseificação, biodigestão, craqueamento, esterificação, outros)\n• Requisitos físicos e estruturais necessários para a implantação da atividade\n• Mão de obra capacitada necessária\n• Equipamentos, áreas e instalações necessárias\n• Custos Operacionais\n• Croqui e descrição da ocupação, localização e acesso da unidade de produção considerando os aspectos produtivos e ambientais\n• Proposições das ações corretivas das não conformidades diagnosticadas\n• Resultados esperados referente aos aspectos ambiental, social e econômico Plano de Manejo do Sistema\n• Estimativas de produção por objetivo de utilização e destinação\n• Ciclos de produção\n• Organização do processo produtivo e distribuição\n• Rota Tecnológica\n• Forma do Registro de informações\n• Mecanismos de monitoramento e avaliação Registro do produto e rótulo de acordo com as exigências legais do MAPA Documentos Necessários para registro do produto (bioinsumo)\n• Comprovação do atendimento dos requisitos ou limitações, de uso na agricultura sob o aspecto ambiental, determinadas pelos órgãos de meio ambiente para cada um dos resíduos utilizados, quando for o caso\n• Laudos analíticos com informações sobre a presença de contaminantes e seus respectivos teores\n• Disposições contidas na IN 27 de 05/06/2006\n- Contaminantes Para todos os produtos, quando solicitado pela fiscalização Documentos Necessários\n• Descrição do processo produtivo e da forma de obtenção das matérias-primas Para inoculantes Documentos Necessários\n• Modelo de rótulo\n• Documento\n1. Anexo à IN SDA nº 13, de 24/03/2011 Protocolo Oficial para Avaliação da Viabilidade e Eficiência Agronômica de Cepas, Inoculantes e Tecnologias Relacionados ao Processo de Fixação Biológica do Nitrogênio em Leguminosas\n• Documento\n2. Anexo à IN SDA nº 13, de 24/03/2011 Protocolos Oficiais para Avaliação da Viabilidade e Eficiência Agronômica de Cepas Produtos e Tecnologias Relacionada às Bactérias Associativas\n• Documento\n3. Anexo à IN SDA nº 13, de 24/03/2011 Requisitos Mínimos para Avaliação da Viabilidade e Eficiência Agronômica de Cepas, Produtos e Tecnologias Relacionados à Micro-organismos Promotores de Crescimento",
       "entrega": "Relatório de procedimentos adotados."
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | ENTREGA E APRESENTAÇÃO",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Reunião de entrega e apresentação do projeto | Ata de reunião e apresentação Entrega do projeto Técnico e Plano de Manejo do Sistema.",

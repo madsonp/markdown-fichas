@@ -19,31 +19,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | ALINHAMENTO Reunião presencial de alinhamento da proposta | Ata de reunião\n1. Alinhamento dos objetivos do cliente e entregas do consultor\n2. Conferência do checklist da documentação necessária para fase Diagnóstico\n3. Encaminhamentos de ações e prazos do cliente e do consultor\n4. Elucidar questões referentes a taxas, encargos, responsabilidade, entregas etc Obs: A responsabilidade do pagamento de taxas é do Cliente.",
-      "entrega": "Ata de reunião"
+      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "titulo": "ETAPA 01 | ALINHAMENTO",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião presencial de alinhamento da proposta | Ata de reunião\n1. Alinhamento dos objetivos do cliente e entregas do consultor\n2. Conferência do checklist da documentação necessária para fase Diagnóstico\n3. Encaminhamentos de ações e prazos do cliente e do consultor\n4. Elucidar questões referentes a taxas, encargos, responsabilidade, entregas etc Obs: A responsabilidade do pagamento de taxas é do Cliente.",
+      "entrega": "Ata de reunião"
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Diagnóstico da estrutura da empresa | Relatório do diagnóstico\n• Concepção da empresa, localização\n• Estrutura (estrutura física, mão de obra capacitada)\n• Equipamentos\n• Análises laboratoriais (caso necessário)\n• Matéria prima disponível (tipo e quantidade de resíduo a ser utilizado) Inter-relações ambientais, econômicas e sociais\n• Não conformidades referentes a legislação ambiental\n• Situação legal\n• Análise de viabilidade técnica e econômica.",
       "entrega": "Relatório de diagnóstico"
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | DESENVOLVIMENTO DO PROJETO TÉCNICO",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Desenvolvimento do projeto técnico | Relatório dos procedimentos adotados\n1. Projeto Técnico Concepção, localização do empreendimento Mão de obra capacitada necessária Forma de Registro das informações Equipamentos, áreas e instalações necessárias Ações corretivas das não conformidades diagnosticadas Resultados esperados referente aos aspectos ambiental e social\n1. 1 Plano de Produção de Biofertilizantes\n• Tipo de biofertilizantes (simples, composto ou enriquecido)\n• Tipo do Substrato utilizado (dejeto de animais, resíduo florestal ou agrícola, restos de comida, outros)\n• Quantidade de substrato e frequência do fornecimento\n• Sistema (compostagem, preparo fermentação de líquida, biodigestores, outros)\n• Composição dos inoculantes, princípio ativo, veículo de inoculação, suplementação\n• Dimensionamento da produção\n• Produto final (biofertilizantes na forma líquida ou sólida)\n• Requisitos físicos, estruturais e tecnológicos necessários para a implantação da atividade\n• Estimativas de produção\n• Ciclos de produção e organização do processo produtivo\n• Custos Operacionais\n• Cronograma de implantação\n• Formas de monitoramento e avaliação\n• Croqui e descrição da ocupação, localização e acesso da unidade de produção considerando os aspectos produtivos e ambientais\n• Procedimentos de registro no MAPA especificados\n1. 2 Plano de Utilização de Biofertilizantes\n• Quantidade e forma produzida\n• Objetivo da utilização\n• Modelo produtivo e Tipo da cultura e a ser biofertilizada (características fisiológicas, ciclo vegetativo, etc)\n• Método de aplicação (pulverização, direto na cova)\n• Dosagem e períodos da aplicação\n• Cronograma de utilização\n• Formas de monitoramento e avaliação.",
       "entrega": "Relatório de procedimentos adotados."
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | ENTREGA E APRESENTAÇÃO",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Reunião de entrega e apresentação do projeto| Ata de reunião Entrega do projeto Técnico com Plano de Produção e Utilização Registro do produto e rótulo de acordo com as exigências do MAPA Documentos Necessários para registro do produto (bioinsumo)\n• Comprovação do atendimento dos requisitos ou limitações, de uso na agricultura sob o aspecto ambiental, determinadas pelos órgãos de meio ambiente para cada um dos resíduos utilizados, quando for o caso\n• Laudos analíticos com informações sobre a presença de contaminantes e seus respectivos teores\n• Disposições contidas na IN 27 de 05/06/2006\n- Contaminantes\n• Para todos os produtos, quando solicitado pela fiscalização\n• Documentos Necessários\n• Descrição do processo produtivo e da forma de obtenção das matérias-primas\n• Para inoculantes Documentos Necessários\n• Modelo de rótulo\n• Documento\n1. Anexo à IN SDA nº 13, de 24/03/2011\n• Protocolo Oficial para Avaliação da Viabilidade e Eficiência Agronômica de Cepas, Inoculantes e Tecnologias Relacionados ao Processo de Fixação Biológica do Nitrogênio em Leguminosas\n• Documento\n2. Anexo à IN SDA nº 13, de 24/03/2011\n• Protocolos Oficiais para Avaliação da Viabilidade e Eficiência Agronômica de Cepas Produtos e Tecnologias Relacionada às Bactérias Associativas\n• Documento\n3. Anexo à IN SDA nº 13, de 24/03/2011\n• Requisitos Mínimos para Avaliação da Viabilidade e Eficiência Agronômica de Cepas, Produtos e Tecnologias Relacionados à Micro-organismos Promotores de Crescimento.",

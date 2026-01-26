@@ -35,13 +35,22 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Os itens abaixo e suas respectivas entregas serão realizados de acordo com a necessidade da empresa contratante identificada no alinhamento da proposta na Etapa 01 Apresentação conceitual de projetos Geomarketing e como ele é usado pelas principais redes de comércios e serviços; Motivação e expectativas relacionadas à expansão da rede. Apresentação do segmento de atividade da empresa e seus concorrentes identificados, cabendo aparecerem outros durante o estudo Fase 01\n- Levantamento de características de mercado e padrões de sucesso Fase 02\n- Análise do perfil de Ponto, Produto, Preço e Promoção Análise detalhada da demanda Fase 03\n- Análise do mercado-alvo, entendimento do perfil do entorno e suas potencialidades Fase 04\n- Análise da concorrência e seus padrões de sucesso Fase 05\n- Caminhos de captura do potencial que a região oferece",
-      "entrega": "• Declaração assinada pelo empresário atestando o recebimento da (s) entrega (s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico apresentou base de dados possível de ser trabalhada em um processo de geolocalização de vendas e de clientes.\n• Documento com resultados obtidos de todas as fases da etapa 03: características de mercado e padrões de sucesso; análise do perfil de ponto, produto, preço e promoção; análise do mercado-alvo, entendimento do perfil do entorno e suas potencialidades; análise da concorrência e seus padrões de sucesso; caminhos da captura do potencial que a região oferece."
+      "descricao": "Os itens abaixo e suas respectivas entregas serão realizados de acordo com a necessidade da empresa contratante identificada no alinhamento da proposta na",
+      "entrega": ""
     },
     {
       "id": "e4",
-      "titulo": "ETAPA 04 | REALIZAÇÃO DE PROJETO DE GEOMARKETING PARA A EXPANSÃO",
+      "titulo": "ETAPA 01 | .",
       "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Apresentação conceitual de projetos Geomarketing e como ele é usado pelas principais redes de comércios e serviços; Motivação e expectativas relacionadas à expansão da rede. Apresentação do segmento de atividade da empresa e seus concorrentes identificados, cabendo aparecerem outros durante o estudo Fase 01\n- Levantamento de características de mercado e padrões de sucesso Fase 02\n- Análise do perfil de Ponto, Produto, Preço e Promoção Análise detalhada da demanda Fase 03\n- Análise do mercado-alvo, entendimento do perfil do entorno e suas potencialidades Fase 04\n- Análise da concorrência e seus padrões de sucesso Fase 05\n- Caminhos de captura do potencial que a região oferece",
+      "entrega": "• Declaração assinada pelo empresário atestando o recebimento da (s) entrega (s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico apresentou base de dados possível de ser trabalhada em um processo de geolocalização de vendas e de clientes.\n• Documento com resultados obtidos de todas as fases da etapa 03: características de mercado e padrões de sucesso; análise do perfil de ponto, produto, preço e promoção; análise do mercado-alvo, entendimento do perfil do entorno e suas potencialidades; análise da concorrência e seus padrões de sucesso; caminhos da captura do potencial que a região oferece."
+    },
+    {
+      "id": "e5",
+      "titulo": "ETAPA 04 | REALIZAÇÃO DE PROJETO DE GEOMARKETING PARA A EXPANSÃO",
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Com base no plano de ação gerado na ETAPA 02 e 03, o prestador criará o relatório de geolocalização de clientes e desempenho que será apresentado para o cliente Será treinada a equipe do cliente para utilização da ferramenta para futuras análises Proposição de ações comerciais e estratégicas para atingimento dos objetivos estratégicos. Podendo ser, a depender das informações e necessidades dos clientes estratégia de mix, preço, promoção, canal, abordagem, argumentação, roteirização, definição de equipes, áreas quentes e frias, intensificação ou redução da atuação etc.",

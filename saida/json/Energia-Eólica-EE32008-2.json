@@ -19,31 +19,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva contratação do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | ALINHAMENTO Reunião de alinhamento sobre a condução do trabalho e entrega dos documentos solicitados pelo prestador de serviços, memória da reunião contendo: Local, data, horário, participantes, assuntos tratados (discussões/decisões), encaminhamentos Nesta reunião deverão ser alinhados os objetivos do cliente e entregas do consultor.",
-      "entrega": "Documento contendo os responsáveis pela prestação do serviço e todos os aspectos referentes aos itens tratados nesta etapa acordados entre as partes; assinado pela Empresa Demandante."
+      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva contratação do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | DIAGNÓSTICO PARA O PROJETO",
+      "titulo": "ETAPA 01 | ALINHAMENTO",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião de alinhamento sobre a condução do trabalho e entrega dos documentos solicitados pelo prestador de serviços, memória da reunião contendo: Local, data, horário, participantes, assuntos tratados (discussões/decisões), encaminhamentos Nesta reunião deverão ser alinhados os objetivos do cliente e entregas do consultor.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço e todos os aspectos referentes aos itens tratados nesta etapa acordados entre as partes; assinado pela Empresa Demandante."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO PARA O PROJETO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "• Consulta de acesso junto a concessionária de energia | Obtenção de\n• informações técnicas e formulários pertinentes ao acesso Informação de acesso: Caso seja realizada a consulta de acesso, a elaboração da informação de acesso é obrigatória, de acordo com os procedimentos descritos na seção o A resposta da acessada deverá ser interpretada por profissional de Engenharia Elétrica habilitado pelo CREA. E evidenciado, através de uma reunião com o acessante, as possibilidades de projeto para o seu Sistema Eólico. | Ata da Reunião\n• Visita técnica do responsável do Projeto no local. Reunião de alinhamento sobre a resposta de acesso da concessionária e a condução do trabalho e entrega dos documentos solicitados pela entidade executora. | Ata da Reunião, cronograma de visitação, coleta de dados e formulação de proposta comercial.",
       "entrega": "• Obtenção de informações técnicas e formulários pertinentes ao acesso\n• Ata da Reunião.\n• Cronograma de visitação, coleta de dados e formulação de proposta comercial."
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | PROJETO EXECUTIVO E SOLICITAÇÃO DE ACESSO",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "• Visita técnica do responsável do projeto de instalação de conexão. O profissional deve coletar no mínimo: medições de tensão na entrada de energia da unidade consumidora, tipo de fornecimento de acordo com a concessionária local, confirmação da existência de aterramento da instalação, situação do Sistema de Proteção Contra Descargas Atmosféricas (quando existir), local onde será instalado (s) o (s) gerador(es) eólico(s), dutos por onde circularão os circuitos do sistema eólico conectado à rede e sua correta localização. | Planilha com acompanhamento dos itens básicos citados acima\n• Projeto Executivo confeccionado por empresa ou profissional responsável entrega à concessionaria dos formulários preenchidos de acesso, incluindo memorial descritivo do projeto(deve conter no mínimo as informações solicitadas na consulta de acesso), projeto elétrico, planta de localização da central geradora, arranjo físico das instalações, Diagrama Unifilar das instalações, esquemas funcionais, lista e especificação dos materiais utilizados, ART-CREA (Atestado de Responsabilidade Técnica junto ao Conselho de Engenharia) emitida pelo responsável do projeto, certificado de conformidade de registros dos inversores (INMETRO), dados necessários para registro do sistema conforme disponível no site da ANEEL, lista de unidade(s) consumidor(as) e payback do investimento. O projeto executivo deve ser entregue na acessada juntamente com a Solicitação de Acesso. | Projeto Executivo\n• Solicitação de acesso junto a concessionária de energia: A solicitação de acesso é o requerimento formulado pelo acessante e entregue a acessada que implica na prioridade de atendimento da mesma. A solicitação de acesso deve conter o formulário de Solicitação de Acesso para micro e minigeração distribuída, disponíveis nos Anexos II, III e IV da seção\n3. 7 do Módulo 3 do PRODIST, determinados em função da potência instalada da geração. | Formulário de Solicitação de Acesso de acordo com a concessionária local.",
       "entrega": "• Planilha com acompanhamento dos itens básicos citados.\n• Projeto Executivo\n• Formulário de Solicitação de Acesso de acordo com a concessionária local."
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | PARECER DE ACESSO",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Parecer de acesso junto a concessionária de energia: a distribuidora deverá emitir o parecer de acesso, sem ônus para o acessante, em que são informados as condições de acesso e os requisitos técnicos que permitam a conexão das instalações do acessante com os respectivos prazos. O prazo para a distribuidora apresentar o parecer de acesso é de 15 dias para Microgeração e de 30 dias para Minigeração Caso seja necessária alguma obra para que o acessante se conecte à rede da acessada, os valores, bem como a participação do consumidor no ônus dos mesmos, deverão ser informados no Parecer de Acesso O Acordo Operativo deverá ser assinado até a data de aprovação do ponto de conexão, enquanto o Relacionamento Operacional deverá ser encaminhado pela distribuidora ao acessante em anexo ao Parecer de Acesso. A resposta da acessada deverá ser interpretada por profissional de Engenharia Elétrica habilitado pelo CREA Deverá ser explicado ao acessante as etapas ainda faltantes para realização física do Projeto Executivo, bem como a validação e entrega do Relatório Final com recebimento via Termo de Aceite da entrega e entrega da ART (Atestado de Responsabilidade Técnica) junto ao CREA para pagamento. | Ata da Reunião e ART",

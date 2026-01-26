@@ -18,13 +18,22 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "a) Atendimento inicial para alinhamento da descrição da demanda (Motivação para a obtenção de certificado) e avaliação do perfil do cliente b) Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c) Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço d) Envio dos formulários de solicitação para preenchimento completo pelo cliente ETAPA 01 | PLANEJAMENTO DA AUDITORIA PRINCIPAL Planejar a realização da auditoria externa para fins de certificação.",
-      "entrega": "Planejamento para a Auditoria Principal (Plano de Auditoria)."
+      "descricao": "a) Atendimento inicial para alinhamento da descrição da demanda (Motivação para a obtenção de certificado) e avaliação do perfil do cliente b) Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c) Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço d) Envio dos formulários de solicitação para preenchimento completo pelo cliente.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | EXECUÇÃO DA AUDITORIA PRINCIPAL",
+      "titulo": "ETAPA 01 | PLANEJAMENTO DA AUDITORIA PRINCIPAL",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Planejar a realização da auditoria externa para fins de certificação.",
+      "entrega": "Planejamento para a Auditoria Principal (Plano de Auditoria)."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | EXECUÇÃO DA AUDITORIA PRINCIPAL",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Execução da auditoria externa para fins de certificação\n• É realizada a inspeção in loco em todos os locais associados com o projeto Auditorias in loco em todos os locais onde são criados os animais, do nascimento até o abate, e por onde passam os ingredientes até chegar na embalagem final ao consumidor. O inspetor, ao final, elabora uma ata de inspeção com as não conformidades identificadas, que é assinada pelo produtor\n• Construção do relatório detalhado e com base neste e em outros documentos é elaborada a decisão de certificação\n• Notificação e envio do relatório ao cliente, com prazo para sanar as não conformidades identificadas na inspeção\n• Emissão do certificado de conformidade válido por 12 meses\n• Qualquer modificação importante no sistema de produção que possa afetar o bem-estar dos animais deve ser informada para a certificadora Obs.: Todas as artes de embalagens de produtos com o selo devem ser antes submetidas à aprovação da certificadora.",

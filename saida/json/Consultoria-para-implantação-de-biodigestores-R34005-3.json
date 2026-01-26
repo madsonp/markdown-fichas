@@ -19,31 +19,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | ALINHAMENTO Reunião presencial de alinhamento da proposta | Ata de reunião\n1. Alinhamento dos objetivos do cliente e entregas do consultor\n2. Conferência do checklist da documentação necessária para fase Diagnóstico\n3. Encaminhamentos de ações e prazos do cliente e do consultor\n4. Elucidar questões referentes a taxas, encargos, responsabilidade, entregas etc Obs: A responsabilidade do pagamento de taxas é do Cliente.",
-      "entrega": "Ata de reunião"
+      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "titulo": "ETAPA 01 | ALINHAMENTO",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião presencial de alinhamento da proposta | Ata de reunião\n1. Alinhamento dos objetivos do cliente e entregas do consultor\n2. Conferência do checklist da documentação necessária para fase Diagnóstico\n3. Encaminhamentos de ações e prazos do cliente e do consultor\n4. Elucidar questões referentes a taxas, encargos, responsabilidade, entregas etc Obs: A responsabilidade do pagamento de taxas é do Cliente.",
+      "entrega": "Ata de reunião"
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Diagnóstico da estrutura da empresa | Relatório de diagnóstico\n• Concepção da empresa, localização\n• Estrutura (estrutura física, mão de obra capacitada)\n• Equipamentos\n• Matéria prima disponível (tipo, caracterização e estimativa de resíduo gerados na propriedade e/ou fornecedores) Inter-relações ambientais, econômicas e sociais observadas\n• Não conformidades referentes a legislações ambiental, sanitária\n• Situação legal\n• Análise de viabilidade técnica e econômica.",
       "entrega": "Relatório de diagnóstico"
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | DESENVOLVIMENTO DO PROJETO TÉCNICO",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Desenvolvimento do projeto técnico de acordo com os objetivos do empreendedor, demonstrando a estrutura e procedimentos necessários para a implantação da atividade | Relatório de procedimentos Projeto Técnico\n• Concepção, localização do empreendimento\n• Mão de obra capacitada necessária\n• Equipamentos, áreas e instalações necessárias\n• Proposição das ações corretivas das não conformidades diagnosticadas\n• Resultados esperados referente aos aspectos econômico ambiental e social\n• Croqui e descrição da ocupação, localização e acesso da unidade de produção considerando os aspectos produtivos e ambientais Plano de Utilização do Biodigestor\n• Objetivo da utilização do Biodigestor (Produção de energia elétrica, térmica, produção de biofertilizantes, destino adequado ao resíduo, utilização na própria propriedade ou comercialização\n• Tipo do Substrato utilizado (dejeto de animais, resíduo florestal ou agrícola, restos de comida)\n• Quantidade de substrato e frequência do fornecimento\n• Tecnologia empregada: Quanto à umidade do substrato, quanto à alimentação do fermentador, quanto às Fases do processo, quanto a Temperatura da produção, quanto a Rota Tecnológica\n• Estimativas de produção por objetivo de utilização\n• Ciclos de produção e organização do processo produtivo\n• Manejo dos resíduos\n• Custos Operacionais\n• Forma do Registro de informações\n• Formas de monitoramento e avaliação.",
       "entrega": "Relatório de procedimentos adotados."
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | ENTREGA E APRESENTAÇÃO",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Reunião de entrega e apresentação do projeto. Entrega do projeto Técnico e Plano de Utilização | Entrega do projeto Técnico e Plano de Utilização.",

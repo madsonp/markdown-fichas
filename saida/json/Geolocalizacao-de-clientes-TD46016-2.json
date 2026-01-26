@@ -44,7 +44,25 @@
       "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Atividades ● Reunião de alinhamento e definição de escopo (2 a 3h) ● Análise inicial das informações disponíveis (8h a 10h) ● Definição dos critérios de segmentação do público-alvo (4 a 6h) ●Identificação e validação de fontes externas para complementação dos dados (2 a 4h) Estimativa total: 16 a 23 horas ETAPA 02 Atividades ●Fase 01 – Coleta de dados (extração, integração e/ou conexão) (10h a 14h) ●Fase 02 – Estruturação (organização e segmentação da base) (10h a 16h) ● Fase 03 – Validação (limpeza, categorização e padronização) (8h a 10h) ●Fase 04 – Construção da Correlação Espacial (estabelecimento de conexões e interpretação dos dados geográficos) (8h a 12h) Estimativa total: 36 a 52 horas ETAPA 03 Atividades ● Processamento e análise dos dados geoespaciais (8h a 10h) ● Criação do relatório ou dashboard de geolocalização (12h a 16h) Estimativa total: 20 a 26 horas TOTAL MÍNIMO PREVISTO: 72 horas, 9 dias úteis (8h/dia)\n- 2 dias a menos TOTAL MÁXIMO PREVISTO: 101 horas, cerca de 13 dias úteis (8h/dia)\n- 5 dias a menos Versão Data Link HISTÓRICO DE ALTERAÇÕES 1 10/09/2020 https://datasebrae.com.br/wp\n- content/uploads/2020/09/Geolocalização\n- de-clientes-TD46016\n- 1. pdf Responsável Liza Myrella Cavalcante Melo Bádue Wagner Cezar Ayres Carvalho 2 04/06/2025 http://datasebrae.com.br/wp\n- content/uploads/2025/06/Geolocalizacao\n- de-clientes-TD46016\n- 2. pdf Coordenação Sebraetec",
+      "descricao": "Atividades ● Reunião de alinhamento e definição de escopo (2 a 3h) ● Análise inicial das informações disponíveis (8h a 10h) ● Definição dos critérios de segmentação do público-alvo (4 a 6h) ●Identificação e validação de fontes externas para complementação dos dados (2 a 4h) Estimativa total: 16 a 23 horas",
+      "entrega": ""
+    },
+    {
+      "id": "e5",
+      "titulo": "ETAPA 02 | :",
+      "ordem": 5,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Atividades ●Fase 01 – Coleta de dados (extração, integração e/ou conexão) (10h a 14h) ●Fase 02 – Estruturação (organização e segmentação da base) (10h a 16h) ● Fase 03 – Validação (limpeza, categorização e padronização) (8h a 10h) ●Fase 04 – Construção da Correlação Espacial (estabelecimento de conexões e interpretação dos dados geográficos) (8h a 12h) Estimativa total: 36 a 52 horas",
+      "entrega": ""
+    },
+    {
+      "id": "e6",
+      "titulo": "ETAPA 03 | :",
+      "ordem": 6,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Atividades ● Processamento e análise dos dados geoespaciais (8h a 10h) ● Criação do relatório ou dashboard de geolocalização (12h a 16h) Estimativa total: 20 a 26 horas TOTAL MÍNIMO PREVISTO: 72 horas, 9 dias úteis (8h/dia)\n- 2 dias a menos TOTAL MÁXIMO PREVISTO: 101 horas, cerca de 13 dias úteis (8h/dia)\n- 5 dias a menos Versão Data Link HISTÓRICO DE ALTERAÇÕES 1 10/09/2020 https://datasebrae.com.br/wp\n- content/uploads/2020/09/Geolocalização\n- de-clientes-TD46016\n- 1. pdf Responsável Liza Myrella Cavalcante Melo Bádue Wagner Cezar Ayres Carvalho 2 04/06/2025 http://datasebrae.com.br/wp\n- content/uploads/2025/06/Geolocalizacao\n- de-clientes-TD46016\n- 2. pdf Coordenação Sebraetec",
       "entrega": ""
     }
   ],

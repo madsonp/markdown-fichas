@@ -19,31 +19,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Atendimento inicial para alinhamento da descrição da demanda e avaliação do perfil do cliente\n• Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e\n• Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | SPRINT DE ALINHAMENTO (MINDSET) Reunião de alinhamento sobre a condução do trabalho. Nesta reunião deverão ser tratados os seguintes itens\n• Estratégias e métricas de crescimento com os sócios / investidores do negócio\n• Métrica de vendas dos produtos/serviços por canal\n• Levantamento das necessidades do negócio, a partir da imersão nos objetivos estratégicos do cliente\n• Recursos disponíveis para investimento no growth e qualificação das pessoas envolvidas\n• Planejamento dos trabalhos.",
-      "entrega": "Ata da Reunião e Cronograma de execução."
+      "descricao": "• Atendimento inicial para alinhamento da descrição da demanda e avaliação do perfil do cliente\n• Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e\n• Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | SPRINT DIAGNÓSTICO DE MERCADO",
+      "titulo": "ETAPA 01 | SPRINT DE ALINHAMENTO (MINDSET)",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião de alinhamento sobre a condução do trabalho. Nesta reunião deverão ser tratados os seguintes itens\n• Estratégias e métricas de crescimento com os sócios / investidores do negócio\n• Métrica de vendas dos produtos/serviços por canal\n• Levantamento das necessidades do negócio, a partir da imersão nos objetivos estratégicos do cliente\n• Recursos disponíveis para investimento no growth e qualificação das pessoas envolvidas\n• Planejamento dos trabalhos.",
+      "entrega": "Ata da Reunião e Cronograma de execução."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | SPRINT DIAGNÓSTICO DE MERCADO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Diagnóstico da organização e do mercado alvo, incluindo aspectos como\n• Diagnóstico interno: levantamento dos hacks de marketing digital da empresa SEO; SEM; métricas; tração de vendas\n• Diagnóstico externo: análise das tendências de mercado; benchmarking da presença digital (análise dos concorrentes diretos / indiretos) Identificação do persona tomador de decisão\n• Ranqueamento e reputação da marca\n• Hacking de crescimento com a aplicação das metodologias PBL, Lean Startup e Scrum\n• Elaboração do relatório.",
       "entrega": "Relatório do Diagnóstico Inicial."
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | SPRINT PESSOAS E PROCESSOS DE GROWTH HACKING",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Projeto detalhado, com planejamento dos serviços e das ações a serem implementados para tecnologias digitais. Podem estar inclusos nesta sprint os seguintes itens\n• Gestão Adm de users (usuários responsáveis pelo monitoramento)\n• Identificação de padrões, recursos, funcionalidades e tendências de mercado no projeto para o posicionamento digital\n• Analise o funil e definir o seu OMTM (One Metric That Matters)\n• Analise de dados, teste de hipóteses\n• Definição dos (Test A/B), e experimentos\n• Ganhando a velocidade de execução no processo de crescimento orgânico (Fast Velocity) Implantação, configuração e monitoramento na ferramenta Adwords Express\n• Otimização de posts com técnicas SEO (SEO significa Search Engine Optimization)\n• Implantação, configuração e monitoramento na ferramenta de Mensagem Instantêa mobile para captura de Leads\n• Análise e monitoramento da ferramenta Insight (Searchs / Views e CTA\n- Call to Actions\n• Analytics e gráficos comparativos da empresa com empresas do mesmo segmento do Mercado",
       "entrega": "Organograma com o funcionograma dos Growth hackers e relatório com o plano de ação de Growth Hacking."
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | SPRINT FECHAMENTO E AVALIAÇÃO DE RESULTADOS",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Reunião para validação e entrega do Relatório.",

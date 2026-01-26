@@ -35,7 +35,16 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Consiste na elaboração do Plano de Implantação BIM. Documento que traça a estratégia base e os passos a serem dados para a futura implantação do BIM na empresa Visto que se trata de um documento que propõe mudanças significativa de processos dentro da Empresa/Incorporadora/Construtora, visando o alcance de maturidade BIM desejada, fica a cargo dos consultores, em contato com a empresa demandante, o desenvolvimento da 1ª versão, que será, posteriormente, alimentada pelos profissionais da empresa demandante ETAPA 04 | ENCERRAMENTO Reunião de apresentação final dos resultados com toda a equipe envolvida. Validação dos resultados e entrega de relatórios, Plano de Implantação BIM e apresentações desenvolvidas, que servirão como materiais para continuidade da aplicação do método pela empresa.",
+      "descricao": "Consiste na elaboração do Plano de Implantação BIM. Documento que traça a estratégia base e os passos a serem dados para a futura implantação do BIM na empresa Visto que se trata de um documento que propõe mudanças significativa de processos dentro da Empresa/Incorporadora/Construtora, visando o alcance de maturidade BIM desejada, fica a cargo dos consultores, em contato com a empresa demandante, o desenvolvimento da 1ª versão, que será, posteriormente, alimentada pelos profissionais da empresa demandante.",
+      "entrega": ""
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | ENCERRAMENTO",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião de apresentação final dos resultados com toda a equipe envolvida. Validação dos resultados e entrega de relatórios, Plano de Implantação BIM e apresentações desenvolvidas, que servirão como materiais para continuidade da aplicação do método pela empresa.",
       "entrega": "Relatório Técnico Final contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos, oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões; Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],

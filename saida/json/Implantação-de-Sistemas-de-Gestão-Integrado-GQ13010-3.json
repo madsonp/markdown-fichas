@@ -35,7 +35,16 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Realização da auditoria interna do sistema de gestão da com base na norma ABNT NBR ISO 19011:2018\n• Realização da análise crítica junto com os responsáveis da empresa ENTREGA 03: Relatório de auditoria interna, para atender os requisitos da norma técnica de sistema de gestão aplicada pela empresa ETAPA 04 | SUPORTE NO TRATAMENTO DAS NÃO-CONFORMIDADES\n• Com base no relatório de auditoria interna, a empresa deve elaborar o plano de ação para as não-conformidades encontradas e encaminhar ao consultor que realizou a auditoria interna\n• O consultor irá avaliar o plano de ação e dar sugestões de melhorias, caso necessário.",
+      "descricao": "• Realização da auditoria interna do sistema de gestão da com base na norma ABNT NBR ISO 19011:2018\n• Realização da análise crítica junto com os responsáveis da empresa ENTREGA 03: Relatório de auditoria interna, para atender os requisitos da norma técnica de sistema de gestão aplicada pela empresa.",
+      "entrega": ""
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | SUPORTE NO TRATAMENTO DAS NÃO-CONFORMIDADES",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Com base no relatório de auditoria interna, a empresa deve elaborar o plano de ação para as não-conformidades encontradas e encaminhar ao consultor que realizou a auditoria interna\n• O consultor irá avaliar o plano de ação e dar sugestões de melhorias, caso necessário.",
       "entrega": "• Plano de ação analisado com indicação de melhorias.\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço e que o prestador de serviço explicou presencialmente à empresa demandante o conteúdo da(s) entrega(s) efetivadas."
     }
   ],

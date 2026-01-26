@@ -17,31 +17,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Orientação do Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva contratação do serviço, compreendendo a) Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b) Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c) Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | ALINHAMENTO DA PROPOSTA Reunião de alinhamento do trabalho (explicar a dinâmica de desenvolvimento dos trabalhos a serem realizados) | Ata de reunião.",
-      "entrega": "Ata de reunião"
+      "descricao": "Orientação do Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva contratação do serviço, compreendendo a) Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b) Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c) Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | TREINAMENTO",
+      "titulo": "ETAPA 01 | ALINHAMENTO DA PROPOSTA",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião de alinhamento do trabalho (explicar a dinâmica de desenvolvimento dos trabalhos a serem realizados) | Ata de reunião.",
+      "entrega": "Ata de reunião"
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | TREINAMENTO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Treinamento do funcionário da empresa demandante para coleta de dados que subsidiarão a elaboração do Inventário de Emissões e Remoções de GEE e visita técnica as instalações da empresa demandante| Lista de Presença.",
       "entrega": "Lista de Presença."
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | DESENVOLVIMENTO DO INVENTÁRIO DE EMISSÕES E REMOÇÕES DE GEE",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Elaboração do Inventário de Emissões e Remoções de GEE, contendo: limites organizacionais, limites operacionais (escopos), metodologia de cálculo (como GHG Protocol) e fatores de emissões, dados coletados das emissões e remoções de GEE, seleção de ano-base e, cálculo de emissões e remoções de GEE.",
       "entrega": "Inventário de Emissões e Remoções de GEE (parcial);\n• Plano de Melhorias analisando os processos da empresa para reduzir as emissões."
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | REUNIÃO DE ENTREGA E APRESENTAÇÃO",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Finalização e Entrega do Inventário de Emissões e Remoções de GEE| Inventário Final.",

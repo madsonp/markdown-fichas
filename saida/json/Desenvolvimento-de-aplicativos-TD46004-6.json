@@ -15,31 +15,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "a) Atendimento inicial para alinhamento da descrição da demanda e avaliação do perfil do cliente b) Construção da descrição da demanda (objeto/escopo de contratação, responsabilidades, lista de requisitos, cronograma, publicação do aplicativo em plataformas) e Interno c) Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | ALINHAMENTO Reunião de alinhamento sobre a condução do trabalho e entrega dos documentos solicitados pela entidade executora. Nessa reunião deverão ser tratados os seguintes itens: objetivo e escopo do aplicativo, se será publicado em lojas de aplicativos, características e requisitos desejados para o aplicativo, sistemas operacionais (Android, IOs, etc.), recursos (geolocalização, criptografia de dados, uso de sistema de pagamento, integração com outros sistemas, espaços para anúncios, etc.), número de telas, tipo de cliente e de uso.",
-      "entrega": "Documento contendo os responsáveis pela prestação do serviço, Escopo, Lista de Requisitos, Fluxo do Aplicativo, Respectivas Funcionalidades a serem atendidas, Limites de alterações e Cronograma de execução."
+      "descricao": "a) Atendimento inicial para alinhamento da descrição da demanda e avaliação do perfil do cliente b) Construção da descrição da demanda (objeto/escopo de contratação, responsabilidades, lista de requisitos, cronograma, publicação do aplicativo em plataformas) e Interno c) Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | APLICATIVO",
+      "titulo": "ETAPA 01 | ALINHAMENTO",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião de alinhamento sobre a condução do trabalho e entrega dos documentos solicitados pela entidade executora. Nessa reunião deverão ser tratados os seguintes itens: objetivo e escopo do aplicativo, se será publicado em lojas de aplicativos, características e requisitos desejados para o aplicativo, sistemas operacionais (Android, IOs, etc.), recursos (geolocalização, criptografia de dados, uso de sistema de pagamento, integração com outros sistemas, espaços para anúncios, etc.), número de telas, tipo de cliente e de uso.",
+      "entrega": "Documento contendo os responsáveis pela prestação do serviço, Escopo, Lista de Requisitos, Fluxo do Aplicativo, Respectivas Funcionalidades a serem atendidas, Limites de alterações e Cronograma de execução."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | APLICATIVO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "• Desenvolvimento do protótipo do aplicativo, contendo, quando aplicáveis telas, fluxos, processos, forma de armazenamento dos dados, etc\n• Apresentação para o cliente solicitar ajustes e correções iniciais • Correções e ajustes para solução dos problemas identificados e dos requisitos alterados • Desenvolvimento da versão inicial do aplicativo • Disponibilizar orientação de Uso do Aplicativo.",
       "entrega": "Entrega da versão inicial do aplicativo e área administrativa; Manual Provisório de Uso do Aplicativo; Habilitar conta de hospedagem e publicação do aplicativo em nome da empresa demandante nos ambientes acordados em contrato."
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | TESTES/HOMOLOGAÇÃO E CORREÇÕES",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "• Testes para homologação do aplicativo e área administrativa\n• (desenvolvedor, clientes, usuários) Identificação dos problemas, oportunidades de melhorias e necessidades de ajustes, correções e alterações de requisitos\n• Ajustes e correções para solução dos pontos levantados\n• Realização de novos testes e outros ajustes, quando necessários\n• Atendimento aos requisitos técnicos exigidos pelas lojas e sistemas operacionais demandados pelo cliente.",
       "entrega": "Relatório com problemas identificados; aceite do Relatório com os problemas identificados; Entrega da versão ajustada do aplicativo e área administrativa. Interno"
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | HOMOLOGAÇÃO E ENTREGA DA VERSÃO FINAL",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Reunião para homologação e entrega da versão final do software aplicativo, área administrativa e Manual de Uso do Aplicativo.",

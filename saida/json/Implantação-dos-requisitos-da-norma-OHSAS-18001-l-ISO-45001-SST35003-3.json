@@ -17,7 +17,16 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Reunião inicial de alinhamento\n• Diagnóstico inicial da organização\n• Elaboração e apresentação da política de SST\n• Planejamento e documentação de planejamento de SST ENTREGA ETAPA 01 Relatório parcial contendo diagnóstico inicial e planejamento de SST ETAPA 02 | IMPLANTAÇÃO DO SISTEMA DE GESTÃO DE SST Realização de treinamentos da equipe através de seminários e cursos; Implantação do Sistema de Gestão, incluindo definição dos recursos, responsabilidades, obrigações e autoridades do sistema de gestão, o processo de comunicação interna e externa, elaboração da documentação do projeto e controle de documentação, orientação e apoio para criação do Manual de Gestão, elaboração do documento de procedimento de controle operacional e do Plano de Respostas às Emergências, elaboração dos processos de controle e melhoria contínua; Avaliação final com verificação dos requisitos implementados e elaboração do relatório final contendo análise qualitativa e qualitativa comparando o diagnóstico inicial e avaliação final, comprovação dos requisitos atendidos e parecer sobre a aptidão/prontidão para a auditoria de certificação, quando couber.",
+      "descricao": "• Reunião inicial de alinhamento\n• Diagnóstico inicial da organização\n• Elaboração e apresentação da política de SST\n• Planejamento e documentação de planejamento de SST ENTREGA ETAPA 01 Relatório parcial contendo diagnóstico inicial e planejamento de SST.",
+      "entrega": ""
+    },
+    {
+      "id": "e2",
+      "titulo": "ETAPA 02 | IMPLANTAÇÃO DO SISTEMA DE GESTÃO DE SST",
+      "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Realização de treinamentos da equipe através de seminários e cursos; Implantação do Sistema de Gestão, incluindo definição dos recursos, responsabilidades, obrigações e autoridades do sistema de gestão, o processo de comunicação interna e externa, elaboração da documentação do projeto e controle de documentação, orientação e apoio para criação do Manual de Gestão, elaboração do documento de procedimento de controle operacional e do Plano de Respostas às Emergências, elaboração dos processos de controle e melhoria contínua; Avaliação final com verificação dos requisitos implementados e elaboração do relatório final contendo análise qualitativa e qualitativa comparando o diagnóstico inicial e avaliação final, comprovação dos requisitos atendidos e parecer sobre a aptidão/prontidão para a auditoria de certificação, quando couber.",
       "entrega": "Relatório final: contendo diagnóstico, atas de reuniões, lista de presença dos treinamentos, documentação de planejamento de SST, descrição da implantação, projeto técnico de SST, descrição da situação inicial encontrada e a após implantação e parecer sobre a aptidão/prontidão para a auditoria de certificação. Apenas quando aplicável, ART."
     }
   ],

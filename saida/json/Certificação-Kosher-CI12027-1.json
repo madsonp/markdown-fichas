@@ -17,13 +17,22 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "a. Atendimento inicial para alinhamento da descrição da demanda (Motivação para a obtenção de certificado Kosher) e avaliação do perfil do cliente b. Realiza uma revisão dos dados e verifica a capacidade de certificar a requerida empresa c. Na sequência são realizados os trâmites legais de assinatura de contrato ETAPA 01 | PLANEJAMENTO DA AUDITORIA PRINCIPAL Planejar a realização da auditoria externa para fins de certificação, com Análise documental dos produtos e demais informações fornecidas mediante preenchimento da ficha modelo.",
-      "entrega": "Planejamento para a Auditoria Principal (Plano de Auditoria), de acordo com a avaliação do formulário enviado visando estabelecer uma visão crítica de sua abrangência."
+      "descricao": "a. Atendimento inicial para alinhamento da descrição da demanda (Motivação para a obtenção de certificado Kosher) e avaliação do perfil do cliente b. Realiza uma revisão dos dados e verifica a capacidade de certificar a requerida empresa c. Na sequência são realizados os trâmites legais de assinatura de contrato.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | EXECUÇÃO DA AUDITORIA PRINCIPAL",
+      "titulo": "ETAPA 01 | PLANEJAMENTO DA AUDITORIA PRINCIPAL",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Planejar a realização da auditoria externa para fins de certificação, com Análise documental dos produtos e demais informações fornecidas mediante preenchimento da ficha modelo.",
+      "entrega": "Planejamento para a Auditoria Principal (Plano de Auditoria), de acordo com a avaliação do formulário enviado visando estabelecer uma visão crítica de sua abrangência."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | EXECUÇÃO DA AUDITORIA PRINCIPAL",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Execução da auditoria na planta sendo esta conduzida em 02 (dois) estágios. As auditorias são realizadas por uma equipe técnica e religiosa, que conferem se a empresa atende a todos os requisitos estabelecidos pela certificação Kosher e normas internacionais. Caso necessário, o produto ainda passará por análises laboratoriais. Ao final, é tomada a decisão de certificação, na qual um comitê técnico e religioso irá revisar o processo e avaliar se a empresa está apta para obter a certificação Kosher.",

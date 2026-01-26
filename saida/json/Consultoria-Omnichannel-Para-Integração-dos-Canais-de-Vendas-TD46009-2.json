@@ -19,31 +19,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Atendimento inicial para alinhamento da descrição da demanda e avaliação do perfil do cliente\n• Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e\n• Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | SPRINT DE ALINHAMENTO (MINDSET) Reunião de alinhamento sobre a condução do trabalho. Nesta reunião deverão ser tratados os seguintes itens\n• Estratégias e métricas de crescimento com os sócios / investidores do negócio\n• Métrica de vendas dos produtos/serviços por canal\n• Levantamento das necessidades do negócio, a partir da imersão nos objetivos estratégicos do cliente\n• Recursos disponíveis para investimento no omnichannel e qualificação das pessoas envolvidas\n• Planejamento dos trabalhos.",
-      "entrega": "Ata da Reunião e Cronograma de execução."
+      "descricao": "• Atendimento inicial para alinhamento da descrição da demanda e avaliação do perfil do cliente\n• Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e\n• Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | SPRINT DIAGNÓSTICO DOS CANAIS DE VENDAS",
+      "titulo": "ETAPA 01 | SPRINT DE ALINHAMENTO (MINDSET)",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião de alinhamento sobre a condução do trabalho. Nesta reunião deverão ser tratados os seguintes itens\n• Estratégias e métricas de crescimento com os sócios / investidores do negócio\n• Métrica de vendas dos produtos/serviços por canal\n• Levantamento das necessidades do negócio, a partir da imersão nos objetivos estratégicos do cliente\n• Recursos disponíveis para investimento no omnichannel e qualificação das pessoas envolvidas\n• Planejamento dos trabalhos.",
+      "entrega": "Ata da Reunião e Cronograma de execução."
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | SPRINT DIAGNÓSTICO DOS CANAIS DE VENDAS",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Diagnóstico da organização e do mercado alvo, incluindo aspectos como\n• Definição dos Canais de Tração\n• Mapeamento onde vem as vendas hoje\n• Levantamento dos 3 melhores canais da empresa\n• Calculo dos KPIs por canal (CAC, LTV, TX Conversão de Leads e Ticket Médio)\n• Elaboração do relatório.",
       "entrega": "Relatório do Diagnóstico Inicial."
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | SPRINT PESSOAS E PROCESSOS DE OMNICHANNEL",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Projeto detalhado, com planejamento dos serviços e das ações a serem implementados para tecnologias digitais. Podem estar inclusos nesta sprint os seguintes itens\n• Definição do cálculo de ROI do Omnichannel\n• Definição de verbas para mídia por canais: (Facebook Ads, AdWords, LinkedIn de Canais físicos outbound)\n• Configuração das ferramentas de análise: (Ex: analytics, pixel do facebook, google search console etc; WA Business)\n• Processo e Vendas\n• Como é o seu processo de vendas hoje? (Field, Inside e Self? Usa CRM?)\n• Existe equipe de vendas e/ou pré-vendas\n• É calculado o Custo de Aquisição de Cliente\n• Existe previsibilidade nas vendas\n• Quais são as metas\n• Qual é a taxa de fechamento de Leads em Vendas",
       "entrega": "Framework de priorização de canais de vendas x resultados obtidos no Omnichannel."
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | SPRINT FECHAMENTO E AVALIAÇÃO DE RESULTADOS",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Reunião para validação e entrega do Relatório.",

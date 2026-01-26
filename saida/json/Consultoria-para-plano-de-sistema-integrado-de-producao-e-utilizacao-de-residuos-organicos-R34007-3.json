@@ -19,31 +19,40 @@
       "ordem": 1,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço ETAPA 01 | ALINHAMENTO Reunião presencial de alinhamento da proposta | Ata de reunião\n1. Alinhamento dos objetivos do cliente e entregas do consultor\n2. Conferência do checklist da documentação necessária para fase Diagnóstico\n3. Encaminhamentos de ações e prazos do cliente e do consultor\n4. Elucidar questões referentes a taxas, encargos, responsabilidade, entregas etc Obs: A responsabilidade do pagamento de taxas é do Cliente, inclusive as de ART\n- Anotação de Responsabilidade Técnica Realizar avaliação de perfil energético da empresa demandante na plataforma do em Sebrae programa https://diagnostico.sebrae.com.br/#loginConsultor disponível Energia, O Prestador de Serviço Tecnológico, caso ainda não tenha acesso à plataforma, deverá solicitar o login de acesso enviando um e-mail para energia@sebrae.com.br contendo CNPJ, Razão Social, E-mail, Nome do Responsável, CPF e informando em qual estado será a prestação do serviço O vídeo tutorial a seguir orienta como acessar a plataforma e lançar as informações da empresa demandante: https://youtu.be/EEwvDbwpofQ.",
-      "entrega": "Ata de reunião Relatório plataforma (em (https://diagnostico.sebrae.com.br/#loginConsultor) na finalização do envio das informações da empresa demandante, conforme orientado no vídeo tutorial (https://youtu.be/EEwvDbwpofQ). gerado PDF) pela"
+      "descricao": "Orientação ao Gestor do Sebrae quanto às etapas a serem desenvolvidas na relação inicial entre o Sebrae e a empresa demandante até a efetiva conclusão do serviço, compreendendo a. Atendimento inicial para alinhamento da descrição da demanda (identificação do porte e setor/segmento da empresa\n- perfil do cliente e definição do escopo a ser trabalhado) b. Construção da descrição da demanda (objeto de contratação, responsabilidades, cronograma) e c. Validação da descrição da demanda e da proposta final pelo cliente e contratação do serviço.",
+      "entrega": ""
     },
     {
       "id": "e2",
-      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "titulo": "ETAPA 01 | ALINHAMENTO",
       "ordem": 2,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Reunião presencial de alinhamento da proposta | Ata de reunião\n1. Alinhamento dos objetivos do cliente e entregas do consultor\n2. Conferência do checklist da documentação necessária para fase Diagnóstico\n3. Encaminhamentos de ações e prazos do cliente e do consultor\n4. Elucidar questões referentes a taxas, encargos, responsabilidade, entregas etc Obs: A responsabilidade do pagamento de taxas é do Cliente, inclusive as de ART\n- Anotação de Responsabilidade Técnica Realizar avaliação de perfil energético da empresa demandante na plataforma do em Sebrae programa https://diagnostico.sebrae.com.br/#loginConsultor disponível Energia, O Prestador de Serviço Tecnológico, caso ainda não tenha acesso à plataforma, deverá solicitar o login de acesso enviando um e-mail para energia@sebrae.com.br contendo CNPJ, Razão Social, E-mail, Nome do Responsável, CPF e informando em qual estado será a prestação do serviço O vídeo tutorial a seguir orienta como acessar a plataforma e lançar as informações da empresa demandante: https://youtu.be/EEwvDbwpofQ.",
+      "entrega": "Ata de reunião Relatório plataforma (em (https://diagnostico.sebrae.com.br/#loginConsultor) na finalização do envio das informações da empresa demandante, conforme orientado no vídeo tutorial (https://youtu.be/EEwvDbwpofQ). gerado PDF) pela"
+    },
+    {
+      "id": "e3",
+      "titulo": "ETAPA 02 | DIAGNÓSTICO",
+      "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Diagnóstico da estrutura da empresa | Relatório do diagnóstico\n• Concepção do empreendimento\n• Histórico de utilização da área\n• Atividades desenvolvidas\n• Análise de documentos e registros\n• Análise do sistema produtivo (processos, insumos, resíduos)\n• Análise do potencial de utilização dos resíduos orgânicos (utilização apenas próprio sistema produtivo ou se pode ser um negócio específico)\n• Comparação entradas\n- produção\n- vendas – estoque\n• Coleta de amostra (análises necessárias para implantação do sistema (solo, água, planta etc.) Identificação e investigação de áreas de risco\n• Verificação da situação de não conformidades referentes a legislação ambiental\n• Situação legal\n• Análise de viabilidade técnica e econômica.",
       "entrega": "Relatório de diagnóstico"
     },
     {
-      "id": "e3",
+      "id": "e4",
       "titulo": "ETAPA 03 | DESENVOLVIMENTO DO PROJETO TÉCNICO",
-      "ordem": 3,
+      "ordem": 4,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Desenvolvimento do projeto técnico | Relatório dos procedimentos adotados Projeto Técnico\n• Concepção, localização do empreendimento\n• Mão de obra capacitada necessária\n• Equipamentos, áreas e instalações necessárias\n• Proposição das ações corretivas das não conformidades diagnosticadas\n• Resultados esperados referentes aos aspectos ambiental, social e econômico\n• Plano de Manejo do Sistema Integrado de Produção\n• Sistema(s) produtivo(s) a ser(em) implantado(s)\n• Espécies a serem utilizadas\n• Dimensionamento das áreas produtivas e seus componentes\n• Arranjo das áreas produtivas no tempo e espaço\n• Estimativas de produção por componente\n• Ciclos de produção\n• Sinergismo entre componentes a\n• Técnicas desenvolvidas/implementadas: Compostagem, biofertilizantes líquidos, adubação verde, plantio direto sobre a palha, podas/agrofloresta etc serem\n• Manejo dos resíduos (arranjo do processo de utilização e armazenamento)\n• Conservação do solo e da água\n• Medidas para prevenção e mitigação de riscos em relação às fontes de contaminantes\n• Procedimentos que contemplem a aplicação das boas práticas de produção em relação ao uso de resíduos orgânicos\n• Medidas de proteção em relação às fontes de contaminantes para áreas limítrofes com unidades de produção\n• Forma do Registro de informações\n• Formas de monitoramento e avaliação\n• Custos de implantação\n• Cronograma de implantação\n• Croqui e descrição da ocupação, localização e acesso da unidade de produção considerando os aspectos produtivos e ambientais.",
       "entrega": "Relatório de procedimentos adotados."
     },
     {
-      "id": "e4",
+      "id": "e5",
       "titulo": "ETAPA 04 | ENTREGA E APRESENTAÇÃO",
-      "ordem": 4,
+      "ordem": 5,
       "percentual": 0,
       "tipo": "Consultoria",
       "descricao": "Reunião de entrega e apresentação do projeto | Ata de reunião e apresentação\n- Entrega do projeto Técnico e do Plano de Manejo.",

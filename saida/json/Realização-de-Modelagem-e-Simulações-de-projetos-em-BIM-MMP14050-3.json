@@ -35,7 +35,25 @@
       "ordem": 3,
       "percentual": 0,
       "tipo": "Consultoria",
-      "descricao": "• Caso seja necessário após recebimento do primeiro modelo realizar alterações no mesmo de acordo com os projetos revisados\n• Prazo de desenvolvimento: 1 (uma) semana – após o recebimento dos projetos ajustados com prazo máximo de 30 dias\n• Necessidades: Projetos revisados de acordo com o definido na reunião colaborativa. Se o nível de ajustes necessários passar do prazo de uma semana, o contrato poderá ser aditivado ETAPA 04 | SIMULAÇÕES DE PLANEJAMENTO (4D) E ORÇAMENTO (5D)\n• Simulação a partir das modelagens das disciplinas. Planejamento 4D e Orçamento 5D\n• Prazo de desenvolvimento: 2 (duas) semanas – após o recebimento dos projetos ajustados com prazo máximo de 30 dias\n• Necessidades: Modelos Revisados na Etapa 03 ETAPA 05 | ENCERRAMENTO Validação dos resultados e entrega de relatórios, manuais e apresentações desenvolvidas que servirão como materiais para continuidade da aplicação do método pela empresa",
+      "descricao": "• Caso seja necessário após recebimento do primeiro modelo realizar alterações no mesmo de acordo com os projetos revisados\n• Prazo de desenvolvimento: 1 (uma) semana – após o recebimento dos projetos ajustados com prazo máximo de 30 dias\n• Necessidades: Projetos revisados de acordo com o definido na reunião colaborativa. Se o nível de ajustes necessários passar do prazo de uma semana, o contrato poderá ser aditivado.",
+      "entrega": ""
+    },
+    {
+      "id": "e4",
+      "titulo": "ETAPA 04 | SIMULAÇÕES DE PLANEJAMENTO (4D) E ORÇAMENTO (5D).",
+      "ordem": 4,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "• Simulação a partir das modelagens das disciplinas. Planejamento 4D e Orçamento 5D\n• Prazo de desenvolvimento: 2 (duas) semanas – após o recebimento dos projetos ajustados com prazo máximo de 30 dias\n• Necessidades: Modelos Revisados na Etapa 03",
+      "entrega": ""
+    },
+    {
+      "id": "e5",
+      "titulo": "ETAPA 05 | ENCERRAMENTO",
+      "ordem": 5,
+      "percentual": 0,
+      "tipo": "Consultoria",
+      "descricao": "Validação dos resultados e entrega de relatórios, manuais e apresentações desenvolvidas que servirão como materiais para continuidade da aplicação do método pela empresa",
       "entrega": "• Relatório Técnico Final contendo bases e premissas utilizadas, tarefas executadas, resultados obtidos, oportunidades de melhoria, plano contendo ações a serem executadas, recomendações e conclusões;\n• Declaração, assinada pela empresa demandante, atestando o recebimento da(s) entrega(s) realizadas pelo prestador de serviço tecnológico e que o prestador de serviço tecnológico explicou ao cliente o conteúdo da(s) entrega(s) efetivadas."
     }
   ],
